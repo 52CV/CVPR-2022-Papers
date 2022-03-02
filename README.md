@@ -30,22 +30,22 @@
 
 [Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation](https://twitter.com/keio_aolab/status/1498829852656345089)
 
-[来源](http://cvlab.postech.ac.kr/lab/publication.php)
-[Two Systems in Thinking: Dual-System Transformer for Grounded Situation Recognition]
-[Autoregressive Image Generation using Residual Quantization]
-:heavy_check_mark:[Instance-wise Occlusion and Depth Orders in Natural Scenes](https://arxiv.org/abs/2111.14562)
-[Style Neophile: Constantly Seeking Novel Styles for Domain Generalization]
-[ReSTR: Convolution-free Referring Image Segmentation Using Transformers]
-[FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation]
-[TransforMatcher: Match-to-Match Attention for Semantic Correspondence]
-[Reflection and Rotation Symmetry Detection via Equivariant Learning]
-[Semi-supervised Semantic Segmentation with Error Localization Network]
-[Future Transformer for Long-term Action Anticipation]
-[Self-Taught Metric Learning without Labels]
-:heavy_check_mark:[Fast Point Transformer](https://arxiv.org/abs/2112.04702)
-[Integrative Few-Shot Learning for Classification and Segmentation]
-[Scene Painting via Semantic Image Synthesis]
-[Detector-Free Weakly Supervised Group Activity Recognition]
+[来源](http://cvlab.postech.ac.kr/lab/publication.php)<br>
+[Two Systems in Thinking: Dual-System Transformer for Grounded Situation Recognition]<br>
+[Autoregressive Image Generation using Residual Quantization]<br>
+:heavy_check_mark:[Instance-wise Occlusion and Depth Orders in Natural Scenes](https://arxiv.org/abs/2111.14562)<br>
+[Style Neophile: Constantly Seeking Novel Styles for Domain Generalization]<br>
+[ReSTR: Convolution-free Referring Image Segmentation Using Transformers]<br>
+[FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation]<br>
+[TransforMatcher: Match-to-Match Attention for Semantic Correspondence]<br>
+[Reflection and Rotation Symmetry Detection via Equivariant Learning]<br>
+[Semi-supervised Semantic Segmentation with Error Localization Network]<br>
+[Future Transformer for Long-term Action Anticipation]<br>
+[Self-Taught Metric Learning without Labels]<br>
+:heavy_check_mark:[Fast Point Transformer](https://arxiv.org/abs/2112.04702)<br>
+[Integrative Few-Shot Learning for Classification and Segmentation]<br>
+[Scene Painting via Semantic Image Synthesis]<br>
+[Detector-Free Weakly Supervised Group Activity Recognition]<br>
 
 
 
