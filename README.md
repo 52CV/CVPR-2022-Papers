@@ -8,7 +8,7 @@
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
 
-### ❗❗❗ 3月7日更新 14+5 篇.
+### ❗❗❗ 3月7日更新 14+6 篇.
 
 * 遥感图像融合
   * [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening](https://arxiv.org/abs/2203.02503)<br>:star:[code](https://github.com/wgcban/HyperTransformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
@@ -44,6 +44,8 @@
   * [Toward Practical Self-Supervised Monocular Indoor Depth Estimation](https://arxiv.org/abs/2112.02306)
 * 人群计数
   * [Leveraging Self-Supervision for Cross-Domain Crowd Counting](https://arxiv.org/abs/2103.16291)
+* 行为预测
+  * [JRDB-Act: A Large-scale Dataset for Spatio-temporal Action, Social Group and Activity Detection](https://arxiv.org/pdf/2106.08827.pdf)
 
 ❗❗❗ 3月4日更新 19 篇.
 * HOI
@@ -86,7 +88,8 @@
 |[1.其它](#1)|[2.Image Segmentation(图像分割)](#2)|[3.Image Progress(图像处理)](#4)|[4.Image Captioning(图像字幕)](#)|
 |[5.Object Detection(目标检测)](#5)|[6.Object Tracking(目标跟踪)](#6)|[7.Point Cloud(点云)](#7)|[8.Action Detection(人体动作检测与识别)](#8)|
 |[9.Human Pose Estimation(人体姿态估计)](#9)|[10.3D(三维视觉)](#10)|[11.Face](#11)|[12.Image-to-Image Translation(图像到图像翻译)](#12)|
-|[13.GAN](#13)|[14.Video](#14)|[15.Transformer](#15)|[16.SSL(自监督)](#16)|
+|[13.GAN](#13)|[14.Video](#14)|[15.Transformer](#15)|[16.Semi/self-supervised learning(半/自监督)](#16)|
+|[17.Medical Image(医学影像)](#17)|[18.Person Re-Identification(人员重识别)](#18)|
 
 ## Light Field(光场)
   * [Occlusion-Aware Cost Constructor for Light Field Depth Estimation](https://arxiv.org/abs/2203.01576)<br>:star:[code](https://github.com/YingqianWang/OACC-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
@@ -112,20 +115,22 @@
 * [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/abs/2203.01941)<br>:star:[code](https://github.com/kakaobrain/rq-vae-transformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
 
 
-## UAV\Remote Sensing\Satellite Image(无人机\遥感\卫星图像)
+## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * 遥感图像融合
   * [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening](https://arxiv.org/abs/2203.02503)<br>:star:[code](https://github.com/wgcban/HyperTransformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
 
 ## Autonomous vehicles(自动驾驶)
 * 车道线检测
   * [Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)<br>:star:[code](https://github.com/voldemortX/pytorch-auto-drive):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554) 
+* 行为预测
+  * 🐦️[JRDB-Act: A Large-scale Dataset for Spatio-temporal Action, Social Group and Activity Detection](https://arxiv.org/pdf/2106.08827.pdf)
 
-🐦️
-* NAS
-  * 🐦️[ISNAS-DIP: Image-Specific Neural Architecture Search for Deep Image Prior](https://arxiv.org/abs/2111.15362)
+## Neural Architecture Search(神经架构搜索)
+* 🐦️[ISNAS-DIP: Image-Specific Neural Architecture Search for Deep Image Prior](https://arxiv.org/abs/2111.15362)
 
+<a name="18"/>
 
-## (人员重识别)
+## 18.Person Re-Identification(人员重识别)
 * 人群计数
   * [Leveraging Self-Supervision for Cross-Domain Crowd Counting](https://arxiv.org/abs/2103.16291)
 
