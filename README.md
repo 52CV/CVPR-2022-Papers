@@ -7,7 +7,45 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❗❗❗ 3月4日更新 19 篇.
+
+### ❗❗❗ 3月7日更新 14+5 篇.
+
+* 遥感图像融合
+  * [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening](https://arxiv.org/abs/2203.02503)<br>:star:[code](https://github.com/wgcban/HyperTransformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
+* 车道线检测
+  * [Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)<br>:star:[code](https://github.com/voldemortX/pytorch-auto-drive):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
+* 半监督
+  * [Class-Aware Contrastive Semi-Supervised Learning](https://arxiv.org/abs/2203.02261)
+* Deepfake
+  * [Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)<br>:star:[code](https://github.com/xaCheng1996/VFD):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
+* 其它
+  * [ACVNet: Attention Concatenation Volume for Accurate and Efficient Stereo Matching](https://arxiv.org/abs/2203.02146)<br>:star:[code](https://github.com/gangweiX/ACVNet):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
+  * [Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values](https://arxiv.org/abs/2203.01993)<br>:star:[code](https://colab.research.google.com/drive/1Y4_pp5miLXCeGHkzg7wptTRviHiyViWB?usp=sharing)
+  * [Do Explanations Explain? Model Knows Best](https://arxiv.org/abs/2203.02269)<br>:star:[code](https://github.com/CAMP-eXplain-AI/Do-Explanations-Explain)
+  * [HDNet: High-resolution Dual-domain Learning for Spectral Compressive Imaging](https://arxiv.org/abs/2203.02149)
+  * [E-CIR: Event-Enhanced Continuous Intensity Recovery](https://arxiv.org/abs/2203.01935)<br>:star:[code](https://github.com/chensong1995/E-CIR)
+* 目标检测
+  * [A Versatile Multi-View Framework for LiDAR-based 3D Object Detection with Guidance from Panoptic Segmentation](https://arxiv.org/abs/2203.02133)
+  * [Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2203.02112)<br>:star:[code](https://github.com/revisitq/Pseudo-Stereo-3D):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
+* 图像合成
+  * [Interactive Image Synthesis with Panoptic Layout Generation](https://arxiv.org/abs/2203.02104)
+  * [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/abs/2203.01941)<br>:star:[code](https://github.com/kakaobrain/rq-vae-transformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
+* 医学影像
+  * [Temporal Context Matters: Enhancing Single Image Prediction with Disease Progression Representations](https://arxiv.org/abs/2203.01933)
+
+🐦️
+* NAS
+  * [ISNAS-DIP: Image-Specific Neural Architecture Search for Deep Image Prior](https://arxiv.org/abs/2111.15362)
+* GNN
+  * [Lifelong Graph Learning](https://arxiv.org/pdf/2009.00647.pdf)<br>:star:[code](https://github.com/wang-chen/LGL)
+* 其它
+  * [Transferability Estimation using Bhattacharyya Class Separability](https://arxiv.org/abs/2111.12780)
+* 深度估计
+  * [Toward Practical Self-Supervised Monocular Indoor Depth Estimation](https://arxiv.org/abs/2112.02306)
+* 人群计数
+  * [Leveraging Self-Supervision for Cross-Domain Crowd Counting](https://arxiv.org/abs/2103.16291)
+
+❗❗❗ 3月4日更新 19 篇.
 * HOI
   * [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://arxiv.org/abs/2203.01577)
 * 跟踪
@@ -41,33 +79,6 @@
 * 对抗
   * [Label-Only Model Inversion Attacks via Boundary Repulsion](https://arxiv.org/abs/2203.01925)
 
-❗❗❗ 3月3日更新 13 篇.
-
-* 人脸
-  * [Protecting Celebrities with Identity Consistency Transformer](https://arxiv.org/abs/2203.01318)
-* 目标检测
-  * [DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/abs/2203.01305)<br>:star:[code](https://github.com/FengLi-ust/DN-DETR):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
-* 点云
-  * [A Unified Query-based Paradigm for Point Cloud Understanding](https://arxiv.org/abs/2203.01252)
-* 深度估计
-  * [OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion](https://arxiv.org/abs/2203.00838)
-* 字幕
-  * [X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning](https://arxiv.org/abs/2203.00843)
-* pose
-  * [MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video](https://arxiv.org/abs/2203.00859)
-  * [H4D: Human 4D Modeling by Learning Neural Compositional Representation](https://arxiv.org/abs/2203.01247)
-* 图像修复
-  * [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867)<br>:star:[code](https://github.com/DQiaole/ZITS_inpainting):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
-* 动作检测
-  * [Colar: Effective and Efficient Online Action Detection by Consulting Exemplars](https://arxiv.org/abs/2203.01057)
-* 分割
-  * [Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2203.00962)<br>:star:[code](https://github.com/zhaozhengChen/ReCAM):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
-  * 🐦️[FreeSOLO: Learning to Segment Objects without Annotations](https://arxiv.org/abs/2202.12181)
-* 数据增强
-  * 🐦️[AlignMix: Improving representation by interpolating aligned features](https://arxiv.org/abs/2103.15375)
-* GAN
-  * 🐦️[HyperInverter: Improving StyleGAN Inversion via Hypernetwork](http://arxiv.org/abs/2112.00719)<br>:house:[project](https://di-mi-ta.github.io/HyperInverter/)
-
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
@@ -92,12 +103,46 @@
 * 🐦️[AlignMix: Improving representation by interpolating aligned features](https://arxiv.org/abs/2103.15375)
 * [3D Common Corruptions and Data Augmentation](https://arxiv.org/abs/2203.01441)<br>:star:[code](https://github.com/EPFL-VILAB/3DCommonCorruptions):house:[project](https://3dcommoncorruptions.epfl.ch/):tv:[video](https://youtu.be/vtkXaS0Q6I4):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 
+## GCN/GNN
+* GNN
+  * 🐦️[Lifelong Graph Learning](https://arxiv.org/pdf/2009.00647.pdf)<br>:star:[code](https://github.com/wang-chen/LGL)
+
+## Image Synthesis/Generation(图像合成)
+* [Interactive Image Synthesis with Panoptic Layout Generation](https://arxiv.org/abs/2203.02104)
+* [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/abs/2203.01941)<br>:star:[code](https://github.com/kakaobrain/rq-vae-transformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
+
+
+## UAV\Remote Sensing\Satellite Image(无人机\遥感\卫星图像)
+* 遥感图像融合
+  * [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening](https://arxiv.org/abs/2203.02503)<br>:star:[code](https://github.com/wgcban/HyperTransformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
+
+## Autonomous vehicles(自动驾驶)
+* 车道线检测
+  * [Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)<br>:star:[code](https://github.com/voldemortX/pytorch-auto-drive):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554) 
+
+🐦️
+* NAS
+  * 🐦️[ISNAS-DIP: Image-Specific Neural Architecture Search for Deep Image Prior](https://arxiv.org/abs/2111.15362)
+
+
+## (人员重识别)
+* 人群计数
+  * [Leveraging Self-Supervision for Cross-Domain Crowd Counting](https://arxiv.org/abs/2103.16291)
+
+
+<a name="17"/>
+
+## 17.Medical Image(医学影像)
+* [Temporal Context Matters: Enhancing Single Image Prediction with Disease Progression Representations](https://arxiv.org/abs/2203.01933)
+
+
 <a name="16"/>
 
-## 16.SSL(自监督)
+## 16.Semi/self-supervised learning(半/自监督)
 * 自监督
   * [A study on the distribution of social biases in self-supervised learning visual models](https://arxiv.org/abs/2203.01854)
-
+* 半监督
+  * [Class-Aware Contrastive Semi-Supervised Learning](https://arxiv.org/abs/2203.02261)
 <a name="15"/>
 
 ## 15.Transformer
@@ -126,6 +171,8 @@
 ## 11.Face
 * 人脸
   * [Protecting Celebrities with Identity Consistency Transformer](https://arxiv.org/abs/2203.01318)
+* Deepfake
+  * [Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)<br>:star:[code](https://github.com/xaCheng1996/VFD):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
 
 <a name="10"/>
 
@@ -133,6 +180,7 @@
 * 深度估计
   * [OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion](https://arxiv.org/abs/2203.00838)
   * [NeW CRFs: Neural Window Fully-connected CRFs for Monocular Depth Estimation](https://arxiv.org/abs/2203.01502)
+  * 🐦️[Toward Practical Self-Supervised Monocular Indoor Depth Estimation](https://arxiv.org/abs/2112.02306)
 * 房间布局
   * [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network](https://arxiv.org/abs/2203.01824)<br>:star:[code](https://github.com/zhigangjiang/LGT-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 
@@ -171,6 +219,9 @@
 * [DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/abs/2203.01305)<br>:star:[code](https://github.com/FengLi-ust/DN-DETR):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
 * 目标定位
   * [Weakly Supervised Object Localization as Domain Adaption](https://arxiv.org/abs/2203.01714)<br>:star:[code](https://github.com/zh460045050/DA-WSOL_CVPR2022):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
+* 3D
+  * [A Versatile Multi-View Framework for LiDAR-based 3D Object Detection with Guidance from Panoptic Segmentation](https://arxiv.org/abs/2203.02133)
+  * [Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2203.02112)<br>:star:[code](https://github.com/revisitq/Pseudo-Stereo-3D):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
 
 <a name="4"/>
 
@@ -205,6 +256,13 @@
 * [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531)<br>:star:[code](https://github.com/kaiwang960112/CAFE):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * [Enhancing Adversarial Robustness for Deep Metric Learning](https://arxiv.org/abs/2203.01439)
 * [BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning](https://arxiv.org/abs/2203.01522)<br>:star:[code](https://github.com/zhihou7/BatchFormer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
+* [ACVNet: Attention Concatenation Volume for Accurate and Efficient Stereo Matching](https://arxiv.org/abs/2203.02146)<br>:star:[code](https://github.com/gangweiX/ACVNet):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
+* [Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values](https://arxiv.org/abs/2203.01993)<br>:star:[code](https://colab.research.google.com/drive/1Y4_pp5miLXCeGHkzg7wptTRviHiyViWB?usp=sharing)
+* [Do Explanations Explain? Model Knows Best](https://arxiv.org/abs/2203.02269)<br>:star:[code](https://github.com/CAMP-eXplain-AI/Do-Explanations-Explain)
+* [HDNet: High-resolution Dual-domain Learning for Spectral Compressive Imaging](https://arxiv.org/abs/2203.02149)
+* [E-CIR: Event-Enhanced Continuous Intensity Recovery](https://arxiv.org/abs/2203.01935)<br>:star:[code](https://github.com/chensong1995/E-CIR)
+* 🐦️[Transferability Estimation using Bhattacharyya Class Separability](https://arxiv.org/abs/2111.12780)
+
 
 
 ## 论文尚未公布
