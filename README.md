@@ -7,8 +7,47 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
+### ❗❗❗ 3月8日更新  篇.
+* 数据增强
+  * [Kubric: A scalable dataset generator](https://arxiv.org/abs/2203.03570)
+* 其它
+  * [Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks](https://arxiv.org/abs/2203.03282)<br>:star:[code](https://github.com/mmlab-cv/Agglomerator)
+  * [GlideNet: Global, Local and Intrinsic based Dense Embedding NETwork for Multi-category Attributes Prediction](https://arxiv.org/abs/2203.03079)<br>:star:[code](https://github.com/kareem-metwaly/glidenet)
+  * [Differentially Private Federated Learning with Local Regularization and Sparsification](https://arxiv.org/abs/2203.03106)
+  * [Towards Efficient and Scalable Sharpness-Aware Minimization](https://arxiv.org/abs/2203.02714)
+* 分类
+  * [Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information](https://arxiv.org/abs/2203.03253)<br>:star:[code](https://github.com/ylingfeng/DynamicMLP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
+* 零样本
+  * [MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning](https://arxiv.org/abs/2203.03137)<br>:star:[code](https://github.com/shiming-chen/MSDN):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
+* 妆容迁移
+  * [Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer](https://arxiv.org/abs/2203.03121)
+* 9D
+  * [CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild](https://arxiv.org/abs/2203.03089)<br>:star:[code](https://github.com/qq456cvb/CPPF):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
+* 动作识别
+  * [Learnable Irrelevant Modality Dropout for Multimodal Action Recognition on Modality-Specific Annotated Videos](https://arxiv.org/abs/2203.03014)
+* 时序动作定位
+  * [Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation](https://arxiv.org/abs/2203.02925)<br>:star:[code](https://github.com/LeonHLJ/RSKP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
+* 图像合成
+  * [Exploring Dual-task Correlation for Pose Guided Person Image Generation](https://arxiv.org/abs/2203.02910)<br>:star:[code](https://github.com/PangzeCheung/Dual-task-Pose-Transformer-Network):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
+* 分割
+  * [Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02909)<br>:star:[code](https://github.com/chenqi1126/SIPE)
+  * [Multi-class Token Transformer for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02891)<br>:star:[code](https://github.com/xulianuwa/MCTformer)
+  * [Cross Language Image Matching for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02668)
+* 目标检测
+  * [Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection](https://arxiv.org/abs/2203.02688)<br>:star:[code](https://github.com/lartpang/ZoomNet)
+* 视频
+  * [A Large-scale Comprehensive Dataset and Copy-overlap Aware Evaluation Protocol for Segment-level Video Copy Detection](https://arxiv.org/abs/2203.02654)<br>:star:[code](https://github.com/alipay/VCSL)
+  * [Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning](https://arxiv.org/abs/2203.02573)<br>:star:[code](https://github.com/snap-research/MMVID)
+* 人群计数
+  * [Boosting Crowd Counting via Multifaceted Attention](https://arxiv.org/abs/2203.02636)<br>:star:[code](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)
+* 目标导航
+  * [Online Learning of Reusable Abstract Models for Object Goal Navigation](https://arxiv.org/abs/2203.02583)
+* 风格迁移
+  * [Style-ERD: Responsive and Coherent Online Motion Style Transfer](https://arxiv.org/abs/2203.02574)
+* 医学
+  * [BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation](https://arxiv.org/abs/2203.02533)
 
-### ❗❗❗ 3月7日更新 14+6 篇.
+❗❗❗ 3月7日更新 14+6 篇.
 
 * 遥感图像融合
   * [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening](https://arxiv.org/abs/2203.02503)<br>:star:[code](https://github.com/wgcban/HyperTransformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
@@ -46,40 +85,6 @@
   * [Leveraging Self-Supervision for Cross-Domain Crowd Counting](https://arxiv.org/abs/2103.16291)
 * 行为预测
   * [JRDB-Act: A Large-scale Dataset for Spatio-temporal Action, Social Group and Activity Detection](https://arxiv.org/pdf/2106.08827.pdf)
-
-❗❗❗ 3月4日更新 19 篇.
-* HOI
-  * [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://arxiv.org/abs/2203.01577)
-* 跟踪
-  * [TCTrack: Temporal Contexts for Aerial Tracking](https://arxiv.org/abs/2203.01885)<br>:star:[code](https://github.com/vision4robotics/TCTrack):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-  * [Correlation-Aware Deep Tracking](https://arxiv.org/abs/2203.01666)
-  * [Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2203.01730)<br>:star:[code](https://github.com/Ghostish/Open3DSOT):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-* 目标定位
-  * [Weakly Supervised Object Localization as Domain Adaption](https://arxiv.org/abs/2203.01714)<br>:star:[code](https://github.com/zh460045050/DA-WSOL_CVPR2022):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-* 自监督
-  * [A study on the distribution of social biases in self-supervised learning visual models](https://arxiv.org/abs/2203.01854)
-* 视频
-  * [Efficient Video Instance Segmentation via Tracklet Query and Proposal](https://arxiv.org/abs/2203.01853)<br>:house:[project](https://jialianwu.com/projects/EfficientVIS.html):tv:[video](https://youtu.be/sSPMzgtMKCE):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-* 三维
-  * [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network](https://arxiv.org/abs/2203.01824)<br>:star:[code](https://github.com/zhigangjiang/LGT-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-* 其它
-  * [PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence](https://arxiv.org/abs/2203.01754)<br>:star:[code](https://github.com/zj-dong/pina):house:[project](https://zj-dong.github.io/pina/):tv:[video](https://www.youtube.com/watch?v=oGpKUuD54Qk):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-  * [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531)<br>:star:[code](https://github.com/kaiwang960112/CAFE):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-  * [Enhancing Adversarial Robustness for Deep Metric Learning](https://arxiv.org/abs/2203.01439)
-  * [BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning](https://arxiv.org/abs/2203.01522)<br>:star:[code](https://github.com/zhihou7/BatchFormer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-* 光场
-  * [Occlusion-Aware Cost Constructor for Light Field Depth Estimation](https://arxiv.org/abs/2203.01576)<br>:star:[code](https://github.com/YingqianWang/OACC-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-* 图像到图像翻译
-  * [Exploring Patch-wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks](https://arxiv.org/abs/2203.01532)
-* 分割
-  * [SoftGroup for 3D Instance Segmentation on Point Clouds](https://arxiv.org/abs/2203.01509)<br>:star:[code](https://github.com/thangvubk/SoftGroup):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-  * [Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation](https://arxiv.org/abs/2203.01452)<br>:star:[code](https://github.com/jamycheung/Trans4PASS):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-* 深度估计
-  * [NeW CRFs: Neural Window Fully-connected CRFs for Monocular Depth Estimation](https://arxiv.org/abs/2203.01502)
-* 数据增强
-  * [3D Common Corruptions and Data Augmentation](https://arxiv.org/abs/2203.01441)<br>:star:[code](https://github.com/EPFL-VILAB/3DCommonCorruptions):house:[project](https://3dcommoncorruptions.epfl.ch/):tv:[video](https://youtu.be/vtkXaS0Q6I4):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-* 对抗
-  * [Label-Only Model Inversion Attacks via Boundary Repulsion](https://arxiv.org/abs/2203.01925)
 
 ## 目录
 
