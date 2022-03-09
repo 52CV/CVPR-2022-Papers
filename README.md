@@ -7,7 +7,41 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❗❗❗ 3月8日更新 23 篇.
+### ❗❗❗ 3月9日更新 18 篇.
+* 手语翻译
+  * [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](https://arxiv.org/abs/2203.04287)
+* 动作检测
+  * [End-to-End Semi-Supervised Learning for Video Action Detection](https://arxiv.org/abs/2203.04251)
+* 人体运动预测
+  * [Motron: Multimodal Probabilistic Human Motion Forecasting](https://arxiv.org/abs/2203.04132)
+* 其它
+  * [DeltaCNN: End-to-End CNN Inference of Sparse Frame Differences in Videos](https://arxiv.org/abs/2203.03996)
+  * [Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences](https://arxiv.org/abs/2203.04279)<br>:star:[code](https://github.com/PruneTruong/DenseMatching):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+* 视频异常检测
+  * [Generative Cooperative Learning for Unsupervised Video Anomaly Detection](https://arxiv.org/abs/2203.03962)
+* 分割
+  * [Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels](https://arxiv.org/abs/2203.03884)
+  * [E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation](https://arxiv.org/abs/2203.04074)<br>:star:[code](https://github.com/zhang-tao-whu/e2ec):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+  * [Weakly Supervised Semantic Segmentation using Out-of-Distribution Data](https://arxiv.org/abs/2203.03860)<br>:star:[code](https://github.com/naver-ai/w-ood):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+* 对抗攻击
+  * [Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon](https://arxiv.org/abs/2203.03818)
+* 持续学习
+  * [On Generalizing Beyond Domains in Cross-Domain Continual Learning](https://arxiv.org/abs/2203.03970)
+* 医学
+  * [Generating 3D Bio-Printable Patches Using Wound Segmentation and Reconstruction to Treat Diabetic Foot Ulcers](https://arxiv.org/abs/2203.03814)<br>利用伤口分割和重建生成3D生物打印贴片来治疗糖尿病足溃疡
+* 目标检测
+  * [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/abs/2203.03800)<br>:star:[code](https://github.com/deeplearning-wisc/stud):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+* 人脸
+  * [Neural Face Identification in a 2D Wireframe Projection of a Manifold Object](https://arxiv.org/abs/2203.04229)<br>:star:[code](https://github.com/manycore-research/faceformer)
+* 对比学习
+  * [Selective-Supervised Contrastive Learning with Noisy Labels](https://arxiv.org/abs/2203.04181)<br>:star:[code](https://github.com/ShikunLi/Sel-CL):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+* 图像拼接
+  * [Deep Rectangling for Image Stitching: A Learning Baseline](https://arxiv.org/abs/2203.03831)<br>:star:[code](https://github.com/nie-lang/DeepRectangling):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+* 点云
+  * [Shape-invariant 3D Adversarial Point Clouds](https://arxiv.org/abs/2203.04041)<br>:star:[code](https://github.com/shikiw/SI-Adv)
+  * [ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation](https://arxiv.org/abs/2203.03888)<br>:star:[code](https://github.com/robinwang1/ART-Point):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+
+❗❗❗ 3月8日更新 23 篇.
 * 数据增强
   * [Kubric: A scalable dataset generator](https://arxiv.org/abs/2203.03570)
 * 其它
@@ -48,44 +82,6 @@
 * 医学
   * [BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation](https://arxiv.org/abs/2203.02533)
 
-❗❗❗ 3月7日更新 14+6 篇.
-
-* 遥感图像融合
-  * [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening](https://arxiv.org/abs/2203.02503)<br>:star:[code](https://github.com/wgcban/HyperTransformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
-* 车道线检测
-  * [Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)<br>:star:[code](https://github.com/voldemortX/pytorch-auto-drive):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
-* 半监督
-  * [Class-Aware Contrastive Semi-Supervised Learning](https://arxiv.org/abs/2203.02261)
-* Deepfake
-  * [Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)<br>:star:[code](https://github.com/xaCheng1996/VFD):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
-* 其它
-  * [ACVNet: Attention Concatenation Volume for Accurate and Efficient Stereo Matching](https://arxiv.org/abs/2203.02146)<br>:star:[code](https://github.com/gangweiX/ACVNet):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
-  * [Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values](https://arxiv.org/abs/2203.01993)<br>:star:[code](https://colab.research.google.com/drive/1Y4_pp5miLXCeGHkzg7wptTRviHiyViWB?usp=sharing)
-  * [Do Explanations Explain? Model Knows Best](https://arxiv.org/abs/2203.02269)<br>:star:[code](https://github.com/CAMP-eXplain-AI/Do-Explanations-Explain)
-  * [HDNet: High-resolution Dual-domain Learning for Spectral Compressive Imaging](https://arxiv.org/abs/2203.02149)
-  * [E-CIR: Event-Enhanced Continuous Intensity Recovery](https://arxiv.org/abs/2203.01935)<br>:star:[code](https://github.com/chensong1995/E-CIR)
-* 目标检测
-  * [A Versatile Multi-View Framework for LiDAR-based 3D Object Detection with Guidance from Panoptic Segmentation](https://arxiv.org/abs/2203.02133)
-  * [Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2203.02112)<br>:star:[code](https://github.com/revisitq/Pseudo-Stereo-3D):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
-* 图像合成
-  * [Interactive Image Synthesis with Panoptic Layout Generation](https://arxiv.org/abs/2203.02104)
-  * [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/abs/2203.01941)<br>:star:[code](https://github.com/kakaobrain/rq-vae-transformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
-* 医学影像
-  * [Temporal Context Matters: Enhancing Single Image Prediction with Disease Progression Representations](https://arxiv.org/abs/2203.01933)
-
-🐦️
-* NAS
-  * [ISNAS-DIP: Image-Specific Neural Architecture Search for Deep Image Prior](https://arxiv.org/abs/2111.15362)
-* GNN
-  * [Lifelong Graph Learning](https://arxiv.org/pdf/2009.00647.pdf)<br>:star:[code](https://github.com/wang-chen/LGL)
-* 其它
-  * [Transferability Estimation using Bhattacharyya Class Separability](https://arxiv.org/abs/2111.12780)
-* 深度估计
-  * [Toward Practical Self-Supervised Monocular Indoor Depth Estimation](https://arxiv.org/abs/2112.02306)
-* 人群计数
-  * [Leveraging Self-Supervision for Cross-Domain Crowd Counting](https://arxiv.org/abs/2103.16291)
-* 行为预测
-  * [JRDB-Act: A Large-scale Dataset for Spatio-temporal Action, Social Group and Activity Detection](https://arxiv.org/pdf/2106.08827.pdf)
 
 ## 目录
 
@@ -97,12 +93,29 @@
 |[13.GAN](#13)|[14.Video](#14)|[15.Transformer](#15)|[16.Semi/self-supervised learning(半/自监督)](#16)|
 |[17.Medical Image(医学影像)](#17)|[18.Person Re-Identification(人员重识别)](#18)|[19.Neural Architecture Search(神经架构搜索)](#19)|[20.Autonomous vehicles(自动驾驶)](#20)|
 
+
+ 
+  
+## Sign Language Translation(手语翻译)
+  * [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](https://arxiv.org/abs/2203.04287)
+
+## Human Motion Forecasting(人体运动预测)
+* [Motron: Multimodal Probabilistic Human Motion Forecasting](https://arxiv.org/abs/2203.04132)
+
 ## Light Field(光场)
   * [Occlusion-Aware Cost Constructor for Light Field Depth Estimation](https://arxiv.org/abs/2203.01576)<br>:star:[code](https://github.com/YingqianWang/OACC-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 
 ## Adversarial Learning(对抗学习)
 * 对抗样本  
   * [Label-Only Model Inversion Attacks via Boundary Repulsion](https://arxiv.org/abs/2203.01925)
+* 对抗攻击
+  * [Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon](https://arxiv.org/abs/2203.03818)
+
+## Continual Learning(持续学习)
+* [On Generalizing Beyond Domains in Cross-Domain Continual Learning](https://arxiv.org/abs/2203.03970)
+
+## Contrastive Learning(对比学习)
+* [Selective-Supervised Contrastive Learning with Noisy Labels](https://arxiv.org/abs/2203.04181)<br>:star:[code](https://github.com/ShikunLi/Sel-CL):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 
 ## Human-Object Interaction(人物交互)
   * [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://arxiv.org/abs/2203.01577)
@@ -115,7 +128,6 @@
 ## Style Transfer(风格迁移)
 * 运动风格迁移
   * [Style-ERD: Responsive and Coherent Online Motion Style Transfer](https://arxiv.org/abs/2203.02574)
-
 
 ## Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
 * 目标导航
@@ -173,7 +185,8 @@
 ## 17.Medical Image(医学影像)
 * [Temporal Context Matters: Enhancing Single Image Prediction with Disease Progression Representations](https://arxiv.org/abs/2203.01933)
 * [BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation](https://arxiv.org/abs/2203.02533)
-
+* 3D生物打印
+  * [Generating 3D Bio-Printable Patches Using Wound Segmentation and Reconstruction to Treat Diabetic Foot Ulcers](https://arxiv.org/abs/2203.03814)<br>利用伤口分割和重建生成3D生物打印贴片来治疗糖尿病足溃疡
 
 <a name="16"/>
 
@@ -186,7 +199,7 @@
 
 ## 15.Transformer
 * [Fast Point Transformer](https://arxiv.org/abs/2112.04702)
-
+ 
 <a name="14"/>
 
 ## 14.Video
@@ -198,7 +211,8 @@
   * [A Large-scale Comprehensive Dataset and Copy-overlap Aware Evaluation Protocol for Segment-level Video Copy Detection](https://arxiv.org/abs/2203.02654)<br>:star:[code](https://github.com/alipay/VCSL)
 * 视频合成  
   * [Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning](https://arxiv.org/abs/2203.02573)<br>:star:[code](https://github.com/snap-research/MMVID)
-
+* 视频异常检测
+  * [Generative Cooperative Learning for Unsupervised Video Anomaly Detection](https://arxiv.org/abs/2203.03962) 
 <a name="13"/>
 
 ## 13.GAN
@@ -211,13 +225,15 @@
 
 <a name="11"/>
 
-## 11.Face
-* 人脸
-  * [Protecting Celebrities with Identity Consistency Transformer](https://arxiv.org/abs/2203.01318)
+## 11.Face(人脸)
+* [Protecting Celebrities with Identity Consistency Transformer](https://arxiv.org/abs/2203.01318)
 * Deepfake
   * [Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)<br>:star:[code](https://github.com/xaCheng1996/VFD):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
 * 妆容迁移
   * [Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer](https://arxiv.org/abs/2203.03121)
+* 人脸识别
+  * [Neural Face Identification in a 2D Wireframe Projection of a Manifold Object](https://arxiv.org/abs/2203.04229)<br>:star:[code](https://github.com/manycore-research/faceformer)
+
 
 <a name="10"/>
 
@@ -243,15 +259,19 @@
 * 动作检测
   * [Colar: Effective and Efficient Online Action Detection by Consulting Exemplars](https://arxiv.org/abs/2203.01057)
   * [Learnable Irrelevant Modality Dropout for Multimodal Action Recognition on Modality-Specific Annotated Videos](https://arxiv.org/abs/2203.03014)
+  * [End-to-End Semi-Supervised Learning for Video Action Detection](https://arxiv.org/abs/2203.04251)
 * 时序动作定位
   * [Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation](https://arxiv.org/abs/2203.02925)<br>:star:[code](https://github.com/LeonHLJ/RSKP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
 
 <a name="7"/>
 
 ## 7.Point Cloud(点云)
+* [Shape-invariant 3D Adversarial Point Clouds](https://arxiv.org/abs/2203.04041)<br>:star:[code](https://github.com/shikiw/SI-Adv)
 * 3D 点云
   * [CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://arxiv.org/abs/2203.00680)<br>:star:[code](https://github.com/MohamedAfham/CrossPoint):newspaper:[粗解](https://zhuanlan.zhihu.com/p/474565863)<br>CrossPoint，一个用于 3D 点云表征学习的简单自监督学习框架。虽然该方法是在合成的三维物体数据集上训练的，但在下游任务中的实验结果，如三维物体分类和三维物体部分分割，在合成和真实世界的数据集中都证明了该方法在学习可迁移表征方面的有效性。
   * [A Unified Query-based Paradigm for Point Cloud Understanding](https://arxiv.org/abs/2203.01252)
+* 点云分类
+  * [ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation](https://arxiv.org/abs/2203.03888)<br>:star:[code](https://github.com/robinwang1/ART-Point):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 
 <a name="6"/>
 
@@ -265,6 +285,7 @@
 
 ## 5.Object Detection(目标检测)
 * [DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/abs/2203.01305)<br>:star:[code](https://github.com/FengLi-ust/DN-DETR):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
+* [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/abs/2203.03800)<br>:star:[code](https://github.com/deeplearning-wisc/stud):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 * 目标定位
   * [Weakly Supervised Object Localization as Domain Adaption](https://arxiv.org/abs/2203.01714)<br>:star:[code](https://github.com/zh460045050/DA-WSOL_CVPR2022):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * 3D
@@ -284,11 +305,14 @@
 ## 3.Image Progress(图像处理)
 * 图像修复
   * [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867)<br>:star:[code](https://github.com/DQiaole/ZITS_inpainting):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
+* 图像拼接
+  * [Deep Rectangling for Image Stitching: A Learning Baseline](https://arxiv.org/abs/2203.03831)<br>:star:[code](https://github.com/nie-lang/DeepRectangling):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 
 <a name="2"/>
 
 ## 2.Image Segmentation(图像分割)
 * 实例分割
+  * [E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation](https://arxiv.org/abs/2203.04074)<br>:star:[code](https://github.com/zhang-tao-whu/e2ec):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
   * 3D 实例分割
     * [SoftGroup for 3D Instance Segmentation on Point Clouds](https://arxiv.org/abs/2203.01509)<br>:star:[code](https://github.com/thangvubk/SoftGroup):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
   * 🐦️[FreeSOLO: Learning to Segment Objects without Annotations](https://arxiv.org/abs/2202.12181)
@@ -300,6 +324,9 @@
     * [Multi-class Token Transformer for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02891)<br>:star:[code](https://github.com/xulianuwa/MCTformer)
     * [Cross Language Image Matching for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02668)
     * [Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers](https://arxiv.org/abs/2203.02664)<br>:star:[code](https://github.com/rulixiang/afa)
+    * [Weakly Supervised Semantic Segmentation using Out-of-Distribution Data](https://arxiv.org/abs/2203.03860)<br>:star:[code](https://github.com/naver-ai/w-ood):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+  * 半监督语义分割
+    * [Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels](https://arxiv.org/abs/2203.03884)
 
 <a name="1"/>
 
@@ -320,7 +347,8 @@
 * [GlideNet: Global, Local and Intrinsic based Dense Embedding NETwork for Multi-category Attributes Prediction](https://arxiv.org/abs/2203.03079)<br>:star:[code](https://github.com/kareem-metwaly/glidenet)
 * [Differentially Private Federated Learning with Local Regularization and Sparsification](https://arxiv.org/abs/2203.03106)
 * [Towards Efficient and Scalable Sharpness-Aware Minimization](https://arxiv.org/abs/2203.02714)
-
+* [DeltaCNN: End-to-End CNN Inference of Sparse Frame Differences in Videos](https://arxiv.org/abs/2203.03996)
+* [Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences](https://arxiv.org/abs/2203.04279)<br>:star:[code](https://github.com/PruneTruong/DenseMatching):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 
 ## 论文尚未公布
 [AxIoU: An Axiomatically Justified Measure for Video Moment Retrieval](https://twitter.com/tetsuyasakai/status/1498906899932073984) 
