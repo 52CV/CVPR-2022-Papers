@@ -7,7 +7,21 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❗❗❗ 3月9日更新 18 篇.
+### ❗❗❗ 3月10日更新 6 篇.
+* 元学习
+  * [What Matters For Meta-Learning Vision Regression Tasks?](https://arxiv.org/abs/2203.04905)
+* 轨迹预测
+  * [How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting](https://arxiv.org/abs/2203.04781)
+* 3D动画
+  * [SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters](https://arxiv.org/abs/2203.04746)<br>:house:[project](https://imatge-upc.github.io/skinningnet/)
+* 图像翻译
+  * [FlexIT: Towards Flexible Semantic Image Translation](https://arxiv.org/abs/2203.04705)
+* Transformer
+  * [ChiTransformer:Towards Reliable Stereo from Cues](https://arxiv.org/abs/2203.04554)
+* 其它
+  * [Dynamic Dual-Output Diffusion Models](https://arxiv.org/abs/2203.04304)
+
+❗❗❗ 3月9日更新 18 篇.
 * 手语翻译
   * [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](https://arxiv.org/abs/2203.04287)
 * 动作检测
@@ -41,48 +55,6 @@
   * [Shape-invariant 3D Adversarial Point Clouds](https://arxiv.org/abs/2203.04041)<br>:star:[code](https://github.com/shikiw/SI-Adv)
   * [ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation](https://arxiv.org/abs/2203.03888)<br>:star:[code](https://github.com/robinwang1/ART-Point):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 
-❗❗❗ 3月8日更新 23 篇.
-* 数据增强
-  * [Kubric: A scalable dataset generator](https://arxiv.org/abs/2203.03570)
-* 其它
-  * [Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks](https://arxiv.org/abs/2203.03282)<br>:star:[code](https://github.com/mmlab-cv/Agglomerator)
-  * [GlideNet: Global, Local and Intrinsic based Dense Embedding NETwork for Multi-category Attributes Prediction](https://arxiv.org/abs/2203.03079)<br>:star:[code](https://github.com/kareem-metwaly/glidenet)
-  * [Differentially Private Federated Learning with Local Regularization and Sparsification](https://arxiv.org/abs/2203.03106)
-  * [Towards Efficient and Scalable Sharpness-Aware Minimization](https://arxiv.org/abs/2203.02714)
-* 分类
-  * [Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information](https://arxiv.org/abs/2203.03253)<br>:star:[code](https://github.com/ylingfeng/DynamicMLP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
-* 零样本
-  * [MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning](https://arxiv.org/abs/2203.03137)<br>:star:[code](https://github.com/shiming-chen/MSDN):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
-* 妆容迁移
-  * [Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer](https://arxiv.org/abs/2203.03121)
-* 9D
-  * [CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild](https://arxiv.org/abs/2203.03089)<br>:star:[code](https://github.com/qq456cvb/CPPF):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
-* 动作识别
-  * [Learnable Irrelevant Modality Dropout for Multimodal Action Recognition on Modality-Specific Annotated Videos](https://arxiv.org/abs/2203.03014)
-* 时序动作定位
-  * [Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation](https://arxiv.org/abs/2203.02925)<br>:star:[code](https://github.com/LeonHLJ/RSKP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
-* 图像合成
-  * [Exploring Dual-task Correlation for Pose Guided Person Image Generation](https://arxiv.org/abs/2203.02910)<br>:star:[code](https://github.com/PangzeCheung/Dual-task-Pose-Transformer-Network):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
-* 分割
-  * [Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02909)<br>:star:[code](https://github.com/chenqi1126/SIPE)
-  * [Multi-class Token Transformer for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02891)<br>:star:[code](https://github.com/xulianuwa/MCTformer)
-  * [Cross Language Image Matching for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02668)
-  * [Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers](https://arxiv.org/abs/2203.02664)<br>:star:[code](https://github.com/rulixiang/afa)
-* 目标检测
-  * [Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection](https://arxiv.org/abs/2203.02688)<br>:star:[code](https://github.com/lartpang/ZoomNet)
-* 视频
-  * [A Large-scale Comprehensive Dataset and Copy-overlap Aware Evaluation Protocol for Segment-level Video Copy Detection](https://arxiv.org/abs/2203.02654)<br>:star:[code](https://github.com/alipay/VCSL)
-  * [Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning](https://arxiv.org/abs/2203.02573)<br>:star:[code](https://github.com/snap-research/MMVID)
-* 人群计数
-  * [Boosting Crowd Counting via Multifaceted Attention](https://arxiv.org/abs/2203.02636)<br>:star:[code](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)
-* 目标导航
-  * [Online Learning of Reusable Abstract Models for Object Goal Navigation](https://arxiv.org/abs/2203.02583)
-* 风格迁移
-  * [Style-ERD: Responsive and Coherent Online Motion Style Transfer](https://arxiv.org/abs/2203.02574)
-* 医学
-  * [BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation](https://arxiv.org/abs/2203.02533)
-
-
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
@@ -113,6 +85,10 @@
 
 ## Continual Learning(持续学习)
 * [On Generalizing Beyond Domains in Cross-Domain Continual Learning](https://arxiv.org/abs/2203.03970)
+
+
+## Meta-Learning(元学习)
+* [What Matters For Meta-Learning Vision Regression Tasks?](https://arxiv.org/abs/2203.04905)
 
 ## Contrastive Learning(对比学习)
 * [Selective-Supervised Contrastive Learning with Noisy Labels](https://arxiv.org/abs/2203.04181)<br>:star:[code](https://github.com/ShikunLi/Sel-CL):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
@@ -145,6 +121,10 @@
 * 零样本
   * [MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning](https://arxiv.org/abs/2203.03137)<br>:star:[code](https://github.com/shiming-chen/MSDN):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
 
+## 3D character animation(三维角色动画)
+* 皮肤预测  
+  * [SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters](https://arxiv.org/abs/2203.04746)<br>:house:[project](https://imatge-upc.github.io/skinningnet/)
+
 ## Fine-Grained/Image Classification(细粒度/图像分类)
 * 细粒度分类
   * [Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information](https://arxiv.org/abs/2203.03253)<br>:star:[code](https://github.com/ylingfeng/DynamicMLP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
@@ -154,7 +134,8 @@
 * [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/abs/2203.01941)<br>:star:[code](https://github.com/kakaobrain/rq-vae-transformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
 * 姿势引导的图像合成
   * [Exploring Dual-task Correlation for Pose Guided Person Image Generation](https://arxiv.org/abs/2203.02910)<br>:star:[code](https://github.com/PangzeCheung/Dual-task-Pose-Transformer-Network):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
-
+* 图像翻译
+  * [FlexIT: Towards Flexible Semantic Image Translation](https://arxiv.org/abs/2203.04705)
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * 遥感图像融合
@@ -199,7 +180,8 @@
 
 ## 15.Transformer
 * [Fast Point Transformer](https://arxiv.org/abs/2112.04702)
- 
+* [ChiTransformer:Towards Reliable Stereo from Cues](https://arxiv.org/abs/2203.04554)
+
 <a name="14"/>
 
 ## 14.Video
@@ -213,6 +195,11 @@
   * [Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning](https://arxiv.org/abs/2203.02573)<br>:star:[code](https://github.com/snap-research/MMVID)
 * 视频异常检测
   * [Generative Cooperative Learning for Unsupervised Video Anomaly Detection](https://arxiv.org/abs/2203.03962) 
+* 视频监控
+  * 轨迹预测
+    * [How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting](https://arxiv.org/abs/2203.04781)
+
+
 <a name="13"/>
 
 ## 13.GAN
@@ -349,6 +336,7 @@
 * [Towards Efficient and Scalable Sharpness-Aware Minimization](https://arxiv.org/abs/2203.02714)
 * [DeltaCNN: End-to-End CNN Inference of Sparse Frame Differences in Videos](https://arxiv.org/abs/2203.03996)
 * [Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences](https://arxiv.org/abs/2203.04279)<br>:star:[code](https://github.com/PruneTruong/DenseMatching):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+* [Dynamic Dual-Output Diffusion Models](https://arxiv.org/abs/2203.04304)
 
 ## 论文尚未公布
 [AxIoU: An Axiomatically Justified Measure for Video Moment Retrieval](https://twitter.com/tetsuyasakai/status/1498906899932073984) 
