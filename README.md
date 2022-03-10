@@ -21,7 +21,7 @@
 * 其它
   * [Dynamic Dual-Output Diffusion Models](https://arxiv.org/abs/2203.04304)
 * 目标检测
-  * [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837)<br>:star:[code](https://github.com/yzd-v/FGD):newspaper:解读:(https://zhuanlan.zhihu.com/p/477707304)
+  * [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837)<br>:star:[code](https://github.com/yzd-v/FGD):newspaper:[解读](https://zhuanlan.zhihu.com/p/477707304)
 
 ❗❗❗ 3月9日更新 18 篇.
 * 手语翻译
@@ -275,7 +275,7 @@
 ## 5.Object Detection(目标检测)
 * [DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/abs/2203.01305)<br>:star:[code](https://github.com/FengLi-ust/DN-DETR):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
 * [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/abs/2203.03800)<br>:star:[code](https://github.com/deeplearning-wisc/stud):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
-* [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837)<br>:star:[code](https://github.com/yzd-v/FGD):newspaper:解读:(https://zhuanlan.zhihu.com/p/477707304)
+* [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837)<br>:star:[code](https://github.com/yzd-v/FGD):newspaper:[解读](https://zhuanlan.zhihu.com/p/477707304)
 * 目标定位
   * [Weakly Supervised Object Localization as Domain Adaption](https://arxiv.org/abs/2203.01714)<br>:star:[code](https://github.com/zh460045050/DA-WSOL_CVPR2022):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * 3D
