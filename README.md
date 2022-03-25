@@ -54,23 +54,28 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
   * [Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055)
 
 
-
-### ❗❗❗ 3月10日更新 7 篇.
-* 元学习
-  * [What Matters For Meta-Learning Vision Regression Tasks?](https://arxiv.org/abs/2203.04905)
-* 轨迹预测
-  * [How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting](https://arxiv.org/abs/2203.04781)
-* 3D动画
-  * [SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters](https://arxiv.org/abs/2203.04746)<br>:house:[project](https://imatge-upc.github.io/skinningnet/)
-* 图像翻译
-  * [FlexIT: Towards Flexible Semantic Image Translation](https://arxiv.org/abs/2203.04705)
-* Transformer
-  * [ChiTransformer:Towards Reliable Stereo from Cues](https://arxiv.org/abs/2203.04554)
-* 其它
-  * [Dynamic Dual-Output Diffusion Models](https://arxiv.org/abs/2203.04304)
+### ❗❗❗ 3月24日更新 11 篇.
+* 卫星数据集
+  * [DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation](https://arxiv.org/abs/2203.12560)
+* 动作理解
+  * [How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs](https://arxiv.org/abs/2203.12344)
+* 人脸表情识别
+  * [Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin](https://arxiv.org/abs/2203.12341)<br>:star:[code](https://github.com/hangyu94/Ada-CM)
 * 目标检测
-  * [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837)<br>:star:[code](https://github.com/yzd-v/FGD):newspaper:[解读](https://zhuanlan.zhihu.com/p/477707304)
-
+  * [Real-time Object Detection for Streaming Perception](https://arxiv.org/abs/2203.12338)<br>:star:[code](https://github.com/yancie-yjr/StreamYOLO)
+  * [Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition](https://arxiv.org/abs/2203.12247)
+* 视频个体计数
+  * [DR.VIC: Decomposition and Reasoning for Video Individual Counting](https://arxiv.org/abs/2203.12335)<br>:star:[code](https://github.com/taohan10200/DRNet)
+* transformer
+  * [Training-free Transformer Architecture Search](https://arxiv.org/abs/2203.12217)
+* 对抗样本
+  * [Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection](https://arxiv.org/abs/2203.1220)<br>:star:[code](https://github.com/liangchen527/SLADD8)
+* 运动去模糊
+  * [Unifying Motion Deblurring and Frame Interpolation with Events](https://arxiv.org/abs/2203.12178)
+* 3D
+  * [PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2203.12082)
+* 图像分类
+  * [DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification](https://arxiv.org/abs/2203.12081)<br>:star:[code](https://github.com/hrzhang1123/DTFD-MIL)
 
 ## 目录
 
@@ -86,6 +91,9 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 ## 
 * [Learning Motion-Dependent Appearance for High-Fidelity Rendering of Dynamic Humans from a Single Camera](https://arxiv.org/abs/2203.12780)          
 
+## Dataset(数据集)
+* 卫星数据集
+  * [DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation](https://arxiv.org/abs/2203.12560)
   
 ## Sign Language Translation(手语翻译)
   * [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](https://arxiv.org/abs/2203.04287)
@@ -99,6 +107,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 ## Adversarial Learning(对抗学习)
 * 对抗样本  
   * [Label-Only Model Inversion Attacks via Boundary Repulsion](https://arxiv.org/abs/2203.01925)
+  * [Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection](https://arxiv.org/abs/2203.1220)<br>:star:[code](https://github.com/liangchen527/SLADD8)
 * 对抗攻击
   * [Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon](https://arxiv.org/abs/2203.03818)
 
@@ -159,6 +168,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 ## Fine-Grained/Image Classification(细粒度/图像分类)
 * 细粒度分类
   * [Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information](https://arxiv.org/abs/2203.03253)<br>:star:[code](https://github.com/ylingfeng/DynamicMLP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
+* 图像分类
+  * [DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification](https://arxiv.org/abs/2203.12081)<br>:star:[code](https://github.com/hrzhang1123/DTFD-MIL)
 
 ## Image Synthesis/Generation(图像合成)
 * [Interactive Image Synthesis with Panoptic Layout Generation](https://arxiv.org/abs/2203.02104)
@@ -213,12 +224,15 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Fast Point Transformer](https://arxiv.org/abs/2112.04702)
 * [ChiTransformer:Towards Reliable Stereo from Cues](https://arxiv.org/abs/2203.04554)
 * [Beyond Fixation: Dynamic Window Visual Transformer](https://arxiv.org/abs/2203.12856)      
+* [Training-free Transformer Architecture Search](https://arxiv.org/abs/2203.12217)
 
 <a name="14"/>
 
 ## 14.Video
 * 动作分割
   * [Unsupervised Activity Segmentation by Joint Representation Learning and Online Clustering](https://arxiv.org/pdf/2105.13353.pdf)<br>:tv:[video](https://www.youtube.com/watch?v=i4Fh_3nzzUI)
+* 动作理解
+  * [How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs](https://arxiv.org/abs/2203.12344)
 * 视频实例分割(VIS)
   * [Efficient Video Instance Segmentation via Tracklet Query and Proposal](https://arxiv.org/abs/2203.01853)<br>:house:[project](https://jialianwu.com/projects/EfficientVIS.html):tv:[video](https://youtu.be/sSPMzgtMKCE):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * Video Copy Detection(视频拷贝检测)
@@ -233,6 +247,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
     * [How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting](https://arxiv.org/abs/2203.04781)
 * 视频时刻检索和视频高光检测
   * [UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection](https://arxiv.org/abs/2203.12745)<br>:star:[code](https://github.com/TencentARC/UMT)
+* 视频个体计数
+  * [DR.VIC: Decomposition and Reasoning for Video Individual Counting](https://arxiv.org/abs/2203.12335)<br>:star:[code](https://github.com/taohan10200/DRNet)
 
 <a name="13"/>
 
@@ -255,7 +271,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
   * [Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer](https://arxiv.org/abs/2203.03121)
 * 人脸识别
   * [Neural Face Identification in a 2D Wireframe Projection of a Manifold Object](https://arxiv.org/abs/2203.04229)<br>:star:[code](https://github.com/manycore-research/faceformer)
-
+* 人脸表情识别
+  * [Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin](https://arxiv.org/abs/2203.12341)<br>:star:[code](https://github.com/hangyu94/Ada-CM)
 
 <a name="10"/>
 
@@ -266,6 +283,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
   * 🐦️[Toward Practical Self-Supervised Monocular Indoor Depth Estimation](https://arxiv.org/abs/2112.02306)
 * 房间布局
   * [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network](https://arxiv.org/abs/2203.01824)<br>:star:[code](https://github.com/zhigangjiang/LGT-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
+* 3D
+  * [PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2203.12082)
 
 <a name="9"/>
 
@@ -314,6 +333,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/abs/2203.01305)<br>:star:[code](https://github.com/FengLi-ust/DN-DETR):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
 * [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/abs/2203.03800)<br>:star:[code](https://github.com/deeplearning-wisc/stud):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 * [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837)<br>:star:[code](https://github.com/yzd-v/FGD):newspaper:[解读](https://zhuanlan.zhihu.com/p/477707304)<br>关于目标检测的知识蒸馏工作，只需要30行代码就可以在 anchor-base, anchor-free 的单阶段、两阶段各种检测器上稳定涨点，现在代码已经开源。
+* [Real-time Object Detection for Streaming Perception](https://arxiv.org/abs/2203.12338)<br>:star:[code](https://github.com/yancie-yjr/StreamYOLO)
+* [Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition](https://arxiv.org/abs/2203.12247)
 * 目标定位
   * [Weakly Supervised Object Localization as Domain Adaption](https://arxiv.org/abs/2203.01714)<br>:star:[code](https://github.com/zh460045050/DA-WSOL_CVPR2022):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * 3D
@@ -337,6 +358,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
   * [Deep Rectangling for Image Stitching: A Learning Baseline](https://arxiv.org/abs/2203.03831)<br>:star:[code](https://github.com/nie-lang/DeepRectangling):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 * 图像去噪
   * [CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image](https://arxiv.org/pdf/2203.13009.pdf)<br>:star:[code](https://github.com/Reyhanehne/CVF-SID_PyTorch)
+* 运动去模糊
+  * [Unifying Motion Deblurring and Frame Interpolation with Events](https://arxiv.org/abs/2203.12178)
 
 <a name="2"/>
 
