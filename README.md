@@ -7,6 +7,23 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
+### ❗❗❗ 3月25日更新  篇.
+
+* 单目目标姿势估计
+  * [EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation](https://arxiv.org/pdf/2203.13254.pdf)<br>:star:[code](https://github.com/tjiiv-cprg/EPro-PnP)
+* 跟踪
+  * [Global Tracking Transformers](https://arxiv.org/pdf/2203.13250.pdf)<br>:star:[code](https://github.com/xingyizhou/GTR)
+* 风格迁移
+  * [Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer](https://arxiv.org/pdf/2203.13248.pdf)<br>:star:[code](https://github.com/williamyang1991/DualStyleGAN)
+* 手势生成
+  * [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation](https://arxiv.org/pdf/2203.13161.pdf)
+* 其它
+  * [Moving Window Regression: A Novel Approach to Ordinal Regression](https://arxiv.org/pdf/2203.13122.pdf)
+  * [Egocentric Prediction of Action Target in 3D](https://arxiv.org/pdf/2203.13116.pdf)
+* 点云
+  * [AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception](https://arxiv.org/pdf/2203.13090.pdf)
+
+
 ### ❗❗❗ 3月10日更新 7 篇.
 * 元学习
   * [What Matters For Meta-Learning Vision Regression Tasks?](https://arxiv.org/abs/2203.04905)
