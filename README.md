@@ -7,6 +7,42 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
+
+### ❗❗❗ 3月28日更新 19 篇.
+* 持续学习
+  * [Probing Representation Forgetting in Supervised and Unsupervised Continual Learning](https://arxiv.org/abs/2203.13381)
+* 视图合成
+  * [NPBG++: Accelerating Neural Point-Based Graphics](https://arxiv.org/abs/2203.13318)<br>:house:[project](https://rakhimovv.github.io/npbgpp/)
+* 声源定位
+  * [Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes](https://arxiv.org/abs/2203.13412)<br>:star:[code](https://github.com/zjsong/SSPL)
+* 分割
+  * [Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?](https://arxiv.org/abs/2203.13427)
+  * [SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation](https://arxiv.org/abs/2203.13312)<br>:house:[project](https://xyzhang17.github.io/SharpContour/)
+  * [Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos](https://arxiv.org/abs/2203.13309)
+* 视觉情感分析
+  * [MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis](https://arxiv.org/abs/2203.13443)
+* 分类
+  * [CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification](https://arxiv.org/abs/2203.13465)
+* 域适应
+  * [Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591)<br>:star:[code](https://github.com/qinenergy/cotta)
+* 目标检测
+  * [Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task](https://arxiv.org/abs/2203.13608)<br>:house:[project](https://thudair.baai.ac.cn/rope)
+  * [Point2Seq: Detecting 3D Objects as Sequences](https://arxiv.org/abs/2203.13394)<br>:star:[code](https://github.com/ocNflag/point2seq)
+  * [MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection](https://arxiv.org/abs/2203.13310)<br>:star:[code](https://github.com/ZrrSkywalker/MonoDETR)
+  * [Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation](https://arxiv.org/abs/2203.13505)
+* 时序动作定位
+  * [Unsupervised Pre-training for Temporal Action Localization Tasks](https://arxiv.org/abs/2203.13609)<br>:star:[code](https://github.com/zhang-can/UP-TAL)
+* 对抗
+  * [Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness](https://arxiv.org/abs/2203.13639)
+* 剪枝
+  * [Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2203.13714)
+* 轨迹预测
+  * [Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion](https://arxiv.org/abs/2203.13777)<br>:star:[code](https://github.com/gutianpei/MID)
+  * [Non-Probability Sampling Network for Stochastic Human Trajectory Prediction](https://arxiv.org/abs/2203.13471)<br>:star:[code](https://github.com/inhwanbae/NPSN)
+* 其它
+  * [Versatile Multi-Modal Pre-Training for Human-Centric Perception](https://arxiv.org/abs/2203.13815)<br>:star:[code](https://github.com/hongfz16/HCMoCo)
+
+
 ### ❗❗❗ 3月25日更新 25 篇.
 
 * 单目目标姿势估计
@@ -91,6 +127,17 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 ## 
 * [Learning Motion-Dependent Appearance for High-Fidelity Rendering of Dynamic Humans from a Single Camera](https://arxiv.org/abs/2203.12780)          
 
+## Sound
+* 声源定位
+  * [Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes](https://arxiv.org/abs/2203.13412)<br>:star:[code](https://github.com/zjsong/SSPL)
+
+## Visual Emotion Analysis(视觉情感分析)
+* [MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis](https://arxiv.org/abs/2203.13443)
+
+## Novel View Synthesis(视图合成)
+* [NPBG++: Accelerating Neural Point-Based Graphics](https://arxiv.org/abs/2203.)<br>:house:[project](htt.io/npbgpp/)
+
+
 ## Dataset(数据集)
 * 卫星数据集
   * [DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation](https://arxiv.org/abs/2203.12560)
@@ -110,10 +157,12 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
   * [Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection](https://arxiv.org/abs/2203.1220)<br>:star:[code](https://github.com/liangchen527/SLADD8)
 * 对抗攻击
   * [Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon](https://arxiv.org/abs/2203.03818)
+* 对抗
+  * [Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness](https://arxiv.org/abs/2203.13639)
 
 ## Continual Learning(持续学习)
 * [On Generalizing Beyond Domains in Cross-Domain Continual Learning](https://arxiv.org/abs/2203.03970)
-
+* [Probing Representation Forgetting in Supervised and Unsupervised Continual Learning](https://arxiv.org/abs/2203.13381)
 
 ## Meta-Learning(元学习)
 * [What Matters For Meta-Learning Vision Regression Tasks?](https://arxiv.org/abs/2203.04905)
@@ -121,6 +170,10 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 
 ## Contrastive Learning(对比学习)
 * [Selective-Supervised Contrastive Learning with Noisy Labels](https://arxiv.org/abs/2203.04181)<br>:star:[code](https://github.com/ShikunLi/Sel-CL):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+
+## Pruning(剪枝)
+* 剪枝
+  * [Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2203.13714)
 
 ## Human-Object Interaction(人物交互)
   * [HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction](https://arxiv.org/abs/2203.01577)
@@ -152,12 +205,13 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * GNN
   * 🐦️[Lifelong Graph Learning](https://arxiv.org/pdf/2009.00647.pdf)<br>:star:[code](https://github.com/wang-chen/LGL)
 
-## Zero-Shot Learning/Domain Generalization(零样本/域泛化)
+## Zero-Shot Learning/Domain Generalization/Adaptation(零样本/域泛化/适应)
 * 零样本
   * [MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning](https://arxiv.org/abs/2203.03137)<br>:star:[code](https://github.com/shiming-chen/MSDN):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
 * 域泛化
   * [Compound Domain Generalization via Meta-Knowledge Encoding](https://arxiv.org/pdf/2203.13006.pdf)
-
+* 域适应
+  * [Continual Test-Time Domain Adaptation](https://arxiv./abs/2203.13591)<br>:star:[code](https://github.com/qinenergy/cotta)
 
 ## 3D character animation(三维角色动画)
 * 皮肤预测  
@@ -170,6 +224,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
   * [Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information](https://arxiv.org/abs/2203.03253)<br>:star:[code](https://github.com/ylingfeng/DynamicMLP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
 * 图像分类
   * [DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification](https://arxiv.org/abs/2203.12081)<br>:star:[code](https://github.com/hrzhang1123/DTFD-MIL)
+* 小样本分类
+  * [CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification](https://arxiv.org/abs/2203.13465)
 
 ## Image Synthesis/Generation(图像合成)
 * [Interactive Image Synthesis with Panoptic Layout Generation](https://arxiv.org/abs/2203.02104)
@@ -231,6 +287,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 ## 14.Video
 * 动作分割
   * [Unsupervised Activity Segmentation by Joint Representation Learning and Online Clustering](https://arxiv.org/pdf/2105.13353.pdf)<br>:tv:[video](https://www.youtube.com/watch?v=i4Fh_3nzzUI)
+  * [Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos](https://arxiv.org/abs/2203.13309)
 * 动作理解
   * [How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs](https://arxiv.org/abs/2203.12344)
 * 视频实例分割(VIS)
@@ -245,6 +302,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * 视频监控
   * 轨迹预测
     * [How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting](https://arxiv.org/abs/2203.04781)
+    * [Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion](https://arxiv.org/abs/2203.13777)<br>:star:[code](https://github.com/gutianpei/MID)
+    * [Non-Probability Sampling Network for Stochastic Human Trajectory Prediction](https://arxiv.org/abs/2203.13471)<br>:star:[code](https://github.com/inhwanbae/NPSN)
 * 视频时刻检索和视频高光检测
   * [UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection](https://arxiv.org/abs/2203.12745)<br>:star:[code](https://github.com/TencentARC/UMT)
 * 视频个体计数
@@ -305,6 +364,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
   * [End-to-End Semi-Supervised Learning for Video Action Detection](https://arxiv.org/abs/2203.04251)
 * 时序动作定位
   * [Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation](https://arxiv.org/abs/2203.02925)<br>:star:[code](https://github.com/LeonHLJ/RSKP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
+  * [Unsupervised Pre-training for Temporal Action Localization Tasks](https://arxiv.org/abs/2203.13609)<br>:star:[code](https://github.com/zhang-can/UP-TAL)
 
 <a name="7"/>
 
@@ -337,9 +397,13 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition](https://arxiv.org/abs/2203.12247)
 * 目标定位
   * [Weakly Supervised Object Localization as Domain Adaption](https://arxiv.org/abs/2203.01714)<br>:star:[code](https://github.com/zh460045050/DA-WSOL_CVPR2022):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
+  * [Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation](https://arxiv.org/abs/2203.13505)
 * 3D
   * [A Versatile Multi-View Framework for LiDAR-based 3D Object Detection with Guidance from Panoptic Segmentation](https://arxiv.org/abs/2203.02133)
   * [Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2203.02112)<br>:star:[code](https://github.com/revisitq/Pseudo-Stereo-3D):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
+  * [Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task](https://arxiv.org/abs/2203.13608)<br>:house:[project](https://thudair.baai.ac.cn/rope)
+  * [Point2Seq: Detecting 3D Objects as Sequences](https://arxiv.org/abs/2203.13394)<br>:star:[code](https://github.com/ocNflag/point2seq)
+  * [MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection](https://arxiv.org/abs/2203.13310)<br>:star:[code](https://github.com/ZrrSkywalker/MonoDETR)
 * 伪装目标检测
   * [Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection](https://arxiv.org/abs/2203.02688)<br>:star:[code](https://github.com/lartpang/ZoomNet)
 
@@ -366,7 +430,10 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 ## 2.Image Segmentation(图像分割)
 * 实例分割
   * [E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation](https://arxiv.org/abs/2203.04074)<br>:star:[code](https://github.com/zhang-tao-whu/e2ec):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
-  * [Sparse Instance Activation for Real-Time Instance Segmentation](https://arxiv.org/abs/2203.12827)<br>:star:[code](https://github.com/hustvl/SparseInst)      
+  * [Sparse Instance Activation for Real-Time Instance Segmentation](https://arxiv.org/abs/2203.12827)<br>:star:[code](https://github.com/hustvl/SparseInst)   
+  * [SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation](https://arxiv.org/abs/2203.13312)<br>:house:[project](https://xyzhang17.github.io/SharpContour/)   
+  * 半监督实例分割
+    * [Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?](https://arxiv.org/abs/2203.13427)
   * 3D 实例分割
     * [SoftGroup for 3D Instance Segmentation on Point Clouds](https://arxiv.org/abs/2203.01509)<br>:star:[code](https://github.com/thangvubk/SoftGroup):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
   * 🐦️[FreeSOLO: Learning to Segment Objects without Annotations](https://arxiv.org/abs/2202.12181)
@@ -381,6 +448,9 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
     * [Weakly Supervised Semantic Segmentation using Out-of-Distribution Data](https://arxiv.org/abs/2203.03860)<br>:star:[code](https://github.com/naver-ai/w-ood):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
   * 半监督语义分割
     * [Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels](https://arxiv.org/abs/2203.03884)
+* 动作分割
+  * [Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos](https://arxiv.org/abs/2203.13309)
+
 
 <a name="1"/>
 
@@ -412,6 +482,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Neural Reflectance for Shape Recovery with Shadow Handling](https://arxiv.org/abs/2203.12909)<br>:star:[code](https://github.com/junxuan-li/Neural-Reflectance-PS)
 * [DyRep: Bootstrapping Training with Dynamic Re-parameterization](https://arxiv.org/abs/2203.12868)<br>:star:[code](https://github.com/hunto/DyRep)
 * [Enhancing Classifier Conservativeness and Robustness by Polynomiality](https://arxiv.org/abs/2203.12693)
+ * [Versatile Multi-Modal Pre-Training for Human-Centric Perception](https://arxiv.org/abs/2203.13815)<br>:star:[code](https://github.com/hongfz16/HCMoCo)
+
 
 ## 论文尚未公布
 [AxIoU: An Axiomatically Justified Measure for Video Moment Retrieval](https://twitter.com/tetsuyasakai/status/1498906899932073984) 
