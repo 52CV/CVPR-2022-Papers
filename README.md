@@ -7,7 +7,93 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❗❗❗ 3月29日更新  60 篇。
+
+### ❗❗❗ 3月30日更新 49 篇。
+
+* 检索
+  * [X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval](https://arxiv.org/abs/2203.15086)<br>:house:[project](https://layer6ai-labs.github.io/xpool/)
+* 场景文本检测
+  * [Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2203.15143)<br>:star:[code](https://github.com/google-research-datasets/hiertext)
+* 三维服装网格重建
+  * [Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images](https://arxiv.org/abs/2203.15007)<br>:house:[project](https://kv2000.github.io/2022/03/28/reef/)
+* 三维形状重建
+  * [3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow](https://arxiv.org/abs/2203.15190)
+* 分割
+  * [SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2203.15202)<br>:star:[code](https://github.com/CityU-AIM-Group/SimT)
+  * [Rethinking Semantic Segmentation: A Prototype View](https://arxiv.org/abs/2203.15102)<br>:open_mouth:oral:star:[code](https://github.com/tfzhou/ProtoSeg)
+* 动作识别
+  * [SPAct: Self-supervised Privacy Preservation for Action Recognition](https://arxiv.org/abs/2203.15205)<br>:star:[code](https://github.com/DAVEISHAN/SPAct)
+* 时序动作定位
+  * [ASM-Loc: Action-aware Segment Modeling for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2203.15187)<br>:star:[code](https://github.com/boheumd/ASM-Loc)
+* reid
+  * [Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification](https://arxiv.org/abs/2203.15210)
+* 医学图像配准
+  * [Affine Medical Image Registration with Coarse-to-Fine Vision Transformer](https://arxiv.org/abs/2203.15216)<br>:star:[code](https://github.com/cwmok/C2FViT)
+* 图像修复
+  * [MAT: Mask-Aware Transformer for Large Hole Image Inpainting](https://arxiv.org/abs/2203.15270)<br>:star:[code](https://github.com/fenglinglwb/MAT)
+* 车道线
+  * [Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes](https://arxiv.org/pdf/2203.15302.pdf)<br>:star:[code](https://github.com/dongkwonjin/Eigenlanes)
+* try-on
+  * [Dressing in the Wild by Watching Dance Videos](https://arxiv.org/abs/2203.15320)<br>:house:[project](https://awesome-wflow.github.io)
+* 跟踪
+  * [Unified Transformer Tracker for Object Tracking](https://arxiv.org/abs/2203.15175)<br>:star:[code](https://github.com/Flowerfan/Trackron)
+* 目标检测
+  * [SIOD: Single Instance Annotated Per Category Per Image for Object Detection](https://arxiv.org/abs/2203.15353)
+  * [Task-specific Inconsistency Alignment for Domain Adaptive Object Detection](https://arxiv.org/abs/2203.15345)<br>:star:[code](https://github.com/MCG-NJU/TIA)
+  * [Zero-Query Transfer Attacks on Context-Aware Object Detectors](https://arxiv.org/abs/2203.15230)
+  * [LiDAR Snowfall Simulation for Robust 3D Object Detection](https://arxiv.org/abs/2203.15118)<br>:open_mouth:oral:star:[code](https://github.com/SysCV/LiDAR_snow_sim)
+  * [Few-Shot Object Detection with Fully Cross-Transformer](https://arxiv.org/abs/2203.15021)
+* 持续学习
+  * [Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries](https://arxiv.org/abs/2203.15355)<br>:star:[code](https://github.com/clovaai/puridiver)
+* 图像翻译
+  * [A Style-aware Discriminator for Controllable Image Translation](https://arxiv.org/abs/2203.15375)
+* 图像字幕
+  * [Quantifying Societal Bias Amplification in Image Captioning](https://arxiv.org/abs/2203.15395)
+* 零样本视频分类
+  * [Alignment-Uniformity aware Representation Learning for Zero-shot Video Classification](https://arxiv.org/abs/2203.15381)
+* 视频帧插值
+  * [Long-term Video Frame Interpolation via Feature Propagation](https://arxiv.org/abs/2203.15427)
+* 物体姿态估计
+  * [OSOP: A Multi-Stage One Shot Object Pose Estimation Framework](https://arxiv.org/abs/2203.15533)
+* 3D狗的形状
+  * [BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information](https://arxiv.org/abs/2203.15536)<br>:house:[project](https://barc.is.tue.mpg.de)
+* 点云
+  * [Learning a Structured Latent Space for Unsupervised Point Cloud Completion](https://arxiv.org/abs/2203.15580)
+  * [Text2Pos: Text-to-Point-Cloud Cross-Modal Localization](https://arxiv.org/abs/2203.15125)
+* pose
+  * [PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision](https://arxiv.org/abs/2203.15625)<br>:open_mouth:oral:star:[code](https://github.com/Garfield-kh/PoseTriplet)
+  * [Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation](https://arxiv.org/abs/2203.15293)
+  * [Temporal Feature Alignment and Mutual Information Maximization for Video-Based Human Pose Estimation](https://arxiv.org/abs/2203.15227)<br>::oral:star:[code](https://github.com/Pose-Group/FAMI-Pose)
+* 假脸检测
+  * [Exploring Frequency Adversarial Attacks for Face Forgery Detection](https://arxiv.org/abs/2203.15674)
+* face
+  * [Killing Two Birds with One Stone:Efficient and Robust Training of Face Recognition CNNs by Partial FC](https://arxiv.org/abs/2203.15565)<br>:star:[code](https://github.com/deepinsight/insightface/tree/master/recognition)
+* VLN
+  * [EnvEdit: Environment Editing for Vision-and-Language Navigation](https://arxiv.org/abs/2203.15685)<br>:star:[code](https://github.com/jialuli-luka/EnvEdit)
+* HOI
+  * [OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction](https://arxiv.org/abs/2203.15709)<br>:star:[code](https://github.com/lixiny/OakInk)
+* 小样本分类与分割(FS-CS)
+  * [Integrative Few-Shot Learning for Classification and Segmentation](https://arxiv.org/abs/2203.15712)
+* 长尾识别
+  * [Nested Collaborative Learning for Long-Tailed Visual Recognition](https://arxiv.org/abs/2203.15359)
+* 半监督
+  * [FisherMatch: Semi-Supervised Rotation Regression via Entropy-based Filtering](https://arxiv.org/abs/2203.15765)<br>:open_mouth:oral:house:[project](https://yd-yin.github.io/FisherMatch/)
+* 模型压缩
+  * [CHEX: CHannel EXploration for CNN Model Compression](https://arxiv.org/abs/2203.15794)
+* 文本到图像合成
+  * [StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis](https://arxiv.org/abs/2203.15799)
+* 其它
+  * [Learning Structured Gaussians to Approximate Deep Ensembles](https://arxiv.org/abs/2203.15485)
+  * [Self-Supervised Image Representation Learning with Geometric Set Consistency](https://arxiv.org/abs/2203.15361)
+  * [Balanced Multimodal Learning via On-the-fly Gradient Modulation](https://arxiv.org/abs/2203.15332)<br>:open_mouth:oral:star:[code](https://github.com/GeWu-Lab/OGM-GE_CVPR2022)
+  * [CNN Filter DB: An Empirical Investigation of Trained Convolutional Filters](https://arxiv.org/abs/2203.15331)<br>:star:[code](https://github.com/paulgavrikov/cnn-filter-db)
+  * [Eigencontours: Novel Contour Descriptors Based on Low-Rank Approximation](https://arxiv.org/abs/2203.15259)<br>:opem_mouth:oral
+  * [Pop-Out Motion: 3D-Aware Image Deformation via Learning the Shape Laplacian](https://arxiv.org/abs/2203.15235)
+  * [Long-term Visual Map Sparsification with Heterogeneous GNN](https://arxiv.org/abs/2203.15182)
+  * [Clean Implicit 3D Structure from Noisy 2D STEM Images](https://arxiv.org/abs/2203.15434)
+  * [Equivariance Allows Handling Multiple Nuisance Variables When Analyzing Pooled Neuroimaging Datasets](https://arxiv.org/abs/2203.15234)
+
+### ❗❗❗ 3月29日更新 60 篇。
 
 * SR（ＭRI）
   * [Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution](https://arxiv.org/abs/2203.13963)<br>:star:[code](https://github.com/XAIMI-Lab/McMRSR)
