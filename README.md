@@ -7,6 +7,64 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
+### ❗❗❗ 3月31日更新  篇。
+
+* 图像字幕
+* [NICGSlowDown: Evaluating the Efficiency Robustness of Neural Image Caption Generation Models](https://arxiv.org/abs/2203.15859)
+* 图像篡改检测
+* [Proactive Image Manipulation Detection](https://arxiv.org/abs/2203.15880)<br>:star:[code](https://github.com/vishal3477/proactive_IMD)
+* 3D
+  * [PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation](https://arxiv.org/abs/2203.15965)
+  * [Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images](https://arxiv.org/abs/2203.15926)
+* 半监督
+  * [Semi-Supervised Learning of Semantic Correspondence with Pseudo-Labels](https://arxiv.org/abs/2203.16038)
+* 人体运动预测
+  * [Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction](https://arxiv.org/abs/2203.16051)
+* 视频时刻检索
+  * [AxIoU: An Axiomatically Justified Measure for Video Moment Retrieval](https://arxiv.org/abs/2203.16062)
+* 视频预测
+  * [STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction](https://arxiv.org/abs/2203.16084)
+* 场景解析
+  * [FLOAT: Factorized Learning of Object Attributes for Improved Multi-object Multi-part Scene Parsing](https://arxiv.org/abs/2203.16168)<br>:star:[code](https://floatseg.github.io)
+* 分割
+  * [On the Road to Online Adaptation for Semantic Image Segmentation](https://arxiv.org/abs/2203.16195)
+  * [Threshold Matters in WSSS: Manipulating the Activation for the Robust and Accurate Segmentation Model Against Thresholds](https://arxiv.org/abs/2203.16045)
+* 手臂-手部动态估计
+* [Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation](https://arxiv.org/abs/2203.16202)
+* 图像到图像翻译
+* [InstaFormer: Instance-Aware Image-to-Image Translation with Transformer](https://arxiv.org/abs/2203.16248)
+* 自动驾驶
+  * [Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data](https://arxiv.org/abs/2203.16258)
+* 人脸交换
+* [High-resolution Face Swapping via Latent Semantics Disentanglement](https://arxiv.org/abs/2203.15958)<br>:star:[code](https://github.com/cnnlstm/FSLSD_HiRes)
+* 人脸属性分类
+  * [Fair Contrastive Learning for Facial Attribute Classification](https://arxiv.org/abs/2203.16209)<br>:star:[code](https://github.com/sungho-CoolG/FSCL)
+* 跟踪
+  * [Learning of Global Objective for Network Flow in Multi-Object Tracking](https://arxiv.org/abs/2203.16210)
+  * [Global Tracking via Ensemble of Local Trackers](https://arxiv.org/abs/2203.16092)
+* 目标检测
+  * [AdaMixer: A Fast-Converging Query-Based Object Detector](https://arxiv.org/abs/2203.16507)<br>:open_mouth:oral:star:[code](https://github.com/MCG-NJU/AdaMixer)
+  * [Learning to Detect Mobile Objects from LiDAR Scans Without Labels](https://arxiv.org/abs/2203.15882)<br>:star:[code](https://github.com/YurongYou/MODEST)
+  * [Forecasting from LiDAR via Future Object Detection](https://arxiv.org/abs/2203.16297)<br>:star:[code](https://github.com/neeharperi/FutureDet)
+  * [Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible for Object Detection](https://arxiv.org/abs/2203.16220)<br>:open_mouth:oral
+  * [Omni-DETR: Omni-Supervised Object Detection with Transformers](https://arxiv.org/abs/2203.16089)<br>:star:[code](https://github.com/amazon-research/omni-detr)
+* 零样本学习
+* [Unseen Classes at a Later Time? No Problem](https://arxiv.org/abs/2203.16517)<br>:star:[code](https://github.com/sumitramalagi/Unseen-classes-at-a-later-time)
+* transformer
+  * [Collaborative Transformers for Grounded Situation Recognition](https://arxiv.org/abs/2203.16518)<br>:star:[code](https://github.com/jhcho99/CoFormer)
+  * [TubeDETR: Spatio-Temporal Video Grounding with Transformers](https://arxiv.org/abs/2203.16434)<br>:open_mouth:oral:star:[code](https://github.com/antoyang/TubeDETR):house:[project](https://antoyang.github.io/tubedetr.html)
+* reid
+* [Large-Scale Pre-training for Person Re-identification with Noisy Labels](https://arxiv.org/abs/2203.16533)<br>:star:[code](https://github.com/DengpanFu/LUPerson-NL)
+* 3D Object Articulation
+  * [Understanding 3D Object Articulation in Internet Videos](https://arxiv.org/abs/2203.16531)<br>:house:[project](https://jasonqsy.github.io/Articulation3D/)
+* 其它
+  * [CaDeX: Learning Canonical Deformation Coordinate Space for Dynamic Surface Representation via Neural Homeomorphism](https://arxiv.org/abs/2203.16529)<br>:star:[code](https://github.com/JiahuiLei/CaDeX):house:[project](https://www.cis.upenn.edu/~leijh/projects/cadex/)
+  * [Fast Light-Weight Near-Field Photometric Stereo](https://arxiv.org/abs/2203.16515)
+  * [Fast, Accurate and Memory-Efficient Partial Permutation Synchronization](https://arxiv.org/abs/2203.16505)
+  * [Multi-Robot Active Mapping via Neural Bipartite Graph Matching](https://arxiv.org/abs/2203.16319)
+  * [Learning Program Representations for Food Images and Cooking Recipes](https://arxiv.org/abs/2203.16071)<br>:open_mouth:oral
+  * [Iterative Deep Homography Estimation](https://arxiv.org/abs/2203.15982)<br>:star:[code](https://github.com/imdumpl78/IHN)
+  * [Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain](https://arxiv.org/abs/2203.16357)
 
 ### ❗❗❗ 3月30日更新 49 篇。
 
