@@ -7,6 +7,71 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
+
+### ❗❗❗ 4月1日更新  篇。
+* HOI
+  * [D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions](https://arxiv.org/abs/2112.03028)<br>:house:[code](https://eth-ait.github.io/d-grasp/)
+* 多任务学习
+  * [Task Adaptive Parameter Sharing for Multi-Task Learning](https://arxiv.org/abs/2203.16708)
+* 类增量
+  * [Constrained Few-shot Class-incremental Learning](https://arxiv.org/abs/2203.16588)<br>:star:[code](https://github.com/IBM/constrained-FSCIL)
+* 分割
+  * [ReSTR: Convolution-free Referring Image Segmentation Using Transformers](https://arxiv.org/abs/2203.16768)
+* 检索
+  * [ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval](https://arxiv.org/abs/2203.16778)
+* transformer
+  * [Deformable Video Transformer](https://arxiv.org/abs/2203.16795)
+* 时序动作定位
+  * [Fine-grained Temporal Contrastive Learning for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2203.16800)<br>:star:[code](https://github.com/MengyuanChen21/CVPR2022-FTCL)
+* 车道线检测
+  * [Towards Driving-Oriented Metric for Lane Detection Models]
+(https://arxiv.org/abs/2203.16851)
+* 点云
+  * [Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds](https://arxiv.org/abs/2203.16895)<br>:star:[code](https://github.com/leolyj/DCA-SRSFE)
+  * [Learning Local Displacements for Point Cloud Completion](https://arxiv.org/abs/2203.16600)
+* 光流估计
+  * [CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow](https://arxiv.org/abs/2203.16896)<br>:star:[code](https://github.com/askerlee/craft)
+* 跟踪
+  * [MeMOT: Multi-Object Tracking with Memory]
+(https://arxiv.org/abs/2203.16761)<br>:open_mouth:oral
+* 目标检测
+  * [Multi-Granularity Alignment Domain Adaptation for Object Detection](https://arxiv.org/abs/2203.16897)
+* 图像美学评估
+  * [Personalized Image Aesthetics Assessment with Rich Attributes](https://arxiv.org/abs/2203.16754)<br>:house:[project](https://cv-datasets.institutecv.com/#/data-sets)
+* 去雨
+  * [Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond](https://arxiv.org/abs/2203.16931)<br>:star:[code](https://github.com/yuyi-sd/Robust_Rain_Removal)
+* GNN
+  * [AEGNN: Asynchronous Event-based Graph Neural Networks](https://arxiv.org/abs/2203.17149)
+* 自监督
+  * [Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy](https://arxiv.org/abs/2203.17205)
+* 3Dope
+  * [Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions](https://arxiv.org/abs/2203.17234)<br>:star:[code](https://github.com/nv-nguyen/template-pose)
+* VQA
+  * [SimVQA: Exploring Simulated Environments for Visual Question Answering](https://arxiv.org/abs/2203.17219)<br>:house:[project](https://simvqa.github.io)
+* VL
+  * [VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers](https://arxiv.org/abs/2203.17247)
+* VLN
+* [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation](https://arxiv.org/abs/2203.16586)
+* 视频
+  * [Stochastic Backpropagation: A Memory Efficient Strategy for Training Video Models](https://arxiv.org/abs/2203.16755)<br>:open_mouth:oral
+* 视频帧插值
+  * [Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion](https://arxiv.org/abs/2203.17191)
+* 电影修复
+  * [Bringing Old Films Back to Life](https://arxiv.org/abs/2203.17276)<br>:star:[code](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life)
+* Face Relighting(人脸重照光)
+  * [Face Relighting with Geometrically Consistent Shadows](https://arxiv.org/abs/2203.16681)
+* 人脸编辑
+  * [TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing](https://arxiv.org/abs/2203.17266)<br>:star:[code](https://github.com/BillyXYB/TransEditor):house:[project](https://billyxyb.github.io/TransEditor/)
+* 人脸幻构
+  * [Escaping Data Scarcity for High-Resolution Heterogeneous Face Hallucination](https://arxiv.org/abs/2203.16669)
+* 其它
+  * [Generating High Fidelity Data from Low-density Regions using Diffusion Models](https://arxiv.org/abs/2203.17260)
+  * [Continuous Scene Representations for Embodied AI](https://arxiv.org/abs/2203.17251)br>:star:[code](https://github.com/allenai/CSR):house:[project](https://prior.allenai.org/projects/csr)
+  * [It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher](https://arxiv.org/abs/2203.17008)
+  * [End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps](https://arxiv.org/abs/2203.16910)
+  * [Reflection and Rotation Symmetry Detection via Equivariant Learning](https://arxiv.org/abs/2203.16787)
+  * [Exploiting Explainable Metrics for Augmented SGD](https://arxiv.org/abs/2203.16723)
+
 ### ❗❗❗ 3月31日更新 35 篇。
 
 * 图像字幕
