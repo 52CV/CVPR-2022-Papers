@@ -8,7 +8,7 @@
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
 
-### ❗❗❗ 4月1日更新  篇。
+### ❗❗❗ 4月1日更新 33 篇。
 * HOI
   * [D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions](https://arxiv.org/abs/2112.03028)<br>:house:[code](https://eth-ait.github.io/d-grasp/)
 * 多任务学习
@@ -24,16 +24,14 @@
 * 时序动作定位
   * [Fine-grained Temporal Contrastive Learning for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2203.16800)<br>:star:[code](https://github.com/MengyuanChen21/CVPR2022-FTCL)
 * 车道线检测
-  * [Towards Driving-Oriented Metric for Lane Detection Models]
-(https://arxiv.org/abs/2203.16851)
+  * [Towards Driving-Oriented Metric for Lane Detection Models](https://arxiv.org/abs/2203.16851)
 * 点云
   * [Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds](https://arxiv.org/abs/2203.16895)<br>:star:[code](https://github.com/leolyj/DCA-SRSFE)
   * [Learning Local Displacements for Point Cloud Completion](https://arxiv.org/abs/2203.16600)
 * 光流估计
   * [CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow](https://arxiv.org/abs/2203.16896)<br>:star:[code](https://github.com/askerlee/craft)
 * 跟踪
-  * [MeMOT: Multi-Object Tracking with Memory]
-(https://arxiv.org/abs/2203.16761)<br>:open_mouth:oral
+  * [MeMOT: Multi-Object Tracking with Memory](https://arxiv.org/abs/2203.16761)<br>:open_mouth:oral
 * 目标检测
   * [Multi-Granularity Alignment Domain Adaptation for Object Detection](https://arxiv.org/abs/2203.16897)
 * 图像美学评估
