@@ -197,7 +197,7 @@
 |[13.GAN](#13)|[14.Video](#14)|[15.Transformer](#15)|[16.Semi/self-supervised learning(半/自监督)](#16)|
 |[17.Medical Image(医学影像)](#17)|[18.Person Re-Identification(人员重识别)](#18)|[19.Neural Architecture Search(神经架构搜索)](#19)|[20.Autonomous vehicles(自动驾驶)](#20)|
 |[21.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#21)|[22.Image Synthesis/Generation(图像合成)](#22)|[23.Image Retrieval(图像检索)](#23)|[24.Super-Resolution(超分辨率)](#24)|
-|[25.Fine-Grained/Image Classification(细粒度/图像分类)](#25)|[26.GCN/GNN](#26)|27.Pose Estimation(物体姿势估计)](#27)|[28.Style Transfer(风格迁移)](#28)|
+|[25.Fine-Grained/Image Classification(细粒度/图像分类)](#25)|[26.GCN/GNN](#26)|[27.Pose Estimation(物体姿势估计)](#27)|[28.Style Transfer(风格迁移)](#28)|
 |[29.Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)](#29)|[30.Visual Answer Questions(视觉问答)](#30)|[31.Vision-Language(视觉语言)](#31)|[32.Data Augmentation(数据增强)](#32)|
 |[33.Human-Object Interaction(人物交互)](#33)|[34.Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)](#34)|[35.OCR](#35)|[36.Optical Flow(光流估计)](#36)|
 |[37.Contrastive Learning(对比学习)](#37)|[38.Meta-Learning(元学习)](#38)|[39.Continual Learning(持续学习)](#39)|[40.Adversarial Learning(对抗学习)](#40)|
