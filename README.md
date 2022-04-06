@@ -49,15 +49,80 @@
 * 其它
   * [Leveraging Equivariant Features for Absolute Pose Regression](https://arxiv.org/abs/2204.02163)
 
-### ❗❗❗ 4月5日更新  篇。
-<br>:star:[code]:house:[project]
-<br>:house:[project]
-:newspaper:[粗解]
-<br>:open_mouth:oral
-:newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
+### ❗❗❗ 4月5日更新 27 篇。
+* HOI
+  * [What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions](https://arxiv.org/abs/2204.00746)<br>:open_mouth:oral
+* 分类
+  * [Matching Feature Sets for Few-Shot Image Classification](https://arxiv.org/abs/2204.00949)<br>:star:[code](https://github.com/ArmanAfrasiyabi/SetFeat-fs):house:[project](https://lvsn.github.io/SetFeat/):tv:[video](https://www.youtube.com/embed/)
+* 人脸
+  * [AdaFace: Quality Adaptive Margin for Face Recognition](https://arxiv.org/abs/2204.00964)<br>:open_mouth:oral:star:[code](https://github.com/mk-minchul/AdaFace)
+* 黑盒
+  * [DST: Dynamic Substitute Training for Data-free Black-box Attack](https://arxiv.org/abs/2204.00972)
+* 视频恢复
+  * [Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature](https://arxiv.org/abs/2204.00974)<br>:star:[code](https://github.com/lightChaserX/neural-global-shutter)
+* 重复动作计数
+  * [TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting](https://arxiv.org/abs/2204.01018)<br>:open_mouth:oral:star:[code](https://github.com/SvipRepetitionCounting/TransRAC):house:[project](https://svip-lab.github.io/dataset/RepCount_dataset.html)
+* 行人检测
+  * [STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes](https://arxiv.org/abs/2204.01026)<br>:star:[code](https://github.com/4DVLab/STCrowd)
+* 虚拟试穿
+  * [Style-Based Global Appearance Flow for Virtual Try-On](https://arxiv.org/abs/2204.01046)<br>:star:[code](https://github.com/SenHe/Flow-Style-VTON)
+* 6D
+  * [ES6D: A Computation Efficient and Symmetry-Aware 6D Pose Regression Framework](https://arxiv.org/abs/2204.01080)<br>:star:[code](https://github.com/GANWANSHUI/ES6D)
+* 自动驾驶
+  * [Exploiting Temporal Relations on Radar Perception for Autonomous Driving](https://arxiv.org/abs/2204.01184)
+  * 场景重新照明
+    * [SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks](https://arxiv.org/abs/2204.00644)<br>:house:[project](https://simbarv1.github.io/)
+* 检索
+  * [Correlation Verification for Image Retrieval](https://arxiv.org/abs/2204.01458)<br>:open_mouth:oral:star:[code](https://github.com/sungonce/CVNet)
+* 跟踪
+  * [Unsupervised Learning of Accurate Siamese Tracking](https://arxiv.org/abs/2204.01475)<br>:star:[code](https://github.com/FlorinShum/ULAST)
+* 目标检测
+  * [R(Det)^2: Randomized Decision Routing for Object Detection](https://arxiv.org/abs/2204.00794)
+  * [Homography Loss for Monocular 3D Object Detection](https://arxiv.org/abs/2204.00754)
+* 3D
+  * [BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion](https://arxiv.org/abs/2204.01139)
+* MVS
+  * [RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo](https://arxiv.org/abs/2204.01320)
+* stereo matching
+  * [Degradation-agnostic Correspondence from Resolution-asymmetric Stereo](https://arxiv.org/abs/2204.01429)
+* 分割
+  * [WildNet: Learning Domain Generalized Semantic Segmentation from the Wild](https://arxiv.org/abs/2204.01446)<br>:star:[code](https://github.com/suhyeonlee/WildNet)
+  * [Semantic-Aware Domain Generalized Segmentation](https://arxiv.org/abs/2204.00822)<br>:open_mouth:oral:star:[code](https://github.com/leolyj/SAN-SAW)
+* 雾景分割
+  * [FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation](https://arxiv.org/abs/2204.01587)<br>:open_mouth:oral
+* 3D手重建
+  * [LISA: Learning Implicit Shape and Appearance of Hands](https://www.iri.upc.edu/people/ecorona/lisa/)<br>:house:[project](https://arxiv.org/abs/2204.01695)
+* 手部动作预测
+  * [Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos](https://arxiv.org/abs/2204.01696)<br>:house:[project](https://stevenlsw.github.io/hoi-forecast/):tv:[video](https://www.youtube.com/watch?v=uCUTK9WOhpE)
+* 其它
+  * [Exemplar-bsaed Pattern Synthesis with Implicit Periodic Field Network](https://arxiv.org/abs/2204.01671)
+  * [Progressive Minimal Path Method with Embedded CNN](https://arxiv.org/abs/2204.00944)
+  * [Online Convolutional Re-parameterization](https://arxiv.org/abs/2204.00826)<br>:star:[code](https://github.com/JUGGHM/OREPA_CVPR2022)
+  * [Consistency driven Sequential Transformers Attention Model for Partially Observable Scenes](https://arxiv.org/abs/2204.00656)
 
-
-### ❗❗❗ 4月4日更新  篇。
+### ❗❗❗ 4月4日更新 14 篇。
+* 去模糊
+  * [Learning to Deblur using Light Field Generated and Real Defocus Images](https://arxiv.org/abs/2204.00367)<br>:star:[code](https://github.com/lingyanruan/DRBNet):house:[project](http://lyruan.com/Projects/DRBNet/)
+* 图像地理定位
+  * [TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization](https://arxiv.org/abs/2204.00097)<br>:star:[code](https://github.com/Jeff-Zilence/TransGeo2022)
+* 黑盒
+  * [Investigating Top-k White-Box and Transferable Black-box Attack](https://arxiv.org/abs/2204.00089)<br>:star:[code](https://github.com/ChaoningZhang/Top-k-Transferable-Attack)
+* Stereo Matching
+  * [GraftNet: Towards Domain Generalized Stereo Matching with a Broad-Spectrum and Task-Oriented Feature](https://arxiv.org/abs/2204.00179)<br>:star:[code](https://github.com/SpadeLiu/Graft-PSMNet)
+* 光流估计
+  * [DIP: Deep Inverse Patchmatch for High-Resolution Optical Flow](https://arxiv.org/abs/2204.00330)
+* 图像生成
+  * [Marginal Contrastive Correspondence for Guided Image Generation](https://arxiv.org/abs/2204.00442)<br>:open_mouth:oral
+* 目标检测
+  * [Proper Reuse of Image Classification Features Improves Object Detection](https://arxiv.org/abs/2204.00484)<br>:star:[code](https://github.com/tensorflow/models/blob/master/official/projects/backbone_reuse/README.md)
+  * [Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization](https://arxiv.org/abs/2204.00220)
+  * [CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection](https://arxiv.org/abs/2204.00325)
+* 其它
+  * [On the Importance of Asymmetry for Siamese Representation Learning](https://arxiv.org/abs/2204.00613)<br>:star:[code](https://github.com/facebookresearch/asym-siam)
+  * [Unimodal-Concentrated Loss: Fully Adaptive Label Distribution Learning for Ordinal Regression](https://arxiv.org/abs/2204.00309)
+  * [Perception Prioritized Training of Diffusion Models](https://arxiv.org/abs/2204.00227)<br>:star:[code](https://github.com/jychoi118/P2-weighting)
+  * [LASER: LAtent SpacE Rendering for 2D Visual Localization](https://arxiv.org/abs/2204.00157)<br>:open_mouth:oral
+  * [Efficient Maximal Coding Rate Reduction by Variational Forms](https://arxiv.org/abs/2204.00077)
 
 ### ❗❗❗ 4月1日更新 33 篇。
 * HOI
