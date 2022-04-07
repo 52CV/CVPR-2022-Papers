@@ -7,16 +7,6 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-<br>:open_mouth:oral:star:[code]():house:[project]():tv:[video]()
-<br>:house:[project]():tv:[video]()
-<br>:star:[code]():house:[project]()
-<br>:sunflower:[dataset]()
-<br>:star:[code]()
-<br>:house:[project]()
-:newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
-
-
-
 ### ❗❗❗ 4月7日更新 19 篇。
 
 * 3D
@@ -262,9 +252,10 @@
   * [Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055)
 
 
-## 神经渲染
+## Neural rendering(神经渲染)
 * [Learning Motion-Dependent Appearance for High-Fidelity Rendering of Dynamic Humans from a Single Camera](https://arxiv.org/abs/2203.12780)          
 * [IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images](https://arxiv.org/abs/2204.02232)<br>:open_mouth:oral:house:[project](https://kai-46.github.io/IRON-website/)
+* [SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference](https://arxiv.org/abs/2204.02585)
 
 ## Sound
 * 声源定位
@@ -334,17 +325,19 @@
 <a name="40"/>
 
 ## 40.Adversarial Learning(对抗学习)
+* [Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness](https://arxiv.org/abs/2203.13639)
+* [Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network](https://arxiv.org/abs/2204.02738)
 * 对抗样本  
   * [Label-Only Model Inversion Attacks via Boundary Repulsion](https://arxiv.org/abs/2203.01925)
   * [Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection](https://arxiv.org/abs/2203.1220)<br>:star:[code](https://github.com/liangchen527/SLADD8)
 * 对抗攻击
   * [Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon](https://arxiv.org/abs/2203.03818)
-* 对抗
-  * [Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness](https://arxiv.org/abs/2203.13639)
 * 黑盒
   * [Investigating Top-k White-Box and Transferable Black-box Attack](https://arxiv.org/abs/2204.00089)<br>:star:[code](https://github.com/ChaoningZhang/Top-k-Transferable-Attack)
   * [DST: Dynamic Substitute Training for Data-free Black-box Attack](https://arxiv.org/abs/2204.00972)
-
+* 对抗训练
+  * [LAS-AT: Adversarial Training with Learnable Attack Strategy](https://arxiv.org/pdf/2203.06616.pdf)<br>:open_mouth:oral:star:[code](https://github.com/jiaxiaojunQAQ/LAS-AT)
+  
 <a name="39"/>
 
 ## 39.Continual Learning(持续学习)
@@ -377,6 +370,8 @@
   * [Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2203.15143)<br>:star:[code](https://github.com/google-research-datasets/hiertext)
 * Text Spotting
   * [Text Spotting Transformers](https://arxiv.org/abs/2204.01918)<br>:star:[code](https://github.com/mlpc-ucsd/TESTR):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
+* LOGO设计
+  * [Aesthetic Text Logo Synthesis via Content-aware Layout Inferring](https://arxiv.org/abs/2204.02701)<br>:star:[code](https://github.com/yizhiwang96/TextLogoLayout)
 
 <a name="34"/>
 
@@ -464,6 +459,7 @@
 * GNN
   * 🐦️[Lifelong Graph Learning](https://arxiv.org/pdf/2009.00647.pdf)<br>:star:[code](https://github.com/wang-chen/LGL)
   * [AEGNN: Asynchronous Event-based Graph Neural Networks](https://arxiv.org/abs/2203.17149)
+  * ["The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping](https://arxiv.org/abs/2204.02944)
 
 <a name="25"/>
 
@@ -555,11 +551,16 @@
   * [Part-based Pseudo Label Refinement for Unsupervised Person Re-identification](https://arxiv.org/abs/2203.14675)<br>:star:[code](https://github.com/yoonkicho/PPLR)
   * [Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification](https://arxiv.org/abs/2203.15210)
   * [Large-Scale Pre-training for Person Re-identification with Noisy Labels](https://arxiv.org/abs/2203.16533)<br>:star:[code](https://github.com/DengpanFu/LUPerson-NL)
+  * [Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification](https://arxiv.org/abs/2204.02611)<br>:star:[code](https://github.com/Yanan-Wang-cs/ClonedPerson)
+  * 遮挡行人重识别
+    * [Feature Erasing and Diffusion Network for Occluded Person Re-Identification](https://arxiv.org/abs/2112.08740)
 * 人群计数
   * [Leveraging Self-Supervision for Cross-Domain Crowd Counting](https://arxiv.org/abs/2103.16291)
   * [Boosting Crowd Counting via Multifaceted Attention](https://arxiv.org/abs/2203.02636)<br>:star:[code](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)
 * 行人检测
   * [STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes](https://arxiv.org/abs/2204.01026)<br>:star:[code](https://github.com/4DVLab/STCrowd)
+* 步态识别
+  * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://arxiv.org/abs/2204.02569)<br>:star:[code](https://github.com/Gait3D/Gait3D-Benchmark):house:[project](https://gait3d.github.io/)
 
 <a name="17"/>
 
@@ -586,7 +587,6 @@
   * [FisherMatch: Semi-Supervised Rotation Regression via Entropy-based Filtering](https://arxiv.org/abs/2203.15765)<br>:open_mouth:oral:house:[project](https://yd-yin.github.io/FisherMatch/)
   * [Semi-Supervised Learning of Semantic Correspondence with Pseudo-Labels](https://arxiv.org/abs/2203.16038)
 
-
 <a name="15"/>
 
 ## 15.Transformer
@@ -598,6 +598,7 @@
 * [Collaborative Transformers for Grounded Situation Recognition](https://arxiv.org/abs/2203.16518)<br>:star:[code](https://github.com/jhcho99/CoFormer)
 * [TubeDETR: Spatio-Temporal Video Grounding with Transformers](https://arxiv.org/abs/2203.16434)<br>:open_mouth:oral:star:[code](https://github.com/antoyang/TubeDETR):house:[project](https://antoyang.github.io/tubedetr.html)
 * [Deformable Video Transformer](https://arxiv.org/abs/2203.16795)
+* [MixFormer: Mixing Features across Windows and Dimensions](https://arxiv.org/abs/2204.02557)<br>:open_mouth:oral:star:[code](https://github.com/PaddlePaddle/PaddleClas):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
 * 形状补全
   * [ShapeFormer: Transformer-based Shape Completion via Sparse Representation](https://arxiv.org/abs/2201.10326)<br>:star:[code](https://github.com/qheldiv/shapeformer):house:[project](https://shapeformer.github.io/)
 
@@ -613,6 +614,12 @@
 * 动作理解
   * [How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs](https://arxiv.org/abs/2203.12344)
   * [Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos](https://arxiv.org/abs/2203.14104)<br>:star:[code](https://github.com/ttlmh/Bridge-Prompt)
+* 视频分割
+  * [Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation](https://arxiv.org/abs/2204.02547)<br>:star:[code](https://github.com/wangbo-zhao/2022CVPR-MMMMTBVS)
+* 视频修复
+  * [Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663)
+* 视频去摩尔纹
+  * [Video Demoireing with Relation-Based Temporal Consistency](https://arxiv.org/abs/2204.02957)<br>:house:[project](https://daipengwa.github.io/VDmoire_ProjectPage/):tv:[video](https://youtu.be/73mCqfWobBo)
 * 视频实例分割(VIS)
   * [Efficient Video Instance Segmentation via Tracklet Query and Proposal](https://arxiv.org/abs/2203.01853)<br>:house:[project](https://jialianwu.com/projects/EfficientVIS.html):tv:[video](https://youtu.be/sSPMzgtMKCE):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * Video Copy Detection(视频拷贝检测)
@@ -701,6 +708,7 @@
 
 ## 10.3D(三维视觉)
 * [Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images](https://arxiv.org/abs/2203.15926)
+* [Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows](https://arxiv.org/abs/2204.02509)<br>:star:[code](https://github.com/amazon-research/small-baseline-camera-tracking)
 * Stereo Merging
   * [PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation](https://arxiv.org/abs/2203.15965)
   * [GraftNet: Towards Domain Generalized Stereo Matching with a Broad-Spectrum and Task-Oriented Feature](https://arxiv.org/abs/2204.00179)<br>:star:[code](https://github.com/SpadeLiu/Graft-PSMNet)
@@ -758,6 +766,9 @@
   * [Learnable Irrelevant Modality Dropout for Multimodal Action Recognition on Modality-Specific Annotated Videos](https://arxiv.org/abs/2203.03014)
   * [End-to-End Semi-Supervised Learning for Video Action Detection](https://arxiv.org/abs/2203.04251)
   * [SPAct: Self-supervised Privacy Preservation for Action Recognition](https://arxiv.org/abs/2203.15205)<br>:star:[code](https://github.com/DAVEISHAN/SPAct)
+  * [Temporal Alignment Networks for Long-term Video](https://arxiv.org/abs/2204.02968)<br>:open_mouth:oral:star:[code](https://github.com/TengdaHan/TemporalAlignNet):house:[project](https://www.robots.ox.ac.uk/~vgg/research/tan/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
+  * 时序动作检测
+    * [An Empirical Study of End-to-End Temporal Action Detection](https://arxiv.org/abs/2204.02932)<br>:star:[code](https://github.com/xlliu7/E2E-TAD):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
 * 时序动作定位
   * [Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation](https://arxiv.org/abs/2203.02925)<br>:star:[code](https://github.com/LeonHLJ/RSKP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
   * [Unsupervised Pre-training for Temporal Action Localization Tasks](https://arxiv.org/abs/2203.13609)<br>:star:[code](https://github.com/zhang-can/UP-TAL)
@@ -830,6 +841,7 @@
 * [Multi-Granularity Alignment Domain Adaptation for Object Detection](https://arxiv.org/abs/2203.16897)
 * [Proper Reuse of Image Classification Features Improves Object Detection](https://arxiv.org/abs/2204.00484)<br>:star:[code](https://github.com/tensorflow/models/blob/master/official/projects/backbone_reuse/README.md)
 * [R(Det)^2: Randomized Decision Routing for Object Detection](https://arxiv.org/abs/2204.00794)
+* [Towards Robust Adaptive Object Detection under Noisy Annotations](https://arxiv.org/abs/2204.02620)<br>:star:[code](https://github.com/CityU-AIM-Group/NLTE)
 * 小样本目标检测  
   * [Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection](https://arxiv.org/abs/2203.13903)
   * [Few-Shot Object Detection with Fully Cross-Transformer](https://arxiv.org/abs/2203.15021)
@@ -882,10 +894,10 @@
 * 图像去模糊
   * [Learning to Deblur using Light Field Generated and Real Defocus Images](https://arxiv.org/abs/2204.00367)<br>:star:[code](https://github.com/lingyanruan/DRBNet):house:[project](http://lyruan.com/Projects/DRBNet/)
 
-
 <a name="2"/>
 
 ## 2.Image Segmentation(图像分割)
+* [FocalClick: Towards Practical Interactive Image Segmentation](https://arxiv.org/abs/2204.02574)<br>:star:[code](https://github.com/XavierCHEN34/ClickSEG):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
 * [Semantic-Aware Domain Generalized Segmentation](https://arxiv.org/abs/2204.00822)<br>:open_mouth:oral:star:[code](https://github.com/leolyj/SAN-SAW)
 * [ReSTR: Convolution-free Referring Image Segmentation Using Transformers](https://arxiv.org/abs/2203.16768)
 * 实例分割
@@ -929,6 +941,8 @@
 <a name="1"/>
 
 ## 1.其它
+* [Learning to Anticipate Future with Dynamic Context Removal](https://arxiv.org/abs/2204.02587)<br>:star:[code](https://github.com/AllenXuuu/DCR)
+* [Learning Optimal K-space Acquisition and Reconstruction using Physics-Informed Neural Networks](https://arxiv.org/abs/2204.02480)
 * [Instance-wise Occlusion and Depth Orders in Natural Scenes](https://arxiv.org/abs/2111.14562)
 * [IFOR: Iterative Flow Minimization for Robotic Object Rearrangement](https://arxiv.org/abs/2202.00732)<br>:house:[project](https://imankgoyal.github.io/ifor.html)
 * [PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence](https://arxiv.org/abs/2203.01754)<br>:star:[code](https://github.com/zj-dong/pina):house:[project](https://zj-dong.github.io/pina/):tv:[video](https://www.youtube.com/watch?v=oGpKUuD54Qk):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
