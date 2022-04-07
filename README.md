@@ -7,6 +7,53 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
+<br>:open_mouth:oral:star:[code]():house:[project]():tv:[video]()
+<br>:house:[project]():tv:[video]()
+<br>:star:[code]():house:[project]()
+<br>:sunflower:[dataset]()
+<br>:star:[code]()
+<br>:house:[project]()
+:newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
+
+
+
+### ❗❗❗ 4月7日更新 19 篇。
+
+* 3D
+  * [Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows](https://arxiv.org/abs/2204.02509)<br>:star:[code](https://github.com/amazon-research/small-baseline-camera-tracking)
+* Transformer
+  * [MixFormer: Mixing Features across Windows and Dimensions](https://arxiv.org/abs/2204.02557)<br>:open_mouth:oral:star:[code](https://github.com/PaddlePaddle/PaddleClas):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
+* 分割
+  * [FocalClick: Towards Practical Interactive Image Segmentation](https://arxiv.org/abs/2204.02574)<br>:star:[code](https://github.com/XavierCHEN34/ClickSEG):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
+* 神经渲染
+  * [SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference](https://arxiv.org/abs/2204.02585)
+* 步态识别
+  * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://arxiv.org/abs/2204.02569)<br>:star:[code](https://github.com/Gait3D/Gait3D-Benchmark):house:[project](https://gait3d.github.io/)
+* Reid
+  * [Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification](https://arxiv.org/abs/2204.02611)<br>:star:[code](https://github.com/Yanan-Wang-cs/ClonedPerson)
+  * [Feature Erasing and Diffusion Network for Occluded Person Re-Identification](https://arxiv.org/abs/2112.08740)
+* 目标检测
+  * [Towards Robust Adaptive Object Detection under Noisy Annotations](https://arxiv.org/abs/2204.02620)<br>:star:[code](https://github.com/CityU-AIM-Group/NLTE)
+* LOGO设计
+  * [Aesthetic Text Logo Synthesis via Content-aware Layout Inferring](https://arxiv.org/abs/2204.02701)<br>:star:[code](https://github.com/yizhiwang96/TextLogoLayout)
+* GNN
+  * ["The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping](https://arxiv.org/abs/2204.02944)
+* 视频分割
+  * [Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation](https://arxiv.org/abs/2204.02547)<br>:star:[code](https://github.com/wangbo-zhao/2022CVPR-MMMMTBVS)
+* 视频修复
+  * [Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663)
+* 视频去摩尔纹
+  * [Video Demoireing with Relation-Based Temporal Consistency](https://arxiv.org/abs/2204.02957)<br>:house:[project](https://daipengwa.github.io/VDmoire_ProjectPage/):tv:[video](https://youtu.be/73mCqfWobBo)
+* 动作识别
+  * [Temporal Alignment Networks for Long-term Video](https://arxiv.org/abs/2204.02968)<br>:open_mouth:oral:star:[code](https://github.com/TengdaHan/TemporalAlignNet):house:[project](https://www.robots.ox.ac.uk/~vgg/research/tan/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
+  * [An Empirical Study of End-to-End Temporal Action Detection](https://arxiv.org/abs/2204.02932)<br>:star:[code](https://github.com/xlliu7/E2E-TAD):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
+* 对抗
+  * [LAS-AT: Adversarial Training with Learnable Attack Strategy](https://arxiv.org/pdf/2203.06616.pdf)<br>:open_mouth:oral:star:[code](https://github.com/jiaxiaojunQAQ/LAS-AT)
+  * [Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network](https://arxiv.org/abs/2204.02738)
+* 其它
+  * [Learning to Anticipate Future with Dynamic Context Removal](https://arxiv.org/abs/2204.02587)<br>:star:[code](https://github.com/AllenXuuu/DCR)
+  * [Learning Optimal K-space Acquisition and Reconstruction using Physics-Informed Neural Networks](https://arxiv.org/abs/2204.02480)
+
 
 ### ❗❗❗ 4月6日更新 21 篇。
 * 形状补全
