@@ -7,6 +7,33 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
+<br>:open_mouth:oral:star:[code]():house:[project]():tv:[video]()
+<br>:house:[project]():tv:[video]()
+<br>:star:[code]():house:[project]()
+<br>:sunflower:[dataset]()
+<br>:star:[code]()
+<br>:house:[project]()
+:newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
+
+* Visual Geo-localization
+  * [Deep Visual Geo-localization Benchmark](https://arxiv.org/abs/2204.03444)<br>:open_mouth:oral:house:[project](https://deep-vg-bench.herokuapp.com/)
+* 视频帧插值
+  * [Many-to-many Splatting for Efficient Video Frame Interpolation](https://arxiv.org/abs/2204.03513)<br>:star:[code](https://github.com/feinanshan/M2M_VFI)
+* 视图合成
+  * [AutoRF: Learning 3D Object Radiance Fields from Single View Observations](https://arxiv.org/abs/2204.03593)<br>:house:[project](https://sirwyver.github.io/AutoRF/)
+* 分割
+  * [Pin the Memory: Learning to Generalize Semantic Segmentation](https://arxiv.org/abs/2204.03609)<br>:star:[code](https://github.com/Genie-Kim/PintheMemory):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
+* 类增量
+  * [Class-Incremental Learning with Strong Pre-trained Models](https://arxiv.org/abs/2204.03634)
+* 图像到图像翻译
+  * [Unsupervised Image-to-Image Translation with Generative Prior](https://arxiv.org/abs/2204.03641)<br>:star:[code](https://github.com/williamyang1991/GP-UNIT):house:[project](https://www.mmlab-ntu.com/project/gpunit/):tv:[video](https://www.youtube.com/watch?v=dDApWs_oDrM)
+* 三维重建
+  * [Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction](https://arxiv.org/abs/2204.03642)<br>:star:[code](https://github.com/shubhtuls/ss3d/):house:[project](https://shubhtuls.github.io/ss3d/):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
+* 动作质量评估
+  * [FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment](https://arxiv.org/abs/2204.03646)<br>:open_mouth:oral:star:[code](https://github.com/xujinglin/FineDiving):house:[project](https://sites.google.com/view/finediving):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
+* 其它
+  * [Total Variation Optimization Layers for Computer Vision](https://arxiv.org/abs/2204.03643)
+
 ### ❗❗❗ 4月7日更新 19 篇。
 
 * 3D
