@@ -7,22 +7,30 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-<br>:open_mouth:oral:star:[code]():house:[project]():tv:[video]()
-<br>:house:[project]():tv:[video]()
-<br>:star:[code]():house:[project]()
-<br>:sunflower:[dataset]()
-<br>:star:[code]()
-<br>:house:[project]()
-:newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
+### ❗❗❗ 4月8日更新 17 篇。
 
+* 自监督视频表征学习
+  * [Hierarchical Self-supervised Representation Learning for Movie Understanding](https://arxiv.org/abs/2204.03101)<br>:star:[code](https://github.com/alibaba-mmai-research/HiCo):house:[project](https://hico-cvpr2022.github.io/)
+  * [Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency](https://arxiv.org/abs/2204.03017)
+* 3d
+  * [AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis](https://arxiv.org/abs/2204.03105)<br>:star:[code](https://github.com/nv-tlabs/AUV-NET):house:[project](https://nv-tlabs.github.io/AUV-NET/):tv:[video](https://www.youtube.com/watch?v=UTzH8WB-Xl0)
+* VL
+  * [Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality](https://arxiv.org/abs/2204.03162)<br>:sunflower:[dataset](https://huggingface.co/datasets/facebook/winoground)
+* 视频语义分割
+  * [Coarse-to-Fine Feature Mining for Video Semantic Segmentation](https://arxiv.org/abs/2204.03330)<br>:star:[code](https://github.com/GuoleiSun/VSS-CFFM)
+* Person Search
+  * [PSTR: End-to-End One-Step Person Search With Transformers](https://arxiv.org/abs/2204.03340)<br>:star:[code](https://github.com/JialeCao001/PSTR)
 * Visual Geo-localization
   * [Deep Visual Geo-localization Benchmark](https://arxiv.org/abs/2204.03444)<br>:open_mouth:oral:house:[project](https://deep-vg-bench.herokuapp.com/)
+* 视频去模糊
+  * [Multi-Scale Memory-Based Video Deblurring](https://arxiv.org/abs/2204.02977)
 * 视频帧插值
   * [Many-to-many Splatting for Efficient Video Frame Interpolation](https://arxiv.org/abs/2204.03513)<br>:star:[code](https://github.com/feinanshan/M2M_VFI)
 * 视图合成
   * [AutoRF: Learning 3D Object Radiance Fields from Single View Observations](https://arxiv.org/abs/2204.03593)<br>:house:[project](https://sirwyver.github.io/AutoRF/)
 * 分割
   * [Pin the Memory: Learning to Generalize Semantic Segmentation](https://arxiv.org/abs/2204.03609)<br>:star:[code](https://github.com/Genie-Kim/PintheMemory):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
+  * [L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2204.03206)<br>:star:[code](https://github.com/PengtaoJiang/L2G)
 * 类增量
   * [Class-Incremental Learning with Strong Pre-trained Models](https://arxiv.org/abs/2204.03634)
 * 图像到图像翻译
@@ -155,6 +163,7 @@
 
 ## Novel View Synthesis(视图合成)
 * [NPBG++: Accelerating Neural Point-Based Graphics](https://arxiv.org/abs/2203.)<br>:house:[project](htt.io/npbgpp/)
+* [AutoRF: Learning 3D Object Radiance Fields from Single View Observations](https://arxiv.org/abs/2204.03593)<br>:house:[project](https://sirwyver.github.io/AutoRF/)
 
 ## Dataset(数据集)
 * [ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer](https://arxiv.org/abs/2204.02389)<br>:star:[code](https://github.com/rhgao/ObjectFolder):house:[project](https://ai.stanford.edu/~rhgao/objectfolder2.0/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
@@ -182,9 +191,10 @@
 * [TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization](https://arxiv.org/abs/2204.00097)<br>:star:[code](https://github.com/Jeff-Zilence/TransGeo2022)
 * 视觉地理定位
   * [Rethinking Visual Geo-localization for Large-Scale Applications](https://arxiv.org/abs/2204.02287)<br>:star:[code](https://github.com/gmberton/CosPlace)
+  * [Deep Visual Geo-localization Benchmark](https://arxiv.org/abs/2204.03444)<br>:open_mouth:oral:house:[project](https://deep-vg-bench.herokuapp.com/)
 * 轨迹重建
   * [MonoTrack: Shuttle trajectory reconstruction from monocular badminton video](https://arxiv.org/abs/2204.01899)
-
+  
 ## Visual Grounding
 * [Multi-View Transformer for 3D Visual Grounding](https://arxiv.org/abs/2204.02174)<br>:star:[code](https://github.com/sega-hsj/MVT-3DVG)
 
@@ -210,6 +220,7 @@
 * 类增量学习
   * [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://arxiv.org/abs/2203.14843)
   * [Constrained Few-shot Class-incremental Learning](https://arxiv.org/abs/2203.16588)<br>:star:[code](https://github.com/IBM/constrained-FSCIL)
+  * [Class-Incremental Learning with Strong Pre-trained Models](https://arxiv.org/abs/2204.03634)
 
 <a name="40"/>
 
@@ -294,6 +305,7 @@
 ## 31.Vision-Language(视觉语言)
 * [Unsupervised Vision-Language Parsing: Seamlessly Bridging Visual Scene Graphs with Language Structures via Dependency Relationships](https://arxiv.org/abs/2203.14260)
 * [VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers](https://arxiv.org/abs/2203.17247)
+* [Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality](https://arxiv.org/abs/2204.03162)<br>:sunflower:[dataset](https://huggingface.co/datasets/facebook/winoground)
 * VLN
   * [EnvEdit: Environment Editing for Vision-and-Language Navigation](https://arxiv.org/abs/2203.15685)<br>:star:[code](https://github.com/jialuli-luka/EnvEdit)
   * [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation](https://arxiv.org/abs/2203.16586)
@@ -450,6 +462,8 @@
   * [STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes](https://arxiv.org/abs/2204.01026)<br>:star:[code](https://github.com/4DVLab/STCrowd)
 * 步态识别
   * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://arxiv.org/abs/2204.02569)<br>:star:[code](https://github.com/Gait3D/Gait3D-Benchmark):house:[project](https://gait3d.github.io/)
+* Person Search
+  * [PSTR: End-to-End One-Step Person Search With Transformers](https://arxiv.org/abs/2204.03340)<br>:star:[code](https://github.com/JialeCao001/PSTR)
 
 <a name="17"/>
 
@@ -495,22 +509,12 @@
 
 ## 14.Video
 * [Stochastic Backpropagation: A Memory Efficient Strategy for Training Video Models](https://arxiv.org/abs/2203.16755)<br>:open_mouth:oral
-* 电影修复
-  * [Bringing Old Films Back to Life](https://arxiv.org/abs/2203.17276)<br>:star:[code](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life)
 * 动作分割
   * [Unsupervised Activity Segmentation by Joint Representation Learning and Online Clustering](https://arxiv.org/pdf/2105.13353.pdf)<br>:tv:[video](https://www.youtube.com/watch?v=i4Fh_3nzzUI)
   * [Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos](https://arxiv.org/abs/2203.13309)
 * 动作理解
   * [How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs](https://arxiv.org/abs/2203.12344)
   * [Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos](https://arxiv.org/abs/2203.14104)<br>:star:[code](https://github.com/ttlmh/Bridge-Prompt)
-* 视频分割
-  * [Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation](https://arxiv.org/abs/2204.02547)<br>:star:[code](https://github.com/wangbo-zhao/2022CVPR-MMMMTBVS)
-* 视频修复
-  * [Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663)
-* 视频去摩尔纹
-  * [Video Demoireing with Relation-Based Temporal Consistency](https://arxiv.org/abs/2204.02957)<br>:house:[project](https://daipengwa.github.io/VDmoire_ProjectPage/):tv:[video](https://youtu.be/73mCqfWobBo)
-* 视频实例分割(VIS)
-  * [Efficient Video Instance Segmentation via Tracklet Query and Proposal](https://arxiv.org/abs/2203.01853)<br>:house:[project](https://jialianwu.com/projects/EfficientVIS.html):tv:[video](https://youtu.be/sSPMzgtMKCE):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * Video Copy Detection(视频拷贝检测)
   * [A Large-scale Comprehensive Dataset and Copy-overlap Aware Evaluation Protocol for Segment-level Video Copy Detection](https://arxiv.org/abs/2203.02654)<br>:star:[code](https://github.com/alipay/VCSL)
 * 视频合成  
@@ -532,6 +536,7 @@
 * 视频个体计数
   * [DR.VIC: Decomposition and Reasoning for Video Individual Counting](https://arxiv.org/abs/2203.12335)<br>:star:[code](https://github.com/taohan10200/DRNet)
 * 视频插值
+  * [Many-to-many Splatting for Efficient Video Frame Interpolation](https://arxiv.org/abs/2204.03513)<br>:star:[code](https://github.com/feinanshan/M2M_VFI)
   * [TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation](https://arxiv.org/abs/2203.13859)
   * [Long-term Video Frame Interpolation via Feature Propagation](https://arxiv.org/abs/2203.15427)
   * [Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion](https://arxiv.org/abs/2203.17191)
@@ -543,8 +548,26 @@
 * 视频预测
   * 手部动作预测
     * [Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos](https://arxiv.org/abs/2204.01696)<br>:house:[project](https://stevenlsw.github.io/hoi-forecast/):tv:[video](https://www.youtube.com/watch?v=uCUTK9WOhpE)
-* 视频恢复
-  * [Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature](https://arxiv.org/abs/2204.00974)<br>:star:[code](https://github.com/lightChaserX/neural-global-shutter)
+* 视频分割
+  * [Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation](https://arxiv.org/abs/2204.02547)<br>:star:[code](https://github.com/wangbo-zhao/2022CVPR-MMMMTBVS)
+  * 视频实例分割(VIS)
+    * [Efficient Video Instance Segmentation via Tracklet Query and Proposal](https://arxiv.org/abs/2203.01853)<br>:house:[project](https://jialianwu.com/projects/EfficientVIS.html):tv:[video](https://youtu.be/sSPMzgtMKCE):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
+  * 视频语义分割
+    * [Coarse-to-Fine Feature Mining for Video Semantic Segmentation](https://arxiv.org/abs/2204.03330)<br>:star:[code](https://github.com/GuoleiSun/VSS-CFFM)
+* 视频影像处理
+  * 视频恢复
+    * [Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature](https://arxiv.org/abs/2204.00974)<br>:star:[code](https://github.com/lightChaserX/neural-global-shutter)
+  * 视频修复
+    * [Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663)
+  * 视频去摩尔纹
+    * [Video Demoireing with Relation-Based Temporal Consistency](https://arxiv.org/abs/2204.02957)<br>:house:[project](https://daipengwa.github.io/VDmoire_ProjectPage/):tv:[video](https://youtu.be/73mCqfWobBo)
+  * 视频去模糊
+    * [Multi-Scale Memory-Based Video Deblurring](https://arxiv.org/abs/2204.02977)
+  * 电影修复
+    * [Bringing Old Films Back to Life](https://arxiv.org/abs/2203.17276)<br>:star:[code](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life)
+* 自监督视频表征学习
+  * [Hierarchical Self-supervised Representation Learning for Movie Understanding](https://arxiv.org/abs/2204.03101)<br>:star:[code](https://github.com/alibaba-mmai-research/HiCo):house:[project](https://hico-cvpr2022.github.io/)
+  * [Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency](https://arxiv.org/abs/2204.03017)
 
 <a name="13"/>
 
@@ -560,6 +583,7 @@
 * [Exploring Patch-wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks](https://arxiv.org/abs/2203.01532)
 * [Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation](https://arxiv.org/abs/2203.12707)
 * [InstaFormer: Instance-Aware Image-to-Image Translation with Transformer](https://arxiv.org/abs/2203.16248)
+* [Unsupervised Image-to-Image Translation with Generative Prior](https://arxiv.org/abs/2204.03641)<br>:star:[code](https://github.com/williamyang1991/GP-UNIT):house:[project](https://www.mmlab-ntu.com/project/gpunit/):tv:[video](https://www.youtube.com/watch?v=dDApWs_oDrM)
 
 <a name="11"/>
 
@@ -614,12 +638,16 @@
   * [BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion](https://arxiv.org/abs/2204.01139)
 * MVS
   * [RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo](https://arxiv.org/abs/2204.01320)
-* 三维服装网格重建
-  * [Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images](https://arxiv.org/abs/2203.15007)<br>:house:[project](https://kv2000.github.io/2022/03/28/reef/)
-* 三维形状重建
-  * [3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow](https://arxiv.org/abs/2203.15190)
+* 三维重建
+  * [Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction](https://arxiv.org/abs/2204.03642)<br>:star:[code](https://github.com/shubhtuls/ss3d/):house:[project](https://shubhtuls.github.io/ss3d/):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
+  * 三维服装网格重建
+    * [Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images](https://arxiv.org/abs/2203.15007)<br>:house:[project](https://kv2000.github.io/2022/03/28/reef/)
+  * 三维形状重建
+    * [3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow](https://arxiv.org/abs/2203.15190)
 * 三维服装变形
   * [SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/abs/2204.02219)<br>:open_mouth:oral:star:[code](https://github.com/isantesteban/snug)
+* 纹理迁移与合成
+  * [AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis](https://arxiv.org/abs/2204.03105)<br>:star:[code](https://github.com/nv-tlabs/AUV-NET):house:[project](https://nv-tlabs.github.io/AUV-NET/):tv:[video](https://www.youtube.com/watch?v=UTzH8WB-Xl0)
 
 <a name="9"/>
 
@@ -668,6 +696,8 @@
 * 组动作识别
   * [Dual-AI: Dual-path Action Interaction Learning for Group Activity Recognition](https://arxiv.org/abs/2204.02148)<br>:open_mouth:oral
   * [Detector-Free Weakly Supervised Group Activity Recognition](https://arxiv.org/abs/2204.02139)
+* 动作质量评估
+  * [FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment](https://arxiv.org/abs/2204.03646)<br>:open_mouth:oral:star:[code](https://github.com/xujinglin/FineDiving):house:[project](https://sites.google.com/view/finediving):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
 
 <a name="7"/>
 
@@ -799,6 +829,7 @@
     * [SoftGroup for 3D Instance Segmentation on Point Clouds](https://arxiv.org/abs/2203.01509)<br>:star:[code](https://github.com/thangvubk/SoftGroup):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
   * 🐦️[FreeSOLO: Learning to Segment Objects without Annotations](https://arxiv.org/abs/2202.12181)
 * 语义分割
+  * [Pin the Memory: Learning to Generalize Semantic Segmentation](https://arxiv.org/abs/2204.03609)<br>:star:[code](https://github.com/Genie-Kim/PintheMemory):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
   * [Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation](https://arxiv.org/abs/2203.01452)<br>:star:[code](https://github.com/jamycheung/Trans4PASS):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
   * [Deep Hierarchical Semantic Segmentation](https://arxiv.org/abs/2203.14335)<br>:star:[code](https://github.com/0liliulei/HieraSeg)
   * [Semantic Segmentation by Early Region Proxy](https://arxiv.org/abs/2203.14043)<br>:star:[code](https://github.com/YiF-Zhang/RegionProxy)
@@ -813,6 +844,7 @@
     * [Cross Language Image Matching for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02668)
     * [Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers](https://arxiv.org/abs/2203.02664)<br>:star:[code](https://github.com/rulixiang/afa)
     * [Weakly Supervised Semantic Segmentation using Out-of-Distribution Data](https://arxiv.org/abs/2203.03860)<br>:star:[code](https://github.com/naver-ai/w-ood):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+    * [L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2204.03206)<br>:star:[code](https://github.com/PengtaoJiang/L2G)
   * 半监督语义分割
     * [Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels](https://arxiv.org/abs/2203.03884)
     * [Semi-supervised Semantic Segmentation with Error Localization Network](https://arxiv.org/abs/2204.02078)<br>:star:[code](https://github.com/kinux98/SSL_ELN):house:[project](http://cvlab.postech.ac.kr/research/ELN/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
@@ -904,6 +936,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Leveraging Equivariant Features for Absolute Pose Regression](https://arxiv.org/abs/2204.02163)
 * [Neural Convolutional Surfaces](https://arxiv.org/abs/2204.02289)<br>:house:[project](http://geometry.cs.ucl.ac.uk/projects/2022/cnnmaps/)
 * [GLASS: Geometric Latent Augmentation for Shape Spaces](https://arxiv.org/pdf/2108.03225.pdf)<br>:star:[code](https://github.com/sanjeevmk/glass/):house:[project](https://sanjeevmk.github.io/glass_webpage/)
+* [Total Variation Optimization Layers for Computer Vision](https://arxiv.org/abs/2204.03643)
+
 
 ## 论文尚未公布
 [AxIoU: An Axiomatically Justified Measure for Video Moment Retrieval](https://twitter.com/tetsuyasakai/status/1498906899932073984) 
