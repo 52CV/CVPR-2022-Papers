@@ -15,7 +15,7 @@
 <br>:house:[project]()
 :newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
 
-### ❗❗❗ 4月11日更新  篇。
+### ❗❗❗ 4月11日更新 11 篇。
 
 * 无监督域适应
   * [Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation](https://arxiv.org/abs/2204.03838)<br>:star:[code](https://github.com/xiaoachen98/DALN)
@@ -72,85 +72,6 @@
   * [FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment](https://arxiv.org/abs/2204.03646)<br>:open_mouth:oral:star:[code](https://github.com/xujinglin/FineDiving):house:[project](https://sites.google.com/view/finediving):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
 * 其它
   * [Total Variation Optimization Layers for Computer Vision](https://arxiv.org/abs/2204.03643)
-
-### ❗❗❗ 4月7日更新 19 篇。
-
-* 3D
-  * [Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows](https://arxiv.org/abs/2204.02509)<br>:star:[code](https://github.com/amazon-research/small-baseline-camera-tracking)
-* Transformer
-  * [MixFormer: Mixing Features across Windows and Dimensions](https://arxiv.org/abs/2204.02557)<br>:open_mouth:oral:star:[code](https://github.com/PaddlePaddle/PaddleClas):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
-* 分割
-  * [FocalClick: Towards Practical Interactive Image Segmentation](https://arxiv.org/abs/2204.02574)<br>:star:[code](https://github.com/XavierCHEN34/ClickSEG):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
-* 神经渲染
-  * [SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference](https://arxiv.org/abs/2204.02585)
-* 步态识别
-  * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://arxiv.org/abs/2204.02569)<br>:star:[code](https://github.com/Gait3D/Gait3D-Benchmark):house:[project](https://gait3d.github.io/)
-* Reid
-  * [Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification](https://arxiv.org/abs/2204.02611)<br>:star:[code](https://github.com/Yanan-Wang-cs/ClonedPerson)
-  * [Feature Erasing and Diffusion Network for Occluded Person Re-Identification](https://arxiv.org/abs/2112.08740)
-* 目标检测
-  * [Towards Robust Adaptive Object Detection under Noisy Annotations](https://arxiv.org/abs/2204.02620)<br>:star:[code](https://github.com/CityU-AIM-Group/NLTE)
-* LOGO设计
-  * [Aesthetic Text Logo Synthesis via Content-aware Layout Inferring](https://arxiv.org/abs/2204.02701)<br>:star:[code](https://github.com/yizhiwang96/TextLogoLayout)
-* GNN
-  * ["The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping](https://arxiv.org/abs/2204.02944)
-* 视频分割
-  * [Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation](https://arxiv.org/abs/2204.02547)<br>:star:[code](https://github.com/wangbo-zhao/2022CVPR-MMMMTBVS)
-* 视频修复
-  * [Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663)
-* 视频去摩尔纹
-  * [Video Demoireing with Relation-Based Temporal Consistency](https://arxiv.org/abs/2204.02957)<br>:house:[project](https://daipengwa.github.io/VDmoire_ProjectPage/):tv:[video](https://youtu.be/73mCqfWobBo)
-* 动作识别
-  * [Temporal Alignment Networks for Long-term Video](https://arxiv.org/abs/2204.02968)<br>:open_mouth:oral:star:[code](https://github.com/TengdaHan/TemporalAlignNet):house:[project](https://www.robots.ox.ac.uk/~vgg/research/tan/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
-  * [An Empirical Study of End-to-End Temporal Action Detection](https://arxiv.org/abs/2204.02932)<br>:star:[code](https://github.com/xlliu7/E2E-TAD):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
-* 对抗
-  * [LAS-AT: Adversarial Training with Learnable Attack Strategy](https://arxiv.org/pdf/2203.06616.pdf)<br>:open_mouth:oral:star:[code](https://github.com/jiaxiaojunQAQ/LAS-AT)
-  * [Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network](https://arxiv.org/abs/2204.02738)
-* 其它
-  * [Learning to Anticipate Future with Dynamic Context Removal](https://arxiv.org/abs/2204.02587)<br>:star:[code](https://github.com/AllenXuuu/DCR)
-  * [Learning Optimal K-space Acquisition and Reconstruction using Physics-Informed Neural Networks](https://arxiv.org/abs/2204.02480)
-
-
-### ❗❗❗ 4月6日更新 21 篇。
-* 形状补全
-  * [ShapeFormer: Transformer-based Shape Completion via Sparse Representation](https://arxiv.org/abs/2201.10326)<br>:star:[code](https://github.com/qheldiv/shapeformer):house:[project](https://shapeformer.github.io/)
-* GAN
-  * [InsetGAN for Full-Body Image Generation](https://arxiv.org/abs/2203.07293)<br>:house:[project](https://afruehstueck.github.io/insetgan/)
-* 航空图像分割
-  * [Revisiting Near/Remote Sensing with Geospatial Attention](https://arxiv.org/abs/2204.01807)
-* 轨迹重建
-  * [MonoTrack: Shuttle trajectory reconstruction from monocular badminton video](https://arxiv.org/abs/2204.01899)
-* Text Spotting
-  * [Text Spotting Transformers](https://arxiv.org/abs/2204.01918)<br>:star:[code](https://github.com/mlpc-ucsd/TESTR):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
-* 深度估计
-  * [P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior](https://arxiv.org/abs/2204.02091)<br>:star:[code](https://github.com/SysCV/P3Depth)
-* 目标检测
-  * [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://arxiv.org/abs/2204.02136)<br>:star:[code](https://github.com/Hi-FT/ERD)
-* 组动作识别
-  * [Dual-AI: Dual-path Action Interaction Learning for Group Activity Recognition](https://arxiv.org/abs/2204.02148)<br>:open_mouth:oral
-  * [Detector-Free Weakly Supervised Group Activity Recognition](https://arxiv.org/abs/2204.02139)
-* Visual Grounding
-  * [Multi-View Transformer for 3D Visual Grounding](https://arxiv.org/abs/2204.02174)<br>:star:[code](https://github.com/sega-hsj/MVT-3DVG)
-* 三维服装变形
-  * [SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/abs/2204.02219)<br>:open_mouth:oral:star:[code](https://github.com/isantesteban/snug)
-* 神经渲染
-  * [IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images](https://arxiv.org/abs/2204.02232)<br>:open_mouth:oral:house:[project](https://kai-46.github.io/IRON-website/)
-* 图像合成
-  * [Arbitrary-Scale Image Synthesis](https://arxiv.org/abs/2204.02273)<br>:star:[code](https://github.com/vglsd/ScaleParty):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
-* VQA
-  * [SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering](https://arxiv.org/abs/2204.02285)<br>:star:[code](https://github.com/vipulgupta1011/swapmix):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
-* 视觉地理定位
-  * [Rethinking Visual Geo-localization for Large-Scale Applications](https://arxiv.org/abs/2204.02287)<br>:star:[code](https://github.com/gmberton/CosPlace)
-* 几何图形
-  * [Neural Convolutional Surfaces](https://arxiv.org/abs/2204.02289)<br>:house:[project](http://geometry.cs.ucl.ac.uk/projects/2022/cnnmaps/)
-  * [GLASS: Geometric Latent Augmentation for Shape Spaces](https://arxiv.org/pdf/2108.03225.pdf)<br>:star:[code](https://github.com/sanjeevmk/glass/):house:[project](https://sanjeevmk.github.io/glass_webpage/)
-* 数据集
-  * [ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer](https://arxiv.org/abs/2204.02389)<br>:star:[code](https://github.com/rhgao/ObjectFolder):house:[project](https://ai.stanford.edu/~rhgao/objectfolder2.0/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
-* 分割
-  * [Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation](https://arxiv.org/pdf/2111.12940.pdf)<br>:star:[code](https://github.com/BIT-DA/RIPU)
-  * [Semi-supervised Semantic Segmentation with Error Localization Network](https://arxiv.org/abs/2204.02078)<br>:star:[code](https://github.com/kinux98/SSL_ELN):house:[project](http://cvlab.postech.ac.kr/research/ELN/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
-* 其它
-  * [Leveraging Equivariant Features for Absolute Pose Regression](https://arxiv.org/abs/2204.02163)
 
 ## 目录
 
@@ -214,6 +135,8 @@
 ## 光学、几何、光场成像
 * Light Field(光场)
   * [Occlusion-Aware Cost Constructor for Light Field Depth Estimation](https://arxiv.org/abs/2203.01576)<br>:star:[code](https://github.com/YingqianWang/OACC-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
+* 深度重建
+  * [Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection](https://arxiv.org/abs/2204.03929)<br>:star:[code](https://github.com/GrayMask/DHD):house:[project](http://www.ok.sc.e.titech.ac.jp/res/DHD/):tv:[video](https://youtu.be/LgGDqDf034g)
 
 ## Anomaly Detection(异常检测)
 * [Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection](https://arxiv.org/abs/2203.14506)<br>:star:[code](https://github.com/choubo/DRA)
@@ -239,7 +162,14 @@
   * [Causality Inspired Representation Learning for Domain Generalization](https://arxiv.org/abs/2203.14237)
 * 域适应
   * [Continual Test-Time Domain Adaptation](https://arxiv./abs/2203.13591)<br>:star:[code](https://github.com/qinenergy/cotta)
+  * 无监督域适应
+    * [Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation](https://arxiv.org/abs/2204.03838)<br>:star:[code](https://github.com/xiaoachen98/DALN)
 
+## Dense Prediction(密集预测)
+* [Does Robustness on ImageNet Transfer to Downstream Tasks?](https://arxiv.org/abs/2204.03934)
+
+## Federated Learning(联合学习)
+* [CD2-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning](https://arxiv.org/abs/2204.03880)
 
 ## Multi-Task Learning（多任务学习）
 * [Controllable Dynamic Multi-Task Architectures](https://arxiv.org/abs/2203.14949)
@@ -249,6 +179,7 @@
 ## Incremental Learning（增量学习）
 * 增量学习
   * [Energy-based Latent Aligner for Incremental Learning](https://arxiv.org/abs/2203.14952)<br>:star:[code](https://github.com/JosephKJ/ELI)
+  * [General Incremental Learning with Domain-aware Categorical Representations](https://arxiv.org/abs/2204.04078)
 * 类增量学习
   * [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://arxiv.org/abs/2203.14843)
   * [Constrained Few-shot Class-incremental Learning](https://arxiv.org/abs/2203.16588)<br>:star:[code](https://github.com/IBM/constrained-FSCIL)
@@ -595,11 +526,15 @@
     * [Video Demoireing with Relation-Based Temporal Consistency](https://arxiv.org/abs/2204.02957)<br>:house:[project](https://daipengwa.github.io/VDmoire_ProjectPage/):tv:[video](https://youtu.be/73mCqfWobBo)
   * 视频去模糊
     * [Multi-Scale Memory-Based Video Deblurring](https://arxiv.org/abs/2204.02977)
+  * 视频去噪
+    * [Dancing under the stars: video denoising in starlight](https://arxiv.org/abs/2204.04210)<br>:star:[code](https://github.com/monakhova/starlight_denoising/)
   * 电影修复
     * [Bringing Old Films Back to Life](https://arxiv.org/abs/2203.17276)<br>:star:[code](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life)
 * 自监督视频表征学习
   * [Hierarchical Self-supervised Representation Learning for Movie Understanding](https://arxiv.org/abs/2204.03101)<br>:star:[code](https://github.com/alibaba-mmai-research/HiCo):house:[project](https://hico-cvpr2022.github.io/)
   * [Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency](https://arxiv.org/abs/2204.03017)
+  * 视频对比学习
+    * [Probabilistic Representations for Video Contrastive Learning](https://arxiv.org/abs/2204.03946)
 
 <a name="13"/>
 
@@ -768,8 +703,9 @@
 * 多目标跟踪
   * [Learning of Global Objective for Network Flow in Multi-Object Tracking](https://arxiv.org/abs/2203.16210)
   * [MeMOT: Multi-Object Tracking with Memory](https://arxiv.org/abs/2203.16761)<br>:open_mouth:oral
-
-
+* RGB-T跟踪
+  * [Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline](https://arxiv.org/abs/2204.04120)<br>:house:[project](https://zhang-pengyu.github.io/DUT-VTUAV/):newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
+  
 <a name="5"/>
 
 ## 5.Object Detection(目标检测)
@@ -969,6 +905,9 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Neural Convolutional Surfaces](https://arxiv.org/abs/2204.02289)<br>:house:[project](http://geometry.cs.ucl.ac.uk/projects/2022/cnnmaps/)
 * [GLASS: Geometric Latent Augmentation for Shape Spaces](https://arxiv.org/pdf/2108.03225.pdf)<br>:star:[code](https://github.com/sanjeevmk/glass/):house:[project](https://sanjeevmk.github.io/glass_webpage/)
 * [Total Variation Optimization Layers for Computer Vision](https://arxiv.org/abs/2204.03643)
+* [Identifying Ambiguous Similarity Conditions via Semantic Matching](https://arxiv.org/abs/2204.04053)<br>:star:[code](https://github.com/shiy19/DiscoverNet):newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
+* [TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates](https://arxiv.org/abs/2204.03671)
+* [Gravitationally Lensed Black Hole Emission Tomography](https://arxiv.org/abs/2204.03715)<br>:star:[code](https://github.com/aviadlevis/bhnerf):house:[project](http://imaging.cms.caltech.edu/bhnerf/):tv:[video](https://youtu.be/eFPmShxhtg0)
 
 
 ## 论文尚未公布
