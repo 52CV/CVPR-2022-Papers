@@ -7,13 +7,19 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-<br>:open_mouth:oral:star:[code]():house:[project]():tv:[video]()
-<br>:house:[project]():tv:[video]()
-<br>:star:[code]():house:[project]()
-<br>:sunflower:[dataset]()
-<br>:star:[code]()
-<br>:house:[project]()
-:newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
+## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
+
+## 2022 年论文分类汇总戳这里
+↘️[CVPR-2022-Papers](https://github.com/52CV/CVPR-2022-Papers)
+↘️[WACV-2022-Papers](https://github.com/52CV/WACV-2022-Papers)
+
+## 2021年论文分类汇总戳这里
+↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
+↘️[CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
+
+## 2020 年论文分类汇总戳这里
+↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
+↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
 ### ❗❗❗ 4月11日更新 11 篇。
 
