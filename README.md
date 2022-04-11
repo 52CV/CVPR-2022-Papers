@@ -21,12 +21,13 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-### ❗❗❗ 4月11日更新 11 篇。
+### ❗❗❗ 4月11日更新 17 篇。
 
 * 无监督域适应
   * [Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation](https://arxiv.org/abs/2204.03838)<br>:star:[code](https://github.com/xiaoachen98/DALN)
 * 联合学习
   * [CD2-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning](https://arxiv.org/abs/2204.03880)
+  * [Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](https://arxiv.org/pdf/2203.15696.pdf)<br>:star:[code](https://github.com/zhuohangli/GGL)
 * 深度重建
   * [Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection](https://arxiv.org/abs/2204.03929)<br>:star:[code](https://github.com/GrayMask/DHD):house:[project](http://www.ok.sc.e.titech.ac.jp/res/DHD/):tv:[video](https://youtu.be/LgGDqDf034g)
 * Dense Prediction(密集预测)
@@ -43,6 +44,13 @@
   * [Identifying Ambiguous Similarity Conditions via Semantic Matching](https://arxiv.org/abs/2204.04053)<br>:star:[code](https://github.com/shiy19/DiscoverNet):newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
   * [TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates](https://arxiv.org/abs/2204.03671)
   * [Gravitationally Lensed Black Hole Emission Tomography](https://arxiv.org/abs/2204.03715)<br>:star:[code](https://github.com/aviadlevis/bhnerf):house:[project](http://imaging.cms.caltech.edu/bhnerf/):tv:[video](https://youtu.be/eFPmShxhtg0)
+  * [Robust and Accurate Superquadric Recovery: a Probabilistic Approach](https://arxiv.org/abs/2111.14517)<br>:star:[code](https://github.com/bmlklwx/EMS-superquadric_fitting)
+  * [Projective Manifold Gradient Layer for Deep Rotation Regression](https://arxiv.org/abs/2110.11657)<br>:star:[code](https://github.com/JYChen18/RPMG)
+  * [Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale](https://arxiv.org/abs/2204.03514)<br>:star:[code](https://github.com/Ram81/habitat-web)
+* 对比学习
+  * [Cam-Ready: UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning](https://arxiv.org/abs/2203.14542)
+* 神经渲染
+  * [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215)<br>:star:[code](https://github.com/sunset1995/DirectVoxGO)
 
 ### ❗❗❗ 4月8日更新 17 篇。
 
@@ -111,6 +119,7 @@
 * [Learning Motion-Dependent Appearance for High-Fidelity Rendering of Dynamic Humans from a Single Camera](https://arxiv.org/abs/2203.12780)          
 * [IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images](https://arxiv.org/abs/2204.02232)<br>:open_mouth:oral:house:[project](https://kai-46.github.io/IRON-website/)
 * [SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference](https://arxiv.org/abs/2204.02585)
+* [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215)<br>:star:[code](https://github.com/sunset1995/DirectVoxGO)
 
 ## Sound
 * 声源定位
@@ -176,6 +185,8 @@
 
 ## Federated Learning(联合学习)
 * [CD2-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning](https://arxiv.org/abs/2204.03880)
+* [Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](https://arxiv.org/pdf/2203.15696.pdf)<br>:star:[code](https://github.com/zhuohangli/GGL)
+
 
 ## Multi-Task Learning（多任务学习）
 * [Controllable Dynamic Multi-Task Architectures](https://arxiv.org/abs/2203.14949)
@@ -225,6 +236,7 @@
 ## 37.Contrastive Learning(对比学习)
 * [Selective-Supervised Contrastive Learning with Noisy Labels](https://arxiv.org/abs/2203.04181)<br>:star:[code](https://github.com/ShikunLi/Sel-CL):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 * [Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning](https://arxiv.org/abs/2203.14957)<br>:star:[code](https://github.com/minghchen/CARL_code)
+* [Cam-Ready: UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning](https://arxiv.org/abs/2203.14542)
 
 <a name="36"/>
 
@@ -914,14 +926,15 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Identifying Ambiguous Similarity Conditions via Semantic Matching](https://arxiv.org/abs/2204.04053)<br>:star:[code](https://github.com/shiy19/DiscoverNet):newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
 * [TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates](https://arxiv.org/abs/2204.03671)
 * [Gravitationally Lensed Black Hole Emission Tomography](https://arxiv.org/abs/2204.03715)<br>:star:[code](https://github.com/aviadlevis/bhnerf):house:[project](http://imaging.cms.caltech.edu/bhnerf/):tv:[video](https://youtu.be/eFPmShxhtg0)
+* [Robust and Accurate Superquadric Recovery: a Probabilistic Approach](https://arxiv.org/abs/2111.14517)<br>:star:[code](https://github.com/bmlklwx/EMS-superquadric_fitting)
+* [Projective Manifold Gradient Layer for Deep Rotation Regression](https://arxiv.org/abs/2110.11657)<br>:star:[code](https://github.com/JYChen18/RPMG)
+* [Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale](https://arxiv.org/abs/2204.03514)<br>:star:[code](https://github.com/Ram81/habitat-web)
 
 
 ## 论文尚未公布
 [AxIoU: An Axiomatically Justified Measure for Video Moment Retrieval](https://twitter.com/tetsuyasakai/status/1498906899932073984) 
 
 [ID:Cyelie multi-Variate Function for self-supervised image denoising by disentangling noise form image](https://twitter.com/myavartanoo/status/1498908584318767106)
-
-[Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale](https://twitter.com/RamRamrakhya/status/1498865432882733061)
 
 [Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation](https://twitter.com/keio_aolab/status/1498829852656345089)
 
