@@ -27,6 +27,8 @@
   * [Does Robustness on ImageNet Transfer to Downstream Tasks?](https://arxiv.org/abs/2204.03934)
 * 视频对比学习
   * [Probabilistic Representations for Video Contrastive Learning](https://arxiv.org/abs/2204.03946)
+* 视频去噪
+  * [Dancing under the stars: video denoising in starlight](https://arxiv.org/abs/2204.04210)<br>:star:[code](https://github.com/monakhova/starlight_denoising/)
 * RGB-T跟踪
   * [Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline](https://arxiv.org/abs/2204.04120)<br>:house:[project](https://zhang-pengyu.github.io/DUT-VTUAV/):newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
 * 增量学习
