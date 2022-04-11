@@ -7,6 +7,35 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
+<br>:open_mouth:oral:star:[code]():house:[project]():tv:[video]()
+<br>:house:[project]():tv:[video]()
+<br>:star:[code]():house:[project]()
+<br>:sunflower:[dataset]()
+<br>:star:[code]()
+<br>:house:[project]()
+:newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
+
+### ❗❗❗ 4月11日更新  篇。
+
+* 无监督域适应
+  * [Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation](https://arxiv.org/abs/2204.03838)<br>:star:[code](https://github.com/xiaoachen98/DALN)
+* 联合学习
+  * [CD2-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning](https://arxiv.org/abs/2204.03880)
+* 深度重建
+  * [Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection](https://arxiv.org/abs/2204.03929)<br>:star:[code](https://github.com/GrayMask/DHD):house:[project](http://www.ok.sc.e.titech.ac.jp/res/DHD/):tv:[video](https://youtu.be/LgGDqDf034g)
+* Dense Prediction(密集预测)
+  * [Does Robustness on ImageNet Transfer to Downstream Tasks?](https://arxiv.org/abs/2204.03934)
+* 视频对比学习
+  * [Probabilistic Representations for Video Contrastive Learning](https://arxiv.org/abs/2204.03946)
+* RGB-T跟踪
+  * [Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline](https://arxiv.org/abs/2204.04120)<br>:house:[project](https://zhang-pengyu.github.io/DUT-VTUAV/):newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
+* 增量学习
+  * [General Incremental Learning with Domain-aware Categorical Representations](https://arxiv.org/abs/2204.04078)
+* 其它
+  * [Identifying Ambiguous Similarity Conditions via Semantic Matching](https://arxiv.org/abs/2204.04053)<br>:star:[code](https://github.com/shiy19/DiscoverNet):newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
+  * [TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates](https://arxiv.org/abs/2204.03671)
+  * [Gravitationally Lensed Black Hole Emission Tomography](https://arxiv.org/abs/2204.03715)<br>:star:[code](https://github.com/aviadlevis/bhnerf):house:[project](http://imaging.cms.caltech.edu/bhnerf/):tv:[video](https://youtu.be/eFPmShxhtg0)
+
 ### ❗❗❗ 4月8日更新 17 篇。
 
 * 自监督视频表征学习
@@ -180,7 +209,8 @@
 * [Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction](https://arxiv.org/abs/2203.16051)
 
 
-## Light Field(光场)
+## 光学、几何、光场成像
+* Light Field(光场)
   * [Occlusion-Aware Cost Constructor for Light Field Depth Estimation](https://arxiv.org/abs/2203.01576)<br>:star:[code](https://github.com/YingqianWang/OACC-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 
 ## Anomaly Detection(异常检测)
