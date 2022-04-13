@@ -21,6 +21,27 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 4月13日更新 11 篇。
+
+* Transformer
+  * [Are Multimodal Transformers Robust to Missing Modality?](https://arxiv.org/abs/2204.05454)
+* FSL
+  * [Few-shot Learning with Noisy Labels](https://arxiv.org/abs/2204.05494)
+* 文本识别
+  * [Open-set Text Recognition via Character-Context Decoupling](https://arxiv.org/abs/2204.05535)
+* 分割
+  * [NightLab: A Dual-level Architecture with Hardness Detection for Segmentation at Night](https://arxiv.org/abs/2204.05538)<br>:star:[code](https://github.com/xdeng7/NightLab):newspaper:[解读](https://zhuanlan.zhihu.com/p/497769133)
+  * [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/abs/2204.05525)
+  * [Panoptic, Instance and Semantic Relations: A Relational Context Encoder to Enhance Panoptic Segmentation](https://arxiv.org/abs/2204.05370)
+* 目标检测
+  * [HyperDet3D: Learning a Scene-conditioned 3D Object Detector](https://arxiv.org/abs/2204.05599)
+  * [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575)<br>:star:[code](https://github.com/AIR-THU/DAIR-V2X)
+* NAS
+  * [Arch-Graph: Acyclic Architecture Relation Predictor for Task-Transferable Neural Architecture Search](https://arxiv.org/abs/2204.05941)<br>:star:[code](https://github.com/Centaurus982034/Arch-Graph):newspaper:[解读](https://zhuanlan.zhihu.com/p/497769133)
+* 点云
+  * [3DeformRS: Certifying Spatial Deformations on Point Clouds](https://arxiv.org/abs/2204.05687)<br>:star:[code](https://github.com/gaperezsa/3DeformRS)
+* 视频预测
+  * [Continual Predictive Learning from Videos](https://arxiv.org/abs/2204.05624)<br>:open_mouth:oral:star:[code](https://github.com/jc043/CPL)
 
 ### ❗❗❗ 4月12日更新 23 篇。
 * 图像合成
