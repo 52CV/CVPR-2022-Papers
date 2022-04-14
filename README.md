@@ -484,6 +484,7 @@
 * [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/abs/2203.01941)<br>:star:[code](https://github.com/kakaobrain/rq-vae-transformer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
 * [GIRAFFE HD: A High-Resolution 3D-aware Generative Model](https://arxiv.org/abs/2203.14954)
 * [Arbitrary-Scale Image Synthesis](https://arxiv.org/abs/2204.02273)<br>:star:[code](https://github.com/vglsd/ScaleParty):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
+* [Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis](https://arxiv.org/abs/2204.06160)<br>:star:[code](https://github.com/RenYurui/Neural-Texture-Extraction-Distribution):newspaper:[解读](https://zhuanlan.zhihu.com/p/498244289)
 * 文本引导的图像处理
   * [ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation](https://arxiv.org/abs/2204.04428)<br>:open_mouth:oral:house:[project](https://jawang19.github.io/manitrans/)
 * 姿势引导的图像合成
@@ -719,6 +720,7 @@
 ## 10.3D(三维视觉)
 * [Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images](https://arxiv.org/abs/2203.15926)
 * [Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows](https://arxiv.org/abs/2204.02509)<br>:star:[code](https://github.com/amazon-research/small-baseline-camera-tracking)
+* [3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection](https://arxiv.org/abs/2204.06272)<br>:open_mouth:oral:star:[code](https://github.com/fjhzhixi/3D-SPS):newspaper:[解读](https://zhuanlan.zhihu.com/p/498244289)
 * Stereo Merging
   * [PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation](https://arxiv.org/abs/2203.15965)
   * [GraftNet: Towards Domain Generalized Stereo Matching with a Broad-Spectrum and Task-Oriented Feature](https://arxiv.org/abs/2204.00179)<br>:star:[code](https://github.com/SpadeLiu/Graft-PSMNet)
@@ -750,6 +752,7 @@
 <a name="9"/>
 
 ## 9.Human Pose Estimation(人体姿态估计)
+* [COAP: Compositional Articulated Occupancy of People](https://arxiv.org/abs/2204.06184)<br>:star:[code](https://github.com/markomih/COAP):house:[project](https://neuralbodies.github.io/COAP/index.html):tv:[video](https://www.youtube.com/watch?v=qU0q5h6IldU):newspaper:[解读](https://zhuanlan.zhihu.com/p/498244289)
 * 基于视频的HPE
   * [Temporal Feature Alignment and Mutual Information Maximization for Video-Based Human Pose Estimation](https://arxiv.org/abs/2203.15227)<br>::oral:star:[code](https://github.com/Pose-Group/FAMI-Pose)
 * 3D pose
@@ -918,7 +921,7 @@
   * [Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond](https://arxiv.org/abs/2203.16931)<br>:star:[code](https://github.com/yuyi-sd/Robust_Rain_Removal)
 * 图像去模糊
   * [Learning to Deblur using Light Field Generated and Real Defocus Images](https://arxiv.org/abs/2204.00367)<br>:star:[code](https://github.com/lingyanruan/DRBNet):house:[project](http://lyruan.com/Projects/DRBNet/)
-
+ 
 <a name="2"/>
 
 ## 2.Image Segmentation(图像分割)
@@ -929,6 +932,7 @@
   * [E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation](https://arxiv.org/abs/2203.04074)<br>:star:[code](https://github.com/zhang-tao-whu/e2ec):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
   * [Sparse Instance Activation for Real-Time Instance Segmentation](https://arxiv.org/abs/2203.12827)<br>:star:[code](https://github.com/hustvl/SparseInst)   
   * [SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation](https://arxiv.org/abs/2203.13312)<br>:house:[project](https://xyzhang17.github.io/SharpContour/)   
+  * [Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity](https://arxiv.org/abs/2204.06107)<br>:star:[code](https://github.com/facebookresearch/Generic-Grouping):house:[project](https://sites.google.com/view/generic-grouping/)
   * 半监督实例分割
     * [Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?](https://arxiv.org/abs/2203.13427)
   * 3D 实例分割
@@ -1055,7 +1059,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale](https://arxiv.org/abs/2204.03514)<br>:star:[code](https://github.com/Ram81/habitat-web)
 * [Single-Photon Structured Light](https://arxiv.org/abs/2204.05300)
 * [Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention](https://arxiv.org/abs/2204.04601)<br>:open_mouth:oral:star:[code](https://github.com/YuYang0901/LaViSE)
-
+* [Defensive Patches for Robust Recognition in the Physical World](https://arxiv.org/abs/2204.06213)<br>:star:[code](https://github.com/nlsde-safety-team/DefensivePatch):newspaper:[解读](https://zhuanlan.zhihu.com/p/498244289)
 
 
 ## 论文尚未公布
