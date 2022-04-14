@@ -23,6 +23,15 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+* 分割
+  * [Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity](https://arxiv.org/abs/2204.06107)<br>:star:[code](https://github.com/facebookresearch/Generic-Grouping):house:[project](https://sites.google.com/view/generic-grouping/)
+* 姿态
+  * [COAP: Compositional Articulated Occupancy of People](https://arxiv.org/abs/2204.06184)<br>:star:[code](https://github.com/markomih/COAP):house:[project](https://neuralbodies.github.io/COAP/index.html):tv:[video](https://www.youtube.com/watch?v=qU0q5h6IldU):newspaper:[解读](https://zhuanlan.zhihu.com/p/498244289)
+* 3D
+  * [3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection](https://arxiv.org/abs/2204.06272)<br>:open_mouth:oral:star:[code](https://github.com/fjhzhixi/3D-SPS):newspaper:[解读](https://zhuanlan.zhihu.com/p/498244289)
+* 防御
+  * [Defensive Patches for Robust Recognition in the Physical World](https://arxiv.org/abs/2204.06213)<br>:star:[code](https://github.com/nlsde-safety-team/DefensivePatch):newspaper:[解读](https://zhuanlan.zhihu.com/p/498244289)
+
 ### ❗❗❗ 4月13日更新 12 篇。
 
 * 域泛化
