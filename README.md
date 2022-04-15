@@ -908,7 +908,6 @@
   * [Few-Shot Object Detection with Fully Cross-Transformer](https://arxiv.org/abs/2203.15021)
 * 目标定位
   * [Weakly Supervised Object Localization as Domain Adaption](https://arxiv.org/abs/2203.01714)<br>:star:[code](https://github.com/zh460045050/DA-WSOL_CVPR2022):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-  * [Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation](https://arxiv.org/abs/2203.13505)
   * [Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization](https://arxiv.org/abs/2204.00220)
 * 3D目标检测
   * [A Versatile Multi-View Framework for LiDAR-based 3D Object Detection with Guidance from Panoptic Segmentation](https://arxiv.org/abs/2203.02133)
@@ -992,10 +991,9 @@
   * 弱监督语义分割
     * [Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2203.00962)<br>:star:[code](https://github.com/zhaozhengChen/ReCAM):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
     * [Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02909)<br>:star:[code](https://github.com/chenqi1126/SIPE)
-    * [CCAM: Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation](https://arxiv.org/abs/2203.13505)<br>:star:[code](https://github.com/CVI-SZU/CCAM)
-    * [CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02668)<br>:star:[code](https://github.com/CVI-SZU/CLIMS)
+    * [Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation](https://arxiv.org/abs/2203.13505)<br>:star:[code](https://github.com/CVI-SZU/CCAM)
+    * [Cross Language Image Matching for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02668)<br>:star:[code](https://github.com/CVI-SZU/CLIMS)
     * [Multi-class Token Transformer for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02891)<br>:star:[code](https://github.com/xulianuwa/MCTformer)
-    * [Cross Language Image Matching for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02668)
     * [Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers](https://arxiv.org/abs/2203.02664)<br>:star:[code](https://github.com/rulixiang/afa)
     * [Weakly Supervised Semantic Segmentation using Out-of-Distribution Data](https://arxiv.org/abs/2203.03860)<br>:star:[code](https://github.com/naver-ai/w-ood):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
     * [L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2204.03206)<br>:star:[code](https://github.com/PengtaoJiang/L2G)
