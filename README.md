@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外下载可在【我爱计算机视觉】后台回复“paper”，即可收到。已收录 483 篇。
+### ❣❣❣另外下载可在【我爱计算机视觉】后台回复“paper”，即可收到。已收录 488+12 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,31 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+### ❗❗❗ 4月15日更新 12 篇。
+
+* 目标检测
+  * [OccAM's Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data](https://arxiv.org/abs/2204.06577)<br>:star:[code](https://github.com/dschinagl/occam)
+* 渲染
+  * [Modeling Indirect Illumination for Inverse Rendering](https://arxiv.org/abs/2204.06837)<br>:star:[code](https://github.com/zju3dv/invrender):house:[project](https://zju3dv.github.io/invrender/)
+* reid
+  * [Implicit Sample Extension for Unsupervised Person Re-Identification](https://arxiv.org/abs/2204.06892)<br>:star:[code](https://github.com/PaddlePaddle/PaddleClas):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
+  * [Clothes-Changing Person Re-identification with RGB Modality Only](https://arxiv.org/abs/2204.06890)<br>:star:[code](https://github.com/guxinqian/Simple-CCReID):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
+* HOI跟踪
+  * [BEHAVE: Dataset and Method for Tracking Human Object Interactions](https://arxiv.org/abs/2204.06950)<br>:house:[project](http://virtualhumans.mpi-inf.mpg.de/behave/)
+* 视频超分辨率
+  * [Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling](https://arxiv.org/abs/2204.07114)
+* 视频分解
+  * [Deformable Sprites for Unsupervised Video Decomposition](https://arxiv.org/abs/2204.07151)<br>:open_mouth:oral:house:[project](https://deformable-sprites.github.io/)
+* 三维重建
+  * [What's in your hands? 3D Reconstruction of Generic Objects in Hands](https://arxiv.org/abs/2204.07153)<br>:star:[code](https://github.com/JudyYe/ihoi):house:[project](https://judyye.github.io/ihoi/):tv:[video](https://youtu.be/-hHlkWwENiI):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
+  * [GIFS: Neural Implicit Function for General Shape Representation](https://arxiv.org/abs/2204.07126)<br>:house:[project](https://jianglongye.com/gifs/)
+* Transformer
+  * [MiniViT: Compressing Vision Transformers with Weight Multiplexing](https://arxiv.org/abs/2204.07154)
+* 分割
+  * [Joint Forecasting of Panoptic Segmentations with Difference Attention](https://arxiv.org/abs/2204.07157)<br>:star:[code](https://github.com/cgraber/psf-diffattn):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
+  * [Cross-Image Relational Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/2204.06986)<br>:star:[code](https://github.com/winycg/CIRKD):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
+
 
 ### ❗❗❗ 4月14日更新 5 篇。
 
@@ -204,6 +229,8 @@
 * [IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images](https://arxiv.org/abs/2204.02232)<br>:open_mouth:oral:house:[project](https://kai-46.github.io/IRON-website/)
 * [SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference](https://arxiv.org/abs/2204.02585)
 * [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215)<br>:star:[code](https://github.com/sunset1995/DirectVoxGO)
+* [Modeling Indirect Illumination for Inverse Rendering](https://arxiv.org/abs/2204.06837)<br>:star:[code](https://github.com/zju3dv/invrender):house:[project](https://zju3dv.github.io/invrender/)
+
 
 ## Sound
 * 声源定位
@@ -368,6 +395,8 @@
 * [D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions](https://arxiv.org/abs/2112.03028)<br>:house:[code](https://eth-ait.github.io/d-grasp/)
 * [What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions](https://arxiv.org/abs/2204.00746)<br>:open_mouth:oral
 * [Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection](https://arxiv.org/abs/2204.04836)<br>:star:[code](https://github.com/mlvlab/CPChoi):newspaper:[解读](https://zhuanlan.zhihu.com/p/497009845)
+* HOI跟踪
+  * [BEHAVE: Dataset and Method for Tracking Human Object Interactions](https://arxiv.org/abs/2204.06950)<br>:house:[project](http://virtualhumans.mpi-inf.mpg.de/behave/)
 
 <a name="32"/>
 
@@ -535,6 +564,9 @@
   * [Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification](https://arxiv.org/abs/2203.15210)
   * [Large-Scale Pre-training for Person Re-identification with Noisy Labels](https://arxiv.org/abs/2203.16533)<br>:star:[code](https://github.com/DengpanFu/LUPerson-NL)
   * [Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification](https://arxiv.org/abs/2204.02611)<br>:star:[code](https://github.com/Yanan-Wang-cs/ClonedPerson)
+  * [Implicit Sample Extension for Unsupervised Person Re-Identification](https://arxiv.org/abs/2204.06892)<br>:star:[code](https://github.com/PaddlePaddle/PaddleClas):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
+  * 换装行人重识别
+    * [Clothes-Changing Person Re-identification with RGB Modality Only](https://arxiv.org/abs/2204.06890)<br>:star:[code](https://github.com/guxinqian/Simple-CCReID):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * 遮挡行人重识别
     * [Feature Erasing and Diffusion Network for Occluded Person Re-Identification](https://arxiv.org/abs/2112.08740)
 * 人群计数
@@ -586,6 +618,7 @@
 * [Deformable Video Transformer](https://arxiv.org/abs/2203.16795)
 * [MixFormer: Mixing Features across Windows and Dimensions](https://arxiv.org/abs/2204.02557)<br>:open_mouth:oral:star:[code](https://github.com/PaddlePaddle/PaddleClas):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
 * [Are Multimodal Transformers Robust to Missing Modality?](https://arxiv.org/abs/2204.05454)
+* [MiniViT: Compressing Vision Transformers with Weight Multiplexing](https://arxiv.org/abs/2204.07154)
 * 形状补全
   * [ShapeFormer: Transformer-based Shape Completion via Sparse Representation](https://arxiv.org/abs/2201.10326)<br>:star:[code](https://github.com/qheldiv/shapeformer):house:[project](https://shapeformer.github.io/)
 
@@ -648,6 +681,7 @@
     * [Learning Trajectory-Aware Transformer for Video Super-Resolution](https://arxiv.org/abs/2204.04216)<br>:open_mouth:oral:star:[code](https://github.com/researchmm/TTVSR)
     * [Investigating Tradeoffs in Real-World Video Super-Resolution](https://arxiv.org/pdf/2111.12704.pdf)<br>:star:[code](https://github.com/ckkelvinchan/RealBasicVSR):newspaper:[解读](https://zhuanlan.zhihu.com/p/437498177)
     * [BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment](https://arxiv.org/abs/2104.13371)<br>:star:[code](https://github.com/open-mmlab/mmediting):house:[project](https://ckkelvinchan.github.io/projects/BasicVSR++/):tv:[video](https://youtu.be/iIDml09CUc4)<br>🏆NTIRE 2021年视频修复和增强挑战赛冠军
+    * [Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling](https://arxiv.org/abs/2204.07114)
   * 视频恢复
     * [Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature](https://arxiv.org/abs/2204.00974)<br>:star:[code](https://github.com/lightChaserX/neural-global-shutter)
   * 视频修复
@@ -665,6 +699,8 @@
   * [Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency](https://arxiv.org/abs/2204.03017)
   * 视频对比学习
     * [Probabilistic Representations for Video Contrastive Learning](https://arxiv.org/abs/2204.03946)
+* 视频分解
+  * [Deformable Sprites for Unsupervised Video Decomposition](https://arxiv.org/abs/2204.07151)<br>:open_mouth:oral:house:[project](https://deformable-sprites.github.io/)
 
 <a name="13"/>
 
@@ -740,10 +776,12 @@
   * [RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo](https://arxiv.org/abs/2204.01320)
 * 三维重建
   * [Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction](https://arxiv.org/abs/2204.03642)<br>:star:[code](https://github.com/shubhtuls/ss3d/):house:[project](https://shubhtuls.github.io/ss3d/):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
+  * [What's in your hands? 3D Reconstruction of Generic Objects in Hands](https://arxiv.org/abs/2204.07153)<br>:star:[code](https://github.com/JudyYe/ihoi):house:[project](https://judyye.github.io/ihoi/):tv:[video](https://youtu.be/-hHlkWwENiI):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * 三维服装网格重建
     * [Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images](https://arxiv.org/abs/2203.15007)<br>:house:[project](https://kv2000.github.io/2022/03/28/reef/)
   * 三维形状重建
     * [3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow](https://arxiv.org/abs/2203.15190)
+    * [GIFS: Neural Implicit Function for General Shape Representation](https://arxiv.org/abs/2204.07126)<br>:house:[project](https://jianglongye.com/gifs/)
 * 三维服装变形
   * [SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/abs/2204.02219)<br>:open_mouth:oral:star:[code](https://github.com/isantesteban/snug)
 * 纹理迁移与合成
@@ -883,6 +921,7 @@
   * [Homography Loss for Monocular 3D Object Detection](https://arxiv.org/abs/2204.00754)
   * [HyperDet3D: Learning a Scene-conditioned 3D Object Detector](https://arxiv.org/abs/2204.05599)
   * [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575)<br>:star:[code](https://github.com/AIR-THU/DAIR-V2X)
+  * [OccAM's Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data](https://arxiv.org/abs/2204.06577)<br>:star:[code](https://github.com/dschinagl/occam) 
 * 伪装目标检测
   * [Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection](https://arxiv.org/abs/2203.02688)<br>:star:[code](https://github.com/lartpang/ZoomNet)
 * 全监督目标检测
@@ -949,6 +988,7 @@
   * [Threshold Matters in WSSS: Manipulating the Activation for the Robust and Accurate Segmentation Model Against Thresholds](https://arxiv.org/abs/2203.16045)
   * [NightLab: A Dual-level Architecture with Hardness Detection for Segmentation at Night](https://arxiv.org/abs/2204.05538)<br>:star:[code](https://github.com/xdeng7/NightLab):newspaper:[解读](https://zhuanlan.zhihu.com/p/497769133)
   * [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/abs/2204.05525)
+  * [Cross-Image Relational Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/2204.06986)<br>:star:[code](https://github.com/winycg/CIRKD):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * 弱监督语义分割
     * [Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2203.00962)<br>:star:[code](https://github.com/zhaozhengChen/ReCAM):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
     * [Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02909)<br>:star:[code](https://github.com/chenqi1126/SIPE)
@@ -972,6 +1012,7 @@
   * [FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation](https://arxiv.org/abs/2204.01587)<br>:open_mouth:oral
 * 全景分割
   * [Panoptic, Instance and Semantic Relations: A Relational Context Encoder to Enhance Panoptic Segmentation](https://arxiv.org/abs/2204.05370)
+  * [Joint Forecasting of Panoptic Segmentations with Difference Attention](https://arxiv.org/abs/2204.07157)<br>:star:[code](https://github.com/cgraber/psf-diffattn):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
 
 <a name="1"/>
 
