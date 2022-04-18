@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外下载可在【我爱计算机视觉】后台回复“paper”，即可收到。已收录 488+12 篇。
+### ❣❣❣另外下载可在[【我爱计算机视觉】微信公众号](https://52cv.net/qrcode_for_52cv_new.jpg)后台回复“paper”，即可收到。已收录 488+12 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
