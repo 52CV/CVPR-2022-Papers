@@ -23,6 +23,30 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+
+<br>:open_mouth:oral:star:[code]():house:[project]():tv:[video]()
+<br>:house:[project]():tv:[video]()
+<br>:star:[code]():house:[project]()
+<br>:sunflower:[dataset]()
+<br>:star:[code]()
+<br>:house:[project]()
+:newspaper:[解读](https://zhuanlan.zhihu.com/p/501585273)
+### ❗❗❗ 4月20日更新 7 篇。
+
+* 关键点检测
+  * [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613)
+* Transformer
+  * [Multimodal Token Fusion for Vision Transformers](https://arxiv.org/abs/2204.08721)
+  * [Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer](https://arxiv.org/abs/2204.08680)<br>:open_mouth:oral:star:[code](https://github.com/zengwang430521/TCFormer):newspaper:[解读](https://zhuanlan.zhihu.com/p/501585273)
+* 图像质量评估
+  * [Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment](https://arxiv.org/abs/2204.08763)<br>:star:[code](https://github.com/happycaoyue/JSPL):newspaper:[解读](https://zhuanlan.zhihu.com/p/501585273)
+* 3D
+  * [Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing](https://arxiv.org/abs/2204.08906)<br>:house:[project](https://phorhum.github.io/)
+* Reid
+  * [Graph Sampling Based Deep Metric Learning for Generalizable Person Re-Identification](https://arxiv.org/abs/2104.01546)<br>:star:[code](https://github.com/ShengcaiLiao/QAConv)
+* 其它
+  * [Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data](https://arxiv.org/abs/2204.08932)
+
 ### ❗❗❗ 4月19日更新 14 篇。
 * 深度估计
   * [Multi-Frame Self-Supervised Depth with Transformers](https://arxiv.org/abs/2204.07616)
@@ -448,6 +472,7 @@
   * [Large-Scale Pre-training for Person Re-identification with Noisy Labels](https://arxiv.org/abs/2203.16533)<br>:star:[code](https://github.com/DengpanFu/LUPerson-NL)
   * [Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification](https://arxiv.org/abs/2204.02611)<br>:star:[code](https://github.com/Yanan-Wang-cs/ClonedPerson)
   * [Implicit Sample Extension for Unsupervised Person Re-Identification](https://arxiv.org/abs/2204.06892)<br>:star:[code](https://github.com/PaddlePaddle/PaddleClas):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
+  * [Graph Sampling Based Deep Metric Learning for Generalizable Person Re-Identification](https://arxiv.org/abs/2104.01546)<br>:star:[code](https://github.com/ShengcaiLiao/QAConv)
   * 换装行人重识别
     * [Clothes-Changing Person Re-identification with RGB Modality Only](https://arxiv.org/abs/2204.06890)<br>:star:[code](https://github.com/guxinqian/Simple-CCReID):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * 遮挡行人重识别
@@ -502,6 +527,8 @@
 * [MixFormer: Mixing Features across Windows and Dimensions](https://arxiv.org/abs/2204.02557)<br>:open_mouth:oral:star:[code](https://github.com/PaddlePaddle/PaddleClas):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
 * [Are Multimodal Transformers Robust to Missing Modality?](https://arxiv.org/abs/2204.05454)
 * [MiniViT: Compressing Vision Transformers with Weight Multiplexing](https://arxiv.org/abs/2204.07154)
+* [Multimodal Token Fusion for Vision Transformers](https://arxiv.org/abs/2204.08721)
+* [Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer](https://arxiv.org/abs/2204.08680)<br>:open_mouth:oral:star:[code](https://github.com/zengwang430521/TCFormer):newspaper:[解读](https://zhuanlan.zhihu.com/p/501585273)
 * 形状补全
   * [ShapeFormer: Transformer-based Shape Completion via Sparse Representation](https://arxiv.org/abs/2201.10326)<br>:star:[code](https://github.com/qheldiv/shapeformer):house:[project](https://shapeformer.github.io/)
 
@@ -666,7 +693,8 @@
   * [What's in your hands? 3D Reconstruction of Generic Objects in Hands](https://arxiv.org/abs/2204.07153)<br>:star:[code](https://github.com/JudyYe/ihoi):house:[project](https://judyye.github.io/ihoi/):tv:[video](https://youtu.be/-hHlkWwENiI):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * 三维服装网格重建
     * [Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images](https://arxiv.org/abs/2203.15007)<br>:house:[project](https://kv2000.github.io/2022/03/28/reef/)
-  * 三维形状重建
+    * [Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing](https://arxiv.org/abs/2204.08906)<br>:house:[project](https://phorhum.github.io/)
+ * 三维形状重建
     * [3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow](https://arxiv.org/abs/2203.15190)
     * [GIFS: Neural Implicit Function for General Shape Representation](https://arxiv.org/abs/2204.07126)<br>:house:[project](https://jianglongye.com/gifs/)
 * 三维服装变形
@@ -819,6 +847,8 @@
   * [Dense Learning based Semi-Supervised Object Detection](https://arxiv.org/abs/2204.07300)<br>:star:[code](https://github.com/chenbinghui1/DSL):newspaper:[解读](https://zhuanlan.zhihu.com/p/500351469) 
 * 显著目标检测
   * [Pyramid Grafting Network for One-Stage High Resolution Saliency Detection](https://arxiv.org/abs/2204.05041)<br>:star:[code](https://github.com/iCVTEAM/PGNet):newspaper:[解读](https://zhuanlan.zhihu.com/p/497009845)
+* 关键点检测
+  * [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613)
 
 <a name="4"/>
 
@@ -839,19 +869,21 @@
   * [MAT: Mask-Aware Transformer for Large Hole Image Inpainting](https://arxiv.org/abs/2203.15270)<br>:star:[code](https://github.com/fenglinglwb/MAT)
 * 图像拼接
   * [Deep Rectangling for Image Stitching: A Learning Baseline](https://arxiv.org/abs/2203.03831)<br>:star:[code](https://github.com/nie-lang/DeepRectangling):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
-* 图像去噪
-  * [CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image](https://arxiv.org/pdf/2203.13009.pdf)<br>:star:[code](https://github.com/Reyhanehne/CVF-SID_PyTorch)
-  * [NAN: Noise-Aware NeRFs for Burst-Denoising](https://arxiv.org/abs/2204.04668)
 * 运动去模糊
   * [Unifying Motion Deblurring and Frame Interpolation with Events](https://arxiv.org/abs/2203.12178)
 * image outpainting
   * [Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation](https://arxiv.org/abs/2203.14668)<br>:house:[project](https://akmtn.github.io/omni-dreamer/)
 * 图像美学评估
   * [Personalized Image Aesthetics Assessment with Rich Attributes](https://arxiv.org/abs/2203.16754)<br>:house:[project](https://cv-datasets.institutecv.com/#/data-sets)
+* 图像质量评估
+  * [Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment](https://arxiv.org/abs/2204.08763)<br>:star:[code](https://github.com/happycaoyue/JSPL):newspaper:[解读](https://zhuanlan.zhihu.com/p/501585273) 
 * 图像去雨
   * [Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond](https://arxiv.org/abs/2203.16931)<br>:star:[code](https://github.com/yuyi-sd/Robust_Rain_Removal)
 * 图像去模糊
   * [Learning to Deblur using Light Field Generated and Real Defocus Images](https://arxiv.org/abs/2204.00367)<br>:star:[code](https://github.com/lingyanruan/DRBNet):house:[project](http://lyruan.com/Projects/DRBNet/)
+* 图像去噪
+  * [CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image](https://arxiv.org/pdf/2203.13009.pdf)<br>:star:[code](https://github.com/Reyhanehne/CVF-SID_PyTorch)
+  * [NAN: Noise-Aware NeRFs for Burst-Denoising](https://arxiv.org/abs/2204.04668) 
  
 <a name="2"/>
 
@@ -998,6 +1030,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Defensive Patches for Robust Recognition in the Physical World](https://arxiv.org/abs/2204.06213)<br>:star:[code](https://github.com/nlsde-safety-team/DefensivePatch):newspaper:[解读](https://zhuanlan.zhihu.com/p/498244289)
 * [Event-aided Direct Sparse Odometry](https://arxiv.org/abs/2204.07640)<br>:open_mouth:oral:star:[code](https://github.com/uzh-rpg/eds-buildconf):house:[project](https://rpg.ifi.uzh.ch/eds.html):tv:[video](https://www.youtube.com/watch?v=ymnAWgfYj6Y&feature=youtu.be)
 * [Deep Unlearning via Randomized Conditionally Independent Hessians](https://arxiv.org/abs/2204.07655)<br>:star:[code](https://github.com/vsingh-group/LCODEC-deep-unlearning)
+* [Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data](https://arxiv.org/abs/2204.08932)
 
 
 
