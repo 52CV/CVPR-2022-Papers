@@ -23,14 +23,19 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 4月21日更新 5 篇。
 
-<br>:open_mouth:oral:star:[code]():house:[project]():tv:[video]()
-<br>:house:[project]():tv:[video]()
-<br>:star:[code]():house:[project]()
-<br>:sunflower:[dataset]()
-<br>:star:[code]()
-<br>:house:[project]()
-:newspaper:[解读](https://zhuanlan.zhihu.com/p/501585273)
+* VLN
+  * [Reinforced Structured State-Evolution for Vision-Language Navigation](https://arxiv.org/abs/2204.09280)<br>:star:[code](https://github.com/chenjinyubuaa/SEvol):newspaper:[解读](https://zhuanlan.zhihu.com/p/502240740)
+* HOI
+  * [Human-Object Interaction Detection via Disentangled Transformer](https://arxiv.org/abs/2204.09290)
+* reid
+  * [NFormer: Robust Person Re-identification with Neighbor Transformer](https://arxiv.org/abs/2204.09331)<br>:star:[code](https://github.com/haochenheheda/NFormer):newspaper:[解读](https://zhuanlan.zhihu.com/p/502240740)
+* 视线估计
+  * [GazeOnce: Real-Time Multi-Person Gaze Estimation](https://arxiv.org/abs/2204.09480)
+* 数据集
+  * [Hephaestus: A large scale multitask dataset towards InSAR understanding](https://arxiv.org/abs/2204.09435)
+
 ### ❗❗❗ 4月20日更新 7 篇。
 
 * 关键点检测
@@ -47,49 +52,6 @@
 * 其它
   * [Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data](https://arxiv.org/abs/2204.08932)
 
-### ❗❗❗ 4月19日更新 14 篇。
-* 深度估计
-  * [Multi-Frame Self-Supervised Depth with Transformers](https://arxiv.org/abs/2204.07616)
-* 域适应
-  * [Safe Self-Refinement for Transformer-based Domain Adaptation](https://arxiv.org/abs/2204.07683)<br>:star:[code](https://github.com/tsun/SSRT):newspaper:[解读](https://zhuanlan.zhihu.com/p/501027339)
-* 其它
-  * [Event-aided Direct Sparse Odometry](https://arxiv.org/abs/2204.07640)<br>:open_mouth:oral:star:[code](https://github.com/uzh-rpg/eds-buildconf):house:[project](https://rpg.ifi.uzh.ch/eds.html):tv:[video](https://www.youtube.com/watch?v=ymnAWgfYj6Y&feature=youtu.be)
-  * [Deep Unlearning via Randomized Conditionally Independent Hessians](https://arxiv.org/abs/2204.07655)<br>:star:[code](https://github.com/vsingh-group/LCODEC-deep-unlearning)
-* 图像字幕
-  * [It is Okay to Not Be Okay: Overcoming Emotional Bias in Affective Image Captioning by Contrastive Data Collection](https://arxiv.org/abs/2204.07660)<br>:star:[code](https://github.com/Vision-CAIR/artemis-v2):house:[project](https://www.artemisdataset-v2.org/)
-* 场景文本识别
-  * [Pushing the Performance Limit of Scene Text Recognizer without Human Annotation](https://arxiv.org/abs/2204.07714)
-* HOI
-  * [Interactiveness Field in Human-Object Interactions](https://arxiv.org/abs/2204.07718)<br>:star:[code](https://github.com/Foruck/Interactiveness-Field)
-* 目标检测
-  * [Entropy-based Active Learning for Object Detection with Progressive Diversity Constraint](https://arxiv.org/abs/2204.07965)
-  * [Target-Relevant Knowledge Preservation for Multi-Source Domain Adaptive Object Detection](https://arxiv.org/abs/2204.07964)
-* 数据集
-  * [Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding](https://arxiv.org/abs/2204.08129)<br>:open_mouth:oral:house:[project](https://sutdcv.github.io/Animal-Kingdom/):sunflower:[dataset](https://github.com/SUTDCV/Animal-Kingdom)动物行为理解
-* 点云
-  * [Self-Supervised Arbitrary-Scale Point Clouds Upsampling via Implicit Neural Representation](https://arxiv.org/abs/2204.08196)<br>:star:[code](https://github.com/xnowbzhao/sapcu):newspaper:[解读](https://zhuanlan.zhihu.com/p/501027339)
-* Deepfake检测
-  * [Detecting Deepfakes with Self-Blended Images](https://arxiv.org/abs/2204.08376)<br>:open_mouth:oral:star:[code](https://github.com/mapooon/SelfBlendedImages)
-* 视频实例分割
-  * [Temporally Efficient Vision Transformer for Video Instance Segmentation](https://arxiv.org/abs/2204.08412)<br>:open_mouth:oral:star:[code](https://github.com/hustvl/TeViT):newspaper:[解读](https://zhuanlan.zhihu.com/p/501027339)
-* 光流估计
-  * [Deep Equilibrium Optical Flow Estimation](https://arxiv.org/abs/2204.08442)<br>:star:[code](https://github.com/locuslab/deq-flow):newspaper:[解读](https://zhuanlan.zhihu.com/p/501027339)
-
-
-### ❗❗❗ 4月18日更新 6 篇。
- 
-* Video-QA
-  * [Measuring Compositional Consistency for Video Question Answering](https://arxiv.org/abs/2204.07190) 
-* 光流估计
-  * [Imposing Consistency for Optical Flow Estimation](https://arxiv.org/abs/2204.07262)
-* 目标检测
-  * [Dense Learning based Semi-Supervised Object Detection](https://arxiv.org/abs/2204.07300)<br>:star:[code](https://github.com/chenbinghui1/DSL):newspaper:[解读](https://zhuanlan.zhihu.com/p/500351469)
-* 车道线检测
-  * [A Keypoint-based Global Association Network for Lane Detection](https://arxiv.org/abs/2204.07335)<br>:star:[code](https://github.com/Wolfwjs/GANet):newspaper:[解读](https://zhuanlan.zhihu.com/p/500351469)
-* 小样本
-  * [Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference](https://arxiv.org/abs/2204.07305)<br>:house:[project](https://hushell.github.io/pmf/):tv:[video](https://youtu.be/iEC9lh18laQ)
-* 分割
-  * [Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation](https://arxiv.org/abs/2204.07548)<br>:open_mouth:oral:star:[code](https://github.com/drprojects/DeepViewAgg):newspaper:[解读](https://zhuanlan.zhihu.com/p/500351469)
 
 ## 目录
 
@@ -126,6 +88,9 @@
 * [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215)<br>:star:[code](https://github.com/sunset1995/DirectVoxGO)
 * [Modeling Indirect Illumination for Inverse Rendering](https://arxiv.org/abs/2204.06837)<br>:star:[code](https://github.com/zju3dv/invrender):house:[project](https://zju3dv.github.io/invrender/)
 
+## Gaze Estimation(视线估计)
+* [GazeOnce: Real-Time Multi-Person Gaze Estimation](https://arxiv.org/abs/2204.09480)
+
 
 ## Sound
 * 声源定位
@@ -142,11 +107,12 @@
 * [ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer](https://arxiv.org/abs/2204.02389)<br>:star:[code](https://github.com/rhgao/ObjectFolder):house:[project](https://ai.stanford.edu/~rhgao/objectfolder2.0/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
 * [Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities](https://arxiv.org/abs/2203.14712)
 * [3MASSIV: Multilingual, Multimodal and Multi-Aspect dataset of Social Media Short Videos](https://arxiv.org/abs/2203.14456)
+* [Hephaestus: A large scale multitask dataset towards InSAR understanding](https://arxiv.org/abs/2204.09435)
 * 卫星数据集
   * [DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation](https://arxiv.org/abs/2203.12560)
 * 动物行为理解数据集
   * [Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding](https://arxiv.org/abs/2204.08129)<br>:open_mouth:oral:house:[project](https://sutdcv.github.io/Animal-Kingdom/):sunflower:[dataset](https://github.com/SUTDCV/Animal-Kingdom) 
- 
+
 ## Sign Language Translation(手语翻译)
   * [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](https://arxiv.org/abs/2203.04287)
 
@@ -296,11 +262,11 @@
 * [OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction](https://arxiv.org/abs/2203.15709)<br>:star:[code](https://github.com/lixiny/OakInk)
 * [D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions](https://arxiv.org/abs/2112.03028)<br>:house:[code](https://eth-ait.github.io/d-grasp/)
 * [What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions](https://arxiv.org/abs/2204.00746)<br>:open_mouth:oral
+* [Human-Object Interaction Detection via Disentangled Transformer](https://arxiv.org/abs/2204.09290)
 * [Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection](https://arxiv.org/abs/2204.04836)<br>:star:[code](https://github.com/mlvlab/CPChoi):newspaper:[解读](https://zhuanlan.zhihu.com/p/497009845)
 * [Interactiveness Field in Human-Object Interactions](https://arxiv.org/abs/2204.07718)<br>:star:[code](https://github.com/Foruck/Interactiveness-Field)
 * HOI跟踪
   * [BEHAVE: Dataset and Method for Tracking Human Object Interactions](https://arxiv.org/abs/2204.06950)<br>:house:[project](http://virtualhumans.mpi-inf.mpg.de/behave/)
-
 
 <a name="32"/>
 
@@ -319,7 +285,8 @@
 * VLN
   * [EnvEdit: Environment Editing for Vision-and-Language Navigation](https://arxiv.org/abs/2203.15685)<br>:star:[code](https://github.com/jialuli-luka/EnvEdit)
   * [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation](https://arxiv.org/abs/2203.16586)
-
+  * [Reinforced Structured State-Evolution for Vision-Language Navigation](https://arxiv.org/abs/2204.09280)<br>:star:[code](https://github.com/chenjinyubuaa/SEvol):newspaper:[解读](https://zhuanlan.zhihu.com/p/502240740)
+ 
 <a name="30"/>
 
 ## 30.Visual Answer Questions(视觉问答)
@@ -473,6 +440,7 @@
   * [Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification](https://arxiv.org/abs/2204.02611)<br>:star:[code](https://github.com/Yanan-Wang-cs/ClonedPerson)
   * [Implicit Sample Extension for Unsupervised Person Re-Identification](https://arxiv.org/abs/2204.06892)<br>:star:[code](https://github.com/PaddlePaddle/PaddleClas):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * [Graph Sampling Based Deep Metric Learning for Generalizable Person Re-Identification](https://arxiv.org/abs/2104.01546)<br>:star:[code](https://github.com/ShengcaiLiao/QAConv)
+  * [NFormer: Robust Person Re-identification with Neighbor Transformer](https://arxiv.org/abs/2204.09331)<br>:star:[code](https://github.com/haochenheheda/NFormer):newspaper:[解读](https://zhuanlan.zhihu.com/p/502240740)
   * 换装行人重识别
     * [Clothes-Changing Person Re-identification with RGB Modality Only](https://arxiv.org/abs/2204.06890)<br>:star:[code](https://github.com/guxinqian/Simple-CCReID):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * 遮挡行人重识别
