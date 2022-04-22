@@ -23,6 +23,20 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 4月22日更新 6 篇。
+* GAN
+  * [Deep Image-based Illumination Harmonization](http://graphvision.whu.edu.cn/papers/2022/BaoZhongYun_CVPR.pdf)
+* 视频阴影检测
+  * [Video Shadow Detection via Spatio-Temporal Interpolation Consistency Training](http://graphvision.whu.edu.cn/papers/2022/LuXiao_CVPR.pdf)<br>:star:[code](https://github.com/yihong-97/STICT)
+* 6D
+  * [DGECN: A Depth-Guided Edge Convolutional Network for End-to-End 6D Pose Estimation](https://arxiv.org/abs/2204.09983)<br>:star:[code](https://github.com/maplect/DGECN_CVPR2022):house:[project](http://graphvision.whu.edu.cn/):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
+* 3D人体形状
+  * [OSSO: Obtaining Skeletal Shape from Outside](https://arxiv.org/abs/2204.10129)<>:star:[code](https://github.com/MarilynKeller/OSSO):house:[project](https://osso.is.tue.mpg.de/):tv:[video](https://osso.is.tue.mpg.de/#Video):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
+* 图像增强
+  * [Toward Fast, Flexible, and Robust Low-Light Image Enhancement](https://arxiv.org/abs/2204.10137)<br>:open_mouth:oral:star:[code](https://github.com/vis-opt-group/SCI):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
+* 数据集
+  * [SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis](https://arxiv.org/abs/2204.10211)<br>:sunflower:[dataset](https://mobileroboticsskoltech.github.io/SmartPortraits/)
+
 ### ❗❗❗ 4月21日更新 5 篇。
 
 * VLN
