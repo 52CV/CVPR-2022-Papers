@@ -23,6 +23,22 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 4月26日更新 7 篇。
+
+* 4D
+  * [Revealing Occlusions with 4D Neural Fields](https://arxiv.org/abs/2204.10916)<br>:open_mouth:oral:star:[code](https://github.com/basilevh/occlusions-4d):house:[project](https://occlusions.cs.columbia.edu/)
+* 重建
+  * [Surface Reconstruction from Point Clouds by Learning Predictive Context Priors](https://arxiv.org/abs/2204.11015)<br>:star:[code](https://github.com/mabaorui/PredictableContextPrior)
+* 人脸
+  * [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://arxiv.org/abs/2204.11312)<br>:house:[project](https://emoca.is.tue.mpg.de/)
+* 分割
+  * [Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers](https://arxiv.org/abs/2204.11432)<br>:star:[code](https://github.com/twke18/HSG)
+* 医学
+  * [Surpassing the Human Accuracy: Detecting Gallbladder Cancer from USG Images with Curriculum Learning](https://arxiv.org/abs/2204.11433)<br>:star:[code](https://github.com/sbasu276/GBCNet):house:[project](https://gbc-iitd.github.io/gbcnet)
+* 其他
+  * [Towards Data-Free Model Stealing in a Hard Label Setting](https://arxiv.org/abs/2204.11022)<br>:star:[code](https://github.com/val-iisc/Hard-Label-Model-Stealing):house:[project](https://sites.google.com/view/dfms-hl)
+  * [Proto2Proto: Can you recognize the car, the way I do?](https://arxiv.org/abs/2204.11830)<br>:star:[code](https://github.com/archmaester/proto2proto)
+
 ### ❗❗❗ 4月25日更新 6 篇。
 
 * 目标检测
@@ -323,6 +339,8 @@
 
 ## 27.Pose Estimation(物体姿势估计)
 * [OSOP: A Multi-Stage One Shot Object Pose Estimation Framework](https://arxiv.org/abs/2203.15533)
+* 4D
+  * [Revealing Occlusions with 4D Neural Fields](https://arxiv.org/abs/2204.10916)<br>:open_mouth:oral:star:[code](https://github.com/basilevh/occlusions-4d):house:[project](https://occlusions.cs.columbia.edu/)
 * 9D
   * [CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild](https://arxiv.org/abs/2203.03089)<br>:star:[code](https://github.com/qq456cvb/CPPF):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
 * 单目目标姿势估计
@@ -467,13 +485,14 @@
 * [BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation](https://arxiv.org/abs/2203.02533)
 * [DeepLIIF: An Online Platform for Quantification of Clinical Pathology Slides](https://arxiv.org/abs/2204.04494)
 * [DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis](https://arxiv.org/abs/2204.10437)<br>:star:[code](https://github.com/fhaghighi/DiRA):newspaper:[解读](https://zhuanlan.zhihu.com/p/504499515)
+* [Surpassing the Human Accuracy: Detecting Gallbladder Cancer from USG Images with Curriculum Learning](https://arxiv.org/abs/2204.11433)<br>:star:[code](https://github.com/sbasu276/GBCNet):house:[project](https://gbc-iitd.github.io/gbcnet)
 * 3D生物打印
   * [Generating 3D Bio-Printable Patches Using Wound Segmentation and Reconstruction to Treat Diabetic Foot Ulcers](https://arxiv.org/abs/2203.03814)<br>利用伤口分割和重建生成3D生物打印贴片来治疗糖尿病足溃疡
 * SR（ＭRI）
   * [Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution](https://arxiv.org/abs/2203.13963)<br>:star:[code](https://github.com/XAIMI-Lab/McMRSR)
 * 医学图像配准
   * [Affine Medical Image Registration with Coarse-to-Fine Vision Transformer](https://arxiv.org/abs/2203.15216)<br>:star:[code](https://github.com/cwmok/C2FViT)
-  
+
 <a name="16"/>
 
 ## 16.Semi/self-supervised learning(半/自监督)
@@ -643,6 +662,8 @@
   * [Detecting Deepfakes with Self-Blended Images](https://arxiv.org/abs/2204.08376)<br>:open_mouth:oral:star:[code](https://github.com/mapooon/SelfBlendedImages)
 * 人脸重建
   * [JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction](https://arxiv.org/abs/2204.10549)<br>:star:[code](https://github.com/yukangcao/JIFF):house:[project](https://yukangcao.github.io/JIFF/):newspaper:[解读](https://zhuanlan.zhihu.com/p/504499515)
+* 人脸捕捉
+  * [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://arxiv.org/abs/2204.11312)<br>:house:[project](https://emoca.is.tue.mpg.de/)
 
 <a name="10"/>
 
@@ -671,6 +692,7 @@
 * 三维重建
   * [Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction](https://arxiv.org/abs/2204.03642)<br>:star:[code](https://github.com/shubhtuls/ss3d/):house:[project](https://shubhtuls.github.io/ss3d/):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
   * [What's in your hands? 3D Reconstruction of Generic Objects in Hands](https://arxiv.org/abs/2204.07153)<br>:star:[code](https://github.com/JudyYe/ihoi):house:[project](https://judyye.github.io/ihoi/):tv:[video](https://youtu.be/-hHlkWwENiI):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
+  * [Surface Reconstruction from Point Clouds by Learning Predictive Context Priors](https://arxiv.org/abs/2204.11015)<br>:star:[code](https://github.com/mabaorui/PredictableContextPrior)
   * 三维服装网格重建
     * [Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images](https://arxiv.org/abs/2203.15007)<br>:house:[project](https://kv2000.github.io/2022/03/28/reef/)
     * [Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing](https://arxiv.org/abs/2204.08906)<br>:house:[project](https://phorhum.github.io/)
@@ -900,6 +922,7 @@
   * [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/abs/2204.05525)
   * [Cross-Image Relational Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/2204.06986)<br>:star:[code](https://github.com/winycg/CIRKD):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * [Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation](https://arxiv.org/abs/2204.10638)
+  * [Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers](https://arxiv.org/abs/2204.11432)<br>:star:[code](https://github.com/twke18/HSG)
   * 3D分割
     * [Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation](https://arxiv.org/abs/2204.07548)<br>:open_mouth:oral:star:[code](https://github.com/drprojects/DeepViewAgg):newspaper:[解读](https://zhuanlan.zhihu.com/p/500351469)
   * 弱监督语义分割
@@ -1018,6 +1041,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Event-aided Direct Sparse Odometry](https://arxiv.org/abs/2204.07640)<br>:open_mouth:oral:star:[code](https://github.com/uzh-rpg/eds-buildconf):house:[project](https://rpg.ifi.uzh.ch/eds.html):tv:[video](https://www.youtube.com/watch?v=ymnAWgfYj6Y&feature=youtu.be)
 * [Deep Unlearning via Randomized Conditionally Independent Hessians](https://arxiv.org/abs/2204.07655)<br>:star:[code](https://github.com/vsingh-group/LCODEC-deep-unlearning)
 * [Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data](https://arxiv.org/abs/2204.08932)
+* [Towards Data-Free Model Stealing in a Hard Label Setting](https://arxiv.org/abs/2204.11022)<br>:star:[code](https://github.com/val-iisc/Hard-Label-Model-Stealing):house:[project](https://sites.google.com/view/dfms-hl)
+* [Proto2Proto: Can you recognize the car, the way I do?](https://arxiv.org/abs/2204.11830)<br>:star:[code](https://github.com/archmaester/proto2proto)
 
 
 
