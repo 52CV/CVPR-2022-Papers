@@ -51,36 +51,6 @@
   * [Towards Data-Free Model Stealing in a Hard Label Setting](https://arxiv.org/abs/2204.11022)<br>:star:[code](https://github.com/val-iisc/Hard-Label-Model-Stealing):house:[project](https://sites.google.com/view/dfms-hl)
   * [Proto2Proto: Can you recognize the car, the way I do?](https://arxiv.org/abs/2204.11830)<br>:star:[code](https://github.com/archmaester/proto2proto)
 
-### ❗❗❗ 4月25日更新 6 篇。
-
-* 目标检测
-  * [Interactive Segmentation and Visualization for Tiny Objects in Multi-megapixel Images](https://arxiv.org/abs/2204.10356)<br>:star:[code](https://github.com/cy-xu/cosmic-conn)
-* 分类
-  * [Contrastive Test-Time Adaptation](https://arxiv.org/abs/2204.10377)<br>:house:[project](https://sites.google.com/view/adacontrast)
-* 医学图像
-  * [DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis](https://arxiv.org/abs/2204.10437)<br>:star:[code](https://github.com/fhaghighi/DiRA):newspaper:[解读](https://zhuanlan.zhihu.com/p/504499515)
-* 人脸重建
-  * [JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction](https://arxiv.org/abs/2204.10549)<br>:star:[code](https://github.com/yukangcao/JIFF):house:[project](https://yukangcao.github.io/JIFF/):newspaper:[解读](https://zhuanlan.zhihu.com/p/504499515)
-* 点云
-  * [Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors](https://arxiv.org/abs/2204.10603)<br>:star:[code](https://github.com/mabaorui/OnSurfacePrior):newspaper:[解读](https://zhuanlan.zhihu.com/p/504499515)
-* 分割
-  * [Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation](https://arxiv.org/abs/2204.10638)
-
-### ❗❗❗ 4月22日更新 6 篇。
-* GAN
-  * [Deep Image-based Illumination Harmonization](http://graphvision.whu.edu.cn/papers/2022/BaoZhongYun_CVPR.pdf)
-* 视频阴影检测
-  * [Video Shadow Detection via Spatio-Temporal Interpolation Consistency Training](http://graphvision.whu.edu.cn/papers/2022/LuXiao_CVPR.pdf)<br>:star:[code](https://github.com/yihong-97/STICT)
-* 6D
-  * [DGECN: A Depth-Guided Edge Convolutional Network for End-to-End 6D Pose Estimation](https://arxiv.org/abs/2204.09983)<br>:star:[code](https://github.com/maplect/DGECN_CVPR2022):house:[project](http://graphvision.whu.edu.cn/):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
-* 3D人体形状
-  * [OSSO: Obtaining Skeletal Shape from Outside](https://arxiv.org/abs/2204.10129)<>:star:[code](https://github.com/MarilynKeller/OSSO):house:[project](https://osso.is.tue.mpg.de/):tv:[video](https://osso.is.tue.mpg.de/#Video):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
-* 图像增强
-  * [Toward Fast, Flexible, and Robust Low-Light Image Enhancement](https://arxiv.org/abs/2204.10137)<br>:open_mouth:oral:star:[code](https://github.com/vis-opt-group/SCI):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
-* 数据集
-  * [SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis](https://arxiv.org/abs/2204.10211)<br>:sunflower:[dataset](https://mobileroboticsskoltech.github.io/SmartPortraits/)
-
-
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
