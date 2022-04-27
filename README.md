@@ -23,6 +23,18 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 4月27日更新 5 篇。
+* 分割
+  * [DArch: Dental Arch Prior-assisted 3D Tooth Instance Segmentation](https://arxiv.org/abs/2204.11911)
+* 虚拟试穿
+  * [ClothFormer:Taming Video Virtual Try-on in All Module](https://arxiv.org/abs/2204.12151)<br>:open_mouth:oral:star:[code](https://github.com/luxiangju-PersonAI/ClothFormer):house:[project](https://cloth-former.github.io/):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)
+* 姿势
+  * [Context-Aware Sequence Alignment using 4D Skeletal Augmentation](https://arxiv.org/abs/2204.12223)<br>:open_mouth:oral:star:[code](https://github.com/taeinkwon/casa):house:[project](https://taeinkwon.com/projects/casa/)
+* 图像恢复
+  * [Attentive Fine-Grained Structured Sparsity for Image Restoration](https://arxiv.org/abs/2204.12266)<br>:star:[code](https://github.com/JungHunOh/SLS_CVPR2022):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)
+* 目标检测
+  * [Focal Sparse Convolutional Networks for 3D Object Detection](https://arxiv.org/abs/2204.12463)<br>:open_mouth:oral:star:[code](https://github.com/open-mmlab/OpenPCDet):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)
+
 ### ❗❗❗ 4月26日更新 7 篇。
 
 * 4D
@@ -324,6 +336,7 @@
 * try-on
   * [Dressing in the Wild by Watching Dance Videos](https://arxiv.org/abs/2203.15320)<br>:house:[project](https://awesome-wflow.github.io)
   * [Style-Based Global Appearance Flow for Virtual Try-On](https://arxiv.org/abs/2204.01046)<br>:star:[code](https://github.com/SenHe/Flow-Style-VTON)
+  * [ClothFormer:Taming Video Virtual Try-on in All Module](https://arxiv.org/abs/2204.12151)<br>:open_mouth:oral:star:[code](https://github.com/luxiangju-PersonAI/ClothFormer):house:[project](https://cloth-former.github.io/):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169) 
 
 <a name="28"/>
 
@@ -708,6 +721,7 @@
 
 ## 9.Human Pose Estimation(人体姿态估计)
 * [COAP: Compositional Articulated Occupancy of People](https://arxiv.org/abs/2204.06184)<br>:star:[code](https://github.com/markomih/COAP):house:[project](https://neuralbodies.github.io/COAP/index.html):tv:[video](https://www.youtube.com/watch?v=qU0q5h6IldU):newspaper:[解读](https://zhuanlan.zhihu.com/p/498244289)
+* [Context-Aware Sequence Alignment using 4D Skeletal Augmentation](https://arxiv.org/abs/2204.12223)<br>:open_mouth:oral:star:[code](https://github.com/taeinkwon/casa):house:[project](https://taeinkwon.com/projects/casa/)
 * 基于视频的HPE
   * [Temporal Feature Alignment and Mutual Information Maximization for Video-Based Human Pose Estimation](https://arxiv.org/abs/2203.15227)<br>::oral:star:[code](https://github.com/Pose-Group/FAMI-Pose)
 * 3D pose
@@ -845,6 +859,7 @@
   * [HyperDet3D: Learning a Scene-conditioned 3D Object Detector](https://arxiv.org/abs/2204.05599)
   * [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575)<br>:star:[code](https://github.com/AIR-THU/DAIR-V2X)
   * [OccAM's Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data](https://arxiv.org/abs/2204.06577)<br>:star:[code](https://github.com/dschinagl/occam) 
+  * [Focal Sparse Convolutional Networks for 3D Object Detection](https://arxiv.org/abs/2204.12463)<br>:open_mouth:oral:star:[code](https://github.com/open-mmlab/OpenPCDet):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)
 * 伪装目标检测
   * [Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection](https://arxiv.org/abs/2203.02688)<br>:star:[code](https://github.com/lartpang/ZoomNet)
 * 全监督目标检测
@@ -870,6 +885,8 @@
 <a name="3"/>
 
 ## 3.Image Progress(图像处理)
+* 图像恢复
+  * [Attentive Fine-Grained Structured Sparsity for Image Restoration](https://arxiv.org/abs/2204.12266)<br>:star:[code](https://github.com/JungHunOh/SLS_CVPR2022):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)
 * 图像修复
   * [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867)<br>:star:[code](https://github.com/DQiaole/ZITS_inpainting):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
   * [MAT: Mask-Aware Transformer for Large Hole Image Inpainting](https://arxiv.org/abs/2203.15270)<br>:star:[code](https://github.com/fenglinglwb/MAT)
@@ -904,6 +921,7 @@
   * [Sparse Instance Activation for Real-Time Instance Segmentation](https://arxiv.org/abs/2203.12827)<br>:star:[code](https://github.com/hustvl/SparseInst)   
   * [SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation](https://arxiv.org/abs/2203.13312)<br>:house:[project](https://xyzhang17.github.io/SharpContour/)   
   * [Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity](https://arxiv.org/abs/2204.06107)<br>:star:[code](https://github.com/facebookresearch/Generic-Grouping):house:[project](https://sites.google.com/view/generic-grouping/)
+  * [DArch: Dental Arch Prior-assisted 3D Tooth Instance Segmentation](https://arxiv.org/abs/2204.11911)
   * 半监督实例分割
     * [Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?](https://arxiv.org/abs/2203.13427)
   * 3D 实例分割
