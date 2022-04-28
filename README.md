@@ -272,6 +272,7 @@
   * [Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2203.13714)
 * 知识蒸馏
   * [Knowledge Distillation with the Reused Teacher Classifier](https://arxiv.org/abs/2203.14001)
+  * [DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers](https://arxiv.org/abs/2204.12997)
 * 模型压缩
   * [CHEX: CHannel EXploration for CNN Model Compression](https://arxiv.org/abs/2203.15794)
 
@@ -358,10 +359,12 @@
   * [ES6D: A Computation Efficient and Symmetry-Aware 6D Pose Regression Framework](https://arxiv.org/abs/2204.01080)<br>:star:[code](https://github.com/GANWANSHUI/ES6D) 
   * [Focal Length and Object Pose Estimation via Render and Compare](https://arxiv.org/abs/2204.05145)<br>:star:[code](https://github.com/ponimatkin/focalpose):house:[project](https://ponimatkin.github.io/focalpose/):newspaper:[解读](https://zhuanlan.zhihu.com/p/497009845)
   * [DGECN: A Depth-Guided Edge Convolutional Network for End-to-End 6D Pose Estimation](https://arxiv.org/abs/2204.09983)<br>:star:[code](https://github.com/maplect/DGECN_CVPR2022):house:[project](http://graphvision.whu.edu.cn/):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
+  * [Coupled Iterative Refinement for 6D Multi-Object Pose Estimation](https://arxiv.org/abs/2204.12516)<br>:star:[code](https://github.com/princeton-vl/Coupled-Iterative-Refinement):newspaper:[解读](https://zhuanlan.zhihu.com/p/506416975)
 * 3D Object Articulation
   * [Understanding 3D Object Articulation in Internet Videos](https://arxiv.org/abs/2203.16531)<br>:house:[project](https://jasonqsy.github.io/Articulation3D/)
 * 3Dope
   * [Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions](https://arxiv.org/abs/2203.17234)<br>:star:[code](https://github.com/nv-nguyen/template-pose)
+
 
 <a name="26"/>
 
@@ -670,6 +673,9 @@
   * [JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction](https://arxiv.org/abs/2204.10549)<br>:star:[code](https://github.com/yukangcao/JIFF):house:[project](https://yukangcao.github.io/JIFF/):newspaper:[解读](https://zhuanlan.zhihu.com/p/504499515)
 * 人脸捕捉
   * [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://arxiv.org/abs/2204.11312)<br>:house:[project](https://emoca.is.tue.mpg.de/)
+* 换头
+  * [Few-Shot Head Swapping in the Wild](https://arxiv.org/abs/2204.13100)<br>:open_mouth:oral:star:[code](https://github.com/jmliu88/heser):house:[project](https://jmliu88.github.io/HeSer/):tv:[video](https://youtu.be/bf2S74eFgt8):newspaper:[解读](https://zhuanlan.zhihu.com/p/506416975)
+
 
 <a name="10"/>
 
@@ -699,6 +705,8 @@
   * [Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction](https://arxiv.org/abs/2204.03642)<br>:star:[code](https://github.com/shubhtuls/ss3d/):house:[project](https://shubhtuls.github.io/ss3d/):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
   * [What's in your hands? 3D Reconstruction of Generic Objects in Hands](https://arxiv.org/abs/2204.07153)<br>:star:[code](https://github.com/JudyYe/ihoi):house:[project](https://judyye.github.io/ihoi/):tv:[video](https://youtu.be/-hHlkWwENiI):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * [Surface Reconstruction from Point Clouds by Learning Predictive Context Priors](https://arxiv.org/abs/2204.11015)<br>:star:[code](https://github.com/mabaorui/PredictableContextPrior)
+  * 手物重建
+    * [Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution](https://arxiv.org/abs/2204.13062)
   * 三维服装网格重建
     * [Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images](https://arxiv.org/abs/2203.15007)<br>:house:[project](https://kv2000.github.io/2022/03/28/reef/)
     * [Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing](https://arxiv.org/abs/2204.08906)<br>:house:[project](https://phorhum.github.io/)
@@ -709,6 +717,9 @@
   * [SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/abs/2204.02219)<br>:open_mouth:oral:star:[code](https://github.com/isantesteban/snug)
 * 纹理迁移与合成
   * [AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis](https://arxiv.org/abs/2204.03105)<br>:star:[code](https://github.com/nv-tlabs/AUV-NET):house:[project](https://nv-tlabs.github.io/AUV-NET/):tv:[video](https://www.youtube.com/watch?v=UTzH8WB-Xl0)
+* 形状匹配
+  * [A Scalable Combinatorial Solver for Elastic Geometrically Consistent 3D Shape Matching](https://arxiv.org/abs/2204.12805)<br>:star:[code](https://github.com/paul0noah/sm-comb)
+
 
 <a name="9"/>
 
@@ -777,6 +788,7 @@
 * [Self-Supervised Arbitrary-Scale Point Clouds Upsampling via Implicit Neural Representation](https://arxiv.org/abs/2204.08196)<br>:star:[code](https://github.com/xnowbzhao/sapcu):newspaper:[解读](https://zhuanlan.zhihu.com/p/501027339)
 * [3DeformRS: Certifying Spatial Deformations on Point Clouds](https://arxiv.org/abs/2204.05687)<br>:star:[code](https://github.com/gaperezsa/3DeformRS)
 * [Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors](https://arxiv.org/abs/2204.10603)<br>:star:[code](https://github.com/mabaorui/OnSurfacePrior):newspaper:[解读](https://zhuanlan.zhihu.com/p/504499515)
+* [Density-preserving Deep Point Cloud Compression](https://arxiv.org/abs/2204.12684)<br>:star:[code](https://github.com/yunhe20/D-PCC):house:[project](https://yunhe20.github.io/D-PCC/):newspaper:[解读](https://zhuanlan.zhihu.com/p/506416975)
 * 3D 点云
   * [CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://arxiv.org/abs/2203.00680)<br>:star:[code](https://github.com/MohamedAfham/CrossPoint):newspaper:[粗解](https://zhuanlan.zhihu.com/p/474565863)<br>CrossPoint，一个用于 3D 点云表征学习的简单自监督学习框架。虽然该方法是在合成的三维物体数据集上训练的，但在下游任务中的实验结果，如三维物体分类和三维物体部分分割，在合成和真实世界的数据集中都证明了该方法在学习可迁移表征方面的有效性。
   * [A Unified Query-based Paradigm for Point Cloud Understanding](https://arxiv.org/abs/2203.01252)
@@ -790,6 +802,7 @@
 * 点云补全
   * [Learning a Structured Latent Space for Unsupervised Point Cloud Completion](https://arxiv.org/abs/2203.15580) 
   * [Learning Local Displacements for Point Cloud Completion](https://arxiv.org/abs/2203.16600) 
+
 
 <a name="6"/>
 
@@ -934,7 +947,9 @@
   * [Cross-Image Relational Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/2204.06986)<br>:star:[code](https://github.com/winycg/CIRKD):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * [Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation](https://arxiv.org/abs/2204.10638)
   * [Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers](https://arxiv.org/abs/2204.11432)<br>:star:[code](https://github.com/twke18/HSG)
+  * [Self-Supervised Learning of Object Parts for Semantic Segmentation](https://arxiv.org/abs/2204.13101)
   * 3D分割
+    * [MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2204.12667)<br>:house:[project](https://www.nec-labs.com/~mas/MM-TTA/)
     * [Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation](https://arxiv.org/abs/2204.07548)<br>:open_mouth:oral:star:[code](https://github.com/drprojects/DeepViewAgg):newspaper:[解读](https://zhuanlan.zhihu.com/p/500351469)
   * 弱监督语义分割
     * [Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2203.00962)<br>:star:[code](https://github.com/zhaozhengChen/ReCAM):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
@@ -1054,6 +1069,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data](https://arxiv.org/abs/2204.08932)
 * [Towards Data-Free Model Stealing in a Hard Label Setting](https://arxiv.org/abs/2204.11022)<br>:star:[code](https://github.com/val-iisc/Hard-Label-Model-Stealing):house:[project](https://sites.google.com/view/dfms-hl)
 * [Proto2Proto: Can you recognize the car, the way I do?](https://arxiv.org/abs/2204.11830)<br>:star:[code](https://github.com/archmaester/proto2proto)
+ * [Balanced MSE for Imbalanced Visual Regression](https://arxiv.org/abs/2203.16427)<br>:open_mouth:oral:star:[code](https://github.com/jiawei-ren/BalancedMSE)<br>:newspaper:[CVPR 2022 (Oral) | 回归标签不平衡? 试试Balanced MSE](https://mp.weixin.qq.com/s/pNnAUJCpJMDocPm_ZUFJWg)
+* [Leveraging Unlabeled Data for Sketch-based Understanding](https://arxiv.org/abs/2204.12522)
 
 
 
