@@ -23,6 +23,19 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 4月29日更新 6 篇。
+
+* 对比学习
+  * [Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework](https://arxiv.org/abs/2204.13207)<br>:star:[code](https://github.com/salesforce/hierarchicalContrastiveLearning)
+* 动作识别
+  * [Hybrid Relation Guided Set Matching for Few-shot Action Recognition](https://arxiv.org/abs/2204.13423)<br>:star:[code](https://github.com/alibaba-mmai-research/HyRSM):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
+* 形状匹配
+  * [Deep Orientation-Aware Functional Maps: Tackling Symmetry Issues in Shape Matching](https://arxiv.org/abs/2204.13453)<br>:star:[code](https://github.com/nicolasdonati/DUO-FM)
+* 目标检测
+  * [Rotationally Equivariant 3D Object Detection](https://arxiv.org/abs/2204.13630)<br>:house:[project](https://kovenyu.com/eon/)
+  * [Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection](https://arxiv.org/abs/2204.13456)<br>:star:[code](https://github.com/OLobbCode/NoiseLF):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
+* 视图合成
+  * [NeurMiPs: Neural Mixture of Planar Experts for View Synthesis](https://arxiv.org/abs/2204.13696)<br>:star:[code](https://github.com/zhihao-lin/neurmips):house:[project](https://zhihao-lin.github.io/neurmips/):tv:[video](https://youtu.be/PV1dCTWL5Oo):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
 
 ### ❗❗❗ 4月28日更新 10 篇。
 
@@ -46,33 +59,6 @@
 * 其他
   * [Balanced MSE for Imbalanced Visual Regression](https://arxiv.org/abs/2203.16427)<br>:open_mouth:oral:star:[code](https://github.com/jiawei-ren/BalancedMSE)<br>:newspaper:[CVPR 2022 (Oral) | 回归标签不平衡? 试试Balanced MSE](https://mp.weixin.qq.com/s/pNnAUJCpJMDocPm_ZUFJWg)
 
-### ❗❗❗ 4月27日更新 5 篇。
-* 分割
-  * [DArch: Dental Arch Prior-assisted 3D Tooth Instance Segmentation](https://arxiv.org/abs/2204.11911)
-* 虚拟试穿
-  * [ClothFormer:Taming Video Virtual Try-on in All Module](https://arxiv.org/abs/2204.12151)<br>:open_mouth:oral:star:[code](https://github.com/luxiangju-PersonAI/ClothFormer):house:[project](https://cloth-former.github.io/):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)
-* 姿势
-  * [Context-Aware Sequence Alignment using 4D Skeletal Augmentation](https://arxiv.org/abs/2204.12223)<br>:open_mouth:oral:star:[code](https://github.com/taeinkwon/casa):house:[project](https://taeinkwon.com/projects/casa/)
-* 图像恢复
-  * [Attentive Fine-Grained Structured Sparsity for Image Restoration](https://arxiv.org/abs/2204.12266)<br>:star:[code](https://github.com/JungHunOh/SLS_CVPR2022):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)
-* 目标检测
-  * [Focal Sparse Convolutional Networks for 3D Object Detection](https://arxiv.org/abs/2204.12463)<br>:open_mouth:oral:star:[code](https://github.com/open-mmlab/OpenPCDet):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)
-
-### ❗❗❗ 4月26日更新 7 篇。
-
-* 4D
-  * [Revealing Occlusions with 4D Neural Fields](https://arxiv.org/abs/2204.10916)<br>:open_mouth:oral:star:[code](https://github.com/basilevh/occlusions-4d):house:[project](https://occlusions.cs.columbia.edu/)
-* 重建
-  * [Surface Reconstruction from Point Clouds by Learning Predictive Context Priors](https://arxiv.org/abs/2204.11015)<br>:star:[code](https://github.com/mabaorui/PredictableContextPrior)
-* 人脸
-  * [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://arxiv.org/abs/2204.11312)<br>:house:[project](https://emoca.is.tue.mpg.de/)
-* 分割
-  * [Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers](https://arxiv.org/abs/2204.11432)<br>:star:[code](https://github.com/twke18/HSG)
-* 医学
-  * [Surpassing the Human Accuracy: Detecting Gallbladder Cancer from USG Images with Curriculum Learning](https://arxiv.org/abs/2204.11433)<br>:star:[code](https://github.com/sbasu276/GBCNet):house:[project](https://gbc-iitd.github.io/gbcnet)
-* 其他
-  * [Towards Data-Free Model Stealing in a Hard Label Setting](https://arxiv.org/abs/2204.11022)<br>:star:[code](https://github.com/val-iisc/Hard-Label-Model-Stealing):house:[project](https://sites.google.com/view/dfms-hl)
-  * [Proto2Proto: Can you recognize the car, the way I do?](https://arxiv.org/abs/2204.11830)<br>:star:[code](https://github.com/archmaester/proto2proto)
 
 ## 目录
 
@@ -123,6 +109,7 @@
 ## Novel View Synthesis(视图合成)
 * [NPBG++: Accelerating Neural Point-Based Graphics](https://arxiv.org/abs/2203.)<br>:house:[project](htt.io/npbgpp/)
 * [AutoRF: Learning 3D Object Radiance Fields from Single View Observations](https://arxiv.org/abs/2204.03593)<br>:house:[project](https://sirwyver.github.io/AutoRF/)
+* [NeurMiPs: Neural Mixture of Planar Experts for View Synthesis](https://arxiv.org/abs/2204.13696)<br>:star:[code](https://github.com/zhihao-lin/neurmips):house:[project](https://zhihao-lin.github.io/neurmips/):tv:[video](https://youtu.be/PV1dCTWL5Oo):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
 
 ## Dataset(数据集)
 * [ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer](https://arxiv.org/abs/2204.02389)<br>:star:[code](https://github.com/rhgao/ObjectFolder):house:[project](https://ai.stanford.edu/~rhgao/objectfolder2.0/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
@@ -240,6 +227,7 @@
 * [Selective-Supervised Contrastive Learning with Noisy Labels](https://arxiv.org/abs/2203.04181)<br>:star:[code](https://github.com/ShikunLi/Sel-CL):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 * [Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning](https://arxiv.org/abs/2203.14957)<br>:star:[code](https://github.com/minghchen/CARL_code)
 * [Cam-Ready: UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning](https://arxiv.org/abs/2203.14542)
+* [Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework](https://arxiv.org/abs/2204.13207)<br>:star:[code](https://github.com/salesforce/hierarchicalContrastiveLearning)
 
 <a name="36"/>
 
@@ -719,7 +707,7 @@
   * [AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis](https://arxiv.org/abs/2204.03105)<br>:star:[code](https://github.com/nv-tlabs/AUV-NET):house:[project](https://nv-tlabs.github.io/AUV-NET/):tv:[video](https://www.youtube.com/watch?v=UTzH8WB-Xl0)
 * 形状匹配
   * [A Scalable Combinatorial Solver for Elastic Geometrically Consistent 3D Shape Matching](https://arxiv.org/abs/2204.12805)<br>:star:[code](https://github.com/paul0noah/sm-comb)
-
+  * [Deep Orientation-Aware Functional Maps: Tackling Symmetry Issues in Shape Matching](https://arxiv.org/abs/2204.13453)<br>:star:[code](https://github.com/nicolasdonati/DUO-FM)
 
 <a name="9"/>
 
@@ -761,6 +749,8 @@
   * [SPAct: Self-supervised Privacy Preservation for Action Recognition](https://arxiv.org/abs/2203.15205)<br>:star:[code](https://github.com/DAVEISHAN/SPAct)
   * [Temporal Alignment Networks for Long-term Video](https://arxiv.org/abs/2204.02968)<br>:open_mouth:oral:star:[code](https://github.com/TengdaHan/TemporalAlignNet):house:[project](https://www.robots.ox.ac.uk/~vgg/research/tan/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
   * [SOS! Self-supervised Learning Over Sets Of Handled Objects In Egocentric Action Recognition](https://arxiv.org/abs/2204.04796)
+  * 小样本动作识别
+    * [Hybrid Relation Guided Set Matching for Few-shot Action Recognition](https://arxiv.org/abs/2204.13423)<br>:star:[code](https://github.com/alibaba-mmai-research/HyRSM):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
   * 时序动作检测
     * [An Empirical Study of End-to-End Temporal Action Detection](https://arxiv.org/abs/2204.02932)<br>:star:[code](https://github.com/xlliu7/E2E-TAD):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
 * 时序动作定位
@@ -866,6 +856,7 @@
   * [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575)<br>:star:[code](https://github.com/AIR-THU/DAIR-V2X)
   * [OccAM's Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data](https://arxiv.org/abs/2204.06577)<br>:star:[code](https://github.com/dschinagl/occam) 
   * [Focal Sparse Convolutional Networks for 3D Object Detection](https://arxiv.org/abs/2204.12463)<br>:open_mouth:oral:star:[code](https://github.com/open-mmlab/OpenPCDet):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)
+  * [Rotationally Equivariant 3D Object Detection](https://arxiv.org/abs/2204.13630)<br>:house:[project](https://kovenyu.com/eon/)
 * 伪装目标检测
   * [Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection](https://arxiv.org/abs/2203.02688)<br>:star:[code](https://github.com/lartpang/ZoomNet)
 * 全监督目标检测
@@ -874,6 +865,7 @@
   * [Dense Learning based Semi-Supervised Object Detection](https://arxiv.org/abs/2204.07300)<br>:star:[code](https://github.com/chenbinghui1/DSL):newspaper:[解读](https://zhuanlan.zhihu.com/p/500351469) 
 * 显著目标检测
   * [Pyramid Grafting Network for One-Stage High Resolution Saliency Detection](https://arxiv.org/abs/2204.05041)<br>:star:[code](https://github.com/iCVTEAM/PGNet):newspaper:[解读](https://zhuanlan.zhihu.com/p/497009845)
+  * [Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection](https://arxiv.org/abs/2204.13456)<br>:star:[code](https://github.com/OLobbCode/NoiseLF):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
 * 关键点检测
   * [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613)
 
