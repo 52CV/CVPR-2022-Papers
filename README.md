@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止4月29日，已收录 572 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月2日，已收录 578 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -23,6 +23,26 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 5 月2日更新 6 篇。
+
+* 图像生成
+  * [OSSGAN: Open-Set Semi-Supervised Image Generation](https://arxiv.org/abs/2204.14249)<br>:star:[code](https://github.com/raven38/OSSGAN)
+
+* 图像增强
+  * [AdaInt: Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement](https://arxiv.org/abs/2204.13983)<br>:star:[code](https://github.com/ImCharlesY/AdaInt)
+
+* 图像和谐化
+  * [SCS-Co: Self-Consistent Style Contrastive Learning for Image Harmonization](https://arxiv.org/abs/2204.13962)<br>:star:[code](https://github.com/YCHang686/SCS-Co-CVPR2022)
+
+* 快门校正
+  * [Learning Adaptive Warping for Real-World Rolling Shutter Correction](https://arxiv.org/abs/2204.13886)<br>:star:[code](https://github.com/ljzycmd/BSRSC)
+
+* 视觉语言预训练，场景文本检测
+  * [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/abs/2204.13867)代码将开源，地址尚未公布。
+
+* 泛化可微渲染器
+  * [GenDR: A Generalized Differentiable Renderer](https://arxiv.org/abs/2204.13845)<br>:star:[code](https://github.com/Felix-Petersen/gendr)
+
 ### ❗❗❗ 4月29日更新 6 篇。
 
 * 对比学习
@@ -36,28 +56,6 @@
   * [Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection](https://arxiv.org/abs/2204.13456)<br>:star:[code](https://github.com/OLobbCode/NoiseLF):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
 * 视图合成
   * [NeurMiPs: Neural Mixture of Planar Experts for View Synthesis](https://arxiv.org/abs/2204.13696)<br>:star:[code](https://github.com/zhihao-lin/neurmips):house:[project](https://zhihao-lin.github.io/neurmips/):tv:[video](https://youtu.be/PV1dCTWL5Oo):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
-
-### ❗❗❗ 4月28日更新 10 篇。
-
-* 6D
-  * [Coupled Iterative Refinement for 6D Multi-Object Pose Estimation](https://arxiv.org/abs/2204.12516)<br>:star:[code](https://github.com/princeton-vl/Coupled-Iterative-Refinement):newspaper:[解读](https://zhuanlan.zhihu.com/p/506416975)
-* 草图识别
-  * [Leveraging Unlabeled Data for Sketch-based Understanding](https://arxiv.org/abs/2204.12522)
-* 点云
-  * [Density-preserving Deep Point Cloud Compression](https://arxiv.org/abs/2204.12684)<br>:star:[code](https://github.com/yunhe20/D-PCC):house:[project](https://yunhe20.github.io/D-PCC/):newspaper:[解读](https://zhuanlan.zhihu.com/p/506416975)
-* 形状匹配
-  * [A Scalable Combinatorial Solver for Elastic Geometrically Consistent 3D Shape Matching](https://arxiv.org/abs/2204.12805)<br>:star:[code](https://github.com/paul0noah/sm-comb)
-* 知识蒸馏
-  * [DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers](https://arxiv.org/abs/2204.12997)
-* 手物重建
-  * [Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution](https://arxiv.org/abs/2204.13062)
-* 换头
-  * [Few-Shot Head Swapping in the Wild](https://arxiv.org/abs/2204.13100)<br>:open_mouth:oral:star:[code](https://github.com/jmliu88/heser):house:[project](https://jmliu88.github.io/HeSer/):tv:[video](https://youtu.be/bf2S74eFgt8):newspaper:[解读](https://zhuanlan.zhihu.com/p/506416975)
-* 分割
-  * [Self-Supervised Learning of Object Parts for Semantic Segmentation](https://arxiv.org/abs/2204.13101)
-  * [MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2204.12667)<br>:house:[project](https://www.nec-labs.com/~mas/MM-TTA/)
-* 其他
-  * [Balanced MSE for Imbalanced Visual Regression](https://arxiv.org/abs/2203.16427)<br>:open_mouth:oral:star:[code](https://github.com/jiawei-ren/BalancedMSE)<br>:newspaper:[CVPR 2022 (Oral) | 回归标签不平衡? 试试Balanced MSE](https://mp.weixin.qq.com/s/pNnAUJCpJMDocPm_ZUFJWg)
 
 
 ## 目录
