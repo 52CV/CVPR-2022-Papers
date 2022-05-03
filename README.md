@@ -27,8 +27,8 @@
 
 * 字体生成（很有商业价值的方向）
   * [(Oral)Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator](https://arxiv.org/abs/2205.00146)
-* 单目3D车道检测 （车道线检测技术再严禁）
-  * [ONCE-3DLanes: Building Monocular 3D Lane Detection](https://arxiv.org/abs/2205.00301)<br>:star:[code](https://once-3dlanes.github.io/ （数据集与代码已公布）)
+* 单目3D车道检测 （车道线检测技术再演进）
+  * [ONCE-3DLanes: Building Monocular 3D Lane Detection](https://arxiv.org/abs/2205.00301)<br>:star:[code](https://once-3dlanes.github.io/)
 * 神经架构搜索，面向GPUs部署的轻量级网络结构搜索 （比谷歌EfficientNet-X系列、Meta FBNetV3 速度更快，甚至性能都要好，作者来自英伟达）
   * [GPUNet: Searching the Deployable Convolution Neural Networks for GPUs](https://arxiv.org/abs/2205.00841)
 * 视觉定位，通过自然语言定位目标位置 （很有意思的研究）
