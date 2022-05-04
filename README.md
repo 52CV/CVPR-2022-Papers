@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月3日，已收录 584 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月4日，已收录 589 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,19 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+### ❗❗❗ 5月4日更新 5 篇。
+
+* AI助理：情景记忆问答 （增强现实新任务，数据及代码均将开源）
+  * [（Oral）Episodic Memory Question Answering](https://arxiv.org/abs/2205.01652)<br>:star:[code](https://samyak-268.github.io/emqa)
+* 零样本动作识别：跨模态表示学习
+  * [Cross-modal Representation Learning for Zero-shot Action Recognition](https://arxiv.org/abs/2205.01657)<br>:star:[code](https://github.com/microsoft/ResT)
+* 场景图生成：异质学习网络
+  * [HL-Net: Heterophily Learning Network for Scene Graph Generatio](https://arxiv.org/abs/2205.01316)<br>:star:[code](https://github.com/siml3/HL-Net)
+* 场景图生成：正则展开网络
+  * [RU-Net: Regularized Unrolling Network for Scene Graph Generation](https://arxiv.org/abs/2205.01297)<br>:star:[code](https://github.com/siml3/RU-Net)
+* 跨域目标检测：目标感知双分支蒸馏
+  * [Cross Domain Object Detection by Target-Perceived Dual Branch Distillation](https://arxiv.org/abs/2205.01291)<br>:star:[code](https://github.com/Feobi1999/TDD)
 
 ### ❗❗❗ 5月3日更新 6 篇。
 
@@ -52,21 +65,6 @@
   * [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/abs/2204.13867)代码将开源，地址尚未公布。
 * 泛化可微渲染器
   * [GenDR: A Generalized Differentiable Renderer](https://arxiv.org/abs/2204.13845)<br>:star:[code](https://github.com/Felix-Petersen/gendr)
-
-### ❗❗❗ 4月29日更新 6 篇。
-
-* 对比学习
-  * [Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework](https://arxiv.org/abs/2204.13207)<br>:star:[code](https://github.com/salesforce/hierarchicalContrastiveLearning)
-* 动作识别
-  * [Hybrid Relation Guided Set Matching for Few-shot Action Recognition](https://arxiv.org/abs/2204.13423)<br>:star:[code](https://github.com/alibaba-mmai-research/HyRSM):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
-* 形状匹配
-  * [Deep Orientation-Aware Functional Maps: Tackling Symmetry Issues in Shape Matching](https://arxiv.org/abs/2204.13453)<br>:star:[code](https://github.com/nicolasdonati/DUO-FM)
-* 目标检测
-  * [Rotationally Equivariant 3D Object Detection](https://arxiv.org/abs/2204.13630)<br>:house:[project](https://kovenyu.com/eon/)
-  * [Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection](https://arxiv.org/abs/2204.13456)<br>:star:[code](https://github.com/OLobbCode/NoiseLF):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
-* 视图合成
-  * [NeurMiPs: Neural Mixture of Planar Experts for View Synthesis](https://arxiv.org/abs/2204.13696)<br>:star:[code](https://github.com/zhihao-lin/neurmips):house:[project](https://zhihao-lin.github.io/neurmips/):tv:[video](https://youtu.be/PV1dCTWL5Oo):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
-
 
 ## 目录
 
