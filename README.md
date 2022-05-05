@@ -209,7 +209,7 @@
   * [Investigating Top-k White-Box and Transferable Black-box Attack](https://arxiv.org/abs/2204.00089)<br>:star:[code](https://github.com/ChaoningZhang/Top-k-Transferable-Attack)
   * [DST: Dynamic Substitute Training for Data-free Black-box Attack](https://arxiv.org/abs/2204.00972)
 * 对抗训练
-  * [LAS-AT: Adversarial Training with Learnable Attack Strategy](https://arxiv.org/pdf/2203.06616.pdf)<br>:open_mouth:oral:star:[code](https://github.com/jiaxiaojunQAQ/LAS-AT)
+  * [LAS-AT: Adversarial Training with Learnable Attack Strategy](https://arxiv.org/pdf/2203.06616.pdf)<br>:open_mouth:oral:star:[code](https://github.com/jiaxiaojunQAQ/LAS-AT)<br>:newspaper:[CVPR 2022 中科院、腾讯提出LAS-AT，利用“可学习攻击策略”进行“对抗训练”](https://mp.weixin.qq.com/s/Aj9x61LY8tJICf8hUlz8ug)
   
 <a name="39"/>
 
@@ -351,7 +351,7 @@
   * [EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation](https://arxiv.org/pdf/2203.13254.pdf)<br>:star:[code](https://github.com/tjiiv-cprg/EPro-PnP)
 * 6D
   * [RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization](https://arxiv.org/abs/2203.12870)
-  * [FS6D: Few-Shot 6D Pose Estimation of Novel Objects](https://arxiv.org/abs/2203.14628)<br>:star:[code](https://github.com/ethnhe/FS6D-PyTorch):house:[project](https://fs6d.github.io)
+  * [FS6D: Few-Shot 6D Pose Estimation of Novel Objects](https://arxiv.org/abs/2203.14628)<br>:star:[code](https://github.com/ethnhe/FS6D-PyTorch):house:[project](https://fs6d.github.io):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
   * [Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation](https://arxiv.org/abs/2203.14531)
   * [ES6D: A Computation Efficient and Symmetry-Aware 6D Pose Regression Framework](https://arxiv.org/abs/2204.01080)<br>:star:[code](https://github.com/GANWANSHUI/ES6D) 
   * [Focal Length and Object Pose Estimation via Render and Compare](https://arxiv.org/abs/2204.05145)<br>:star:[code](https://github.com/ponimatkin/focalpose):house:[project](https://ponimatkin.github.io/focalpose/):newspaper:[解读](https://zhuanlan.zhihu.com/p/497009845)
@@ -628,7 +628,7 @@
 
 ## 13.GAN
 * 🐦️[HyperInverter: Improving StyleGAN Inversion via Hypernetwork](http://arxiv.org/abs/2112.00719)<br>:house:[project](https://di-mi-ta.github.io/HyperInverter/)
-* [InsetGAN for Full-Body Image Generation](https://arxiv.org/abs/2203.07293)<br>:house:[project](https://afruehstueck.github.io/insetgan/)
+* [InsetGAN for Full-Body Image Generation](https://arxiv.org/abs/2203.07293)<br>:house:[project](https://afruehstueck.github.io/insetgan/)<br>:newspaper:[1024x1024 分辨率，效果惊人！InsetGAN：全身图像生成](https://mp.weixin.qq.com/s/VguklTTYePqYa4_KQhDuuA)
 * [Commonality in Natural Images Rescues GANs: Pretraining GANs with Generic and Privacy-free Synthetic Data](https://arxiv.org/abs/2204.04950)<br>:star:[code](https://github.com/FriedRonaldo/Primitives-PS)
 * [Deep Image-based Illumination Harmonization](http://graphvision.whu.edu.cn/papers/2022/BaoZhongYun_CVPR.pdf)
 * [GAN-Supervised Dense Visual Alignment](https://arxiv.org/abs/2112.05143)<br>:open_mouth:oral:star:[code](https://github.com/wpeebles/gangealing):house:[project](https://www.wpeebles.com/gangealing):tv:[video](https://youtu.be/Qa1ASS_NuzE)<br>:newspaper:[CVPR2022 Oral：GAN监督的密集视觉对齐，代码开源](https://mp.weixin.qq.com/s/t4vnZpWdG76GlnbPzJXPcw)
