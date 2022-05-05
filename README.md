@@ -327,7 +327,7 @@
   * [Style-Based Global Appearance Flow for Virtual Try-On](https://arxiv.org/abs/2204.01046)<br>:star:[code](https://github.com/SenHe/Flow-Style-VTON)
   * [ClothFormer:Taming Video Virtual Try-on in All Module](https://arxiv.org/abs/2204.12151)<br>:open_mouth:oral:star:[code](https://github.com/luxiangju-PersonAI/ClothFormer):house:[project](https://cloth-former.github.io/):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169) 
 * AR
-  * [Episodic Memory Question Answering](https://arxiv.org/abs/2205.01652)<br>:open_mouse:oral:star:[code](https://samyak-268.github.io/emqa)<br>AI助理：情景记忆问答 （增强现实新任务，数据及代码均将开源）
+  * [Episodic Memory Question Answering](https://arxiv.org/abs/2205.01652)<br>:open_mouth:oral:star:[code](https://samyak-268.github.io/emqa)<br>AI助理：情景记忆问答 （增强现实新任务，数据及代码均将开源）
 
 <a name="28"/>
 
@@ -756,7 +756,7 @@
 * 3D手重建
   * [LISA: Learning Implicit Shape and Appearance of Hands](https://arxiv.org/abs/2204.01695)<br>:house:[project](https://www.iri.upc.edu/people/ecorona/lisa/)
 * 3D人体形状
-  * [OSSO: Obtaining Skeletal Shape from Outside](https://arxiv.org/abs/2204.10129)<>:star:[code](https://github.com/MarilynKeller/OSSO):house:[project](https://osso.is.tue.mpg.de/):tv:[video](https://osso.is.tue.mpg.de/#Video):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
+  * [OSSO: Obtaining Skeletal Shape from Outside](https://arxiv.org/abs/2204.10129)<br>:star:[code](https://github.com/MarilynKeller/OSSO):house:[project](https://osso.is.tue.mpg.de/):tv:[video](https://osso.is.tue.mpg.de/#Video):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
 
 <a name="8"/>
 
@@ -1042,7 +1042,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Self-Supervised Image Representation Learning with Geometric Set Consistency](https://arxiv.org/abs/2203.15361)
 * [Balanced Multimodal Learning via On-the-fly Gradient Modulation](https://arxiv.org/abs/2203.15332)<br>:open_mouth:oral:star:[code](https://github.com/GeWu-Lab/OGM-GE_CVPR2022)
 * [CNN Filter DB: An Empirical Investigation of Trained Convolutional Filters](https://arxiv.org/abs/2203.15331)<br>:star:[code](https://github.com/paulgavrikov/cnn-filter-db)
-* [Eigencontours: Novel Contour Descriptors Based on Low-Rank Approximation](https://arxiv.org/abs/2203.15259)<br>:opem_mouth:oral
+* [Eigencontours: Novel Contour Descriptors Based on Low-Rank Approximation](https://arxiv.org/abs/2203.15259)<br>:open_mouth:oral
 * [Pop-Out Motion: 3D-Aware Image Deformation via Learning the Shape Laplacian](https://arxiv.org/abs/2203.15235)
 * [Long-term Visual Map Sparsification with Heterogeneous GNN](https://arxiv.org/abs/2203.15182)
 * [Clean Implicit 3D Structure from Noisy 2D STEM Images](https://arxiv.org/abs/2203.15434)
