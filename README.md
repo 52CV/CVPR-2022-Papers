@@ -631,7 +631,7 @@
 * [InsetGAN for Full-Body Image Generation](https://arxiv.org/abs/2203.07293)<br>:house:[project](https://afruehstueck.github.io/insetgan/)
 * [Commonality in Natural Images Rescues GANs: Pretraining GANs with Generic and Privacy-free Synthetic Data](https://arxiv.org/abs/2204.04950)<br>:star:[code](https://github.com/FriedRonaldo/Primitives-PS)
 * [Deep Image-based Illumination Harmonization](http://graphvision.whu.edu.cn/papers/2022/BaoZhongYun_CVPR.pdf)
-* [GAN-Supervised Dense Visual Alignment](https://arxiv.org/abs/2112.05143)<br>:open_mouth:oral:star:[code](https://github.com/wpeebles/gangealing):house:[project](https://www.wpeebles.com/gangealing):tv:[video](https://youtu.be/Qa1ASS_NuzE)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/t4vnZpWdG76GlnbPzJXPcw)
+* [GAN-Supervised Dense Visual Alignment](https://arxiv.org/abs/2112.05143)<br>:open_mouth:oral:star:[code](https://github.com/wpeebles/gangealing):house:[project](https://www.wpeebles.com/gangealing):tv:[video](https://youtu.be/Qa1ASS_NuzE)<br>:newspaper:[CVPR2022 Oral：GAN监督的密集视觉对齐，代码开源](https://mp.weixin.qq.com/s/t4vnZpWdG76GlnbPzJXPcw)
 * 图像篡改检测
   * [Proactive Image Manipulation Detection](https://arxiv.org/abs/2203.15880)<br>:star:[code](https://github.com/vishal3477/proactive_IMD)
 
