@@ -23,7 +23,6 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-
 ### ❗❗❗ 5月6日更新 4 篇。
 * 弱监督
   * [P3IV: Probabilistic Procedure Planning from Instructional Videos with Weak Supervision](https://arxiv.org/abs/2205.02300)<br>:star:[code](https://github.com/SamsungLabs/procedure-planning)<br>使用教学视频进行概率性程序规划的弱监督方法
@@ -168,8 +167,8 @@
     * [Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation](https://arxiv.org/abs/2204.03838)<br>:star:[code](https://github.com/xiaoachen98/DALN)
 
 ## Scene Graph Generation(场景图生成)
-* [HL-Net: Heterophily Learning Network for Scene Graph Generatio](https://arxiv.org/abs/2205.01316)<br>:star:[code](https://github.com/siml3/HL-Net)<br>场景图生成：异质学习网络
-* [RU-Net: Regularized Unrolling Network for Scene Graph Generation](https://arxiv.org/abs/2205.01297)<br>:star:[code](https://github.com/siml3/RU-Net)<br>场景图生成：正则展开网络
+* [HL-Net: Heterophily Learning Network for Scene Graph Generatio](https://arxiv.org/abs/2205.01316)<br>:star:[code](https://github.com/siml3/HL-Net)<br>场景图生成：异质学习网络<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
+* [RU-Net: Regularized Unrolling Network for Scene Graph Generation](https://arxiv.org/abs/2205.01297)<br>:star:[code](https://github.com/siml3/RU-Net)<br>场景图生成：正则展开网络<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 
 ## Dense Prediction(密集预测)
 * [Does Robustness on ImageNet Transfer to Downstream Tasks?](https://arxiv.org/abs/2204.03934)
@@ -375,7 +374,7 @@
 
 ## 25.Fine-Grained/Image Classification(细粒度/图像分类)
 * 细粒度分类
-  * [Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information](https://arxiv.org/abs/2203.03253)<br>:star:[code](https://github.com/ylingfeng/DynamicMLP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
+  * [Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information](https://arxiv.org/abs/2203.03253)<br>:star:[code](https://github.com/ylingfeng/DynamicMLP):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)[:notebook:](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
 * 图像分类
   * [DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification](https://arxiv.org/abs/2203.12081)<br>:star:[code](https://github.com/hrzhang1123/DTFD-MIL)
   * [Contrastive Test-Time Adaptation](https://arxiv.org/abs/2204.10377)<br>:house:[project](https://sites.google.com/view/adacontrast)
@@ -487,7 +486,7 @@
 * 行人检测
   * [STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes](https://arxiv.org/abs/2204.01026)<br>:star:[code](https://github.com/4DVLab/STCrowd)
 * 步态识别
-  * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://arxiv.org/abs/2204.02569)<br>:star:[code](https://github.com/Gait3D/Gait3D-Benchmark):house:[project](https://gait3d.github.io/)
+  * [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark](https://arxiv.org/abs/2204.02569)<br>:star:[code](https://github.com/Gait3D/Gait3D-Benchmark):house:[project](https://gait3d.github.io/)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 * Person Search
   * [PSTR: End-to-End One-Step Person Search With Transformers](https://arxiv.org/abs/2204.03340)<br>:star:[code](https://github.com/JialeCao001/PSTR)
 
@@ -811,7 +810,7 @@
   * 3D点云分割
     * [Stratified Transformer for 3D Point Cloud Segmentation](https://arxiv.org/abs/2203.14508)<br>:star:[code](https://github.com/dvlab-research/Stratified-Transformer)
 * 点云分类
-  * [ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation](https://arxiv.org/abs/2203.03888)<br>:star:[code](https://github.com/robinwang1/ART-Point):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+  * [ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation](https://arxiv.org/abs/2203.03888)<br>:star:[code](https://github.com/robinwang1/ART-Point):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)[:notebook:](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 * 点云配准
   * [SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration](https://arxiv.org/abs/2203.14453)<br>:star:[code](https://github.com/ZhiChen902/SC2-PCR)
 * 点云补全
@@ -844,7 +843,7 @@
 * [Dynamic Sparse R-CNN](https://arxiv.org/abs/2205.02101)
 * [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/abs/2203.03800)<br>:star:[code](https://github.com/deeplearning-wisc/stud):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 * [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837)<br>:star:[code](https://github.com/yzd-v/FGD):newspaper:[解读](https://zhuanlan.zhihu.com/p/477707304)<br>关于目标检测的知识蒸馏工作，只需要30行代码就可以在 anchor-base, anchor-free 的单阶段、两阶段各种检测器上稳定涨点，现在代码已经开源。
-* [Real-time Object Detection for Streaming Perception](https://arxiv.org/abs/2203.12338)<br>:star:[code](https://github.com/yancie-yjr/StreamYOLO)
+* [Real-time Object Detection for Streaming Perception](https://arxiv.org/abs/2203.12338)<br>:star:[code](https://github.com/yancie-yjr/StreamYOLO):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
 * [Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition](https://arxiv.org/abs/2203.12247)
 * [Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model](https://arxiv.org/abs/2203.14940)<br>:star:[code](https://github.com/dyabel/detpro)
 * [Optimal Correction Cost for Object Detection Evaluation](https://arxiv.org/abs/2203.14438)
@@ -882,7 +881,7 @@
   * [HyperDet3D: Learning a Scene-conditioned 3D Object Detector](https://arxiv.org/abs/2204.05599)
   * [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575)<br>:star:[code](https://github.com/AIR-THU/DAIR-V2X)
   * [OccAM's Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data](https://arxiv.org/abs/2204.06577)<br>:star:[code](https://github.com/dschinagl/occam) 
-  * [Focal Sparse Convolutional Networks for 3D Object Detection](https://arxiv.org/abs/2204.12463)<br>:open_mouth:oral:star:[code](https://github.com/open-mmlab/OpenPCDet):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)
+  * [Focal Sparse Convolutional Networks for 3D Object Detection](https://arxiv.org/abs/2204.12463)<br>:open_mouth:oral:star:[code](https://github.com/open-mmlab/OpenPCDet):newspaper:[解读](https://zhuanlan.zhihu.com/p/505802169)[:notebook:](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
   * [Rotationally Equivariant 3D Object Detection](https://arxiv.org/abs/2204.13630)<br>:house:[project](https://kovenyu.com/eon/)
 * 伪装目标检测
   * [Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection](https://arxiv.org/abs/2203.02688)<br>:star:[code](https://github.com/lartpang/ZoomNet)
@@ -916,7 +915,7 @@
   * [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867)<br>:star:[code](https://github.com/DQiaole/ZITS_inpainting):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
   * [MAT: Mask-Aware Transformer for Large Hole Image Inpainting](https://arxiv.org/abs/2203.15270)<br>:star:[code](https://github.com/fenglinglwb/MAT)
 * 图像拼接
-  * [Deep Rectangling for Image Stitching: A Learning Baseline](https://arxiv.org/abs/2203.03831)<br>:star:[code](https://github.com/nie-lang/DeepRectangling):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
+  * [Deep Rectangling for Image Stitching: A Learning Baseline](https://arxiv.org/abs/2203.03831)<br>:open_mouth:oral:star:[code](https://github.com/nie-lang/DeepRectangling):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 * 运动去模糊
   * [Unifying Motion Deblurring and Frame Interpolation with Events](https://arxiv.org/abs/2203.12178)
 * image outpainting
@@ -980,7 +979,7 @@
     * [Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation](https://arxiv.org/abs/2203.13505)<br>:star:[code](https://github.com/CVI-SZU/CCAM)
     * [Cross Language Image Matching for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02668)<br>:star:[code](https://github.com/CVI-SZU/CLIMS)
     * [Multi-class Token Transformer for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02891)<br>:star:[code](https://github.com/xulianuwa/MCTformer)
-    * [Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers](https://arxiv.org/abs/2203.02664)<br>:star:[code](https://github.com/rulixiang/afa)
+    * [Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers](https://arxiv.org/abs/2203.02664)<br>:star:[code](https://github.com/rulixiang/afa):newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
     * [Weakly Supervised Semantic Segmentation using Out-of-Distribution Data](https://arxiv.org/abs/2203.03860)<br>:star:[code](https://github.com/naver-ai/w-ood):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
     * [L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2204.03206)<br>:star:[code](https://github.com/PengtaoJiang/L2G)
   * 半监督语义分割
@@ -1010,7 +1009,7 @@
 * [PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence](https://arxiv.org/abs/2203.01754)<br>:star:[code](https://github.com/zj-dong/pina):house:[project](https://zj-dong.github.io/pina/):tv:[video](https://www.youtube.com/watch?v=oGpKUuD54Qk):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531)<br>:star:[code](https://github.com/kaiwang960112/CAFE):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * [Enhancing Adversarial Robustness for Deep Metric Learning](https://arxiv.org/abs/2203.01439)
-* [BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning](https://arxiv.org/abs/2203.01522)<br>:star:[code](https://github.com/zhihou7/BatchFormer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
+* [BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning](https://arxiv.org/abs/2203.01522)<br>:star:[code](https://github.com/zhihou7/BatchFormer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)[:notebook:](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 * [ACVNet: Attention Concatenation Volume for Accurate and Efficient Stereo Matching](https://arxiv.org/abs/2203.02146)<br>:star:[code](https://github.com/gangweiX/ACVNet):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
 * [Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values](https://arxiv.org/abs/2203.01993)<br>:star:[code](https://colab.research.google.com/drive/1Y4_pp5miLXCeGHkzg7wptTRviHiyViWB?usp=sharing)
 * [Do Explanations Explain? Model Knows Best](https://arxiv.org/abs/2203.02269)<br>:star:[code](https://github.com/CAMP-eXplain-AI/Do-Explanations-Explain)
