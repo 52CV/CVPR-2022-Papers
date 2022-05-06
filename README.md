@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月5日，已收录 583+7 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月5日，已收录 590+4 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,18 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+
+### ❗❗❗ 5月6日更新 4 篇。
+* 弱监督
+  * [P3IV: Probabilistic Procedure Planning from Instructional Videos with Weak Supervision](https://arxiv.org/abs/2205.02300)<br>:star:[code](https://github.com/SamsungLabs/procedure-planning)<br>使用教学视频进行概率性程序规划的弱监督方法
+* 分割
+  * [Cross-view Transformers for real-time Map-view Semantic Segmentation](https://arxiv.org/abs/2205.02833)<br>:open_mouth:oral:star:[code](https://github.com/bradyz/cross_view_transformers)
+* 场景重建
+  * [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/abs/2205.02836)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/manhattan_sdf):house:[project](https://zju3dv.github.io/manhattan_sdf/):tv:[video](https://youtu.be/oEE7mK0YQtc):newspaper:[解读](https://zhuanlan.zhihu.com/p/510007610)
+* 其他
+  * [Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction](https://arxiv.org/abs/2205.02834)<br>:star:[code](https://github.com/evelinehong/FixIt):house:[project](http://fixing-malfunctional.csail.mit.edu/)
+
 
 ### ❗❗❗ 5月5日更新 7 篇。
 
@@ -40,18 +52,6 @@
 * 自动驾驶
   * [COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles](https://arxiv.org/abs/2205.02222)<br>:star:[code](https://github.com/UT-Austin-RPL/Coopernaut):house:[project](https://ut-austin-rpl.github.io/Coopernaut/):newspaper:[解读](https://zhuanlan.zhihu.com/p/509470774/)
 
-### ❗❗❗ 5月4日更新 5 篇。
-
-* AI助理：情景记忆问答 （增强现实新任务，数据及代码均将开源）
-  * [（Oral）Episodic Memory Question Answering](https://arxiv.org/abs/2205.01652)<br>:star:[code](https://samyak-268.github.io/emqa)
-* 零样本动作识别：跨模态表示学习
-  * [Cross-modal Representation Learning for Zero-shot Action Recognition](https://arxiv.org/abs/2205.01657)<br>:star:[code](https://github.com/microsoft/ResT)
-* 场景图生成：异质学习网络
-  * [HL-Net: Heterophily Learning Network for Scene Graph Generatio](https://arxiv.org/abs/2205.01316)<br>:star:[code](https://github.com/siml3/HL-Net)
-* 场景图生成：正则展开网络
-  * [RU-Net: Regularized Unrolling Network for Scene Graph Generation](https://arxiv.org/abs/2205.01297)<br>:star:[code](https://github.com/siml3/RU-Net)
-* 跨域目标检测：目标感知双分支蒸馏
-  * [Cross Domain Object Detection by Target-Perceived Dual Branch Distillation](https://arxiv.org/abs/2205.01291)<br>:star:[code](https://github.com/Feobi1999/TDD)
 
 ## 目录
 
@@ -518,6 +518,8 @@
   * [RSCFed: Random Sampling Consensus Federated Semi-supervised Learning](https://arxiv.org/abs/2203.13993)<br>:star:[code](https://github.com/XMed-Lab/RSCFed)
   * [FisherMatch: Semi-Supervised Rotation Regression via Entropy-based Filtering](https://arxiv.org/abs/2203.15765)<br>:open_mouth:oral:house:[project](https://yd-yin.github.io/FisherMatch/)
   * [Semi-Supervised Learning of Semantic Correspondence with Pseudo-Labels](https://arxiv.org/abs/2203.16038)
+* 弱监督
+  * [P3IV: Probabilistic Procedure Planning from Instructional Videos with Weak Supervision](https://arxiv.org/abs/2205.02300)<br>:star:[code](https://github.com/SamsungLabs/procedure-planning)<br>使用教学视频进行概率性程序规划的弱监督方法
 
 <a name="15"/>
 
@@ -712,6 +714,8 @@
   * [Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction](https://arxiv.org/abs/2204.03642)<br>:star:[code](https://github.com/shubhtuls/ss3d/):house:[project](https://shubhtuls.github.io/ss3d/):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
   * [What's in your hands? 3D Reconstruction of Generic Objects in Hands](https://arxiv.org/abs/2204.07153)<br>:star:[code](https://github.com/JudyYe/ihoi):house:[project](https://judyye.github.io/ihoi/):tv:[video](https://youtu.be/-hHlkWwENiI):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
   * [Surface Reconstruction from Point Clouds by Learning Predictive Context Priors](https://arxiv.org/abs/2204.11015)<br>:star:[code](https://github.com/mabaorui/PredictableContextPrior)
+  * 三维场景重建
+    * [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/abs/2205.02836)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/manhattan_sdf):house:[project](https://zju3dv.github.io/manhattan_sdf/):tv:[video](https://youtu.be/oEE7mK0YQtc):newspaper:[解读](https://zhuanlan.zhihu.com/p/510007610)
   * 手物重建
     * [Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution](https://arxiv.org/abs/2204.13062)
   * 三维服装网格重建
@@ -966,6 +970,7 @@
   * [Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation](https://arxiv.org/abs/2204.10638)
   * [Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers](https://arxiv.org/abs/2204.11432)<br>:star:[code](https://github.com/twke18/HSG)
   * [Self-Supervised Learning of Object Parts for Semantic Segmentation](https://arxiv.org/abs/2204.13101)
+  * [Cross-view Transformers for real-time Map-view Semantic Segmentation](https://arxiv.org/abs/2205.02833)<br>:open_mouth:oral:star:[code](https://github.com/bradyz/cross_view_transformers)
   * 3D分割
     * [MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2204.12667)<br>:house:[project](https://www.nec-labs.com/~mas/MM-TTA/)
     * [Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation](https://arxiv.org/abs/2204.07548)<br>:open_mouth:oral:star:[code](https://github.com/drprojects/DeepViewAgg):newspaper:[解读](https://zhuanlan.zhihu.com/p/500351469)
@@ -1089,6 +1094,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Proto2Proto: Can you recognize the car, the way I do?](https://arxiv.org/abs/2204.11830)<br>:star:[code](https://github.com/archmaester/proto2proto)
  * [Balanced MSE for Imbalanced Visual Regression](https://arxiv.org/abs/2203.16427)<br>:open_mouth:oral:star:[code](https://github.com/jiawei-ren/BalancedMSE)<br>:newspaper:[CVPR 2022 (Oral) | 回归标签不平衡? 试试Balanced MSE](https://mp.weixin.qq.com/s/pNnAUJCpJMDocPm_ZUFJWg)
 * [Leveraging Unlabeled Data for Sketch-based Understanding](https://arxiv.org/abs/2204.12522)
+* [Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction](https://arxiv.org/abs/2205.02834)<br>:star:[code](https://github.com/evelinehong/FixIt):house:[project](http://fixing-malfunctional.csail.mit.edu/)
 
 
 
