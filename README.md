@@ -23,7 +23,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-### ❗❗❗ 5月7日补充更新 52 篇
+### ❗❗❗ 5月7日补充更新 51 篇
 * HOI
   * [ Interactiveness Field of Human-Object Interactions](https://arxiv.org/abs/2204.07718)<br>:star:[code](https://github.com/Foruck/Interactiveness-Field)<br>:newspaper:[粗解](https://news.sjtu.edu.cn/jdzh/20220330/169456.html)
 * 机器人
@@ -53,9 +53,6 @@
 * 超分辨率
   * [Deep Constrained Least Squares for Blind Image Super-Resolution](https://arxiv.org/abs/2202.07508)<br>:star:[code](https://github.com/megvii-research/DCLS-SR):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
 
-
-* 自监督
-  * [Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer](https://arxiv.org/abs/2109.08024)<br>:star:[code](https://github.com/megvii-research/Portraits_Correction)
 * 知识蒸馏
   * [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679)<br>:star:[code](https://github.com/megvii-research/mdistiller):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
 * MVS
@@ -630,7 +627,6 @@
   * [A study on the distribution of social biases in self-supervised learning visual models](https://arxiv.org/abs/2203.01854)
   * [Learning Where to Learn in Cross-View Self-Supervised Learning](https://arxiv.org/abs/2203.14898)
   * [Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy](https://arxiv.org/abs/2203.17205)
-  * [Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer](https://arxiv.org/abs/2109.08024)<br>:star:[code](https://github.com/megvii-research/Portraits_Correction)
 * 半监督
   * [Class-Aware Contrastive Semi-Supervised Learning](https://arxiv.org/abs/2203.02261)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
   * [RSCFed: Random Sampling Consensus Federated Semi-supervised Learning](https://arxiv.org/abs/2203.13993)<br>:star:[code](https://github.com/XMed-Lab/RSCFed)
