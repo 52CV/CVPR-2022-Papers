@@ -360,8 +360,6 @@
 <a name="34"/>
 
 ## 34.Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
-* 剪枝
-  * [Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2203.13714)
 * 知识蒸馏
   * [Knowledge Distillation with the Reused Teacher Classifier](https://arxiv.org/abs/2203.14001)
   * [DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers](https://arxiv.org/abs/2204.12997)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
