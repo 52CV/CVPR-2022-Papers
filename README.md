@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月7日，已收录 594+52 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月7日，已收录 594+50 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -23,7 +23,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-### ❗❗❗ 5月7日补充更新 51 篇
+### ❗❗❗ 5月7日补充更新 50 篇
 * HOI
   * [ Interactiveness Field of Human-Object Interactions](https://arxiv.org/abs/2204.07718)<br>:star:[code](https://github.com/Foruck/Interactiveness-Field)<br>:newspaper:[粗解](https://news.sjtu.edu.cn/jdzh/20220330/169456.html)
 * 机器人
@@ -52,9 +52,6 @@
   * [Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer](https://arxiv.org/abs/2109.08024)<br>:star:[code](https://github.com/megvii-research/Portraits_Correction):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
 * 超分辨率
   * [Deep Constrained Least Squares for Blind Image Super-Resolution](https://arxiv.org/abs/2202.07508)<br>:star:[code](https://github.com/megvii-research/DCLS-SR):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
-
-* 知识蒸馏
-  * [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679)<br>:star:[code](https://github.com/megvii-research/mdistiller):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
 * MVS
   * [TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers](https://arxiv.org/abs/2111.14600)<br>:star:[code](https://github.com/MegviiRobot/TransMVSNet):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
 * Stereo Matching
@@ -369,7 +366,6 @@
   * [Knowledge Distillation with the Reused Teacher Classifier](https://arxiv.org/abs/2203.14001)
   * [DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers](https://arxiv.org/abs/2204.12997)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
   * [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679)<br>:star:[code](https://github.com/megvii-research/mdistiller)<br>:newspaper:[解耦知识蒸馏，让Hinton在7年前提出的方法重回SOTA行列](https://mp.weixin.qq.com/s/ozLLnUf8KggVzbPxeegQ3g)
-  * [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679)<br>:star:[code](https://github.com/megvii-research/mdistiller):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
 * 模型压缩
   * [CHEX: CHannel EXploration for CNN Model Compression](https://arxiv.org/abs/2203.15794)
 
