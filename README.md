@@ -352,7 +352,7 @@
 * Text Spotting
   * [Text Spotting Transformers](https://arxiv.org/abs/2204.01918)<br>:star:[code](https://github.com/mlpc-ucsd/TESTR):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
 * LOGO设计
-  * [Aesthetic Text Logo Synthesis via Content-aware Layout Inferring](https://arxiv.org/abs/2204.02701)<br>:star:[code](https://github.com/yizhiwang96/TextLogoLayout)
+  * [Aesthetic Text Logo Synthesis via Content-aware Layout Inferring](https://arxiv.org/abs/2204.02701)<br>:star:[code](https://github.com/yizhiwang96/TextLogoLayout)<br>:newspaper:[CVPR 2022 | 北大、腾讯提出文字logo生成模型，脑洞大开堪比设计师](https://mp.weixin.qq.com/s/gjrdktxwbTDPWWeIK5wVNQ)
 * 字体生成
   * [XMP-Font: Self-Supervised Cross-Modality Pre-training for Few-Shot Font Generation](https://arxiv.org/abs/2204.05084) 
   * [(Oral)Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator](https://arxiv.org/abs/2205.00146)<br>字体生成（很有商业价值的方向）
