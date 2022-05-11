@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月10日，已收录 657+10 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月11日，已收录 667+3 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -23,6 +23,13 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 5月11日更新 3 篇
+* 神经渲染
+  * [NeRF-Editing: Geometry Editing of Neural Radiance Fields](https://arxiv.org/abs/2205.04978)
+* 图像修复
+  * [Reduce Information Loss in Transformers for Pluralistic Image Inpainting](https://arxiv.org/abs/2205.05076)
+* 分割
+  * [Learning Non-target Knowledge for Few-shot Semantic Segmentation](https://arxiv.org/abs/2205.04903)<br>:star:[code](https://github.com/LIUYUANWEI98/NERTNet)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/512521624)
 
 ### ❗❗❗ 5月10日更新 10 篇
 * 图像对齐
@@ -69,14 +76,6 @@
   * [An Image Patch is a Wave: Quantum Inspired Vision MLP](https://arxiv.org/abs/2111.12294)<br>:open_mouth:oral:star:[code](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch)
   * [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)<br>:star:[code](https://github.com/facebookresearch/ConvNeXt)
 
-### ❗❗❗ 5月9日更新 3 篇
-
-* 分类
-  * [Generating Representative Samples for Few-Shot Classification](https://arxiv.org/abs/2205.02918)<br>:star:[code](https://github.com/cvlab-stonybrook/fsl-rsvae)<br>:newspaper:[粗解](https://zhuanlan.zhihu.com/p/511390027)
-* 图像超级补全
-  * [Scene Graph Expansion for Semantics-Guided Image Outpainting](https://arxiv.org/abs/2205.02958)
-* VL
-  * [Prompt Distribution Learning](https://arxiv.org/abs/2205.03340)
 
 ## 目录
 
@@ -114,6 +113,7 @@
 * [Modeling Indirect Illumination for Inverse Rendering](https://arxiv.org/abs/2204.06837)<br>:star:[code](https://github.com/zju3dv/invrender):house:[project](https://zju3dv.github.io/invrender/)
 * [GenDR: A Generalized Differentiable Renderer](https://arxiv.org/abs/2204.13845)<br>:star:[code](https://github.com/Felix-Petersen/gendr)<br>泛化可微渲染器
 * [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139)<br>:star:[code](https://github.com/cassiePython/CLIPNeRF):house:[project](https://cassiepython.github.io/clipnerf/)
+* [NeRF-Editing: Geometry Editing of Neural Radiance Fields](https://arxiv.org/abs/2205.04978)
 
 ## Gaze Estimation(视线估计)
 * [GazeOnce: Real-Time Multi-Person Gaze Estimation](https://arxiv.org/abs/2204.09480)
@@ -910,7 +910,7 @@
 * [Unified Transformer Tracker for Object Tracking](https://arxiv.org/abs/2203.15175)<br>:star:[code](https://github.com/Flowerfan/Trackron)
 * [Global Tracking via Ensemble of Local Trackers](https://arxiv.org/abs/2203.16092)
 * [Unsupervised Learning of Accurate Siamese Tracking](https://arxiv.org/abs/2204.01475)<br>:star:[code](https://github.com/FlorinShum/ULAST)
-* [Transformer Tracking with Cyclic Shifting Window Attention](https://arxiv.org/abs/2205.03806)<br>:star:[code](https://github.com/SkyeSong38/CSWinTT)
+* [Transformer Tracking with Cyclic Shifting Window Attention](https://arxiv.org/abs/2205.03806)<br>:star:[code](https://github.com/SkyeSong38/CSWinTT)<br>Transformer 跟踪：循环为一窗口注意力模型。该算法在五个数据集VOT2020, UAV123, LaSOT, TrackingNet, GOT-10k上均实现了新的SOTA.
 * 3D 目标跟踪
   * [Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2203.01730)<br>:star:[code](https://github.com/Ghostish/Open3DSOT):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * 多目标跟踪
@@ -925,7 +925,7 @@
 ## 5.Object Detection(目标检测)
 * [DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/abs/2203.01305)<br>:star:[code](https://github.com/FengLi-ust/DN-DETR):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
 * [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://arxiv.org/abs/2204.02136)<br>:star:[code](https://github.com/Hi-FT/ERD)
-* [Beyond Bounding Box: Multimodal Knowledge Learning for Object Detection](https://arxiv.org/abs/2205.04072)
+* [Beyond Bounding Box: Multimodal Knowledge Learning for Object Detection](https://arxiv.org/abs/2205.04072)<br>以往目标检测往往以目标包围框作为标注训练，作者引入语言提示信息，提炼语言知识到目标检测模型中，获得了1.6~2.1%的性能增益。
 * [Dynamic Sparse R-CNN](https://arxiv.org/abs/2205.02101)
 * [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/abs/2203.03800)<br>:star:[code](https://github.com/deeplearning-wisc/stud):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 * [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837)<br>:star:[code](https://github.com/yzd-v/FGD):newspaper:[解读](https://zhuanlan.zhihu.com/p/477707304)<br>关于目标检测的知识蒸馏工作，只需要30行代码就可以在 anchor-base, anchor-free 的单阶段、两阶段各种检测器上稳定涨点，现在代码已经开源。
@@ -1014,6 +1014,7 @@
 * 图像修复
   * [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867)<br>:star:[code](https://github.com/DQiaole/ZITS_inpainting):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
   * [MAT: Mask-Aware Transformer for Large Hole Image Inpainting](https://arxiv.org/abs/2203.15270)<br>:star:[code](https://github.com/fenglinglwb/MAT)
+  * [Reduce Information Loss in Transformers for Pluralistic Image Inpainting](https://arxiv.org/abs/2205.05076)
 * 图像拼接
   * [Deep Rectangling for Image Stitching: A Learning Baseline](https://arxiv.org/abs/2203.03831)<br>:open_mouth:oral:star:[code](https://github.com/nie-lang/DeepRectangling):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
 * 运动去模糊
@@ -1046,7 +1047,7 @@
 * [FocalClick: Towards Practical Interactive Image Segmentation](https://arxiv.org/abs/2204.02574)<br>:star:[code](https://github.com/XavierCHEN34/ClickSEG):newspaper:[粗解](https://zhuanlan.zhihu.com/p/494237617)
 * [Semantic-Aware Domain Generalized Segmentation](https://arxiv.org/abs/2204.00822)<br>:open_mouth:oral:star:[code](https://github.com/leolyj/SAN-SAW)
 * [ReSTR: Convolution-free Referring Image Segmentation Using Transformers](https://arxiv.org/abs/2203.16768)
-* [Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](https://arxiv.org/abs/2205.04334)<br>:house:[project](https://abhijitkundu.info/projects/pnf/)
+* [Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](https://arxiv.org/abs/2205.04334)<br>:house:[project](https://abhijitkundu.info/projects/pnf/)<br>全景神经场：谷歌新提出的语义级目标感知的神经场景表示模型。该表示模型可以有效地用于新视图合成、2D 全景分割、3D 场景编辑和多视图深度预测等多项任务。相信这又会是一个引领潮流的新方向。
 * 实例分割
   * [E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation](https://arxiv.org/abs/2203.04074)<br>:star:[code](https://github.com/zhang-tao-whu/e2ec):newspaper:[粗解](https://zhuanlan.zhihu.com/p/478070143)
   * [Sparse Instance Activation for Real-Time Instance Segmentation](https://arxiv.org/abs/2203.12827)<br>:star:[code](https://github.com/hustvl/SparseInst)   
@@ -1097,6 +1098,8 @@
     * [Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation](https://arxiv.org/pdf/2111.12940.pdf)<br>:star:[code](https://github.com/BIT-DA/RIPU)
   * 域泛化语义分割
     * [WildNet: Learning Domain Generalized Semantic Segmentation from the Wild](https://arxiv.org/abs/2204.01446)<br>:star:[code](https://github.com/suhyeonlee/WildNet)
+  * 小样本语义分割
+    * [Learning Non-target Knowledge for Few-shot Semantic Segmentation](https://arxiv.org/abs/2205.04903)<br>:star:[code](https://github.com/LIUYUANWEI98/NERTNet)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/512521624)
 * 动作分割
   * [Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos](https://arxiv.org/abs/2203.13309)
 * 场景解析
@@ -1206,7 +1209,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [RepMLPNet: Hierarchical Vision MLP with Re-parameterized Locality](https://arxiv.org/abs/2112.11081)<br>:star:[code](https://github.com/DingXiaoH/RepMLP):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
 * [An Image Patch is a Wave: Quantum Inspired Vision MLP](https://arxiv.org/abs/2111.12294)<br>:open_mouth:oral:star:[code](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch)
 * [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)<br>:star:[code](https://github.com/facebookresearch/ConvNeXt)
-* [NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations](https://arxiv.org/abs/2205.04175)
+* [NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations](https://arxiv.org/abs/2205.04175)<br>头发建模：仅用一幅图像，构建高保真度的头发模型，使用隐式神经表示的方法。出自浙大CAD&CG组、ETH Zurich、香港城市大学。
 
 
 ## 论文尚未公布
