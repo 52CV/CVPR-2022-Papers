@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月12日，已收录 673+6 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月16日，已收录 679+2 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,12 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+### ❗❗❗ 5月16日更新 2 篇
+* 零样本
+  * [KG-SP: Knowledge Guided Simple Primitives for Open World Compositional Zero-Shot Learning](https://arxiv.org/abs/2205.06784)<br>:star:[code](https://github.com/ExplainableML/KG-SP)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/515190727)
+* 其他
+  * [A Unified Framework for Implicit Sinkhorn Differentiation](https://arxiv.org/abs/2205.06688)<br>:star:[code](https://github.com/marvin-eisenberger/implicit-sinkhorn)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/515190727)
 
 ### ❗❗❗ 5月13日更新 6 篇
 * 3D
@@ -155,6 +161,7 @@
 * 零样本
   * [MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning](https://arxiv.org/abs/2203.03137)<br>:star:[code](https://github.com/shiming-chen/MSDN):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)
   * [Unseen Classes at a Later Time? No Problem](https://arxiv.org/abs/2203.16517)<br>:star:[code](https://github.com/sumitramalagi/Unseen-classes-at-a-later-time)
+  * [KG-SP: Knowledge Guided Simple Primitives for Open World Compositional Zero-Shot Learning](https://arxiv.org/abs/2205.06784)<br>:star:[code](https://github.com/ExplainableML/KG-SP)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/515190727)
 * 域泛化
   * [Compound Domain Generalization via Meta-Knowledge Encoding](https://arxiv.org/pdf/2203.13006.pdf)
   * [Causality Inspired Representation Learning for Domain Generalization](https://arxiv.org/abs/2203.14237)
@@ -1192,7 +1199,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [An Image Patch is a Wave: Quantum Inspired Vision MLP](https://arxiv.org/abs/2111.12294)<br>:open_mouth:oral:star:[code](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch)
 * [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)<br>:star:[code](https://github.com/facebookresearch/ConvNeXt)
 * [NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations](https://arxiv.org/abs/2205.04175)<br>头发建模：仅用一幅图像，构建高保真度的头发模型，使用隐式神经表示的方法。出自浙大CAD&CG组、ETH Zurich、香港城市大学。
-
+* [A Unified Framework for Implicit Sinkhorn Differentiation](https://arxiv.org/abs/2205.06688)<br>:star:[code](https://github.com/marvin-eisenberger/implicit-sinkhorn)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/515190727)
 
 ## 论文尚未公布
 * 相机重定位
