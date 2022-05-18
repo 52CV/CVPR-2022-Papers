@@ -23,6 +23,14 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 5月18日更新 3 篇
+* 物体属性识别
+  * [Disentangling Visual Embeddings for Attributes and Objects](https://arxiv.org/abs/2205.08536)<br>:open_mouth:oral:star:[code](https://github.com/nirat1606/OADis)
+* 3D
+  * [Self-supervised Neural Articulated Shape and Appearance Models](https://arxiv.org/abs/2205.08525)<br>:house:[project](https://weify627.github.io/nasam/)
+* Transformer
+  * [MulT: An End-to-End Multitask Learning Transformer](https://arxiv.org/abs/2205.08303)
+
 ### ❗❗❗ 5月17日更新 3 篇
 * 视频帧插值
   * [Video Frame Interpolation with Transformer](https://arxiv.org/abs/2205.07230)<br>:star:[code](https://github.com/dvlab-research/VFIformer)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/515672497)
@@ -576,6 +584,7 @@
 * [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/abs/2111.09886)<br>:star:[code](https://github.com/microsoft/SimMIM)
 * [NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition](https://arxiv.org/abs/2111.12994)<br>:star:[code](https://github.com/TencentYoutuResearch/VisualRecognition-NomMer)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
 * [Mobile-Former: Bridging MobileNet and Transformer](https://arxiv.org/abs/2108.05895)
+* [MulT: An End-to-End Multitask Learning Transformer](https://arxiv.org/abs/2205.08303)
 * 形状补全
   * [ShapeFormer: Transformer-based Shape Completion via Sparse Representation](https://arxiv.org/abs/2201.10326)<br>:star:[code](https://github.com/qheldiv/shapeformer):house:[project](https://shapeformer.github.io/)
 
@@ -746,7 +755,7 @@
   * [Physically-guided Disentangled Implicit Rendering for 3D Face Modeling](https://drive.google.com/file/d/1s-6glim2XEKNGmrRJKrXyKFJ1X58B7GA/view)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
 * 人脸修复
   * [Blind Face Restoration via Integrating Face Shape and Generative Priors](https://drive.google.com/file/d/18f2Spu3Qx1gskjdGh1Edx1ZlWjlC8xGB/view?usp=sharing)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
-
+  
 <a name="10"/>
 
 ## 10.3D(三维视觉)
@@ -773,6 +782,7 @@
   * [Non-parametric Depth Distribution Modelling based Depth Inference for Multi-view Stereo](https://arxiv.org/abs/2205.03783)
 * 三维重建
   * [PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2203.12082)
+  * [Self-supervised Neural Articulated Shape and Appearance Models](https://arxiv.org/abs/2205.08525)<br>:house:[project](https://weify627.github.io/nasam/)
   * [BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion](https://arxiv.org/abs/2204.01139)
   * [Topologically-Aware Deformation Fields for Single-View 3D Reconstruction](https://arxiv.org/abs/2205.06267)<br>:star:[code](https://github.com/google/nerfies):house:[project](https://shivamduggal4.github.io/tars-3D/)
   * [Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction](https://arxiv.org/abs/2204.03642)<br>:star:[code](https://github.com/shubhtuls/ss3d/):house:[project](https://shubhtuls.github.io/ss3d/):newspaper:[解读](https://zhuanlan.zhihu.com/p/494913545)
@@ -983,6 +993,8 @@
   * [Learning Affordance Grounding from Exocentric Images](https://arxiv.org/abs/2203.09905)<br>:star:[code](https://github.com/lhc1224/Cross-View-AG):newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 * 图像对齐
   * [Unsupervised Homography Estimation with Coplanarity-Aware GAN](https://arxiv.org/abs/2205.03821)
+* 物体属性识别
+  * [Disentangling Visual Embeddings for Attributes and Objects](https://arxiv.org/abs/2205.08536)<br>:open_mouth:oral:star:[code](https://github.com/nirat1606/OADis)
 
 <a name="4"/>
 
