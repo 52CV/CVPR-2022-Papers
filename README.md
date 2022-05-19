@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月18日，已收录 684+3 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月19日，已收录 687+1 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,11 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+
+### ❗❗❗ 5月19日更新 1 篇
+* Dense correspondence 
+  * [BodyMap: Learning Full-Body Dense Correspondence Map](https://arxiv.org/abs/2205.09111)<br>:house:[project](https://nsarafianos.github.io/bodymap)
 
 ### ❗❗❗ 5月18日更新 3 篇
 * 物体属性识别
@@ -39,27 +44,6 @@
 * 分割
   * [Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization](https://arxiv.org/abs/2205.07839)<br>:house:[project](https://lukemelas.github.io/deep-spectral-segmentation/)
 
-### ❗❗❗ 5月16日更新 2 篇
-* 零样本
-  * [KG-SP: Knowledge Guided Simple Primitives for Open World Compositional Zero-Shot Learning](https://arxiv.org/abs/2205.06784)<br>:star:[code](https://github.com/ExplainableML/KG-SP)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/515190727)
-* 其他
-  * [A Unified Framework for Implicit Sinkhorn Differentiation](https://arxiv.org/abs/2205.06688)<br>:star:[code](https://github.com/marvin-eisenberger/implicit-sinkhorn)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/515190727)
-
-### ❗❗❗ 5月13日更新 6 篇
-* 3D
-  * [Topologically-Aware Deformation Fields for Single-View 3D Reconstruction](https://arxiv.org/abs/2205.06267)<br>:star:[code](https://github.com/google/nerfies):house:[project](https://shivamduggal4.github.io/tars-3D/)
-* 视频合成
-  * [3D Moments from Near-Duplicate Photos](https://arxiv.org/abs/2205.06255)<br>:house:[project](https://3d-moments.github.io/)
-* 目标检测
-  * [Group R-CNN for Weakly Semi-supervised Object Detection with Points](https://arxiv.org/abs/2205.05920)<br>:star:[code](https://github.com/jshilong/GroupRCNN)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/513702674)
-* 热红外成像
-  * [Infrared Invisible Clothing:Hiding from Infrared Detectors at Multiple Angles in Real World](https://arxiv.org/abs/2205.05909)<br>:open_mouth:oral
-* 计数
-  * [Bi-level Alignment for Cross-Domain Crowd Counting](https://arxiv.org/abs/2205.05844)<br>:star:[code](https://github.com/Yankeegsj/BLA)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/513702674))
-* 点云
-  * [Surface Representation for Point Clouds](https://arxiv.org/abs/2205.05740)<br>:open_mouth:oral:star:[code](https://github.com/hancyran/RepSurf)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/513702674)
-
-
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
@@ -74,9 +58,24 @@
 |[29.Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)](#29)|[30.Visual Answer Questions(视觉问答)](#30)|[31.Vision-Language(视觉语言)](#31)|[32.Data Augmentation(数据增强)](#32)|
 |[33.Human-Object Interaction(人物交互)](#33)|[34.Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)](#34)|[35.OCR](#35)|[36.Optical Flow(光流估计)](#36)|
 |[37.Contrastive Learning(对比学习)](#37)|[38.Meta-Learning(元学习)](#38)|[39.Continual Learning(持续学习)](#39)|[40.Adversarial Learning(对抗学习)](#40)|
+|[41.Incremental Learning(增量学习)](#41)|[42.Metric Learning(度量学习)](#42)|[43.Multi-Task Learning(多任务学习)](#43)|[44.Federated Learning(联邦学习)](#44)|
+|[45.Dense Prediction(密集预测)](#45)|[46.Scene Graph Generation(场景图生成)](#46)|[47.Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/适应)](#47)|[48.Visual Grounding](#48)|
+|[49.Image Geo-localization(图像地理定位)](#49)|[50.Anomaly Detection(异常检测)](#50)|[51.光学、几何、光场成像](#51)|[52.Human Motion Forecasting(人体运动预测)](#52)|
+|[53.Sign Language Translation(手语翻译)](#53)|[54.Dataset(数据集)](#54)|[55.Novel View Synthesis(视图合成)](#55)|[56.Sound](#56)|
+|[57.Gaze Estimation(视线估计)](#57)|[58.Neural rendering(神经渲染)](#58)|[59.动画](#59)|[60.Visual Emotion Analysis(视觉情感分析)](#60)|
 
 
-## 动画
+## computer-aided design (CAD)
+* [Neural Face Identification in a 2D Wireframe Projection of a Manifold Object](https://arxiv.org/abs/2203.04229)<br>:star:[code](https://github.com/manycore-research/faceformer)
+
+<a name="60"/>
+
+## 60.Visual Emotion Analysis(视觉情感分析)
+* [MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis](https://arxiv.org/abs/2203.13443)
+
+<a name="59"/>
+
+## 59.动画
 图像动画
   * [Thin-Plate Spline Motion Model for Image Animation](https://arxiv.org/abs/2203.14367)
 * 人物动画
@@ -87,8 +86,9 @@
 * 3D 舞蹈生成
   * [Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055)
 
+<a name="58"/>
 
-## Neural rendering(神经渲染)
+## 58.Neural rendering(神经渲染)
 * [Learning Motion-Dependent Appearance for High-Fidelity Rendering of Dynamic Humans from a Single Camera](https://arxiv.org/abs/2203.12780)          
 * [IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images](https://arxiv.org/abs/2204.02232)<br>:open_mouth:oral:house:[project](https://kai-46.github.io/IRON-website/)
 * [SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference](https://arxiv.org/abs/2204.02585)
@@ -98,23 +98,27 @@
 * [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139)<br>:star:[code](https://github.com/cassiePython/CLIPNeRF):house:[project](https://cassiepython.github.io/clipnerf/)
 * [NeRF-Editing: Geometry Editing of Neural Radiance Fields](https://arxiv.org/abs/2205.04978)
 
-## Gaze Estimation(视线估计)
+<a name="57"/>
+
+## 57.Gaze Estimation(视线估计)
 * [GazeOnce: Real-Time Multi-Person Gaze Estimation](https://arxiv.org/abs/2204.09480)
 
+<a name="56"/>
 
-## Sound
+## 56.Sound
 * 声源定位
   * [Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes](https://arxiv.org/abs/2203.13412)<br>:star:[code](https://github.com/zjsong/SSPL)
 
-## Visual Emotion Analysis(视觉情感分析)
-* [MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis](https://arxiv.org/abs/2203.13443)
+<a name="55"/>
 
-## Novel View Synthesis(视图合成)
+## 55.Novel View Synthesis(视图合成)
 * [NPBG++: Accelerating Neural Point-Based Graphics](https://arxiv.org/abs/2203.)<br>:house:[project](htt.io/npbgpp/)
 * [AutoRF: Learning 3D Object Radiance Fields from Single View Observations](https://arxiv.org/abs/2204.03593)<br>:house:[project](https://sirwyver.github.io/AutoRF/)
 * [NeurMiPs: Neural Mixture of Planar Experts for View Synthesis](https://arxiv.org/abs/2204.13696)<br>:star:[code](https://github.com/zhihao-lin/neurmips):house:[project](https://zhihao-lin.github.io/neurmips/):tv:[video](https://youtu.be/PV1dCTWL5Oo):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
 
-## Dataset(数据集)
+<a name="54"/>
+
+## 54.Dataset(数据集)
 * [ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer](https://arxiv.org/abs/2204.02389)<br>:star:[code](https://github.com/rhgao/ObjectFolder):house:[project](https://ai.stanford.edu/~rhgao/objectfolder2.0/):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
 * [Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities](https://arxiv.org/abs/2203.14712)
 * [3MASSIV: Multilingual, Multimodal and Multi-Aspect dataset of Social Media Short Videos](https://arxiv.org/abs/2203.14456)
@@ -127,15 +131,20 @@
   * [Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding](https://arxiv.org/abs/2204.08129)<br>:open_mouth:oral:house:[project](https://sutdcv.github.io/Animal-Kingdom/):sunflower:[dataset](https://github.com/SUTDCV/Animal-Kingdom) 
 
 
-## Sign Language Translation(手语翻译)
+<a name="53"/>
+
+## 53.Sign Language Translation(手语翻译)
   * [A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation](https://arxiv.org/abs/2203.04287)
 
-## Human Motion Forecasting(人体运动预测)
+<a name="52"/>
+
+## 52.Human Motion Forecasting(人体运动预测)
 * [Motron: Multimodal Probabilistic Human Motion Forecasting](https://arxiv.org/abs/2203.04132)
 * [Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction](https://arxiv.org/abs/2203.16051)
 
+<a name="51"/>
 
-## 光学、几何、光场成像
+## 51.光学、几何、光场成像
 * Light Field(光场)
   * [Occlusion-Aware Cost Constructor for Light Field Depth Estimation](https://arxiv.org/abs/2203.01576)<br>:star:[code](https://github.com/YingqianWang/OACC-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * 深度重建
@@ -145,23 +154,31 @@
 * 热红外成像
   * [Infrared Invisible Clothing:Hiding from Infrared Detectors at Multiple Angles in Real World](https://arxiv.org/abs/2205.05909)<br>:open_mouth:oral
 
-## Anomaly Detection(异常检测)
+<a name="50"/>
+
+## 50.Anomaly Detection(异常检测)
 * [Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection](https://arxiv.org/abs/2203.14506)<br>:star:[code](https://github.com/choubo/DRA)
 * [Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection](https://arxiv.org/abs/2111.09099)<br>:star:[code](https://github.com/ristea/sspcab)
 
-## Image Geo-localization(图像地理定位)
+<a name="49"/>
+
+## 49.Image Geo-localization(图像地理定位)
 * [TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization](https://arxiv.org/abs/2204.00097)<br>:star:[code](https://github.com/Jeff-Zilence/TransGeo2022)
 * 视觉地理定位
   * [Rethinking Visual Geo-localization for Large-Scale Applications](https://arxiv.org/abs/2204.02287)<br>:star:[code](https://github.com/gmberton/CosPlace)
   * [Deep Visual Geo-localization Benchmark](https://arxiv.org/abs/2204.03444)<br>:open_mouth:oral:house:[project](https://deep-vg-bench.herokuapp.com/)
 * 轨迹重建
   * [MonoTrack: Shuttle trajectory reconstruction from monocular badminton video](https://arxiv.org/abs/2204.01899)
-  
-## Visual Grounding
+
+<a name="48"/>
+
+## 48.Visual Grounding
 * [Multi-View Transformer for 3D Visual Grounding](https://arxiv.org/abs/2204.02174)<br>:star:[code](https://github.com/sega-hsj/MVT-3DVG)
 * [Improving Visual Grounding with Visual-Linguistic Verification and Iterative Reasoning](https://arxiv.org/abs/2205.00272)<br>:star:[code](https://github.com/yangli18/VLTVG)<br>视觉定位，通过自然语言定位目标位置 （很有意思的研究）
 
-## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/适应)
+<a name="47"/>
+
+## 47.Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/适应)
 * 小样本
   * [Few-shot Learning with Noisy Labels](https://arxiv.org/abs/2204.05494)
   * [Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference](https://arxiv.org/abs/2204.07305)<br>:house:[project](https://hushell.github.io/pmf/):tv:[video](https://youtu.be/iEC9lh18laQ)
@@ -184,27 +201,39 @@
   * 无监督域适应
     * [Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation](https://arxiv.org/abs/2204.03838)<br>:star:[code](https://github.com/xiaoachen98/DALN)
 
-## Scene Graph Generation(场景图生成)
+<a name="46"/>
+
+## 46.Scene Graph Generation(场景图生成)
 * [HL-Net: Heterophily Learning Network for Scene Graph Generatio](https://arxiv.org/abs/2205.01316)<br>:star:[code](https://github.com/siml3/HL-Net)<br>场景图生成：异质学习网络<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 * [RU-Net: Regularized Unrolling Network for Scene Graph Generation](https://arxiv.org/abs/2205.01297)<br>:star:[code](https://github.com/siml3/RU-Net)<br>场景图生成：正则展开网络<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 
-## Dense Prediction(密集预测)
+<a name="45"/>
+
+## 45.Dense Prediction(密集预测)
 * [Does Robustness on ImageNet Transfer to Downstream Tasks?](https://arxiv.org/abs/2204.03934)
 
-## Federated Learning(联邦学习)
+<a name="44"/>
+
+## 44.Federated Learning(联邦学习)
 * [CD2-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning](https://arxiv.org/abs/2204.03880)
 * [Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](https://arxiv.org/pdf/2203.15696.pdf)<br>:star:[code](https://github.com/zhuohangli/GGL)
 * [FedCorr: Multi-Stage Federated Learning for Label Noise Correction](https://arxiv.org/abs/2204.04677)<br>:star:[code](https://github.com/Xu-Jingyi/FedCorr)
 * [Fine-tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning](https://arxiv.org/abs/2203.09249)
 
-## Multi-Task Learning（多任务学习）
+<a name="43"/>
+
+## 43.Multi-Task Learning(多任务学习)
 * [Controllable Dynamic Multi-Task Architectures](https://arxiv.org/abs/2203.14949)
 * [Task Adaptive Parameter Sharing for Multi-Task Learning](https://arxiv.org/abs/2203.16708)
 
-## Metric Learning(度量学习)
+<a name="42"/>
+
+## 42.Metric Learning(度量学习)
 * [Self-Taught Metric Learning without Labels](https://arxiv.org/abs/2205.01903)
 
-## Incremental Learning（增量学习）
+<a name="41"/>
+
+## 41.Incremental Learning(增量学习)
 * 增量学习
   * [Energy-based Latent Aligner for Incremental Learning](https://arxiv.org/abs/2203.14952)<br>:star:[code](https://github.com/JosephKJ/ELI)
   * [General Incremental Learning with Domain-aware Categorical Representations](https://arxiv.org/abs/2204.04078)
@@ -438,7 +467,7 @@
 * [Sketch3T: Test-Time Training for Zero-Shot SBIR](https://arxiv.org/abs/2203.14691)  
 * [Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image](https://arxiv.org/abs/2204.04752) 
 * 文本-视频检索
-  * [X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval](https://arxiv.org/abs/2203.15086)<br>:house:[project](https://layer6ai-labs.github.io/xpool/)
+  * [X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval](https://arxiv.org/abs/2203.15086)<br>:house:[project](https://layer6ai-labs.github.io/xpool/)<br>:newspaper:[X-Pool：多伦多大学提出基于文本的视频聚合方式，在视频文本检索上达到SOTA性能！](https://mp.weixin.qq.com/s/0cz1cI5a18ZQ-DORUmhZHA)
 * 跨模太检索
   * [ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval](https://arxiv.org/abs/2203.16778)
 
@@ -718,7 +747,6 @@
 * 妆容迁移
   * [Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer](https://arxiv.org/abs/2203.03121)
 * 人脸识别
-  * [Neural Face Identification in a 2D Wireframe Projection of a Manifold Object](https://arxiv.org/abs/2203.04229)<br>:star:[code](https://github.com/manycore-research/faceformer)
   * [Local-Adaptive Face Recognition via Graph-based Meta-Clustering and Regularized Adaptation](https://arxiv.org/abs/2203.14327)
   * [Killing Two Birds with One Stone:Efficient and Robust Training of Face Recognition CNNs by Partial FC](https://arxiv.org/abs/2203.15565)<br>:star:[code](https://github.com/deepinsight/insightface/tree/master/recognition)
   * [AdaFace: Quality Adaptive Margin for Face Recognition](https://arxiv.org/abs/2204.00964)<br>:open_mouth:oral:star:[code](https://github.com/mk-minchul/AdaFace)
@@ -839,6 +867,8 @@
   * [LISA: Learning Implicit Shape and Appearance of Hands](https://arxiv.org/abs/2204.01695)<br>:house:[project](https://www.iri.upc.edu/people/ecorona/lisa/)
 * 3D人体形状
   * [OSSO: Obtaining Skeletal Shape from Outside](https://arxiv.org/abs/2204.10129)<br>:star:[code](https://github.com/MarilynKeller/OSSO):house:[project](https://osso.is.tue.mpg.de/):tv:[video](https://osso.is.tue.mpg.de/#Video):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
+* Dense correspondence 
+  * [BodyMap: Learning Full-Body Dense Correspondence Map](https://arxiv.org/abs/2205.09111)<br>:house:[project](https://nsarafianos.github.io/bodymap)
 
 <a name="8"/>
 
