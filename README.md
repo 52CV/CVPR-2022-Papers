@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月19日，已收录 687+1 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月19日，已收录 687+2 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -24,9 +24,11 @@
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
 
-### ❗❗❗ 5月19日更新 1 篇
+### ❗❗❗ 5月19日更新 2 篇
 * Dense correspondence 
   * [BodyMap: Learning Full-Body Dense Correspondence Map](https://arxiv.org/abs/2205.09111)<br>:house:[project](https://nsarafianos.github.io/bodymap)
+* 检索
+  * [Bridging Video-text Retrieval with Multiple Choice Questions](https://arxiv.org/abs/2201.04850)<br>:star:[code](https://github.com/TencentARC/MCQ)<br>:newspaper:[《BridgeFormer》港大&腾讯&伯克利提出带有多项选择任务的视频文本检索模型，性能SOTA！](https://mp.weixin.qq.com/s/MUwlACyQEcrA9Chw4it7iA)
 
 ### ❗❗❗ 5月18日更新 3 篇
 * 物体属性识别
@@ -468,6 +470,7 @@
 * [Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image](https://arxiv.org/abs/2204.04752) 
 * 文本-视频检索
   * [X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval](https://arxiv.org/abs/2203.15086)<br>:house:[project](https://layer6ai-labs.github.io/xpool/)<br>:newspaper:[X-Pool：多伦多大学提出基于文本的视频聚合方式，在视频文本检索上达到SOTA性能！](https://mp.weixin.qq.com/s/0cz1cI5a18ZQ-DORUmhZHA)
+  * [Bridging Video-text Retrieval with Multiple Choice Questions](https://arxiv.org/abs/2201.04850)<br>:star:[code](https://github.com/TencentARC/MCQ)<br>:newspaper:[《BridgeFormer》港大&腾讯&伯克利提出带有多项选择任务的视频文本检索模型，性能SOTA！](https://mp.weixin.qq.com/s/MUwlACyQEcrA9Chw4it7iA)
 * 跨模太检索
   * [ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval](https://arxiv.org/abs/2203.16778)
 
