@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月20日，已收录 690+3 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月24日，已收录 693+4 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,16 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+### ❗❗❗ 5月24日更新 4 篇
+* 场景流估计
+  * [RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds](https://arxiv.org/abs/2205.11028)
+* 知识蒸馏
+  * [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793)<br>:open_mouth:oral
+* 抠图
+  * [Human Instance Matting via Mutual Guidance and Multi-Instance Refinement](https://arxiv.org/abs/2205.10767)<br>:open_mouth:oral:star:[code](https://github.com/nowsyn/InstMatt)
+* 其他
+  * [Towards Better Understanding Attribution Methods](https://arxiv.org/abs/2205.10435)<br>:star:[code](https://github.com/sukrutrao/Attribution-Evaluation)
 
 ### ❗❗❗ 5月23日更新 3 篇
 * 时序动作定位
@@ -316,6 +326,7 @@
   * [Knowledge Distillation with the Reused Teacher Classifier](https://arxiv.org/abs/2203.14001)
   * [DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers](https://arxiv.org/abs/2204.12997)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
   * [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679)<br>:star:[code](https://github.com/megvii-research/mdistiller)<br>:newspaper:[解耦知识蒸馏，让Hinton在7年前提出的方法重回SOTA行列](https://mp.weixin.qq.com/s/ozLLnUf8KggVzbPxeegQ3g)
+  * [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793)<br>:open_mouth:oral
 * 模型压缩
   * [CHEX: CHannel EXploration for CNN Model Compression](https://arxiv.org/abs/2203.15794)
 * 剪枝
@@ -930,6 +941,8 @@
   * [LAKe-Net: Topology-Aware Point Cloud Completionby Localizing Aligned Keypoints](https://arxiv.org/abs/2203.16771)<br>:newspaper:[粗解](https://news.sjtu.edu.cn/jdzh/20220330/169456.html)
 * 点云分割
   * [Contrastive Boundary Learning for Point Cloud Segmentation](https://arxiv.org/abs/2203.05272)<br>:star:[code](https://github.com/LiyaoTang/contrastBoundary):newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
+* 场景流估计
+  * [RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds](https://arxiv.org/abs/2205.11028)
 
 <a name="6"/>
 
@@ -1145,6 +1158,8 @@
 * 全景分割
   * [Panoptic, Instance and Semantic Relations: A Relational Context Encoder to Enhance Panoptic Segmentation](https://arxiv.org/abs/2204.05370)
   * [Joint Forecasting of Panoptic Segmentations with Difference Attention](https://arxiv.org/abs/2204.07157)<br>:star:[code](https://github.com/cgraber/psf-diffattn):newspaper:[解读](https://zhuanlan.zhihu.com/p/498883232)
+* 抠图
+  * [Human Instance Matting via Mutual Guidance and Multi-Instance Refinement](https://arxiv.org/abs/2205.10767)<br>:open_mouth:oral:star:[code](https://github.com/nowsyn/InstMatt)
 
 <a name="1"/>
 
@@ -1247,6 +1262,8 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)<br>:star:[code](https://github.com/facebookresearch/ConvNeXt)
 * [NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations](https://arxiv.org/abs/2205.04175)<br>头发建模：仅用一幅图像，构建高保真度的头发模型，使用隐式神经表示的方法。出自浙大CAD&CG组、ETH Zurich、香港城市大学。
 * [A Unified Framework for Implicit Sinkhorn Differentiation](https://arxiv.org/abs/2205.06688)<br>:star:[code](https://github.com/marvin-eisenberger/implicit-sinkhorn)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/515190727)
+* [Towards Better Understanding Attribution Methods](https://arxiv.org/abs/2205.10435)<br>:star:[code](https://github.com/sukrutrao/Attribution-Evaluation)
+
 
 ## 论文尚未公布
 * 相机重定位
