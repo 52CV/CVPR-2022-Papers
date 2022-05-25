@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月24日，已收录 693+4 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月25日，已收录 697+5 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -23,6 +23,18 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 5月25日更新 5 篇
+* 场景风格化
+  * [StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning](https://arxiv.org/abs/2205.12183)
+* 语义图像匹配
+  * [TransforMatcher: Match-to-Match Attention for Semantic Correspondence](https://arxiv.org/abs/2205.11634)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/519556254)
+* 视觉跟踪
+  * [Ranking-Based Siamese Visual Tracking](https://arxiv.org/abs/2205.11761)<br>:star:[code](https://github.com/sansanfree/RBO):newspaper:[解读](https://zhuanlan.zhihu.com/p/519556254)
+* 3D人体运动重建
+  * [Differentiable Dynamics for Articulated 3d Human Motion Reconstruction](https://arxiv.org/abs/2205.12256)
+* 物体姿态估计
+  * [OnePose: One-Shot Object Pose Estimation without CAD Models](https://arxiv.org/abs/2205.12257)<br>:star:[code](https://github.com/zju3dv/OnePose):house:[project](https://zju3dv.github.io/onepose/):newspaper:[解读](https://zhuanlan.zhihu.com/p/519556254)
+
 ### ❗❗❗ 5月24日更新 4 篇
 * 场景流估计
   * [RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds](https://arxiv.org/abs/2205.11028)
@@ -32,24 +44,6 @@
   * [Human Instance Matting via Mutual Guidance and Multi-Instance Refinement](https://arxiv.org/abs/2205.10767)<br>:open_mouth:oral:star:[code](https://github.com/nowsyn/InstMatt)
 * 其他
   * [Towards Better Understanding Attribution Methods](https://arxiv.org/abs/2205.10435)<br>:star:[code](https://github.com/sukrutrao/Attribution-Evaluation)
-
-### ❗❗❗ 5月23日更新 3 篇
-* 时序动作定位
-  * [Structured Attention Composition for Temporal Action Localization](https://arxiv.org/abs/2205.09956)<br>:star:[code](https://github.com/VividLe/Online-Action-Detection)
-* 分割
-  * [UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2205.10334)
-* 字体生成
-  * [Few-Shot Font Generation by Learning Fine-Grained Local Styles](https://arxiv.org/abs/2205.09965)
-
-### ❗❗❗ 5月20日更新 1 篇
-* 目标检测
-  * [Diversity Matters: Fully Exploiting Depth Clues for Reliable Monocular 3D Object Detection](https://arxiv.org/abs/2205.09373)<br>:open_mouth:oral
-
-### ❗❗❗ 5月19日更新 2 篇
-* Dense correspondence 
-  * [BodyMap: Learning Full-Body Dense Correspondence Map](https://arxiv.org/abs/2205.09111)<br>:house:[project](https://nsarafianos.github.io/bodymap)
-* 检索
-  * [Bridging Video-text Retrieval with Multiple Choice Questions](https://arxiv.org/abs/2201.04850)<br>:star:[code](https://github.com/TencentARC/MCQ)<br>:newspaper:[《BridgeFormer》港大&腾讯&伯克利提出带有多项选择任务的视频文本检索模型，性能SOTA！](https://mp.weixin.qq.com/s/MUwlACyQEcrA9Chw4it7iA)
 
 ## 目录
 
@@ -406,11 +400,15 @@
   * [Style-ERD: Responsive and Coherent Online Motion Style Transfer](https://arxiv.org/abs/2203.02574)
 * 运动迁移
   * [Structure-Aware Motion Transfer with Deformable Anchor Model](https://arxiv.org/abs/2204.05018)<br>:star:[code](https://github.com/JialeTao/DAM):newspaper:[解读](https://zhuanlan.zhihu.com/p/497009845)
+* 场景风格化
+  * [StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning](https://arxiv.org/abs/2205.12183)
 
+  
 <a name="27"/>
 
 ## 27.Pose Estimation(物体姿势估计)
 * [OSOP: A Multi-Stage One Shot Object Pose Estimation Framework](https://arxiv.org/abs/2203.15533)
+* [OnePose: One-Shot Object Pose Estimation without CAD Models](https://arxiv.org/abs/2205.12257)<br>:star:[code](https://github.com/zju3dv/OnePose):house:[project](https://zju3dv.github.io/onepose/):newspaper:[解读](https://zhuanlan.zhihu.com/p/519556254)
 * 4D
   * [Revealing Occlusions with 4D Neural Fields](https://arxiv.org/abs/2204.10916)<br>:open_mouth:oral:star:[code](https://github.com/basilevh/occlusions-4d):house:[project](https://occlusions.cs.columbia.edu/)
 * 9D
@@ -880,6 +878,8 @@
   * [OSSO: Obtaining Skeletal Shape from Outside](https://arxiv.org/abs/2204.10129)<br>:star:[code](https://github.com/MarilynKeller/OSSO):house:[project](https://osso.is.tue.mpg.de/):tv:[video](https://osso.is.tue.mpg.de/#Video):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
 * Dense correspondence 
   * [BodyMap: Learning Full-Body Dense Correspondence Map](https://arxiv.org/abs/2205.09111)<br>:house:[project](https://nsarafianos.github.io/bodymap)
+* 3D人体运动重建
+  * [Differentiable Dynamics for Articulated 3d Human Motion Reconstruction](https://arxiv.org/abs/2205.12256)
 
 <a name="8"/>
 
@@ -961,8 +961,9 @@
   * [MeMOT: Multi-Object Tracking with Memory](https://arxiv.org/abs/2203.16761)<br>:open_mouth:oral
 * RGB-T跟踪
   * [Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline](https://arxiv.org/abs/2204.04120)<br>:house:[project](https://zhang-pengyu.github.io/DUT-VTUAV/):newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
+* 视觉跟踪
+  * [Ranking-Based Siamese Visual Tracking](https://arxiv.org/abs/2205.11761)<br>:star:[code](https://github.com/sansanfree/RBO):newspaper:[解读](https://zhuanlan.zhihu.com/p/519556254) 
  
-
 <a name="5"/>
 
 ## 5.Object Detection(目标检测)
@@ -1087,6 +1088,8 @@
   * [SCS-Co: Self-Consistent Style Contrastive Learning for Image Harmonization](https://arxiv.org/abs/2204.13962)<br>:star:[code](https://github.com/YCHang686/SCS-Co-CVPR2022) 
 * 图像超级补全
   * [Scene Graph Expansion for Semantics-Guided Image Outpainting](https://arxiv.org/abs/2205.02958)<br>该文解决了一个非常有意思的问题，通过对图像场景图的扩展，对图像边缘以外的内容进行语义引导的内容生成，可帮助设计师快速绘就自然和谐的图像扩展内容。
+* 语义图像匹配
+  * [TransforMatcher: Match-to-Match Attention for Semantic Correspondence](https://arxiv.org/abs/2205.11634)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/519556254)
 
 <a name="2"/>
 
