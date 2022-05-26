@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月25日，已收录 697+5 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止5月26日，已收录 702+3 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,14 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+### ❗❗❗ 5月26日更新 3 篇
+* 视频重建
+  * [Context-Aware Video Reconstruction for Rolling Shutter Cameras](https://arxiv.org/abs/2205.12912)<br>:star:[code](https://github.com/GitCVfb/CVR):newspaper:[解读](https://zhuanlan.zhihu.com/p/520070681)
+* 数据集
+  * [Primitive3D: 3D Object Dataset Synthesis from Randomly Assembled Primitives](https://arxiv.org/abs/2205.12627)
+* 三维人体姿态重建
+  * [Trajectory Optimization for Physics-Based Reconstruction of 3d Human Pose from Monocular Video](https://arxiv.org/abs/2205.12292)
 
 ### ❗❗❗ 5月25日更新 5 篇
 * 场景风格化
@@ -126,6 +134,7 @@
 * [Hephaestus: A large scale multitask dataset towards InSAR understanding](https://arxiv.org/abs/2204.09435)
 * [SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis](https://arxiv.org/abs/2204.10211)<br>:sunflower:[dataset](https://mobileroboticsskoltech.github.io/SmartPortraits/)
 * [AKB-48: A Real-World Articulated Object Knowledge Base](https://arxiv.org/abs/2202.08432)<br>:star:[code](https://liuliu66.github.io/articulationobjects/)<br>:newspaper:[粗解](https://news.sjtu.edu.cn/jdzh/20220330/169456.html)
+* [Primitive3D: 3D Object Dataset Synthesis from Randomly Assembled Primitives](https://arxiv.org/abs/2205.12627)
 * 卫星数据集
   * [DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation](https://arxiv.org/abs/2203.12560)
 * 动物行为理解数据集
@@ -723,6 +732,8 @@
   * [Scene Consistency Representation Learning for Video Scene Segmentation](https://arxiv.org/abs/2205.05487)<br>:star:[code](https://github.com/TencentYoutuResearch/SceneSegmentation-SCRL)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/513130382)
 * VSR
   * [Spatial-Temporal Space Hand-in-Hand: Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning](https://arxiv.org/abs/2205.05264)<br>:star:[code](https://github.com/hhhhhumengshun/CycMuNet)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/513130382)
+* 视频重建
+  * [Context-Aware Video Reconstruction for Rolling Shutter Cameras](https://arxiv.org/abs/2205.12912)<br>:star:[code](https://github.com/GitCVfb/CVR):newspaper:[解读](https://zhuanlan.zhihu.com/p/520070681)
 
 <a name="13"/>
 
@@ -880,6 +891,8 @@
   * [BodyMap: Learning Full-Body Dense Correspondence Map](https://arxiv.org/abs/2205.09111)<br>:house:[project](https://nsarafianos.github.io/bodymap)
 * 3D人体运动重建
   * [Differentiable Dynamics for Articulated 3d Human Motion Reconstruction](https://arxiv.org/abs/2205.12256)
+* 三维人体姿态重建
+  * [Trajectory Optimization for Physics-Based Reconstruction of 3d Human Pose from Monocular Video](https://arxiv.org/abs/2205.12292)
 
 <a name="8"/>
 
