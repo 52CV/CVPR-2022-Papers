@@ -327,7 +327,7 @@
   * [Knowledge Distillation with the Reused Teacher Classifier](https://arxiv.org/abs/2203.14001)
   * [DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers](https://arxiv.org/abs/2204.12997)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
   * [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679)<br>:star:[code](https://github.com/megvii-research/mdistiller)<br>:newspaper:[解耦知识蒸馏，让Hinton在7年前提出的方法重回SOTA行列](https://mp.weixin.qq.com/s/ozLLnUf8KggVzbPxeegQ3g)
-  * [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793)<br>:open_mouth:oral
+  * [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793)<br>:open_mouth:oral<br>:newspaper:[RMIT&阿里&UTS&中山提出Target-aware Transformer，进行one-to-all知识蒸馏！性能SOTA](https://mp.weixin.qq.com/s/hz8julfb0ahYeT8kxGvS9w)
 * 模型压缩
   * [CHEX: CHannel EXploration for CNN Model Compression](https://arxiv.org/abs/2203.15794)
 * 剪枝
@@ -367,6 +367,7 @@
 * [Robust Cross-Modal Representation Learning with Progressive Self-Distillation](https://arxiv.org/abs/2204.04588)
 * [Prompt Distribution Learning](https://arxiv.org/abs/2205.03340)<br>在下游的识别任务中，作者提出的方法在12个数据集上均展示出了一致性的性能提升。
 * [Vision-Language Pre-Training with Triple Contrastive Learning](https://arxiv.org/abs/2202.10401)<br>:star:[code](https://github.com/uta-smile/TCL)
+* [Improving features Visual Grounding with Visual-Linguistic Veriﬁcation and Iterative Reasoning](https://arxiv.org/abs/2205.00272)<br>:star:[code](https://github.com/yangli18/VLTVG)<br>:newspaper:[国科大&港中文提出带视觉语言验证和迭代推理的Visual Grounding框架，性能SOTA，代码已开源！](https://mp.weixin.qq.com/s/9lNWCax_gBHgg70a8eVJ_w)
 * VLN
   * [EnvEdit: Environment Editing for Vision-and-Language Navigation](https://arxiv.org/abs/2203.15685)<br>:star:[code](https://github.com/jialuli-luka/EnvEdit)
   * [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation](https://arxiv.org/abs/2203.16586)
@@ -675,7 +676,7 @@
 * 视觉对应（视频）
   * [Locality-Aware Inter-and Intra-Video Reconstruction for Self-Supervised Correspondence Learning](https://arxiv.org/abs/2203.14333)<br>:star:[code](https://github.com/0liliulei/LIIR)
 * 视频识别
-  * [BEVT: BERT Pretraining of Video Transformers](https://arxiv.org/abs/2112.01529)<br>:star:[code](https://github.com/xyzforever/BEVT):newspaper:[视频Transformer自监督预训练新范式，复旦、微软云AI实现视频识别新SOTA](https://mp.weixin.qq.com/s/9e_VyJZlKw8xk3t_z0mFtA)
+  * [BEVT: BERT Pretraining of Video Transformers](https://arxiv.org/abs/2112.01529)<br>:star:[code](https://github.com/xyzforever/BEVT)<br>:newspaper:[视频Transformer自监督预训练新范式，复旦、微软云AI实现视频识别新SOTA](https://mp.weixin.qq.com/s/9e_VyJZlKw8xk3t_z0mFtA)
 * 视频分类
   * 零样本视频分类
     * [Alignment-Uniformity aware Representation Learning for Zero-shot Video Classification](https://arxiv.org/abs/2203.15381)
@@ -964,7 +965,7 @@
 <a name="6"/>
 
 ## 6.Object Tracking(目标跟踪)
-* [TCTrack: Temporal Contexts for Aerial Tracking](https://arxiv.org/abs/2203.01885)<br>:star:[code](https://github.com/vision4robotics/TCTrack):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
+* [TCTrack: Temporal Contexts for Aerial Tracking](https://arxiv.org/abs/2203.01885)<br>:star:[code](https://github.com/vision4robotics/TCTrack):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)<br>:newspaper:[TCTrack: 用于空中跟踪的时序信息框架](https://mp.weixin.qq.com/s/4UgyAwg1MJJH9Aajl35q9w)
 * [Correlation-Aware Deep Tracking](https://arxiv.org/abs/2203.01666)
 * [Global Tracking Transformers](https://arxiv.org/pdf/2203.13250.pdf)<br>:star:[code](https://github.com/xingyizhou/GTR)
 * [Unified Transformer Tracker for Object Tracking](https://arxiv.org/abs/2203.15175)<br>:star:[code](https://github.com/Flowerfan/Trackron)
