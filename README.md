@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月2日，已收录 708+2 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月6日，已收录 710+2 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -23,40 +23,18 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 6月6日更新 2 篇
+* 视频理解
+  * [Revisiting the "Video" in Video-Language Understanding](https://arxiv.org/abs/2206.01714)<br>:open_mouth:oral:star:[code](https://stanfordvl.github.io/atp-revisit-video-lang/)
+* 元学习
+  * [Dynamic Kernel Selection for Improved Generalization and Memory Efficiency in Meta-learning](https://arxiv.org/abs/2206.01690)
+
 ### ❗❗❗ 6月2日更新 2 篇
 * 机器翻译
   * [VALHALLA: Visual Hallucination for Machine Translation](https://arxiv.org/abs/2206.00100)<br>:house:[project](http://www.svcl.ucsd.edu/projects/valhalla/)
 * 全景分割
   * [PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation](https://arxiv.org/abs/2206.00468)<br>:star:[code](https://github.com/NaiyuGao/PanopticDepth):newspaper:[解读](https://zhuanlan.zhihu.com/p/523390359)
 
-### ❗❗❗ 5月27日更新 3 篇
-
-* 视频表征学习
-  * [Cross-Architecture Self-supervised Video Representation Learning](https://arxiv.org/abs/2205.13313)<br>:star:[code](https://github.com/guoshengcv/CACL):newspaper:[解读](https://zhuanlan.zhihu.com/p/520636472)
-* 文本到图像合成
-  * [LAFITE: Towards Language-Free Training for Text-to-Image Generation](https://arxiv.org/abs/2111.13792)<br>:star:[code](https://github.com/drboog/Lafite)
-* 点云分割
-  * [SemAffiNet: Semantic-Affine Transformation for Point Cloud Segmentation](https://arxiv.org/abs/2205.13490)<br>:star:[code](https://github.com/wangzy22/SemAffiNet):newspaper:[解读](https://zhuanlan.zhihu.com/p/520636472)
-
-### ❗❗❗ 5月26日更新 3 篇
-* 视频重建
-  * [Context-Aware Video Reconstruction for Rolling Shutter Cameras](https://arxiv.org/abs/2205.12912)<br>:star:[code](https://github.com/GitCVfb/CVR):newspaper:[解读](https://zhuanlan.zhihu.com/p/520070681)
-* 数据集
-  * [Primitive3D: 3D Object Dataset Synthesis from Randomly Assembled Primitives](https://arxiv.org/abs/2205.12627)
-* 三维人体姿态重建
-  * [Trajectory Optimization for Physics-Based Reconstruction of 3d Human Pose from Monocular Video](https://arxiv.org/abs/2205.12292)
-
-### ❗❗❗ 5月25日更新 5 篇
-* 场景风格化
-  * [StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning](https://arxiv.org/abs/2205.12183)
-* 语义图像匹配
-  * [TransforMatcher: Match-to-Match Attention for Semantic Correspondence](https://arxiv.org/abs/2205.11634)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/519556254)
-* 视觉跟踪
-  * [Ranking-Based Siamese Visual Tracking](https://arxiv.org/abs/2205.11761)<br>:star:[code](https://github.com/sansanfree/RBO):newspaper:[解读](https://zhuanlan.zhihu.com/p/519556254)
-* 3D人体运动重建
-  * [Differentiable Dynamics for Articulated 3d Human Motion Reconstruction](https://arxiv.org/abs/2205.12256)
-* 物体姿态估计
-  * [OnePose: One-Shot Object Pose Estimation without CAD Models](https://arxiv.org/abs/2205.12257)<br>:star:[code](https://github.com/zju3dv/OnePose):house:[project](https://zju3dv.github.io/onepose/):newspaper:[解读](https://zhuanlan.zhihu.com/p/519556254)
 
 ### ❗❗❗ 5月24日更新 4 篇
 * 场景流估计
@@ -301,7 +279,8 @@
 ## 38.Meta-Learning(元学习)
 * [What Matters For Meta-Learning Vision Regression Tasks?](https://arxiv.org/abs/2203.04905)
 * [Multidimensional Belief Quantification for Label-Efficient Meta-Learning](https://arxiv.org/abs/2203.12768) 
-
+* [Dynamic Kernel Selection for Improved Generalization and Memory Efficiency in Meta-learning](https://arxiv.org/abs/2206.01690)
+  
 <a name="37"/>
 
 ## 37.Contrastive Learning(对比学习)
@@ -755,6 +734,8 @@
   * [Spatial-Temporal Space Hand-in-Hand: Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning](https://arxiv.org/abs/2205.05264)<br>:star:[code](https://github.com/hhhhhumengshun/CycMuNet)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/513130382)
 * 视频重建
   * [Context-Aware Video Reconstruction for Rolling Shutter Cameras](https://arxiv.org/abs/2205.12912)<br>:star:[code](https://github.com/GitCVfb/CVR):newspaper:[解读](https://zhuanlan.zhihu.com/p/520070681)
+* 视频理解
+  * [Revisiting the "Video" in Video-Language Understanding](https://arxiv.org/abs/2206.01714)<br>:open_mouth:oral:star:[code](https://stanfordvl.github.io/atp-revisit-video-lang/)
 
 <a name="13"/>
 
