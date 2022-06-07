@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月6日，已收录 710+2 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月7日，已收录 712+8 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,24 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+### ❗❗❗ 6月7日更新 8 篇
+* 分割
+  * [Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation](https://arxiv.org/abs/2206.02099)<br>:star:[code](https://github.com/cardwing/Codes-for-PVKD):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
+* De-rendering
+  * [Learning sRGB-to-Raw-RGB De-rendering with Content-Aware Metadata](https://arxiv.org/abs/2206.01813)<br>:star:[code](https://github.com/SamsungLabs/content-aware-metadata):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
+* 医学
+  * [Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation](https://arxiv.org/abs/2206.01988)
+* 跟踪
+  * [Cannot See the Forest for the Trees: Aggregating Multiple Viewpoints to Better Classify Objects in Videos](https://arxiv.org/abs/2206.02116)<br>:star:[code](https://github.com/sukjunhwang/set_classifier)
+* 知识蒸馏
+  * [Evaluation-oriented Knowledge Distillation for Deep Face Recognition](https://arxiv.org/abs/2206.02325)<br>:open_mouth:oral:star:[code](https://github.com/Tencent/TFace/tree/master/recognition/tasks/ekd):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
+* VQA
+  * [Invariant Grounding for Video Question Answering](https://arxiv.org/abs/2206.02349)<br>:open_mouth:oral:star:[code](https://github.com/yl3800/IGV):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
+* Transformer
+  * [Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning](https://arxiv.org/abs/2206.02647)<br>:open_mouth:oral:star:[code](https://github.com/mahmoodlab/HIPT):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
+* 其它
+  * [Universal Photometric Stereo Network using Global Lighting Contexts](https://arxiv.org/abs/2206.02452)<br>:star:[code](https://github.com/satoshi-ikehata/Universal-PS-CVPR2022):house:[project](https://satoshi-ikehata.github.io/cvpr2022/univps_cvpr2022.html):tv:[video](https://www.youtube.com/watch?v=XSUgqgTSlZM):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
 
 ### ❗❗❗ 6月6日更新 2 篇
 * 视频理解
@@ -328,6 +346,7 @@
   * [DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers](https://arxiv.org/abs/2204.12997)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
   * [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679)<br>:star:[code](https://github.com/megvii-research/mdistiller)<br>:newspaper:[解耦知识蒸馏，让Hinton在7年前提出的方法重回SOTA行列](https://mp.weixin.qq.com/s/ozLLnUf8KggVzbPxeegQ3g)
   * [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793)<br>:open_mouth:oral<br>:newspaper:[RMIT&阿里&UTS&中山提出Target-aware Transformer，进行one-to-all知识蒸馏！性能SOTA](https://mp.weixin.qq.com/s/hz8julfb0ahYeT8kxGvS9w)
+  * [Evaluation-oriented Knowledge Distillation for Deep Face Recognition](https://arxiv.org/abs/2206.02325)<br>:open_mouth:oral:star:[code](https://github.com/Tencent/TFace/tree/master/recognition/tasks/ekd):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
 * 模型压缩
   * [CHEX: CHannel EXploration for CNN Model Compression](https://arxiv.org/abs/2203.15794)
 * 剪枝
@@ -383,6 +402,7 @@
   * [Learning to Answer Questions in Dynamic Audio-Visual Scenarios](https://arxiv.org/abs/2203.14072)<br>:open_mouth:oral:star:[code](https://github.com/GeWu-Lab/MUSIC-AVQA)<br>:newspaper:[CVPR 2022 Oral | 人大高瓴AI学院提出面向动态视音场景的问答学习任务](https://mp.weixin.qq.com/s/6rWjlkMK8G8aNA93RMFtRQ)
 * Video-QA
   * [Measuring Compositional Consistency for Video Question Answering](https://arxiv.org/abs/2204.07190) 
+  * [Invariant Grounding for Video Question Answering](https://arxiv.org/abs/2206.02349)<br>:open_mouth:oral:star:[code](https://github.com/yl3800/IGV):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
 
 <a name="29"/>
 
@@ -593,6 +613,8 @@
   * [Affine Medical Image Registration with Coarse-to-Fine Vision Transformer](https://arxiv.org/abs/2203.15216)<br>:star:[code](https://github.com/cwmok/C2FViT)
 * 医学图像分析
   * [FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis](https://arxiv.org/abs/2112.01148)<br>:star:[code](https://github.com/HazardFY/FIBA):newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
+* 自动生成报告
+  * [Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation](https://arxiv.org/abs/2206.01988)
 
 <a name="16"/>
 
@@ -632,6 +654,7 @@
 * [NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition](https://arxiv.org/abs/2111.12994)<br>:star:[code](https://github.com/TencentYoutuResearch/VisualRecognition-NomMer)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
 * [Mobile-Former: Bridging MobileNet and Transformer](https://arxiv.org/abs/2108.05895)
 * [MulT: An End-to-End Multitask Learning Transformer](https://arxiv.org/abs/2205.08303)
+* [Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning](https://arxiv.org/abs/2206.02647)<br>:open_mouth:oral:star:[code](https://github.com/mahmoodlab/HIPT):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
 * 形状补全
   * [ShapeFormer: Transformer-based Shape Completion via Sparse Representation](https://arxiv.org/abs/2201.10326)<br>:star:[code](https://github.com/qheldiv/shapeformer):house:[project](https://shapeformer.github.io/)
 
@@ -972,6 +995,7 @@
 * [Global Tracking via Ensemble of Local Trackers](https://arxiv.org/abs/2203.16092)
 * [Unsupervised Learning of Accurate Siamese Tracking](https://arxiv.org/abs/2204.01475)<br>:star:[code](https://github.com/FlorinShum/ULAST)
 * [Transformer Tracking with Cyclic Shifting Window Attention](https://arxiv.org/abs/2205.03806)<br>:star:[code](https://github.com/SkyeSong38/CSWinTT)<br>Transformer 跟踪：循环为一窗口注意力模型。该算法在五个数据集VOT2020, UAV123, LaSOT, TrackingNet, GOT-10k上均实现了新的SOTA.
+* [Cannot See the Forest for the Trees: Aggregating Multiple Viewpoints to Better Classify Objects in Videos](https://arxiv.org/abs/2206.02116)<br>:star:[code](https://github.com/sukjunhwang/set_classifier)
 * 3D 目标跟踪
   * [Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2203.01730)<br>:star:[code](https://github.com/Ghostish/Open3DSOT):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * 多目标跟踪
@@ -981,7 +1005,7 @@
   * [Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline](https://arxiv.org/abs/2204.04120)<br>:house:[project](https://zhang-pengyu.github.io/DUT-VTUAV/):newspaper:[解读](https://zhuanlan.zhihu.com/p/496386916)
 * 视觉跟踪
   * [Ranking-Based Siamese Visual Tracking](https://arxiv.org/abs/2205.11761)<br>:star:[code](https://github.com/sansanfree/RBO):newspaper:[解读](https://zhuanlan.zhihu.com/p/519556254) 
- 
+
 <a name="5"/>
 
 ## 5.Object Detection(目标检测)
@@ -1098,6 +1122,8 @@
 * 图像去噪
   * [CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image](https://arxiv.org/pdf/2203.13009.pdf)<br>:star:[code](https://github.com/Reyhanehne/CVF-SID_PyTorch)
   * [NAN: Noise-Aware NeRFs for Burst-Denoising](https://arxiv.org/abs/2204.04668) 
+* De-rendering
+  * [Learning sRGB-to-Raw-RGB De-rendering with Content-Aware Metadata](https://arxiv.org/abs/2206.01813)<br>:star:[code](https://github.com/SamsungLabs/content-aware-metadata):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776) 
 * 图像增强
   * [Toward Fast, Flexible, and Robust Low-Light Image Enhancement](https://arxiv.org/abs/2204.10137)<br>:open_mouth:oral:star:[code](https://github.com/vis-opt-group/SCI):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
   * [AdaInt: Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement](https://arxiv.org/abs/2204.13983)<br>:star:[code](https://github.com/ImCharlesY/AdaInt)
@@ -1148,6 +1174,7 @@
   * [Self-Supervised Learning of Object Parts for Semantic Segmentation](https://arxiv.org/abs/2204.13101)
   * [Cross-view Transformers for real-time Map-view Semantic Segmentation](https://arxiv.org/abs/2205.02833)<br>:open_mouth:oral:star:[code](https://github.com/bradyz/cross_view_transformers)
   * [Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization](https://arxiv.org/abs/2205.07839)<br>:house:[project](https://lukemelas.github.io/deep-spectral-segmentation/)
+  * [Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation](https://arxiv.org/abs/2206.02099)<br>:star:[code](https://github.com/cardwing/Codes-for-PVKD):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
   * 3D分割
     * [MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2204.12667)<br>:house:[project](https://www.nec-labs.com/~mas/MM-TTA/)
     * [Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation](https://arxiv.org/abs/2204.07548)<br>:open_mouth:oral:star:[code](https://github.com/drprojects/DeepViewAgg):newspaper:[解读](https://zhuanlan.zhihu.com/p/500351469)
@@ -1285,6 +1312,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [NeuralHDHair: Automatic High-fidelity Hair Modeling from a Single Image Using Implicit Neural Representations](https://arxiv.org/abs/2205.04175)<br>头发建模：仅用一幅图像，构建高保真度的头发模型，使用隐式神经表示的方法。出自浙大CAD&CG组、ETH Zurich、香港城市大学。
 * [A Unified Framework for Implicit Sinkhorn Differentiation](https://arxiv.org/abs/2205.06688)<br>:star:[code](https://github.com/marvin-eisenberger/implicit-sinkhorn)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/515190727)
 * [Towards Better Understanding Attribution Methods](https://arxiv.org/abs/2205.10435)<br>:star:[code](https://github.com/sukrutrao/Attribution-Evaluation)
+* [Universal Photometric Stereo Network using Global Lighting Contexts](https://arxiv.org/abs/2206.02452)<br>:star:[code](https://github.com/satoshi-ikehata/Universal-PS-CVPR2022):house:[project](https://satoshi-ikehata.github.io/cvpr2022/univps_cvpr2022.html):tv:[video](https://www.youtube.com/watch?v=XSUgqgTSlZM):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
 
 
 ## 论文尚未公布
