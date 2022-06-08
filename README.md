@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月7日，已收录 712+8 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月7日，已收录 720+5 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,18 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+### ❗❗❗ 6月8日更新 5 篇
+* 表面重建
+  * [Critical Regularizations for Neural Surface Reconstruction in the Wild](https://arxiv.org/abs/2206.03087)
+* 3D
+  * [Layered Depth Refinement with Mask Guidance](https://arxiv.org/abs/2206.03048)<br>:house:[project](https://sooyekim.github.io/MaskDepth/)
+* SGG
+  * [The Devil is in the Labels: Noisy Label Correction for Robust Scene Graph Generation](https://arxiv.org/abs/2206.03014)<br>:star:[code](https://github.com/muktilin/NICE)
+* GAN
+  * [Polymorphic-GAN: Generating Aligned Samples across Multiple Domains with Learned Morph Maps](https://arxiv.org/abs/2206.02903)<br>:open_mouth:oral:house:[project](https://nv-tlabs.github.io/PMGAN/)
+* 量化
+  * [A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information](https://arxiv.org/abs/2206.02846)<br>:star:[code](https://github.com/YorkUCVIL/Static-Dynamic-Interpretability/):house:[project](https://yorkucvil.github.io/Static-Dynamic-Interpretability/)
 
 ### ❗❗❗ 6月7日更新 8 篇
 * 分割
@@ -40,29 +52,6 @@
   * [Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning](https://arxiv.org/abs/2206.02647)<br>:open_mouth:oral:star:[code](https://github.com/mahmoodlab/HIPT):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
 * 其它
   * [Universal Photometric Stereo Network using Global Lighting Contexts](https://arxiv.org/abs/2206.02452)<br>:star:[code](https://github.com/satoshi-ikehata/Universal-PS-CVPR2022):house:[project](https://satoshi-ikehata.github.io/cvpr2022/univps_cvpr2022.html):tv:[video](https://www.youtube.com/watch?v=XSUgqgTSlZM):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
-
-### ❗❗❗ 6月6日更新 2 篇
-* 视频理解
-  * [Revisiting the "Video" in Video-Language Understanding](https://arxiv.org/abs/2206.01714)<br>:open_mouth:oral:star:[code](https://stanfordvl.github.io/atp-revisit-video-lang/)
-* 元学习
-  * [Dynamic Kernel Selection for Improved Generalization and Memory Efficiency in Meta-learning](https://arxiv.org/abs/2206.01690)
-
-### ❗❗❗ 6月2日更新 2 篇
-* 机器翻译
-  * [VALHALLA: Visual Hallucination for Machine Translation](https://arxiv.org/abs/2206.00100)<br>:house:[project](http://www.svcl.ucsd.edu/projects/valhalla/)
-* 全景分割
-  * [PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation](https://arxiv.org/abs/2206.00468)<br>:star:[code](https://github.com/NaiyuGao/PanopticDepth):newspaper:[解读](https://zhuanlan.zhihu.com/p/523390359)
-
-
-### ❗❗❗ 5月24日更新 4 篇
-* 场景流估计
-  * [RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds](https://arxiv.org/abs/2205.11028)
-* 知识蒸馏
-  * [Knowledge Distillation via the Target-aware Transformer](https://arxiv.org/abs/2205.10793)<br>:open_mouth:oral
-* 抠图
-  * [Human Instance Matting via Mutual Guidance and Multi-Instance Refinement](https://arxiv.org/abs/2205.10767)<br>:open_mouth:oral:star:[code](https://github.com/nowsyn/InstMatt)
-* 其他
-  * [Towards Better Understanding Attribution Methods](https://arxiv.org/abs/2205.10435)<br>:star:[code](https://github.com/sukrutrao/Attribution-Evaluation)
 
 ## 目录
 
@@ -231,6 +220,7 @@
 ## 46.Scene Graph Generation(场景图生成)
 * [HL-Net: Heterophily Learning Network for Scene Graph Generatio](https://arxiv.org/abs/2205.01316)<br>:star:[code](https://github.com/siml3/HL-Net)<br>场景图生成：异质学习网络<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 * [RU-Net: Regularized Unrolling Network for Scene Graph Generation](https://arxiv.org/abs/2205.01297)<br>:star:[code](https://github.com/siml3/RU-Net)<br>场景图生成：正则展开网络<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
+* [The Devil is in the Labels: Noisy Label Correction for Robust Scene Graph Generation](https://arxiv.org/abs/2206.03014)<br>:star:[code](https://github.com/muktilin/NICE)
 
 <a name="45"/>
 
@@ -351,6 +341,8 @@
   * [CHEX: CHannel EXploration for CNN Model Compression](https://arxiv.org/abs/2203.15794)
 * 剪枝
   * [Revisiting Random Channel Pruning for Neural Network Compression](https://arxiv.org/abs/2205.05676)<br>:star:[code](https://github.com/ofsoundof/random_channel_pruning)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/513130382)
+* 量化
+  * [A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information](https://arxiv.org/abs/2206.02846)<br>:star:[code](https://github.com/YorkUCVIL/Static-Dynamic-Interpretability/):house:[project](https://yorkucvil.github.io/Static-Dynamic-Interpretability/)
 
 <a name="33"/>
 
@@ -770,11 +762,11 @@
 * [Deep Image-based Illumination Harmonization](http://graphvision.whu.edu.cn/papers/2022/BaoZhongYun_CVPR.pdf)
 * [GAN-Supervised Dense Visual Alignment](https://arxiv.org/abs/2112.05143)<br>:open_mouth:oral:star:[code](https://github.com/wpeebles/gangealing):house:[project](https://www.wpeebles.com/gangealing):tv:[video](https://youtu.be/Qa1ASS_NuzE)<br>:newspaper:[CVPR2022 Oral：GAN监督的密集视觉对齐，代码开源](https://mp.weixin.qq.com/s/t4vnZpWdG76GlnbPzJXPcw)
 * [HairMapper: Removing Hair from Portraits Using GANs](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf)<br>:star:[code](https://github.com/oneThousand1000/non-hair-FFHQ)
+* [Polymorphic-GAN: Generating Aligned Samples across Multiple Domains with Learned Morph Maps](https://arxiv.org/abs/2206.02903)<br>:open_mouth:oral:house:[project](https://nv-tlabs.github.io/PMGAN/)
 * 图像篡改检测
   * [Proactive Image Manipulation Detection](https://arxiv.org/abs/2203.15880)<br>:star:[code](https://github.com/vishal3477/proactive_IMD)
 * 头发编辑
   * [HairCLIP: Design Your Hair by Text and Reference Image](https://arxiv.org/abs/2112.05142)<br>:star:[code](https://github.com/wty-ustc/HairCLIP)
-
 
 <a name="12"/>
 
@@ -848,6 +840,7 @@
   * [P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior](https://arxiv.org/abs/2204.02091)<br>:star:[code](https://github.com/SysCV/P3Depth)
   * [HiMODE: A Hybrid Monocular Omnidirectional Depth Estimation Model](https://arxiv.org/abs/2204.05007)
   * [Multi-Frame Self-Supervised Depth with Transformers](https://arxiv.org/abs/2204.07616)
+  * [Layered Depth Refinement with Mask Guidance](https://arxiv.org/abs/2206.03048)<br>:house:[project](https://sooyekim.github.io/MaskDepth/)
 * 房间布局
   * [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network](https://arxiv.org/abs/2203.01824)<br>:star:[code](https://github.com/zhigangjiang/LGT-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * MVS
@@ -880,7 +873,9 @@
 * 形状匹配
   * [A Scalable Combinatorial Solver for Elastic Geometrically Consistent 3D Shape Matching](https://arxiv.org/abs/2204.12805)<br>:star:[code](https://github.com/paul0noah/sm-comb)
   * [Deep Orientation-Aware Functional Maps: Tackling Symmetry Issues in Shape Matching](https://arxiv.org/abs/2204.13453)<br>:star:[code](https://github.com/nicolasdonati/DUO-FM)
-
+* 表面重建
+  * [Critical Regularizations for Neural Surface Reconstruction in the Wild](https://arxiv.org/abs/2206.03087)
+  
 <a name="9"/>
 
 ## 9.Human Pose Estimation(人体姿态估计)
