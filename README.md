@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月8日，已收录 720+5 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月9日，已收录 725+2 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,12 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+### ❗❗❗ 6月9日更新 2 篇
+* 多标签分类
+  * [Large Loss Matters in Weakly Supervised Multi-Label Classification](https://arxiv.org/abs/2206.03740)<br>:star:[code](https://github.com/snucml/LargeLossMatters):house:[project](https://zhuanlan.zhihu.com/p/526268919)
+* VOS
+  * [Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation](https://arxiv.org/abs/2206.03789)<br>:star:[code](https://github.com/dzh19990407/LBDT):house:[project](https://zhuanlan.zhihu.com/p/526268919)
 
 ### ❗❗❗ 6月8日更新 5 篇
 * 表面重建
@@ -478,7 +484,8 @@
   * [Targeted Supervised Contrastive Learning for Long-Tailed Recognition](https://arxiv.org/abs/2111.13998)
 * 细粒度识别
   * [Knowledge Mining with Scene Text for Fine-Grained Recognition](https://arxiv.org/abs/2203.14215)<br>:star:[code](https://github.com/lanfeng4659/KnowledgeMiningWithSceneText):newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
-
+* 多标签分类
+  * [Large Loss Matters in Weakly Supervised Multi-Label Classification](https://arxiv.org/abs/2206.03740)<br>:star:[code](https://github.com/snucml/LargeLossMatters):house:[project](https://zhuanlan.zhihu.com/p/526268919)
 
 <a name="24"/>
 
@@ -702,6 +709,7 @@
   * [Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation](https://arxiv.org/abs/2204.02547)<br>:star:[code](https://github.com/wangbo-zhao/2022CVPR-MMMMTBVS)
   * VOS
     * [Recurrent Dynamic Embedding for Video Object Segmentation](https://arxiv.org/abs/2205.03761)<br>:star:[code](https://github.com/Limingxing00/RDE-VOS-CVPR2022)
+    * [Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation](https://arxiv.org/abs/2206.03789)<br>:star:[code](https://github.com/dzh19990407/LBDT):house:[project](https://zhuanlan.zhihu.com/p/526268919)
   * 视频实例分割(VIS)
     * [Efficient Video Instance Segmentation via Tracklet Query and Proposal](https://arxiv.org/abs/2203.01853)<br>:house:[project](https://jialianwu.com/projects/EfficientVIS.html):tv:[video](https://youtu.be/sSPMzgtMKCE):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
     * [Temporally Efficient Vision Transformer for Video Instance Segmentation](https://arxiv.org/abs/2204.08412)<br>:open_mouth:oral:star:[code](https://github.com/hustvl/TeViT):newspaper:[解读](https://zhuanlan.zhihu.com/p/501027339)
