@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月9日，已收录 725+2 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月9日，已收录 727+6 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -22,6 +22,20 @@
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+### ❗❗❗ 6月9日更新 6 篇
+* 视频预测
+  * [STIP: A SpatioTemporal Information-Preserving and Perception-Augmented Model for High-Resolution Video Prediction](https://arxiv.org/abs/2206.04381)<br>:star:[code](https://github.com/ZhengChang467/STIPHR):newspaper:[解读](https://zhuanlan.zhihu.com/p/526818590)
+* SR
+  * [VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution](https://arxiv.org/abs/2206.04647)<br>:house:[project](http://zeyuan-chen.com/VideoINR/):newspaper:[解读](https://zhuanlan.zhihu.com/p/526818590)
+* 图像矢量化
+  * [Towards Layer-wise Image Vectorization](https://arxiv.org/abs/2206.04655)<br>:open_mouth:oral:star:[code](https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization):newspaper:[解读](https://zhuanlan.zhihu.com/p/526818590)
+* 模型压缩
+  * [DiSparse: Disentangled Sparsification for Multitask Model Compression](https://arxiv.org/abs/2206.04662)<br>:star:[code](https://github.com/SHI-Labs/DiSparse-Multitask-Model-Compression):newspaper:[解读](https://zhuanlan.zhihu.com/p/526818590)
+* 动作检测
+  * [GateHUB: Gated History Unit with Background Suppression for Online Action Detection](https://arxiv.org/abs/2206.04668)
+* 数据集
+  * [Open Challenges in Deep Stereo: the Booster Dataset](https://arxiv.org/abs/2206.04671)<br>:sunflower:[dataset](https://cvlab-unibo.github.io/booster-web/)
 
 ### ❗❗❗ 6月9日更新 2 篇
 * 多标签分类
