@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月13日，已收录 733+1 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月13日，已收录 733+2 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -23,12 +23,14 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-### ❗❗❗ 6月13日更新 1 篇
+### ❗❗❗ 6月13日更新 2 篇
 * 目标计数
   * [Rethinking Spatial Invariance of Convolutional Networks for Object Counting](https://arxiv.org/abs/2206.05253)<br>:star:[code]([https://github.com/ZhengChang467/STIPHR](https://github.com/zhiqic/Rethinking-Counting)):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
+* 三维网格重建
+  * [Neural Template: Topology-aware Reconstruction and Disentangled Generation of 3D Meshes](https://arxiv.org/abs/2206.04942)<br>:star:[code](https://github.com/edward1997104/Neural-Template):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
 ### ❗❗❗ 6月10日更新 6 篇
 * 视频预测
-  * [STIP: A SpatioTemporal Information-Preserving and Perception-Augmented Model for High-Resolution Video Prediction](https://arxiv.org/abs/2206.04381)<br>:star:[code](https://github.com/ZhengChang467/STIPHR):newspaper:[解读](https://zhuanlan.zhihu.com/p/526818590)
+  * [STIP: A SpatioTemporal Information-Preserving and Perception-Augmented Model for High-Resolution Video Prediction](https://arxiv.org/abs/2206.04381)<br>:star:[code](https://github.com/edward1997104/Neural-Template):newspaper:[解读](https://zhuanlan.zhihu.com/p/526818590)
 * SR
   * [VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution](https://arxiv.org/abs/2206.04647)<br>:house:[project](http://zeyuan-chen.com/VideoINR/):newspaper:[解读](https://zhuanlan.zhihu.com/p/526818590)
 * 图像矢量化
@@ -861,6 +863,8 @@
   * 三维服装网格重建
     * [Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images](https://arxiv.org/abs/2203.15007)<br>:house:[project](https://kv2000.github.io/2022/03/28/reef/)
     * [Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing](https://arxiv.org/abs/2204.08906)<br>:house:[project](https://phorhum.github.io/)
+  * 三维网格重建
+    * [Neural Template: Topology-aware Reconstruction and Disentangled Generation of 3D Meshes](https://arxiv.org/abs/2206.04942)<br>:star:[code](https://github.com/edward1997104/Neural-Template):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
  * 三维形状重建
     * [3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow](https://arxiv.org/abs/2203.15190)
     * [GIFS: Neural Implicit Function for General Shape Representation](https://arxiv.org/abs/2204.07126)<br>:house:[project](https://jianglongye.com/gifs/)
