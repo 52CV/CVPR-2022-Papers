@@ -23,7 +23,9 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-### ❗❗❗ 6月13日更新 2 篇
+### ❗❗❗ 6月13日更新 3 篇
+* 视频预测
+  * [SimVP: Simpler yet Better Video Prediction](https://arxiv.org/abs/2206.05099)<br>:star:[code](https://github.com/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
 * 目标计数
   * [Rethinking Spatial Invariance of Convolutional Networks for Object Counting](https://arxiv.org/abs/2206.05253)<br>:star:[code]([https://github.com/ZhengChang467/STIPHR](https://github.com/zhiqic/Rethinking-Counting)):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
 * 三维网格重建
@@ -680,6 +682,7 @@
 * 视频预测
   * [STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction](https://arxiv.org/abs/2203.16084)
   * [Continual Predictive Learning from Videos](https://arxiv.org/abs/2204.05624)<br>:open_mouth:oral:star:[code](https://github.com/jc043/CPL)
+  * [SimVP: Simpler yet Better Video Prediction](https://arxiv.org/abs/2206.05099)<br>:star:[code](https://github.com/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
 * 视频个体计数
   * [DR.VIC: Decomposition and Reasoning for Video Individual Counting](https://arxiv.org/abs/2203.12335)<br>:star:[code](https://github.com/taohan10200/DRNet)
 * 视频插值
