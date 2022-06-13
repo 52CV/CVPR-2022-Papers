@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月9日，已收录 727+6 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月13日，已收录 733+1 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -23,7 +23,10 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-### ❗❗❗ 6月9日更新 6 篇
+### ❗❗❗ 6月13日更新 1 篇
+* 目标计数
+  * [Rethinking Spatial Invariance of Convolutional Networks for Object Counting](https://arxiv.org/abs/2206.05253)<br>:star:[code]([https://github.com/ZhengChang467/STIPHR](https://github.com/zhiqic/Rethinking-Counting)):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
+### ❗❗❗ 6月10日更新 6 篇
 * 视频预测
   * [STIP: A SpatioTemporal Information-Preserving and Perception-Augmented Model for High-Resolution Video Prediction](https://arxiv.org/abs/2206.04381)<br>:star:[code](https://github.com/ZhengChang467/STIPHR):newspaper:[解读](https://zhuanlan.zhihu.com/p/526818590)
 * SR
@@ -43,35 +46,6 @@
 * VOS
   * [Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation](https://arxiv.org/abs/2206.03789)<br>:star:[code](https://github.com/dzh19990407/LBDT):house:[project](https://zhuanlan.zhihu.com/p/526268919)
 
-### ❗❗❗ 6月8日更新 5 篇
-* 表面重建
-  * [Critical Regularizations for Neural Surface Reconstruction in the Wild](https://arxiv.org/abs/2206.03087)
-* 3D
-  * [Layered Depth Refinement with Mask Guidance](https://arxiv.org/abs/2206.03048)<br>:house:[project](https://sooyekim.github.io/MaskDepth/)
-* SGG
-  * [The Devil is in the Labels: Noisy Label Correction for Robust Scene Graph Generation](https://arxiv.org/abs/2206.03014)<br>:star:[code](https://github.com/muktilin/NICE)
-* GAN
-  * [Polymorphic-GAN: Generating Aligned Samples across Multiple Domains with Learned Morph Maps](https://arxiv.org/abs/2206.02903)<br>:open_mouth:oral:house:[project](https://nv-tlabs.github.io/PMGAN/)
-* 量化
-  * [A Deeper Dive Into What Deep Spatiotemporal Networks Encode: Quantifying Static vs. Dynamic Information](https://arxiv.org/abs/2206.02846)<br>:star:[code](https://github.com/YorkUCVIL/Static-Dynamic-Interpretability/):house:[project](https://yorkucvil.github.io/Static-Dynamic-Interpretability/)
-
-### ❗❗❗ 6月7日更新 8 篇
-* 分割
-  * [Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation](https://arxiv.org/abs/2206.02099)<br>:star:[code](https://github.com/cardwing/Codes-for-PVKD):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
-* De-rendering
-  * [Learning sRGB-to-Raw-RGB De-rendering with Content-Aware Metadata](https://arxiv.org/abs/2206.01813)<br>:star:[code](https://github.com/SamsungLabs/content-aware-metadata):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
-* 医学
-  * [Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation](https://arxiv.org/abs/2206.01988)
-* 跟踪
-  * [Cannot See the Forest for the Trees: Aggregating Multiple Viewpoints to Better Classify Objects in Videos](https://arxiv.org/abs/2206.02116)<br>:star:[code](https://github.com/sukjunhwang/set_classifier)
-* 知识蒸馏
-  * [Evaluation-oriented Knowledge Distillation for Deep Face Recognition](https://arxiv.org/abs/2206.02325)<br>:open_mouth:oral:star:[code](https://github.com/Tencent/TFace/tree/master/recognition/tasks/ekd):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
-* VQA
-  * [Invariant Grounding for Video Question Answering](https://arxiv.org/abs/2206.02349)<br>:open_mouth:oral:star:[code](https://github.com/yl3800/IGV):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
-* Transformer
-  * [Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning](https://arxiv.org/abs/2206.02647)<br>:open_mouth:oral:star:[code](https://github.com/mahmoodlab/HIPT):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
-* 其它
-  * [Universal Photometric Stereo Network using Global Lighting Contexts](https://arxiv.org/abs/2206.02452)<br>:star:[code](https://github.com/satoshi-ikehata/Universal-PS-CVPR2022):house:[project](https://satoshi-ikehata.github.io/cvpr2022/univps_cvpr2022.html):tv:[video](https://www.youtube.com/watch?v=XSUgqgTSlZM):newspaper:[解读](https://zhuanlan.zhihu.com/p/525331776)
 
 ## 目录
 
@@ -97,6 +71,8 @@
 ## Machine Translation(机器翻译)
 * [VALHALLA: Visual Hallucination for Machine Translation](https://arxiv.org/abs/2206.00100)<br>:house:[project](http://www.svcl.ucsd.edu/projects/valhalla/)
 
+## Object Counting(目标计数)
+* [Rethinking Spatial Invariance of Convolutional Networks for Object Counting](https://arxiv.org/abs/2206.05253)<br>:star:[code]([https://github.com/ZhengChang467/STIPHR](https://github.com/zhiqic/Rethinking-Counting)):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
   
 ## computer-aided design (CAD)
 * [Neural Face Identification in a 2D Wireframe Projection of a Manifold Object](https://arxiv.org/abs/2203.04229)<br>:star:[code](https://github.com/manycore-research/faceformer)
