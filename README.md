@@ -7,7 +7,7 @@
 
 ### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
 
-### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月13日，已收录 733+3 篇。
+### ❣❣❣另外打包下载所有论文，可在[【我爱计算机视觉】微信公众号](https://user-images.githubusercontent.com/62801906/163739684-175f0b8a-871e-4a41-b310-b549625fdcb1.png)后台回复“paper”。截止6月14日，已收录 736+4 篇。
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
@@ -117,6 +117,7 @@
 * [GenDR: A Generalized Differentiable Renderer](https://arxiv.org/abs/2204.13845)<br>:star:[code](https://github.com/Felix-Petersen/gendr)<br>泛化可微渲染器
 * [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139)<br>:star:[code](https://github.com/cassiePython/CLIPNeRF):house:[project](https://cassiepython.github.io/clipnerf/)
 * [NeRF-Editing: Geometry Editing of Neural Radiance Fields](https://arxiv.org/abs/2205.04978)
+* [AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields](https://arxiv.org/abs/2206.06100)<br>:house:[project](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/ar-nerf/)
 
 <a name="57"/>
 
@@ -365,6 +366,7 @@
 * [Interactiveness Field in Human-Object Interactions](https://arxiv.org/abs/2204.07718)<br>:star:[code](https://github.com/Foruck/Interactiveness-Field)
 * [Stability-driven Contact Reconstruction From Monocular Color Images](https://arxiv.org/abs/2205.00848)<br>:star:[code](https://www.yangangwang.com/ (代码将开源))<br>单目彩色图像的手物交互重建，人机交互
 * [ Interactiveness Field of Human-Object Interactions](https://arxiv.org/abs/2204.07718)<br>:star:[code](https://github.com/Foruck/Interactiveness-Field)<br>:newspaper:[粗解](https://news.sjtu.edu.cn/jdzh/20220330/169456.html)
+* [Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection](https://arxiv.org/abs/2206.06291)<br>:star:[code](https://github.com/zyong812/STIP):newspaper:[解读](https://zhuanlan.zhihu.com/p/528607351)
 * HOI跟踪
   * [BEHAVE: Dataset and Method for Tracking Human Object Interactions](https://arxiv.org/abs/2204.06950)<br>:house:[project](http://virtualhumans.mpi-inf.mpg.de/behave/)
 
@@ -561,6 +563,8 @@
   * 🐦️[JRDB-Act: A Large-scale Dataset for Spatio-temporal Action, Social Group and Activity Detection](https://arxiv.org/pdf/2106.08827.pdf)
 * 自动驾驶场景重新照明
     * [SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks](https://arxiv.org/abs/2204.00644)<br>:house:[project](https://simbarv1.github.io/)
+* 行人轨迹预测
+  * [Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction](https://arxiv.org/abs/2206.05712)<br>:star:[code](https://github.com/Jacobieee/ST-MR):newspaper:[解读](https://zhuanlan.zhihu.com/p/528607351)
 
 <a name="19"/>
 
@@ -701,6 +705,7 @@
   * [Locality-Aware Inter-and Intra-Video Reconstruction for Self-Supervised Correspondence Learning](https://arxiv.org/abs/2203.14333)<br>:star:[code](https://github.com/0liliulei/LIIR)
 * 视频识别
   * [BEVT: BERT Pretraining of Video Transformers](https://arxiv.org/abs/2112.01529)<br>:star:[code](https://github.com/xyzforever/BEVT)<br>:newspaper:[视频Transformer自监督预训练新范式，复旦、微软云AI实现视频识别新SOTA](https://mp.weixin.qq.com/s/9e_VyJZlKw8xk3t_z0mFtA)
+  * [MLP-3D: A MLP-like 3D Architecture with Grouped Time Mixing](https://arxiv.org/abs/2206.06292)<br>:star:[code](https://github.com/ZhaofanQiu/MLP-3D):newspaper:[解读](https://zhuanlan.zhihu.com/p/528607351)
 * 视频分类
   * 零样本视频分类
     * [Alignment-Uniformity aware Representation Learning for Zero-shot Video Classification](https://arxiv.org/abs/2203.15381)
