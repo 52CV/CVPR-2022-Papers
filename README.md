@@ -23,6 +23,17 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+### ❗❗❗ 6月14日更新 4 篇
+
+* 行人轨迹预测
+  * [Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction](https://arxiv.org/abs/2206.05712)<br>:star:[code](https://github.com/Jacobieee/ST-MR):newspaper:[解读](https://zhuanlan.zhihu.com/p/528607351)
+* 神经渲染
+  * [AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields](https://arxiv.org/abs/2206.06100)<br>:house:[project](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/ar-nerf/)
+* HOI
+  * [Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection](https://arxiv.org/abs/2206.06291)<br>:star:[code](https://github.com/zyong812/STIP):newspaper:[解读](https://zhuanlan.zhihu.com/p/528607351)
+* 视频识别
+  * [MLP-3D: A MLP-like 3D Architecture with Grouped Time Mixing](https://arxiv.org/abs/2206.06292)<br>:star:[code](https://github.com/ZhaofanQiu/MLP-3D):newspaper:[解读](https://zhuanlan.zhihu.com/p/528607351)
+
 ### ❗❗❗ 6月13日更新 3 篇
 * 视频预测
   * [SimVP: Simpler yet Better Video Prediction](https://arxiv.org/abs/2206.05099)<br>:star:[code](https://github.com/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
@@ -30,6 +41,8 @@
   * [Rethinking Spatial Invariance of Convolutional Networks for Object Counting](https://arxiv.org/abs/2206.05253)<br>:star:[code]([https://github.com/ZhengChang467/STIPHR](https://github.com/zhiqic/Rethinking-Counting)):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
 * 三维网格重建
   * [Neural Template: Topology-aware Reconstruction and Disentangled Generation of 3D Meshes](https://arxiv.org/abs/2206.04942)<br>:star:[code](https://github.com/edward1997104/Neural-Template):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
+
+
 ### ❗❗❗ 6月10日更新 6 篇
 * 视频预测
   * [STIP: A SpatioTemporal Information-Preserving and Perception-Augmented Model for High-Resolution Video Prediction](https://arxiv.org/abs/2206.04381)<br>:star:[code](https://github.com/edward1997104/Neural-Template):newspaper:[解读](https://zhuanlan.zhihu.com/p/526818590)
@@ -43,12 +56,6 @@
   * [GateHUB: Gated History Unit with Background Suppression for Online Action Detection](https://arxiv.org/abs/2206.04668)
 * 数据集
   * [Open Challenges in Deep Stereo: the Booster Dataset](https://arxiv.org/abs/2206.04671)<br>:sunflower:[dataset](https://cvlab-unibo.github.io/booster-web/)
-
-### ❗❗❗ 6月9日更新 2 篇
-* 多标签分类
-  * [Large Loss Matters in Weakly Supervised Multi-Label Classification](https://arxiv.org/abs/2206.03740)<br>:star:[code](https://github.com/snucml/LargeLossMatters):house:[project](https://zhuanlan.zhihu.com/p/526268919)
-* VOS
-  * [Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation](https://arxiv.org/abs/2206.03789)<br>:star:[code](https://github.com/dzh19990407/LBDT):house:[project](https://zhuanlan.zhihu.com/p/526268919)
 
 
 ## 目录
