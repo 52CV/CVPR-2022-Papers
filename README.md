@@ -27,7 +27,7 @@
 * SR
   * [Discrete Cosine Transform Network for Guided Depth Map Super-Resolution](https://arxiv.org/abs/2104.06977)<br>:open_mouth:oral:star:[code](https://github.com/Zhaozixiang1228/GDSR-DCTNet)
 * 域泛化
-  * [Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839)<br>:open_mouth:oral:star:(https://github.com/hlzhang109/DDG)
+  * [Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839)<br>:open_mouth:oral:star:[code](https://github.com/hlzhang109/DDG)
 * 多视图聚类
   * [Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Highly-Efficient_Incomplete_Large-Scale_Multi-View_Clustering_With_Consensus_Bipartite_Graph_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/wangsiwei2010/CVPR22-IMVC-CBG)
 * VL
@@ -39,7 +39,7 @@
 * 半监督
   * [SimMatch: Semi-Supervised Learning With Similarity Matching](https://arxiv.org/abs/2203.06915)<br>:star:[code](https://github.com/KyleZheng1997/simmatch)
 * 视图合成
-  * [GeoNeRF: Generalizing NeRF with Geometry Priors](https://arxiv.org/abs/2111.13539)<br>:star:[code](https://www.idiap.ch/paper/geonerf]:house:[project](https://www.idiap.ch/paper/geonerf/):tv:[video](https://www.youtube.com/watch?v=-jNBsG3IP54)
+  * [GeoNeRF: Generalizing NeRF with Geometry Priors](https://arxiv.org/abs/2111.13539)<br>:star:[code](https://www.idiap.ch/paper/geonerf):house:[project](https://www.idiap.ch/paper/geonerf/):tv:[video](https://www.youtube.com/watch?v=-jNBsG3IP54)
 * 物体姿势估计
   * [ABPN: Adaptive Blend Pyramid Network for Real-Time Local Retouching of Ultra High-Resolution Photo](https://arxiv.org/abs/2205.08811)
 * 图像修饰
@@ -239,7 +239,7 @@
 * [NPBG++: Accelerating Neural Point-Based Graphics](https://arxiv.org/abs/2203.)<br>:house:[project](htt.io/npbgpp/)
 * [AutoRF: Learning 3D Object Radiance Fields from Single View Observations](https://arxiv.org/abs/2204.03593)<br>:house:[project](https://sirwyver.github.io/AutoRF/)
 * [NeurMiPs: Neural Mixture of Planar Experts for View Synthesis](https://arxiv.org/abs/2204.13696)<br>:star:[code](https://github.com/zhihao-lin/neurmips):house:[project](https://zhihao-lin.github.io/neurmips/):tv:[video](https://youtu.be/PV1dCTWL5Oo):newspaper:[解读](https://zhuanlan.zhihu.com/p/507053208)
-* [GeoNeRF: Generalizing NeRF with Geometry Priors](https://arxiv.org/abs/2111.13539)<br>:star:[code](https://www.idiap.ch/paper/geonerf]:house:[project](https://www.idiap.ch/paper/geonerf/):tv:[video](https://www.youtube.com/watch?v=-jNBsG3IP54)
+* [GeoNeRF: Generalizing NeRF with Geometry Priors](https://arxiv.org/abs/2111.13539)<br>:star:[code](https://www.idiap.ch/paper/geonerf):house:[project](https://www.idiap.ch/paper/geonerf/):tv:[video](https://www.youtube.com/watch?v=-jNBsG3IP54)
 
 <a name="54"/>
 
@@ -318,7 +318,7 @@
   * [Compound Domain Generalization via Meta-Knowledge Encoding](https://arxiv.org/pdf/2203.13006.pdf)
   * [Causality Inspired Representation Learning for Domain Generalization](https://arxiv.org/abs/2203.14237)
   * [Towards Unsupervised Domain Generalization](https://arxiv.org/abs/2107.06219)<br>本次任务的主要目标是域泛化（domain generalization(DG)），是首篇将DG推广到unsupervised learning 领域的，并提出一个新的研究领域 unsupervised domain generalization(UDG)。
-  * [Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839)<br>:open_mouth:oral:star:(https://github.com/hlzhang109/DDG)
+  * [Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839)<br>:open_mouth:oral:star:[code](https://github.com/hlzhang109/DDG)
   * 域外泛化
     * [The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization](https://arxiv.org/abs/2204.04384)
 * 域适应
