@@ -24,16 +24,8 @@
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
 
-<br>:open_mouth:oral:star:[code]():house:[project]():tv:[video]()
-<br>:house:[project]():tv:[video]()
-<br>:star:[code]():house:[project]()
-<br>:sunflower:[dataset]()
-<br>:star:[code]()
-<br>:house:[project]()
-:newspaper:[解读]()
-
 * SR
-  * [Discrete Cosine Transform Network for Guided Depth Map Super-Resolution](https://arxiv.org/abs/2104.06977)<br>:open_mouth:oral:star:(https://github.com/Zhaozixiang1228/GDSR-DCTNet)
+  * [Discrete Cosine Transform Network for Guided Depth Map Super-Resolution](https://arxiv.org/abs/2104.06977)<br>:open_mouth:oral:star:[code](https://github.com/Zhaozixiang1228/GDSR-DCTNet)
 * 域泛化
   * [Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839)<br>:open_mouth:oral:star:(https://github.com/hlzhang109/DDG)
 * 多视图聚类
@@ -622,7 +614,7 @@
 * [Learning Graph Regularisation for Guided Super-Resolution](https://arxiv.org/abs/2203.14297)
 * [Self-Supervised Super-Resolution for Multi-Exposure Push-Frame Satellites](https://arxiv.org/abs/2205.02031)<br>:star:[code](https://github.com/centreborelli/HDR-DSP-SR/):house:[project](https://centreborelli.github.io/HDR-DSP-SR/):newspaper:[解读](https://zhuanlan.zhihu.com/p/509470774/)
 * [Deep Constrained Least Squares for Blind Image Super-Resolution](https://arxiv.org/abs/2202.07508)<br>:star:[code](https://github.com/megvii-research/DCLS-SR):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
-* [Discrete Cosine Transform Network for Guided Depth Map Super-Resolution](https://arxiv.org/abs/2104.06977)<br>:open_mouth:oral:star:(https://github.com/Zhaozixiang1228/GDSR-DCTNet)  
+* [Discrete Cosine Transform Network for Guided Depth Map Super-Resolution](https://arxiv.org/abs/2104.06977)<br>:open_mouth:oral:star:[code](https://github.com/Zhaozixiang1228/GDSR-DCTNet)  
 
 <a name="23"/>
 
