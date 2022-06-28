@@ -482,7 +482,7 @@
 * 域泛化
   * [Compound Domain Generalization via Meta-Knowledge Encoding](https://arxiv.org/pdf/2203.13006.pdf)
   * [Causality Inspired Representation Learning for Domain Generalization](https://arxiv.org/abs/2203.14237)<br>:star:[code](https://github.com/BIT-DA/CIRL)
-  * [Towards Unsupervised Domain Generalization](https://arxiv.org/abs/2107.06219)<br>本次任务的主要目标是域泛化（domain generalization(DG)），是首篇将DG推广到unsupervised learning 领域的，并提出一个新的研究领域 unsupervised domain generalization(UDG)。
+  * [Towards Unsupervised Domain Generalization](https://arxiv.org/abs/2107.06219)<br>:newspaper:[CVPR 2022丨清华大学提出：无监督域泛化 (UDG)](https://mp.weixin.qq.com/s/ifC6GI5oVpE4ncttmJipjQ)<br>本次任务的主要目标是域泛化（domain generalization(DG)），是首篇将DG推广到unsupervised learning 领域的，并提出一个新的研究领域 unsupervised domain generalization(UDG)。
   * [Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839)<br>:open_mouth:oral:star:[code](https://github.com/hlzhang109/DDG)
   * [Meta Convolutional Neural Networks for Single Domain Generalization](https://openaccess.thecvf.com/content/CVPR2022/papers/Wan_Meta_Convolutional_Neural_Networks_for_Single_Domain_Generalization_CVPR_2022_paper.pdf)
   * [PCL: Proxy-Based Contrastive Learning for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2022/papers/Yao_PCL_Proxy-Based_Contrastive_Learning_for_Domain_Generalization_CVPR_2022_paper.pdf)
@@ -1152,6 +1152,8 @@
 * [MetaFormer Is Actually What You Need for Vision](https://arxiv.org/abs/2111.11418)<br>:open_mouth:oral:star:[code](https://github.com/sail-sg/poolformer)
 * [GradViT: Gradient Inversion of Vision Transformers](https://arxiv.org/abs/2203.11894)<br>:house:[project](https://gradvit.github.io/)
 * [CSWin Transformer: A General Vision Transformer Backbone With Cross-Shaped Windows](https://arxiv.org/abs/2107.00652)<br>:star:[code](https://github.com/microsoft/CSWin-Transformer)
+* [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/abs/2112.01526)<br>:star:[code](https://github.com/facebookresearch/mvit)<br>:newspaper:[Meta&伯克利基于池化自注意力机制提出通用多尺度视觉Transformer，在ImageNet分类准确率达88.8%！开源](https://mp.weixin.qq.com/s/cfvDmALkPFvpXtHsUEX8zw)
+* [A-ViT: Adaptive Tokens for Efficient Vision Transformer](https://arxiv.org/pdf/2112.07658.pdf)<br>:open_mouth:oral<br>:newspaper:[不重要的token可以提前停止计算！英伟达提出自适应token的高效视觉Transformer网络A-ViT，提高模型的吞吐量！](https://mp.weixin.qq.com/s/uifaPmPc5CBQKgwffQPb3Q)
 * 形状补全
   * [ShapeFormer: Transformer-based Shape Completion via Sparse Representation](https://arxiv.org/abs/2201.10326)<br>:star:[code](https://github.com/qheldiv/shapeformer):house:[project](https://shapeformer.github.io/)
 
@@ -1251,7 +1253,7 @@
   * 自监督视频表征学习
     * [Hierarchical Self-supervised Representation Learning for Movie Understanding](https://arxiv.org/abs/2204.03101)<br>:star:[code](https://github.com/alibaba-mmai-research/HiCo):house:[project](https://hico-cvpr2022.github.io/)
     * [Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency](https://arxiv.org/abs/2204.03017)
-    * [Cross-Architecture Self-supervised Video Representation Learning](https://arxiv.org/abs/2205.13313)<br>:star:[code](https://github.com/guoshengcv/CACL):newspaper:[解读](https://zhuanlan.zhihu.com/p/520636472)
+    * [Cross-Architecture Self-supervised Video Representation Learning](https://arxiv.org/abs/2205.13313)<br>:star:[code](https://github.com/guoshengcv/CACL)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/520636472)<br>:newspaper:[不同网络结构的特征也能进行对比学习？蚂蚁&美团&南大&阿里提出跨架构自监督视频表示学习方法CACL，性能SOTA！](https://mp.weixin.qq.com/s/cM6RXGK-M6H57XvTcuT_QA)
   * 视频对比学习
     * [Probabilistic Representations for Video Contrastive Learning](https://arxiv.org/abs/2204.03946)
 * 视频分解
@@ -1890,7 +1892,7 @@
   * [De-Rendering 3D Objects in the Wild](https://arxiv.org/abs/2201.02279)<br>:star:[code](https://github.com/Brummi/derender3d)
   * [IDR: Self-Supervised Image Denoising via Iterative Data Refinement](https://arxiv.org/abs/2111.14358)<br>:star:[code](https://github.com/zhangyi-3/IDR)
 * 图像增强
-  * [Toward Fast, Flexible, and Robust Low-Light Image Enhancement](https://arxiv.org/abs/2204.10137)<br>:open_mouth:oral:star:[code](https://github.com/vis-opt-group/SCI):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)
+  * [Toward Fast, Flexible, and Robust Low-Light Image Enhancement](https://arxiv.org/abs/2204.10137)<br>:open_mouth:oral:star:[code](https://github.com/vis-opt-group/SCI):newspaper:[解读](https://zhuanlan.zhihu.com/p/502894478)<br>:newspaper:[SCI：快速、灵活与稳健的低光照图像增强方法（CVPR 2022 Oral）](https://mp.weixin.qq.com/s/1edHkevclvnDNoVNRPitTg)
   * [AdaInt: Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement](https://arxiv.org/abs/2204.13983)<br>:star:[code](https://github.com/ImCharlesY/AdaInt)
   * [Directional Self-supervised Learning for Heavy Image Augmentations](https://arxiv.org/abs/2110.13555)<br>:star:[code](https://github.com/Yif-Yang/DSSL)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
   * [Abandoning the Bayer-Filter To See in the Dark](https://arxiv.org/abs/2203.04042)<br>:star:[code](https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark)
