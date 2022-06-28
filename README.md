@@ -134,7 +134,6 @@
   * [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf)
   * [Deblur-NeRF: Neural Radiance Fields From Blurry Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Deblur-NeRF_Neural_Radiance_Fields_From_Blurry_Images_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/limacv/Deblur-NeRF):house:[project](https://limacv.github.io/deblurnerf/)
   * [NeRFReN: Neural Radiance Fields With Reflections](https://arxiv.org/abs/2111.15234)<br>:house:[project](https://bennyguo.github.io/nerfren/)
-  * [PhyIR: Physics-Based Inverse Rendering for Panoramic Indoor Images](PhyIR: Physics-Based Inverse Rendering for Panoramic Indoor Images)
 * 姿态
   * [PoseKernelLifter: Metric Lifting of 3D Human Pose Using Sound](https://arxiv.org/abs/2112.00216)
 * 点云
@@ -339,7 +338,6 @@
 * [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf)
 * [Deblur-NeRF: Neural Radiance Fields From Blurry Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Deblur-NeRF_Neural_Radiance_Fields_From_Blurry_Images_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/limacv/Deblur-NeRF):house:[project](https://limacv.github.io/deblurnerf/)
 * [NeRFReN: Neural Radiance Fields With Reflections](https://arxiv.org/abs/2111.15234)<br>:house:[project](https://bennyguo.github.io/nerfren/)
-* [PhyIR: Physics-Based Inverse Rendering for Panoramic Indoor Images](PhyIR: Physics-Based Inverse Rendering for Panoramic Indoor Images)
 
 <a name="57"/>
 
