@@ -1575,7 +1575,7 @@
     * [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/abs/2205.02836)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/manhattan_sdf):house:[project](https://zju3dv.github.io/manhattan_sdf/):tv:[video](https://youtu.be/oEE7mK0YQtc):newspaper:[解读](https://zhuanlan.zhihu.com/p/510007610)
     * [StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions](https://openaccess.thecvf.com/content/CVPR2022/papers/Hollein_StyleMesh_Style_Transfer_for_Indoor_3D_Scene_Reconstructions_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/lukasHoel/stylemesh):house:[project](https://lukashoel.github.io/stylemesh/):tv:[video](https://www.youtube.com/watch?v=ZqgiTLcNcks)
     * [PhotoScene: Photorealistic Material and Lighting Transfer for Indoor Scenes](https://openaccess.thecvf.com/content/CVPR2022/papers/Yeh_PhotoScene_Photorealistic_Material_and_Lighting_Transfer_for_Indoor_Scenes_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/ViLab-UCSD/photoscene)
-  * [Look Outside the Room: Synthesizing a Consistent Long-Term 3D Scene Video From a Single Image](https://arxiv.org/abs/2203.09457)<br>:star:[code](https://github.com/xrenaa/Look-Outside-Room):house:[project](https://xrenaa.github.io/look-outside-room/)
+    * [Look Outside the Room: Synthesizing a Consistent Long-Term 3D Scene Video From a Single Image](https://arxiv.org/abs/2203.09457)<br>:star:[code](https://github.com/xrenaa/Look-Outside-Room):house:[project](https://xrenaa.github.io/look-outside-room/)
   * 手物重建
     * [Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution](https://arxiv.org/abs/2204.13062)
   * 三维服装网格重建
