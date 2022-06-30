@@ -41,7 +41,7 @@
 * 视频识别
   * [Multiview Transformers for Video Recognition](https://arxiv.org/abs/2201.04288)<br>:star:[code](https://github.com/google-research/scenic/tree/main/scenic/projects/mtv)
 * 3D手部姿势
-  * [Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-Based 3D Hand Pose and Mesh Estimation](Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-Based 3D Hand Pose and Mesh Estimation)<br>:star:[code](https://github.com/RenFeiTemp/MMI)
+  * [Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-Based 3D Hand Pose and Mesh Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Mining_Multi-View_Information_A_Strong_Self-Supervised_Framework_for_Depth-Based_3D_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/RenFeiTemp/MMI)
 * 文本分割
   * [BTS: A Bi-Lingual Benchmark for Text Segmentation in the Wild](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_BTS_A_Bi-Lingual_Benchmark_for_Text_Segmentation_in_the_Wild_CVPR_2022_paper.pdf)
 * 轨迹预测
@@ -1690,7 +1690,7 @@
   * [DoubleField: Bridging the Neural Surface and Radiance Fields for High-Fidelity Human Reconstruction and Rendering](https://arxiv.org/abs/2106.03798)<br>:house:[project](http://www.liuyebin.com/dbfield/dbfield.html)
   * [SMPL-A: Modeling Person-Specific Deformable Anatomy](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_SMPL-A_Modeling_Person-Specific_Deformable_Anatomy_CVPR_2022_paper.pdf)
 * 3D手部姿势
-  * [Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-Based 3D Hand Pose and Mesh Estimation](Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-Based 3D Hand Pose and Mesh Estimation)<br>:star:[code](https://github.com/RenFeiTemp/MMI)
+  * [Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-Based 3D Hand Pose and Mesh Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Mining_Multi-View_Information_A_Strong_Self-Supervised_Framework_for_Depth-Based_3D_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/RenFeiTemp/MMI)
 
 <a name="8"/>
 
