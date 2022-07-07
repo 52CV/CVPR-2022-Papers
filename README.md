@@ -23,176 +23,184 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-### ❗❗❗ 7月 6 日 101 篇
-* 对比学习
-  * [Contrastive Learning for Space-Time Correspondence via Self-Cycle Consistency](https://openaccess.thecvf.com/content/CVPR2022/papers/Son_Contrastive_Learning_for_Space-Time_Correspondence_via_Self-Cycle_Consistency_CVPR_2022_paper.pdf)
-* 深度补全
-  * [Learning Robust Image-Based Rendering on Sparse Scene Geometry via Depth Completion](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Learning_Robust_Image-Based_Rendering_on_Sparse_Scene_Geometry_via_Depth_CVPR_2022_paper.pdf)
-* 目标检测
-  * [Scale-Equivalent Distillation for Semi-Supervised Object Detection](https://arxiv.org/abs/2203.12244)
-  * [Self-Supervised Object Detection From Audio-Visual Correspondence](https://arxiv.org/abs/2104.06401)
-* MRI重建
-  * [Recurrent Variational Network: A Deep Learning Inverse Problem Solver Applied to the Task of Accelerated MRI Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/papers/Yiasemis_Recurrent_Variational_Network_A_Deep_Learning_Inverse_Problem_Solver_Applied_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/NKI-AI/direct)
-* 图像合成
-  * [Attribute Group Editing for Reliable Few-Shot Image Generation](https://arxiv.org/abs/2203.08422)<br>:star:[code](https://github.com/UniBester/AGE)
-* 深度估计
-  * [CroMo: Cross-Modal Learning for Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Verdie_CroMo_Cross-Modal_Learning_for_Monocular_Depth_Estimation_CVPR_2022_paper.pdf)
-* 恶劣天气消除
-  * [Learning Multiple Adverse Weather Removal via Two-Stage Knowledge Learning and Multi-Contrastive Regularization: Toward a Unified Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal)
-* 图匹配
-  * [Appearance and Structure Aware Robust Deep Visual Graph Matching: Attack, Defense and Beyond](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Appearance_and_Structure_Aware_Robust_Deep_Visual_Graph_Matching_Attack_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Thinklab-SJTU/RobustMatch)
-* 跟踪
-  * [TrackFormer: Multi-Object Tracking With Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Meinhardt_TrackFormer_Multi-Object_Tracking_With_Transformers_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/timmeinhardt/trackformer)
-* 其它
-  * [SelfD: Self-Learning Large-Scale Driving Policies From the Web](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_SelfD_Self-Learning_Large-Scale_Driving_Policies_From_the_Web_CVPR_2022_paper.pdf)
-  * [Autofocus for Event Cameras](https://arxiv.org/abs/2203.12321)<br>:star:[code](https://github.com/eleboss/eaf_code):house:[project](https://eleboss.github.io/eaf_webpage/)
-  * [Super-Fibonacci Spirals: Fast, Low-Discrepancy Sampling of SO(3)](https://openaccess.thecvf.com/content/CVPR2022/papers/Alexa_Super-Fibonacci_Spirals_Fast_Low-Discrepancy_Sampling_of_SO3_CVPR_2022_paper.pdf)
-
-
-* 域泛化
-  * [BoosterNet: Improving Domain Generalization of Deep Neural Nets Using Culpability-Ranked Features](https://openaccess.thecvf.com/content/CVPR2022/papers/Bayasi_BoosterNet_Improving_Domain_Generalization_of_Deep_Neural_Nets_Using_Culpability-Ranked_CVPR_2022_paper.pdf)
-* 渲染
-  * [HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_HDR-NeRF_High_Dynamic_Range_Neural_Radiance_Fields_CVPR_2022_paper.pdf)
-* 对应学习
-  * [MS2DG-Net: Progressive Correspondence Learning via Multiple Sparse Semantics Dynamic Graph](https://openaccess.thecvf.com/content/CVPR2022/papers/Dai_MS2DG-Net_Progressive_Correspondence_Learning_via_Multiple_Sparse_Semantics_Dynamic_Graph_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/changcaiyang/MS2DG-Net)
-* 表情识别
-  * [Neural Emotion Director: Speech-Preserving Semantic Control of Facial Expressions in "In-the-Wild" Videos](https://arxiv.org/abs/2112.00585)<br>:open_mouth:oral:star:[code](https://github.com/foivospar/NED):house:[project](https://foivospar.github.io/NED/)
-* 人脸
-  * [Learning To Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://arxiv.org/abs/2204.08451)<br>:star:[code](https://github.com/evonneng/learning2listen):house:[project](https://evonneng.github.io/learning2listen/)
-  * [Estimating Structural Disparities for Face Models](https://arxiv.org/abs/2204.06562)
-* 其它
-  * [3PSDF: Three-Pole Signed Distance Function for Learning Surfaces With Arbitrary Topologies](https://arxiv.org/abs/2205.15572)
-  * [PNP: Robust Learning from Noisy Labels by Probabilistic Noise Prediction](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_PNP_Robust_Learning_From_Noisy_Labels_by_Probabilistic_Noise_Prediction_CVPR_2022_paper.pdf)
-  * [Revisiting the Transferability of Supervised Pretraining: An MLP Perspective](https://arxiv.org/abs/2112.00496)
-  * [PLAD: Learning To Infer Shape Programs With Pseudo-Labels and Approximate Distributions](https://arxiv.org/abs/2011.13045)<br>:star:[code](https://github.com/rkjones4/PLAD)
-* 姿态
-  * [Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation From Monocular Video](https://arxiv.org/abs/2203.08534)<br>:star:[code](https://github.com/MPS-Net/MPS-Net):house:[project](https://mps-net.github.io/MPS-Net/)
-* 跟踪 
-  * [MixFormer: End-to-End Tracking With Iterative Mixed Attention](https://arxiv.org/abs/2203.11082)<br>:open_mouth:oral:star:[code](https://github.com/MCG-NJU/MixFormer)
-  * [PTTR: Relational 3D Point Cloud Object Tracking With Transformer](http://arxiv.org/abs/2112.02857)<br>:star:[code](https://github.com/Jasonkks/PTTR)
-* Image Outpainting
-  * [InOut: Diverse Image Outpainting via GAN Inversion](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_InOut_Diverse_Image_Outpainting_via_GAN_Inversion_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/yccyenchicheng/InOut):house:[project](https://yccyenchicheng.github.io/InOut/)
-* 渲染
-  * [Plenoxels: Radiance Fields Without Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Fridovich-Keil_Plenoxels_Radiance_Fields_Without_Neural_Networks_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/sxyu/svox2):house:[project](https://alexyu.net/plenoxels/)
-* 面部动作单元识别
-  * [Knowledge-Driven Self-Supervised Representation Learning for Facial Action Unit Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_Knowledge-Driven_Self-Supervised_Representation_Learning_for_Facial_Action_Unit_Recognition_CVPR_2022_paper.pdf)
-* 假脸检测 
-  * [Learning Second Order Local Anomaly for General Face Forgery Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Fei_Learning_Second_Order_Local_Anomaly_for_General_Face_Forgery_Detection_CVPR_2022_paper.pdf)
-* 分割
-  * [ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation](http://arxiv.org/abs/2203.06811)
-  * [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://arxiv.org/abs/2112.02244)
-* 剪枝
-  * [Interspace Pruning: Using Adaptive Filter Representations To Improve Training of Sparse CNNs](https://arxiv.org/abs/2203.07808)
-* 对抗 
-  * [Frequency-Driven Imperceptible Adversarial Attack on Semantic Similarity](https://arxiv.org/abs/2203.05151)<br>:star:[code](https://github.com/LinQinLiang/SSAH-adversarial-attack)
-* 点云 
-  * [ZZ-Net: A Universal Rotation Equivariant Architecture for 2D Point Clouds](https://openaccess.thecvf.com/content/CVPR2022/papers/Bokman_ZZ-Net_A_Universal_Rotation_Equivariant_Architecture_for_2D_Point_Clouds_CVPR_2022_paper.pdf)
-
-
-
-* 目标检测
-  * [SS3D: Sparsely-Supervised 3D Object Detection From Point Cloud](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_SS3D_Sparsely-Supervised_3D_Object_Detection_From_Point_Cloud_CVPR_2022_paper.pdf)
-  * [A Dual Weighting Label Assignment Scheme for Object Detection](https://arxiv.org/abs/2203.09730)<br>:star:[code](https://github.com/strongwolf/DW)
-* 分割
-  * [Remember the Difference: Cross-Domain Few-Shot Semantic Segmentation via Meta-Memory Transfer](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Remember_the_Difference_Cross-Domain_Few-Shot_Semantic_Segmentation_via_Meta-Memory_Transfer_CVPR_2022_paper.pdf)
-  * [Decoupling Zero-Shot Semantic Segmentation](https://arxiv.org/abs/2112.07910)<br>:star:[code](https://github.com/dingjiansw101/ZegFormer)
-  * [C2AM: Contrastive Learning of Class-Agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_C2AM_Contrastive_Learning_of_Class-Agnostic_Activation_Map_for_Weakly_Supervised_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/CVI-SZU/CCAM)
-  * [ADeLA: Automatic Dense Labeling With Attention for Viewpoint Shift in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_ADeLA_Automatic_Dense_Labeling_With_Attention_for_Viewpoint_Shift_in_CVPR_2022_paper.pdf)
-* 图像合成
-  * [GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation](https://arxiv.org/abs/2112.08867)<br>:house:[project](https://yudeng.github.io/GRAM/)
-  * [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200)
-* 自监督
-  * [UniVIP: A Unified Framework for Self-Supervised Visual Pre-Training](https://arxiv.org/abs/2203.06965)
-* 姿态
-  * [GraFormer: Graph-Oriented Transformer for 3D Pose Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_GraFormer_Graph-Oriented_Transformer_for_3D_Pose_Estimation_CVPR_2022_paper.pdf)
-* Transformer
-  * [Towards Robust Vision Transformer](https://arxiv.org/abs/2105.07926)<br>:star:[code](https://github.com/alibaba/easyrobust)
-* 对抗
-  * [Stochastic Variance Reduced Ensemble Adversarial Attack for Boosting the Adversarial Transferability](https://arxiv.org/abs/2111.10752)<br>:star:[code](https://github.com/JHL-HUST/SVRE)
-* 分类
-  * [Multi-Modal Extreme Classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Mittal_Multi-Modal_Extreme_Classification_CVPR_2022_paper.pdf)<br>:star:[code](http://manikvarma.org/downloads/XC/XMLRepository.html)
-* 视觉定位
-  * [Zero Experience Required: Plug & Play Modular Transfer Learning for Semantic Visual Navigation](https://openaccess.thecvf.com/content/CVPR2022/papers/Al-Halah_Zero_Experience_Required_Plug__Play_Modular_Transfer_Learning_for_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/ziadalh/zero_experience_required):house:[project](https://vision.cs.utexas.edu/projects/zsel/)
-* 度量学习
-  * [Non-Isotropy Regularization for Proxy-Based Deep Metric Learning](https://arxiv.org/abs/2203.08547)<br>:star:[code](https://github.com/ExplainableML/NonIsotropicProxyDML)
-  * [Hyperbolic Vision Transformers: Combining Improvements in Metric Learning](https://arxiv.org/abs/2203.10833)<br>:star:[code](https://github.com/htdt/hyp_metric)
-* 点云
-  * [3DAC: Learning Attribute Compression for Point Clouds](https://arxiv.org/abs/2203.09931)
-  * [RCP: Recurrent Closest Point for Point Cloud](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_RCP_Recurrent_Closest_Point_for_Point_Cloud_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/gxd1994/RCP)
-* 3D
-  * [The Wanderings of Odysseus in 3D Scenes](https://arxiv.org/abs/2112.09251)<br>:star:[code](https://github.com/yz-cnsdqz/GAMMA-release):house:[project](https://yz-cnsdqz.github.io/eigenmotion/GAMMA/)
-* VOS
-  * [Multi-Level Representation Learning With Semantic Alignment for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf)
-* 图像恢复
-  * [All-in-One Image Restoration for Unknown Corruption](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_All-in-One_Image_Restoration_for_Unknown_Corruption_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)
-* 手写数学表达式识别
-  * [Syntax-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2203.01601)
-* 无监督
-  * [PUMP: Pyramidal and Uniqueness Matching Priors for Unsupervised Learning of Local Descriptors](https://openaccess.thecvf.com/content/CVPR2022/papers/Revaud_PUMP_Pyramidal_and_Uniqueness_Matching_Priors_for_Unsupervised_Learning_of_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/naver/pump)
-* 3D
-  * [PlanarRecon: Real-Time 3D Plane Detection and Reconstruction From Posed Monocular Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_PlanarRecon_Real-Time_3D_Plane_Detection_and_Reconstruction_From_Posed_Monocular_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/neu-vi/planarrecon):house:[project](https://neu-vi.github.io/planarrecon/)
-* 视频帧插值
-  * [Optimizing Video Prediction via Video Frame Interpolation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Optimizing_Video_Prediction_via_Video_Frame_Interpolation_CVPR_2022_paper.pdf)
-* 半监督
-  * [Safe-Student for Safe Deep Semi-Supervised Learning With Unseen-Class Unlabeled Data](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Safe-Student_for_Safe_Deep_Semi-Supervised_Learning_With_Unseen-Class_Unlabeled_Data_CVPR_2022_paper.pdf)
+### ❗❗❗ 7月 7 日 102 篇
+* 数据集
+  * [DiLiGenT102: A Photometric Stereo Benchmark Dataset With Controlled Shape and Material Variation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_DiLiGenT102_A_Photometric_Stereo_Benchmark_Dataset_With_Controlled_Shape_and_CVPR_2022_paper.pdf)<br>:sunflower:[dataset](https://photometricstereo.github.io/)<br>具有受控形状和材料变化的光度测量立体基准数据集
+* 光学
+  * [Dual-Shutter Optical Vibration Sensing](https://openaccess.thecvf.com/content/CVPR2022/papers/Sheinin_Dual-Shutter_Optical_Vibration_Sensing_CVPR_2022_paper.pdf)
+* NAS
+  * [Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?](https://arxiv.org/abs/2203.14577)br>:star:[code](https://github.com/nutellamok/DemystifyingNTK)
 * GAN
-  * [High-Fidelity GAN Inversion for Image Attribute Editing](https://arxiv.org/abs/2109.06590)<br>:star:[code](https://github.com/Tengfei-Wang/HFGI):house:[project](https://tengfei-wang.github.io/HFGI/)
-  * [Manifold Learning Benefits GANs](https://arxiv.org/abs/2112.12618)<br>:star:[code](https://github.com/MaxwellYaoNi/LCSAGAN)
-* 3D human avatars
-  * [gDNA: Towards Generative Detailed Neural Avatars](https://arxiv.org/abs/2201.04123)<br>:star:[code](https://github.com/xuchen-ethz/gdna):house:[project](https://xuchen-ethz.github.io/gdna/)
-* 量化
-  * [Instance-Aware Dynamic Neural Network Quantization](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Instance-Aware_Dynamic_Neural_Network_Quantization_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/huaweinoah/Efficient-Computing)
-* 剪枝
-  * [When To Prune? A Policy Towards Early Structural Pruning](https://arxiv.org/abs/2110.12007)
-* 检索
-  * [COTS: Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval](https://arxiv.org/abs/2204.07441)
-* 分类
-  * [A Voxel Graph CNN for Object Classification with Event Cameras](https://arxiv.org/abs/2106.00216)
-* VL
-  * [DenseCLIP: Language-Guided Dense Prediction With Context-Aware Prompting](https://arxiv.org/abs/2112.01518)<br>:star:[code](https://github.com/raoyongming/DenseCLIP)
-* 黑盒
-  * [Exploring Effective Data for Surrogate Training Towards Black-Box Attack](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Exploring_Effective_Data_for_Surrogate_Training_Towards_Black-Box_Attack_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/xuxiangsun/ST-Data)
-* 数据集(用于空间-时间行动、社会团体和活动检测)
-  * [JRDB-Act: A Large-Scale Dataset for Spatio-Temporal Action, Social Group and Activity Detection](https://arxiv.org/pdf/2106.08827.pdf))<br>:sunflower:[dataset](https://jrdb.erc.monash.edu/)
-* Long-term action quality assessment
-  * [Likert Scoring With Grade Decoupling for Long-Term Action Assessment](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Likert_Scoring_With_Grade_Decoupling_for_Long-Term_Action_Assessment_CVPR_2022_paper.pdf)
-* 运动识别
-  * [Decoupling and Recoupling Spatiotemporal Representation for RGB-D-Based Motion Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Decoupling_and_Recoupling_Spatiotemporal_Representation_for_RGB-D-Based_Motion_Recognition_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/damo-cv/MotionRGBD)
-* 图像复制检测
-  * [A Self-Supervised Descriptor for Image Copy Detection](https://arxiv.org/abs/2202.10261)<br>:star:[code](https://github.com/facebookresearch/sscd-copy-detection)
+  * [BodyGAN: General-Purpose Controllable Neural Human Body Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_BodyGAN_General-Purpose_Controllable_Neural_Human_Body_Generation_CVPR_2022_paper.pdf)
+* 图像到图像翻译
+  * [Self-Supervised Dense Consistency Regularization for Image-to-Image Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ko_Self-Supervised_Dense_Consistency_Regularization_for_Image-to-Image_Translation_CVPR_2022_paper.pdf)
+* 图像压缩 
+  * [The Devil Is in the Details: Window-Based Attention for Image Compression](https://arxiv.org/abs/2203.08450)<br>:star:[code](https://github.com/Googolxx/STF)
+* HOI
+  * [Category-Aware Transformer Network for Better Human-Object Interaction Detection](https://arxiv.org/abs/2204.04911)
+* 深度 
+  * [Deep Depth From Focus With Differential Focus Volume](https://arxiv.org/abs/2112.01712)
+* 目标检测
+  * [Neural Volumetric Object Selection](https://arxiv.org/abs/2205.14929)<br>:house:[project](https://jason718.github.io/nvos/)
+  * [Confidence Propagation Cluster: Unleash Full Potential of Object Detectors](https://arxiv.org/abs/2112.00342)
+  * [Robust Region Feature Synthesizer for Zero-Shot Object Detection](https://arxiv.org/abs/2201.00103)<br>:star:[code](https://github.com/HPL123/RRFS)
+  * [Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/dlut-dimt/SegMaR)
 * 持续学习
-  * [DyTox: Transformers for Continual Learning With DYnamic TOken eXpansion](https://openaccess.thecvf.com/content/CVPR2022/papers/Douillard_DyTox_Transformers_for_Continual_Learning_With_DYnamic_TOken_eXpansion_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/arthurdouillard/dytox)
-* 运动预测
-  * [Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective](https://arxiv.org/abs/2111.14820)<br>:star:[code](https://github.com/vita-epfl/causalmotion)
-* 图像-文本匹配
-  * [Negative-Aware Attention Framework for Image-Text Matching](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Negative-Aware_Attention_Framework_for_Image-Text_Matching_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/CrossmodalGroup/NAAF)
-* 无监督
-  * [Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Gwilliam_Beyond_Supervised_vs._Unsupervised_Representative_Benchmarking_and_Analysis_of_Image_CVPR_2022_paper.pdf)
-* 增量学习
-  * [Few-Shot Incremental Learning for Label-to-Image Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.pdf)
-* CNN
-  * [An Image Patch Is a Wave: Phase-Aware Vision MLP](https://arxiv.org/abs/2111.12294)<br>:star:[code](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch)
-* 语音
-  * [Visual Acoustic Matching](https://arxiv.org/abs/2202.06875)<br>:open_mouth:oral:house:[project](https://vision.cs.utexas.edu/projects/visual-acoustic-matching/)
-* Transformer
-  * [Shunted Self-Attention via Multi-Scale Token Aggregation](https://arxiv.org/abs/2111.15193)<br>:open_mouth:oral:star:[code](https://github.com/OliverRensu/Shunted-Transformer)
+  * [GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning](https://arxiv.org/abs/2111.11210)<br>:house:[project](https://gradientcoreset.github.io/)
+* 点云
+  * [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)<br>:star:[code](https://github.com/ZrrSkywalker/PointCLIP)
+* 场景重建
+  * [NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2203.11283)<br>:star:[code](https://github.com/jetd1/NeRFusion):house:[project](https://jetd1.github.io/NeRFusion-Web/)
+* 人脸验证
+  * [DeepFace-EMD: Re-Ranking Using Patch-Wise Earth Mover's Distance Improves Out-of-Distribution Face Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_DeepFace-EMD_Re-Ranking_Using_Patch-Wise_Earth_Movers_Distance_Improves_Out-of-Distribution_Face_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/anguyen8/deepface-emd)
+* 人脸
+  * [General Facial Representation Learning in a Visual-Linguistic Manner](https://arxiv.org/abs/2112.03109)<br>:open_mouth:oral:star:[code](https://github.com/faceperceiver/farl)
+* 图像增强
+  * [Deep Color Consistent Network for Low-Light Image Enhancement](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Deep_Color_Consistent_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)
+* 变化检测
+  * [Dual Task Learning by Leveraging Both Dense Correspondence and Mis-Correspondence for Robust Change Detection With Imperfect Matches](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Dual_Task_Learning_by_Leveraging_Both_Dense_Correspondence_and_Mis-Correspondence_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/SAMMiCA/SimSaC)
+* 消除阴影
+  * [Bijective Mapping Network for Shadow Removal](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Bijective_Mapping_Network_for_Shadow_Removal_CVPR_2022_paper.pdf)
+* 动作检测
+  * [End-to-End Semi-Supervised Learning for Video Action Detection](https://arxiv.org/abs/2203.04251)<br>:star:[code](https://github.com/AKASH2907/pi-consistency-activity-detection)
+* 视觉识别
+  * [Causal Transportability for Visual Recognition](https://arxiv.org/abs/2204.12363)<br>:star:[code](https://github.com/cvlab-columbia/CT4Recognition)
+* 图像合成
+  * [Local Attention Pyramid for Scene Image Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Shim_Local_Attention_Pyramid_for_Scene_Image_Generation_CVPR_2022_paper.pdf)
+  * [Cluster-Guided Image Synthesis With Unconditional Models](https://arxiv.org/abs/2112.12911)
+* 人类运动预测
+  * [Multi-Objective Diverse Human Motion Prediction With Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Multi-Objective_Diverse_Human_Motion_Prediction_With_Knowledge_Distillation_CVPR_2022_paper.pdf)
+* 跟踪
+  * [GridShift: A Faster Mode-Seeking Algorithm for Image Segmentation and Object Tracking](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_GridShift_A_Faster_Mode-Seeking_Algorithm_for_Image_Segmentation_and_Object_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/abhisheka456/GridShift)
+* virtual correspondences
+  * [Virtual Correspondence: Humans as a Cue for Extreme-View Geometry](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Virtual_Correspondence_Humans_as_a_Cue_for_Extreme-View_Geometry_CVPR_2022_paper.pdf)<br>:house:[project](https://virtual-correspondence.github.io/)
+* 红外测量
+  * [Shape From Thermal Radiation: Passive Ranging Using Multi-Spectral LWIR Measurements](https://openaccess.thecvf.com/content/CVPR2022/papers/Nagase_Shape_From_Thermal_Radiation_Passive_Ranging_Using_Multi-Spectral_LWIR_Measurements_CVPR_2022_paper.pdf)
+* 分类
+  * [Multi-Label Classification With Partial Annotations Using Class-Aware Selective Loss](https://openaccess.thecvf.com/content/CVPR2022/papers/Ben-Baruch_Multi-Label_Classification_With_Partial_Annotations_Using_Class-Aware_Selective_Loss_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Alibaba-MIIL/PartialLabelingCSL)
+* 4D场景捕捉
+  * [HSC4D: Human-Centered 4D Scene Capture in Large-Scale Indoor-Outdoor Space Using Wearable IMUs and LiDAR](https://arxiv.org/abs/2203.09215)<br>:star:[code](https://github.com/climbingdaily/HSC4D):house:[project](http://www.lidarhumanmotion.net/hsc4d/)
+* CAD
+  * [CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CADTransformer_Panoptic_Symbol_Spotting_Transformer_for_CAD_Drawings_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/VITA-Group/CADTransformer)
+* 量化
+  * [IntraQ: Learning Synthetic Images With Intra-Class Heterogeneity for Zero-Shot Network Quantization](https://arxiv.org/abs/2111.09136)<br>:star:[code](https://github.com/zysxmu/IntraQ)
+* 视频编辑
+  * [M3L: Language-Based Video Editing via Multi-Modal Multi-Level Transformers](https://arxiv.org/abs/2104.01122)
+* 可变形头像
+  * [I M Avatar: Implicit Morphable Head Avatars From Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_I_M_Avatar_Implicit_Morphable_Head_Avatars_From_Videos_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/zhengyuf/IMavatar):house:[project](https://ait.ethz.ch/projects/2022/IMavatar/)
+* 度量学习
+  * [Weakly-Supervised Metric Learning With Cross-Module Communications for the Classification of Anterior Chamber Angle Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Weakly-Supervised_Metric_Learning_With_Cross-Module_Communications_for_the_Classification_of_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Jingqi-H/GCNet)
+* 活动预测
+  * [A Hybrid Egocentric Activity Anticipation Framework via Memory-Augmented Recurrent and One-Shot Representation Forecasting](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_Hybrid_Egocentric_Activity_Anticipation_Framework_via_Memory-Augmented_Recurrent_and_CVPR_2022_paper.pdf)
 * 医学
-  * [ImplicitAtlas: Learning Deformable Shape Templates in Medical Imaging](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_ImplicitAtlas_Learning_Deformable_Shape_Templates_in_Medical_Imaging_CVPR_2022_paper.pdf)
-* 图像压缩
-  * [Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression](https://arxiv.org/abs/2203.10897)<br>:star:[code](https://github.com/xiaosu-zhu/McQuic)
-* 照片风格化
-  * [3D Photo Stylization: Learning To Generate Stylized Novel Views From a Single Image](https://arxiv.org/abs/2112.00169)<br>:star:[code](https://github.com/fmu2/3d_photo_stylization):house:[project](https://pages.cs.wisc.edu/~fmu/style3d/)
+  * [Improving Segmentation of the Inferior Alveolar Nerve Through Deep Label Propagation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cipriano_Improving_Segmentation_of_the_Inferior_Alveolar_Nerve_Through_Deep_Label_CVPR_2022_paper.pdf)<br>:house:[project](https://ditto.ing.unimore.it/maxillo/)
+* SR
+  * [A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-Resolution](https://arxiv.org/abs/2203.09388)<br>:star:[code](https://github.com/mjq11302010044/TATT)
+* Visual Grounding
+  * [Multi-Modal Dynamic Graph Transformer for Visual Grounding](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Multi-Modal_Dynamic_Graph_Transformer_for_Visual_Grounding_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/iQua/M-DGT)
+* 点云
+  * [Geometric Transformer for Fast and Robust Point Cloud Registration](https://arxiv.org/abs/2202.06688)<br>:star:[code](https://github.com/qinzheng93/GeoTransformer)
+* 动作识别
+  * [Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition](https://arxiv.org/abs/2112.09690)<br>:house:[project](https://justimyhxu.github.io/projects/cmpl/)
 * 其它
-  *  [Co-domain Symmetry for Complex-Valued Deep Learning](https://arxiv.org/abs/2112.01525)
-  *  [DeepCurrents: Learning Implicit Representations of Shapes With Boundaries](https://arxiv.org/abs/2111.09383)
-  *  [Paramixer: Parameterizing Mixing Links in Sparse Factors Works Better Than Dot-Product Self-Attention](https://arxiv.org/abs/2204.10670)
-  *  [Continual Stereo Matching of Continuous Driving Scenes With Growing Architecture](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Continual_Stereo_Matching_of_Continuous_Driving_Scenes_With_Growing_Architecture_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/chzhang18/RAG)
-  *  [Cycle-Consistent Counterfactuals by Latent Transformations](https://arxiv.org/abs/2203.15064)
-  *  [FAM: Visual Explanations for the Feature Representations From Deep Convolutional Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_FAM_Visual_Explanations_for_the_Feature_Representations_From_Deep_Convolutional_CVPR_2022_paper.pdf)
-  *  [Local Texture Estimator for Implicit Representation Function](https://arxiv.org/abs/2111.08918)<br>:star:[code](https://github.com/jaewon-lee-b/lte)
-  *  [Degree-of-Linear-Polarization-Based Color Constancy](https://openaccess.thecvf.com/content/CVPR2022/papers/Ono_Degree-of-Linear-Polarization-Based_Color_Constancy_CVPR_2022_paper.pdf)
-  *  [Learning To Learn by Jointly Optimizing Neural Architecture and Weights](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Learning_To_Learn_by_Jointly_Optimizing_Neural_Architecture_and_Weights_CVPR_2022_paper.pdf)
-  *  [Discrete Time Convolution for Fast Event-Based Stereo](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Discrete_Time_Convolution_for_Fast_Event-Based_Stereo_CVPR_2022_paper.pdf)
+  * [A Sampling-Based Approach for Efficient Clustering in Large Datasets](https://arxiv.org/abs/2112.14793)<br>:star:[code](https://github.com/OOub/peregrine)
+  * [AdaSTE: An Adaptive Straight-Through Estimator To Train Binary Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Le_AdaSTE_An_Adaptive_Straight-Through_Estimator_To_Train_Binary_Neural_Networks_CVPR_2022_paper.pdf)
+  * [Pooling Revisited: Your Receptive Field Is Suboptimal](https://arxiv.org/abs/2205.15254)
+  * [Learning to Find Good Models in RANSAC](https://openaccess.thecvf.com/content/CVPR2022/papers/Barath_Learning_To_Find_Good_Models_in_RANSAC_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/danini/learning-good-models-in-ransac)
+  * [Image Disentanglement Autoencoder for Steganography Without Embedding](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Image_Disentanglement_Autoencoder_for_Steganography_Without_Embedding_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Lemok00/IDEAS)
+
+* 图像和文本之间的双向生成
+  * [L-Verse: Bidirectional Generation Between Image and Text](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_L-Verse_Bidirectional_Generation_Between_Image_and_Text_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/MinfengZhu/DM-GAN)
+* GAN
+  * [Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)<br>:star:[code](https://github.com/naver-ai/FSMR)
+* 时序动作定位
+  * [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/abs/2203.05114)<br>:star:[code](https://shibboleth.main.ad.rit.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1)
+* 渲染
+  * [Urban Radiance Fields](https://arxiv.org/abs/2111.14643)<br>:house:[project](https://urban-radiance-fields.github.io/)
+* 分割
+  * [Domain-Agnostic Prior for Transfer Semantic Segmentation](https://arxiv.org/abs/2204.02684)
+  * [Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf)
+  * [Sparse and Complete Latent Organization for Geospatial Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Sparse_and_Complete_Latent_Organization_for_Geospatial_Semantic_Segmentation_CVPR_2022_paper.pdf)
+  * [INS-Conv: Incremental Sparse Convolution for Online 3D Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_INS-Conv_Incremental_Sparse_Convolution_for_Online_3D_Segmentation_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/THU-luvision/INS-Conv)
+  * [ST++: Make Self-Training Work Better for Semi-Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_ST_Make_Self-Training_Work_Better_for_Semi-Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/LiheYoung/ST-PlusPlus)
+* 4D
+  * [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf)<br>:star:[code](https://ego4d-data.org/)
+* 医学
+  * [Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis](https://arxiv.org/abs/2111.14791)<br>:star:[code](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)
+  * [Robust Equivariant Imaging: A Fully Unsupervised Framework for Learning To Image From Noisy and Partial Measurements](https://arxiv.org/abs/2111.12855)<br>:star:[code](https://github.com/edongdongchen/REI)
+* 目标检测
+  * [Point-Level Region Contrast for Object Detection Pre-Training](https://arxiv.org/abs/2202.04639)<br>:open_mouth:oral
+* 点云
+  * [Upright-Net: Learning Upright Orientation for 3D Point Cloud](https://openaccess.thecvf.com/content/CVPR2022/papers/Pang_Upright-Net_Learning_Upright_Orientation_for_3D_Point_Cloud_CVPR_2022_paper.pdf)
+  * [Self-Supervised Global-Local Structure Modeling for Point Cloud Domain Adaptation With Reliable Voted Pseudo Labels](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Self-Supervised_Global-Local_Structure_Modeling_for_Point_Cloud_Domain_Adaptation_With_CVPR_2022_paper.pdf)
+* Mirror Detection
+  * [Learning Semantic Associations for Mirror Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Guan_Learning_Semantic_Associations_for_Mirror_Detection_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/guanhuankang/Learning-Semantic-Associations-for-Mirror-Detection)
+* 域泛化
+  * [Failure Modes of Domain Generalization Algorithms](https://arxiv.org/abs/2111.13733)
+  * [Geometric and Textural Augmentation for Domain Gap Reduction](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Geometric_and_Textural_Augmentation_for_Domain_Gap_Reduction_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/xch-liu/geom-tex-dg)
+* 数据集
+  * [DAD-3DHeads: A Large-Scale Dense, Accurate and Diverse Dataset for 3D Head Alignment From a Single Image](https://openaccess.thecvf.com/content/CVPR2022/papers/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.pdf)<br>:sunflower:[dataset](https://p.farm/research/dad-3dheads)<br>一个大规模的密集、准确和多样化的数据集，用于从单一图像中进行三维头部对准
+* Transformer
+  * [Fine-tuning Image Transformers using Learnable Memory](https://arxiv.org/abs/2203.15243)
+  * [Lite Vision Transformer With Enhanced Self-Attention](https://arxiv.org/abs/2112.10809)<br>:star:[code](https://github.com/Chenglin-Yang/LVT)
+* 类增量
+  * [vCLIMB: A Novel Video Class Incremental Learning Benchmark](https://arxiv.org/abs/2201.09381)<br>:open_mouth:oral:star:[code](https://github.com/ojedaf/vCLIMB_Benchmark):house:[project](https://vclimb.netlify.app/)
+* SGG
+  * [Not All Relations Are Equal: Mining Informative Labels for Scene Graph Generation](https://arxiv.org/abs/2111.13517)
+  * [SGTR: End-to-end Scene Graph Generation with Transformer](https://arxiv.org/abs/2112.12970)<br>:star:[code](https://github.com/Scarecrow0/SGTR)
+* 相机定位
+  * [Learning To Detect Scene Landmarks for Camera Localization](https://openaccess.thecvf.com/content/CVPR2022/papers/Do_Learning_To_Detect_Scene_Landmarks_for_Camera_Localization_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/microsoft/SceneLandmarkLocalization)
+* 双手重建
+  * [Interacting Attention Graph for Single Image Two-Hand Reconstruction](https://arxiv.org/abs/2203.09364)<br>:star:[code](https://github.com/Dw1010/IntagHand)
+* 数据集
+  * [Rope3D: The Roadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Rope3D_The_Roadside_Perception_Dataset_for_Autonomous_Driving_and_Monocular_CVPR_2022_paper.pdf)<br>:sunflower:[dataset](https://thudair.baai.ac.cn/rope)<br>用于自主驾驶和单眼3D物体检测任务的路边感知数据集
+* 视图合成
+  * [Boosting View Synthesis With Residual Transfer](https://openaccess.thecvf.com/content/CVPR2022/papers/Rong_Boosting_View_Synthesis_With_Residual_Transfer_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/facebookresearch/boosting_view_synth):house:[project](https://boosting-view-synth.github.io/)
+* 3D
+  * [Input-Level Inductive Biases for 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/papers/Yifan_Input-Level_Inductive_Biases_for_3D_Reconstruction_CVPR_2022_paper.pdf)
+* 图像恢复
+  * [Exploring and Evaluating Image Restoration Potential in Dynamic Scenes](https://arxiv.org/abs/2203.11754)<br>:star:[code](https://github.com/Justones/IRP)
+* VL
+  * [FashionVLP: Vision Language Transformer for Fashion Retrieval With Feedback](https://openaccess.thecvf.com/content/CVPR2022/papers/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/cshizhe/VLN-DUET):house:[project](https://cshizhe.github.io/projects/vln_duet.html)
+* Image Vectorization
+  * [Towards Layer-wise Image Vectorization](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Towards_Layer-Wise_Image_Vectorization_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization)
+* 轨迹预测
+  * [ScePT: Scene-Consistent, Policy-Based Trajectory Predictions for Planning](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_ScePT_Scene-Consistent_Policy-Based_Trajectory_Predictions_for_Planning_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/nvr-avg/ScePT)
+* 手语视频检索
+  * [Sign Language Video Retrieval With Free-Form Textual Queries](https://openaccess.thecvf.com/content/CVPR2022/papers/Duarte_Sign_Language_Video_Retrieval_With_Free-Form_Textual_Queries_CVPR_2022_paper.pdf)<br>:house:[project](https://imatge-upc.github.io/sl_retrieval/)
+* 人脸
+  * [Simulated Adversarial Testing of Face Recognition Models](https://arxiv.org/abs/2106.04569)
+* 目标定位
+  * [Spatial Commonsense Graph for Object Localisation in Partial Scenes](https://arxiv.org/abs/2203.05380)<br>:house:[project](https://fgiuliari.github.io/projects/SpatialCommonsenseGraph/)<br>:star:[code](https://github.com/IIT-PAVIS/SpatialCommonsenseGraph):house:[project](https://fgiuliari.github.io/projects/SpatialCommonsenseGraph/)
+* 对抗学习
+ * [NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning](https://arxiv.org/abs/2112.12785)
+* 对比学习
+  * [M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_M5Product_Self-Harmonized_Contrastive_Learning_for_E-Commercial_Multi-Modal_Pretraining_CVPR_2022_paper.pdf)<br>:sunflower:[dataset](https://xiaodongsuper.github.io/M5Product_dataset/)
+* 视频帧插值
+  * [ST-MFNet: A Spatio-Temporal Multi-Flow Network for Frame Interpolation](https://openaccess.thecvf.com/content/CVPR2022/papers/Danier_ST-MFNet_A_Spatio-Temporal_Multi-Flow_Network_for_Frame_Interpolation_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/danielism97/ST-MFNet)
+* MVS
+  * [Efficient Multi-View Stereo by Iterative Dynamic Cost Volume](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Efficient_Multi-View_Stereo_by_Iterative_Dynamic_Cost_Volume_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/bdwsq1996/Effi-MVS)
+* 动画
+  * [FLAG: Flow-Based 3D Avatar Generation From Sparse Observations](https://arxiv.org/abs/2203.05789)<br>:house:[project](https://microsoft.github.io/flag/)
+* SR
+  * [Texture-Based Error Analysis for Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2022/papers/Magid_Texture-Based_Error_Analysis_for_Image_Super-Resolution_CVPR_2022_paper.pdf)
+* 图像无损压缩
+  * [PILC: Practical Image Lossless Compression With an End-to-End GPU Oriented Neural Framework](https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_PILC_Practical_Image_Lossless_Compression_With_an_End-to-End_GPU_Oriented_CVPR_2022_paper.pdf)
+* 行动学习
+  * [Set-Supervised Action Learning in Procedural Task Videos via Pairwise Order Consistency](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Set-Supervised_Action_Learning_in_Procedural_Task_Videos_via_Pairwise_Order_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/ZijiaLewisLu/CVPR22-POC)
+* 目标检测
+  * [DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2203.08195)<br>:star:[code](https://github.com/tensorflow/lingvo/tree/master/lingvo/)
+* 其它
+  * [Contrastive Conditional Neural Processes](https://arxiv.org/abs/2203.03978)
+  * [Visual Vibration Tomography: Estimating Interior Material Properties From Monocular Video](https://arxiv.org/abs/2104.02735)<br>:open_mouth:oral:star:[code](https://github.com/berthyf96/visvib-tomography):house:[project](http://imaging.cms.caltech.edu/vvt/)
+  * [Scenic: A JAX Library for Computer Vision Research and Beyond](https://arxiv.org/abs/2110.11403)<br>:star:[code](https://github.com/google-research/scenic)
+  * [Calibrating Deep Neural Networks by Pairwise Constraints](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Calibrating_Deep_Neural_Networks_by_Pairwise_Constraints_CVPR_2022_paper.pdf)
+  * [Deep Saliency Prior for Reducing Visual Distraction](https://arxiv.org/abs/2109.01980)<br>:house:[project](https://deep-saliency-prior.github.io/)
+  * [Efficient Large-Scale Localization by Global Instance Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Efficient_Large-Scale_Localization_by_Global_Instance_Recognition_CVPR_2022_paper.pdf)
+  * [VisualHow: Multimodal Problem Solving](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_VisualHow_Multimodal_Problem_Solving_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/formidify/VisualHow)
+  * [Learning To Generate Line Drawings That Convey Geometry and Semantics](https://arxiv.org/abs/2203.12691)<br>:star:[code](https://github.com/carolineec/informative-drawings):house:[project](https://carolineec.github.io/informative_drawings/):tv:[video](https://carolineec.github.io/informative_drawings/#video)
+  * [On Guiding Visual Attention With Language Specification](https://arxiv.org/abs/2202.08926)<br>:star:[code](https://github.com/spetryk/GALS)
+  * [Learning To Align Sequential Actions in the Wild](https://arxiv.org/abs/2111.09301)<br>:star:[code](https://github.com/weizheliu/VAVA)
 
 ## 目录
 
@@ -269,6 +277,26 @@
   * [Decoupling and Recoupling Spatiotemporal Representation for RGB-D-Based Motion Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Decoupling_and_Recoupling_Spatiotemporal_Representation_for_RGB-D-Based_Motion_Recognition_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/damo-cv/MotionRGBD)
 * CNN
   * [An Image Patch Is a Wave: Phase-Aware Vision MLP](https://arxiv.org/abs/2111.12294)<br>:star:[code](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch)
+* 视觉识别
+  * [Causal Transportability for Visual Recognition](https://arxiv.org/abs/2204.12363)<br>:star:[code](https://github.com/cvlab-columbia/CT4Recognition)
+* virtual correspondences
+  * [Virtual Correspondence: Humans as a Cue for Extreme-View Geometry](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Virtual_Correspondence_Humans_as_a_Cue_for_Extreme-View_Geometry_CVPR_2022_paper.pdf)<br>:house:[project](https://virtual-correspondence.github.io/)
+* 红外测量
+  * [Shape From Thermal Radiation: Passive Ranging Using Multi-Spectral LWIR Measurements](https://openaccess.thecvf.com/content/CVPR2022/papers/Nagase_Shape_From_Thermal_Radiation_Passive_Ranging_Using_Multi-Spectral_LWIR_Measurements_CVPR_2022_paper.pdf)
+* 4D场景捕捉
+  * [HSC4D: Human-Centered 4D Scene Capture in Large-Scale Indoor-Outdoor Space Using Wearable IMUs and LiDAR](https://arxiv.org/abs/2203.09215)<br>:star:[code](https://github.com/climbingdaily/HSC4D):house:[project](http://www.lidarhumanmotion.net/hsc4d/)
+* 可变形头像
+  * [I M Avatar: Implicit Morphable Head Avatars From Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_I_M_Avatar_Implicit_Morphable_Head_Avatars_From_Videos_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/zhengyuf/IMavatar):house:[project](https://ait.ethz.ch/projects/2022/IMavatar/)
+* 活动预测
+  * [A Hybrid Egocentric Activity Anticipation Framework via Memory-Augmented Recurrent and One-Shot Representation Forecasting](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_Hybrid_Egocentric_Activity_Anticipation_Framework_via_Memory-Augmented_Recurrent_and_CVPR_2022_paper.pdf)
+* Mirror Detection
+  * [Learning Semantic Associations for Mirror Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Guan_Learning_Semantic_Associations_for_Mirror_Detection_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/guanhuankang/Learning-Semantic-Associations-for-Mirror-Detection)
+* 双手重建
+  * [Interacting Attention Graph for Single Image Two-Hand Reconstruction](https://arxiv.org/abs/2203.09364)<br>:star:[code](https://github.com/Dw1010/IntagHand)
+* Image Vectorization
+  * [Towards Layer-wise Image Vectorization](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Towards_Layer-Wise_Image_Vectorization_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization) 
+* 行动学习
+  * [Set-Supervised Action Learning in Procedural Task Videos via Pairwise Order Consistency](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Set-Supervised_Action_Learning_in_Procedural_Task_Videos_via_Pairwise_Order_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/ZijiaLewisLu/CVPR22-POC)
 
 
 ## Open-Set Recognition(开集识别)
@@ -300,7 +328,8 @@
 * [Neural Face Identification in a 2D Wireframe Projection of a Manifold Object](https://arxiv.org/abs/2203.04229)<br>:star:[code](https://github.com/manycore-research/faceformer)
 * [JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints](https://arxiv.org/abs/2111.12772)<br>:star:[code](https://github.com/AutodeskAILab/JoinABLe)
 * [ROCA: Robust CAD Model Retrieval and Alignment from a Single Image](https://openaccess.thecvf.com/content/CVPR2022/papers/Gumeli_ROCA_Robust_CAD_Model_Retrieval_and_Alignment_From_a_Single_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/cangumeli/ROCA)
-
+* [CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CADTransformer_Panoptic_Symbol_Spotting_Transformer_for_CAD_Drawings_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/VITA-Group/CADTransformer)
+ 
 ## Transfer Learning(迁移学习)
 * [Revisiting Learnable Affines for Batch Norm in Few-Shot Transfer Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Yazdanpanah_Revisiting_Learnable_Affines_for_Batch_Norm_in_Few-Shot_Transfer_Learning_CVPR_2022_paper.pdf)
 
@@ -322,6 +351,7 @@
 * [APES: Articulated Part Extraction From Sprite Sheets](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_APES_Articulated_Part_Extraction_From_Sprite_Sheets_CVPR_2022_paper.pdf)<br>:house:[project](https://zhan-xu.github.io/parts/)
 * [BANMo: Building Animatable 3D Neural Models From Many Casual Videos](https://arxiv.org/abs/2112.12761)<br>:open_mouth:oral:house:[project](https://banmo-www.github.io/)
 * [Neural Head Avatars From Monocular RGB Videos](https://arxiv.org/abs/2112.01554)<br>:star:[code](https://github.com/philgras/neural-head-avatars):house:[project](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)
+* [FLAG: Flow-Based 3D Avatar Generation From Sparse Observations](https://arxiv.org/abs/2203.05789)<br>:house:[project](https://microsoft.github.io/flag/)
 * 图像动画
   * [Thin-Plate Spline Motion Model for Image Animation](https://arxiv.org/abs/2203.14367)<br>:star:[code](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)
 * 人物动画
@@ -365,6 +395,7 @@
 * [BokehMe: When Neural Rendering Meets Classical Rendering](https://openaccess.thecvf.com/content/CVPR2022/papers/Peng_BokehMe_When_Neural_Rendering_Meets_Classical_Rendering_CVPR_2022_paper.pdf)<br>:open_mouth:oral:star:[code](https://github.com/JuewenPeng/BokehMe)
 * [Plenoxels: Radiance Fields Without Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Fridovich-Keil_Plenoxels_Radiance_Fields_Without_Neural_Networks_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/sxyu/svox2):house:[project](https://alexyu.net/plenoxels/)
 * [HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_HDR-NeRF_High_Dynamic_Range_Neural_Radiance_Fields_CVPR_2022_paper.pdf)
+* [Urban Radiance Fields](https://arxiv.org/abs/2111.14643)<br>:house:[project](https://urban-radiance-fields.github.io/)
  
 <a name="57"/>
 
@@ -411,6 +442,7 @@
 * [GeoNeRF: Generalizing NeRF with Geometry Priors](https://arxiv.org/abs/2111.13539)<br>:star:[code](https://www.idiap.ch/paper/geonerf):house:[project](https://www.idiap.ch/paper/geonerf/):tv:[video](https://www.youtube.com/watch?v=-jNBsG3IP54)
 * [FWD: R eal-Time Novel View Synthesis With Forward Warping and Depth](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_FWD_Real-Time_Novel_View_Synthesis_With_Forward_Warping_and_Depth_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Caoang327/fwd_code)
 * [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.pdf)
+* [Boosting View Synthesis With Residual Transfer](https://openaccess.thecvf.com/content/CVPR2022/papers/Rong_Boosting_View_Synthesis_With_Residual_Transfer_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/facebookresearch/boosting_view_synth):house:[project](https://boosting-view-synth.github.io/)
 * 视图连接
   * [Connecting the Complementary-View Videos: Joint Camera Identification and Subject Association](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Connecting_the_Complementary-View_Videos_Joint_Camera_Identification_and_Subject_Association_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/RuizeHan/DMHA)
 
@@ -427,6 +459,9 @@
 * [ZeroWaste Dataset: Towards Deformable Object Segmentation in Cluttered Scenes](https://arxiv.org/abs/2106.02740)<br>:star:[code](https://github.com/dbash/zerowaste/):house:[project](http://ai.bu.edu/zerowaste/)
 * [ETHSeg: An Amodel Instance Segmentation Network and a Real-World Dataset for X-Ray Waste Inspection](https://openaccess.thecvf.com/content/CVPR2022/papers/Qiu_ETHSeg_An_Amodel_Instance_Segmentation_Network_and_a_Real-World_Dataset_CVPR_2022_paper.pdf)<br>一个Amodel实例分割网络和一个用于X射线废物检查的真实数据集
 * [MAD: A Scalable Dataset for Language Grounding in Videos From Movie Audio Descriptions](https://openaccess.thecvf.com/content/CVPR2022/papers/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.pdf)<br>:sunflower:[dataset](https://github.com/Soldelli/MAD)<br>一个可扩展的数据集，用于从电影音频描述中获得视频的Language Grounding 
+* [DiLiGenT102: A Photometric Stereo Benchmark Dataset With Controlled Shape and Material Variation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_DiLiGenT102_A_Photometric_Stereo_Benchmark_Dataset_With_Controlled_Shape_and_CVPR_2022_paper.pdf)<br>:sunflower:[dataset](https://photometricstereo.github.io/)<br>具有受控形状和材料变化的光度测量立体基准数据集
+* [DAD-3DHeads: A Large-Scale Dense, Accurate and Diverse Dataset for 3D Head Alignment From a Single Image](https://openaccess.thecvf.com/content/CVPR2022/papers/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.pdf)<br>:sunflower:[dataset](https://p.farm/research/dad-3dheads)<br>一个大规模的密集、准确和多样化的数据集，用于从单一图像中进行三维头部对准
+* [Rope3D: The Roadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Rope3D_The_Roadside_Perception_Dataset_for_Autonomous_Driving_and_Monocular_CVPR_2022_paper.pdf)<br>:sunflower:[dataset](https://thudair.baai.ac.cn/rope)<br>用于自主驾驶和单眼3D物体检测任务的路边感知数据集
 * 卫星数据集
   * [DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation](https://arxiv.org/abs/2203.12560)
 * 动物行为理解数据集
@@ -464,6 +499,7 @@
 * [MotionAug: Augmentation With Physical Correction for Human Motion Prediction](https://arxiv.org/abs/2203.09116)<br>:star:[code](https://github.com/meaten/MotionAug)
 * [Future Transformer for Long-term Action Anticipation](https://arxiv.org/abs/2205.14022)<br>:star:[code](https://github.com/gongda0e/FUTR):house:[project](http://cvlab.postech.ac.kr/research/FUTR/)
 * [Weakly-Supervised Action Transition Learning for Stochastic Human Motion Prediction](https://arxiv.org/abs/2205.15608)<br>:star:[code](https://github.com/wei-mao-2019/WAT)
+* [Multi-Objective Diverse Human Motion Prediction With Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Multi-Objective_Diverse_Human_Motion_Prediction_With_Knowledge_Distillation_CVPR_2022_paper.pdf)
 
 
 <a name="51"/>
@@ -490,10 +526,13 @@
   * [Computing Wasserstein-p Distance Between Images With Linear Cost](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Computing_Wasserstein-p_Distance_Between_Images_With_Linear_Cost_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/ucascnic/CudaOT)
  * 光学
   * [Quantization-aware Deep Optics for Diffractive Snapshot Hyperspectral Imaging](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Quantization-Aware_Deep_Optics_for_Diffractive_Snapshot_Hyperspectral_Imaging_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/wang-lizhi/QuantizationAwareDeepOptics)
+  * [Dual-Shutter Optical Vibration Sensing](https://openaccess.thecvf.com/content/CVPR2022/papers/Sheinin_Dual-Shutter_Optical_Vibration_Sensing_CVPR_2022_paper.pdf)
 * 相机姿势
   * [Camera Pose Estimation Using Implicit Distortion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_Camera_Pose_Estimation_Using_Implicit_Distortion_Models_CVPR_2022_paper.pdf)
 * 相机成像
   * [Learning to Zoom Inside Camera Imaging Pipeline](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Learning_To_Zoom_Inside_Camera_Imaging_Pipeline_CVPR_2022_paper.pdf)<br>
+* 相机定位
+  * [Learning To Detect Scene Landmarks for Camera Localization](https://openaccess.thecvf.com/content/CVPR2022/papers/Do_Learning_To_Detect_Scene_Landmarks_for_Camera_Localization_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/microsoft/SceneLandmarkLocalization)
 
 <a name="50"/>
 
@@ -522,6 +561,7 @@
 * [Improving Visual Grounding with Visual-Linguistic Verification and Iterative Reasoning](https://arxiv.org/abs/2205.00272)<br>:star:[code](https://github.com/yangli18/VLTVG)<br>视觉定位，通过自然语言定位目标位置 （很有意思的研究）
 * [Shifting More Attention to Visual Backbone: Query-Modulated Refinement Networks for End-to-End Visual Grounding](https://arxiv.org/abs/2203.15442)<br>:star:[code](https://github.com/LukeForeverYoung/QRNet)   
 * [Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Pseudo-Q_Generating_Pseudo_Language_Queries_for_Visual_Grounding_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/LeapLabTHU/Pseudo-Q)
+* [Multi-Modal Dynamic Graph Transformer for Visual Grounding](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Multi-Modal_Dynamic_Graph_Transformer_for_Visual_Grounding_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/iQua/M-DGT)
 
 <a name="47"/>
 
@@ -557,6 +597,8 @@
   * [Unsupervised Domain Generalization by Learning a Bridge Across Domains](https://arxiv.org/abs/2112.02300)
   * [Style Neophile: Constantly Seeking Novel Styles for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Style_Neophile_Constantly_Seeking_Novel_Styles_for_Domain_Generalization_CVPR_2022_paper.pdf)<br>
   * [BoosterNet: Improving Domain Generalization of Deep Neural Nets Using Culpability-Ranked Features](https://openaccess.thecvf.com/content/CVPR2022/papers/Bayasi_BoosterNet_Improving_Domain_Generalization_of_Deep_Neural_Nets_Using_Culpability-Ranked_CVPR_2022_paper.pdf)
+  * [Failure Modes of Domain Generalization Algorithms](https://arxiv.org/abs/2111.13733)
+  * [Geometric and Textural Augmentation for Domain Gap Reduction](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Geometric_and_Textural_Augmentation_for_Domain_Gap_Reduction_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/xch-liu/geom-tex-dg)
   * 域外泛化
     * [The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization](https://arxiv.org/abs/2204.04384)
 * 域适应
@@ -588,6 +630,8 @@
 * [Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation](https://arxiv.org/abs/2203.09811)<br>:star:[code](https://github.com/dongxingning/SHA-GCL-for-SGG)
 * [Structured Sparse R-CNN for Direct Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Teng_Structured_Sparse_R-CNN_for_Direct_Scene_Graph_Generation_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/MCG-NJU/Structured-Sparse-RCNN)
 * [HL-Net: Heterophily Learning Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_HL-Net_Heterophily_Learning_Network_for_Scene_Graph_Generation_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/siml3/HL-Net)
+* [Not All Relations Are Equal: Mining Informative Labels for Scene Graph Generation](https://arxiv.org/abs/2111.13517)
+* [SGTR: End-to-end Scene Graph Generation with Transformer](https://arxiv.org/abs/2112.12970)<br>:star:[code](https://github.com/Scarecrow0/SGTR)
 * 视频场景图生成
   * [Classification-Then-Grounding: Reformulating Video Scene Graphs As Temporal Bipartite Graphs](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_Classification-Then-Grounding_Reformulating_Video_Scene_Graphs_As_Temporal_Bipartite_Graphs_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Dawn-LX/VidSGG-BIG)
 
@@ -624,6 +668,8 @@
 * [Hypergraph-Induced Semantic Tuplet Loss for Deep Metric Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Lim_Hypergraph-Induced_Semantic_Tuplet_Loss_for_Deep_Metric_Learning_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/ljin0429/HIST)
 * [Non-Isotropy Regularization for Proxy-Based Deep Metric Learning](https://arxiv.org/abs/2203.08547)<br>:star:[code](https://github.com/ExplainableML/NonIsotropicProxyDML)
 * [Hyperbolic Vision Transformers: Combining Improvements in Metric Learning](https://arxiv.org/abs/2203.10833)<br>:star:[code](https://github.com/htdt/hyp_metric)
+* [Enhancing Adversarial Robustness for Deep Metric Learning](https://arxiv.org/abs/2203.01439)
+* [Weakly-Supervised Metric Learning With Cross-Module Communications for the Classification of Anterior Chamber Angle Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Weakly-Supervised_Metric_Learning_With_Cross-Module_Communications_for_the_Classification_of_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Jingqi-H/GCNet)
 
 <a name="41"/>
 
@@ -643,6 +689,7 @@
   * [Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning](https://arxiv.org/abs/2203.06359)
   * [MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)
   * [Federated Class-Incremental Learning](https://arxiv.org/abs/2203.11473)<br>:star:[code](https://github.com/conditionWang/FCIL)
+  * [vCLIMB: A Novel Video Class Incremental Learning Benchmark](https://arxiv.org/abs/2201.09381)<br>:open_mouth:oral:star:[code](https://github.com/ojedaf/vCLIMB_Benchmark):house:[project](https://vclimb.netlify.app/)
 
 <a name="40"/>
 
@@ -664,6 +711,7 @@
 * [DTA: Physical Camouflage Attacks Using Differentiable Transformation Network](https://arxiv.org/abs/2203.09831)<br>:house:[project](https://islab-ai.github.io/dta-cvpr2022/)
 * [BppAttack: Stealthy and Efficient Trojan Attacks Against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning](https://arxiv.org/abs/2205.13383)<br>:star:[code](https://github.com/RU-System-Software-and-Security/BppAttack)
 * [Pyramid Adversarial Training Improves ViT Performance](https://arxiv.org/abs/2111.15121)<br>:house:[project](https://pyramidat.github.io/)
+* [NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning](https://arxiv.org/abs/2112.12785)
 * 对抗样本  
   * [Label-Only Model Inversion Attacks via Boundary Repulsion](https://arxiv.org/abs/2203.01925)
   * [Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection](https://arxiv.org/abs/2203.1220)<br>:star:[code](https://github.com/liangchen527/SLADD8)
@@ -696,13 +744,14 @@
 * [Meta-Attention for ViT-Backed Continual Learning](https://arxiv.org/abs/2203.11684)<br>:star:[code](https://github.com/zju-vipa/MEAT-TIL)
 * [Continual Learning with Lifelong Vision Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.pdf)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 * [DyTox: Transformers for Continual Learning With DYnamic TOken eXpansion](https://openaccess.thecvf.com/content/CVPR2022/papers/Douillard_DyTox_Transformers_for_Continual_Learning_With_DYnamic_TOken_eXpansion_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/arthurdouillard/dytox)
+* [GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning](https://arxiv.org/abs/2111.11210)<br>:house:[project](https://gradientcoreset.github.io/)
 
 <a name="38"/>
 
 ## 38.Meta-Learning(元学习)
 * [What Matters For Meta-Learning Vision Regression Tasks?](https://arxiv.org/abs/2203.04905)<br>:star:[code](https://github.com/boschresearch/what-matters-for-meta-learning)
 * [Multidimensional Belief Quantification for Label-Efficient Meta-Learning](https://arxiv.org/abs/2203.12768) 
-* [Dynamic Kernel Selection for Improved Generalization and Memory Efficiency in Meta-learning](https://arxiv.org/abs/2206.01690)
+* [Dynamic Kernel Selection for Improved Generalization and Memory Efficiency in Meta-learning](https://arxiv.org/abs/2206.01690)<br>:star:[code](https://github.com/transmuteAI/MetaDOCK)
 * [Learning to Learn and Remember Super Long Multi-Domain Task Sequence](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_To_Learn_and_Remember_Super_Long_Multi-Domain_Task_Sequence_CVPR_2022_paper.pdf)<br>:open_mouth:oral:star:[code](https://github.com/joey-wang123/SDML)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 
 <a name="37"/>
@@ -726,6 +775,7 @@
 * [Consistent Explanations by Contrastive Learning](https://arxiv.org/abs/2110.00527)<br>:star:[code](https://github.com/UCDvision/CGC)
 * [Rethinking Minimal Sufficient Representation in Contrastive Learning](https://arxiv.org/abs/2203.07004)<br>:star:[code](https://github.com/Haoqing-Wang/InfoCL)
 * [Contrastive Learning for Space-Time Correspondence via Self-Cycle Consistency](https://openaccess.thecvf.com/content/CVPR2022/papers/Son_Contrastive_Learning_for_Space-Time_Correspondence_via_Self-Cycle_Consistency_CVPR_2022_paper.pdf)
+* [M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_M5Product_Self-Harmonized_Contrastive_Learning_for_E-Commercial_Multi-Modal_Pretraining_CVPR_2022_paper.pdf)<br>:sunflower:[dataset](https://xiaodongsuper.github.io/M5Product_dataset/)
  
 
 <a name="36"/>
@@ -809,6 +859,7 @@
   * [Data-Free Network Compression via Parametric Non-Uniform Mixed Precision Quantization](https://openaccess.thecvf.com/content/CVPR2022/papers/Chikin_Data-Free_Network_Compression_via_Parametric_Non-Uniform_Mixed_Precision_Quantization_CVPR_2022_paper.pdf)
   * [Mutual Quantization for Cross-Modal Search With Noisy Labels](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Mutual_Quantization_for_Cross-Modal_Search_With_Noisy_Labels_CVPR_2022_paper.pdf)
   * [Instance-Aware Dynamic Neural Network Quantization](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Instance-Aware_Dynamic_Neural_Network_Quantization_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/huaweinoah/Efficient-Computing)
+  * [IntraQ: Learning Synthetic Images With Intra-Class Heterogeneity for Zero-Shot Network Quantization](https://arxiv.org/abs/2111.09136)<br>:star:[code](https://github.com/zysxmu/IntraQ)
 * 超参数优化
   * [AME: Attention and Memory Enhancement in Hyper-Parameter Optimization](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf)
 
@@ -832,6 +883,7 @@
 * [Bongard-HOI: Benchmarking Few-Shot Visual Reasoning for Human-Object Interactions](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Bongard-HOI_Benchmarking_Few-Shot_Visual_Reasoning_for_Human-Object_Interactions_CVPR_2022_paper.pdf)<br>:open_mouth:oral:star:[code](https://github.com/nvlabs/Bongard-HOI)  
 * [Efficient Two-Stage Detection of Human-Object Interactions With a Novel Unary-Pairwise Transformer](https://arxiv.org/abs/2112.01838)<br>:house:[project](https://fredzzhang.com/unary-pairwise-transformers)
 * [NeuralHOFusion: Neural Volumetric Rendering Under Human-Object Interactions](https://arxiv.org/abs/2202.12825)
+* [Category-Aware Transformer Network for Better Human-Object Interaction Detection](https://arxiv.org/abs/2204.04911)
 * HOI跟踪
   * [BEHAVE: Dataset and Method for Tracking Human Object Interactions](https://arxiv.org/abs/2204.06950)<br>:house:[project](http://virtualhumans.mpi-inf.mpg.de/behave/)
 
@@ -869,6 +921,7 @@
 * [NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks](https://openaccess.thecvf.com/content/CVPR2022/papers/Sammani_NLX-GPT_A_Model_for_Natural_Language_Explanations_in_Vision_and_CVPR_2022_paper.pdf)<br>:open_mouth:oral:star:[code](https://github.com/fawazsammani/nlxgpt)
 * [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/abs/2111.02387)<br>:star:[code](https://github.com/zdou0830/METER)
 * [DenseCLIP: Language-Guided Dense Prediction With Context-Aware Prompting](https://arxiv.org/abs/2112.01518)<br>:star:[code](https://github.com/raoyongming/DenseCLIP)
+* [FashionVLP: Vision Language Transformer for Fashion Retrieval With Feedback](https://openaccess.thecvf.com/content/CVPR2022/papers/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/cshizhe/VLN-DUET):house:[project](https://cshizhe.github.io/projects/vln_duet.html)
 * VLN
   * [EnvEdit: Environment Editing for Vision-and-Language Navigation](https://arxiv.org/abs/2203.15685)<br>:star:[code](https://github.com/jialuli-luka/EnvEdit)
   * [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation](https://arxiv.org/abs/2203.16586)<br>:star:[code](https://github.com/HanqingWangAI/CCC-VLN)
@@ -963,6 +1016,7 @@
 * [GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting](https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf)
 * 4D
   * [Revealing Occlusions with 4D Neural Fields](https://arxiv.org/abs/2204.10916)<br>:open_mouth:oral:star:[code](https://github.com/basilevh/occlusions-4d):house:[project](https://occlusions.cs.columbia.edu/)
+  * [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf)<br>:star:[code](https://ego4d-data.org/)
 * 9D
   * [CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild](https://arxiv.org/abs/2203.03089)<br>:star:[code](https://github.com/qq456cvb/CPPF):newspaper:[粗解](https://zhuanlan.zhihu.com/p/477624433)[:notebook:](https://news.sjtu.edu.cn/jdzh/20220330/169456.html)
 * 单目目标姿势估计
@@ -1037,6 +1091,7 @@
   * [Knowledge Mining with Scene Text for Fine-Grained Recognition](https://arxiv.org/abs/2203.14215)<br>:star:[code](https://github.com/lanfeng4659/KnowledgeMiningWithSceneText):newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
 * 多标签分类
   * [Large Loss Matters in Weakly Supervised Multi-Label Classification](https://arxiv.org/abs/2206.03740)<br>:star:[code](https://github.com/snucml/LargeLossMatters):house:[project](https://zhuanlan.zhihu.com/p/526268919)
+  * [Multi-Label Classification With Partial Annotations Using Class-Aware Selective Loss](https://openaccess.thecvf.com/content/CVPR2022/papers/Ben-Baruch_Multi-Label_Classification_With_Partial_Annotations_Using_Class-Aware_Selective_Loss_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Alibaba-MIIL/PartialLabelingCSL)
 * 类不平衡分类
   * [A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_A_Re-Balancing_Strategy_for_Class-Imbalanced_Classification_Based_on_Instance_Difficulty_CVPR_2022_paper.pdf)
 
@@ -1056,6 +1111,8 @@
 * [Reflash Dropout in Image Super-Resolution](http://arxiv.org/abs/2204.01446)
 * [GCFSR: A Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors](https://arxiv.org/abs/2203.07319)<br>:star:[code](https://github.com/hejingwenhejingwen/GCFSR)
 * [Learning the Degradation Distribution for Blind Image Super-Resolution](https://arxiv.org/abs/2203.04962)<br>:star:[code](https://github.com/greatlog/UnpairedSR)
+* [Texture-Based Error Analysis for Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2022/papers/Magid_Texture-Based_Error_Analysis_for_Image_Super-Resolution_CVPR_2022_paper.pdf)
+* [A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-Resolution](https://arxiv.org/abs/2203.09388)<br>:star:[code](https://github.com/mjq11302010044/TATT)
 * VSR
   * [Stable Long-Term Recurrent Video Super-Resolution](https://openaccess.thecvf.com/content/CVPR2022/papers/Chiche_Stable_Long-Term_Recurrent_Video_Super-Resolution_CVPR_2022_paper.pdf)
   * [Reference-based Video Super-Resolution Using Multi-Camera Video Triplets](https://arxiv.org/abs/2203.14537)<br>:star:[code](https://github.com/codeslake/RefVSR)
@@ -1088,7 +1145,9 @@
   * [Cross Modal Retrieval With Querybank Normalisation](https://arxiv.org/abs/2112.12777)<br>:star:[code](https://github.com/ioanacroi/qb-norm):house:[project](https://vladbogo.github.io/QB-Norm/)
   * [EI-CLIP: Entity-Aware Interventional Contrastive Learning for E-Commerce Cross-Modal Retrieval](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf)
   * [COTS: Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval](https://arxiv.org/abs/2204.07441)
-
+* 手语视频检索
+  * [Sign Language Video Retrieval With Free-Form Textual Queries](https://openaccess.thecvf.com/content/CVPR2022/papers/Duarte_Sign_Language_Video_Retrieval_With_Free-Form_Textual_Queries_CVPR_2022_paper.pdf)<br>:house:[project](https://imatge-upc.github.io/sl_retrieval/)
+ 
  
 <a name="22"/>
 
@@ -1098,19 +1157,14 @@
 * [GIRAFFE HD: A High-Resolution 3D-aware Generative Model](https://arxiv.org/abs/2203.14954)
 * [Arbitrary-Scale Image Synthesis](https://arxiv.org/abs/2204.02273)<br>:star:[code](https://github.com/vglsd/ScaleParty):newspaper:[粗解](https://zhuanlan.zhihu.com/p/493615566)
 * [Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis](https://arxiv.org/abs/2204.06160)<br>:star:[code](https://github.com/RenYurui/Neural-Texture-Extraction-Distribution):newspaper:[解读](https://zhuanlan.zhihu.com/p/498244289)
-* [Learning to Memorize Feature Hallucination for One-Shot Image Generation](https://drive.google.com/file/d/1Gq-167f2ue30463K4XMkHOJThg9Yugk0/view?usp=sharing)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
-* [StyleSwin: Transformer-Based GAN for High-Resolution Image Generation](https://arxiv.org/abs/2112.10762)<br>:star:[code](https://github.com/microsoft/StyleSwin)
 * [Neural Texture Extraction and Distribution for Controllable Person Image Synthesis](https://arxiv.org/abs/2204.06160)<br>:star:[code](https://github.com/RenYurui/Neural-Texture-Extraction-Distribution)
 * [Unpaired Cartoon Image Synthesis via Gated Cycle Mapping](https://openaccess.thecvf.com/content/CVPR2022/papers/Men_Unpaired_Cartoon_Image_Synthesis_via_Gated_Cycle_Mapping_CVPR_2022_paper.pdf)
-* [Global Context With Discrete Diffusion in Vector Quantised Modelling for Image Generation](https://arxiv.org/abs/2112.01799)
 * [3D Scene Painting via Semantic Image Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Jeong_3D_Scene_Painting_via_Semantic_Image_Synthesis_CVPR_2022_paper.pdf)
 * [3D-Aware Image Synthesis via Learning Structural and Textural Representations](https://arxiv.org/abs/2112.10759)<br>:star:[code](https://github.com/genforce/volumegan):house:[project](https://genforce.github.io/volumegan/):tv:[video](https://www.youtube.com/watch?v=p85TVGJBMFc)
 * [High-Resolution Image Synthesis With Latent Diffusion Models](https://arxiv.org/abs/2112.10752)<br>:star:[code](https://github.com/CompVis/latent-diffusion)
 * [Retrieval-Based Spatially Adaptive Normalization for Semantic Image Synthesis](https://arxiv.org/abs/2204.02854)<br>:star:[code](https://github.com/Shi-Yupeng/RESAIL-For-SIS)
 * [DPGEN: Differentially Private Generative Energy-Guided Network for Natural Image Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_DPGEN_Differentially_Private_Generative_Energy-Guided_Network_for_Natural_Image_Synthesis_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/chiamuyu/DPGEN)
-* [GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation](https://arxiv.org/abs/2112.08867)<br>:house:[project](https://yudeng.github.io/GRAM/)
-* [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200)
-* [Attribute Group Editing for Reliable Few-Shot Image Generation](https://arxiv.org/abs/2203.08422)<br>:star:[code](https://github.com/UniBester/AGE)
+* [Cluster-Guided Image Synthesis With Unconditional Models](https://arxiv.org/abs/2112.12911)
 * 文本引导的图像处理
   * [ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation](https://arxiv.org/abs/2204.04428)<br>:open_mouth:oral:house:[project](https://jawang19.github.io/manitrans/)
 * 姿势引导的图像合成
@@ -1129,6 +1183,13 @@
   * [OSSGAN: Open-Set Semi-Supervised Image Generation](https://arxiv.org/abs/2204.14249)<br>:star:[code](https://github.com/raven38/OSSGAN)
   * [A Closer Look at Few-shot Image Generation](https://arxiv.org/abs/2205.03805)
   * [Modeling Image Composition for Complex Scene Generation](https://arxiv.org/abs/2206.00923)<br>:star:[code](https://github.com/JohnDreamer/TwFA)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
+  * [Local Attention Pyramid for Scene Image Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Shim_Local_Attention_Pyramid_for_Scene_Image_Generation_CVPR_2022_paper.pdf)
+  * [GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation](https://arxiv.org/abs/2112.08867)<br>:house:[project](https://yudeng.github.io/GRAM/)
+  * [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200)
+  * [Attribute Group Editing for Reliable Few-Shot Image Generation](https://arxiv.org/abs/2203.08422)<br>:star:[code](https://github.com/UniBester/AGE)
+  * [Learning to Memorize Feature Hallucination for One-Shot Image Generation](https://drive.google.com/file/d/1Gq-167f2ue30463K4XMkHOJThg9Yugk0/view?usp=sharing)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
+  * [StyleSwin: Transformer-Based GAN for High-Resolution Image Generation](https://arxiv.org/abs/2112.10762)<br>:star:[code](https://github.com/microsoft/StyleSwin)
+  * [Global Context With Discrete Diffusion in Vector Quantised Modelling for Image Generation](https://arxiv.org/abs/2112.01799)
 * 图像到本文
   * [ZeroCap: Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic](https://arxiv.org/abs/2111.14447)<br>:star:[code](https://github.com/YoadTew/zero-shot-image-to-text)
 * 文本-形状生成
@@ -1141,6 +1202,8 @@
   * [Self-supervised Correlation Mining Network for Person Image Generation](https://arxiv.org/abs/2111.13307)
 * 图像-文本匹配
   * [Negative-Aware Attention Framework for Image-Text Matching](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Negative-Aware_Attention_Framework_for_Image-Text_Matching_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/CrossmodalGroup/NAAF)
+* 图像和文本之间的双向生成
+  * [L-Verse: Bidirectional Generation Between Image and Text](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_L-Verse_Bidirectional_Generation_Between_Image_and_Text_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/MinfengZhu/DM-GAN)
 
 <a name="21"/>
 
@@ -1193,6 +1256,7 @@
   * [M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_M2I_From_Factored_Marginal_Trajectory_Prediction_to_Interactive_Prediction_CVPR_2022_paper.pdf)
   * [GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning](https://arxiv.org/abs/2204.08770)<br>:star:[code](https://github.com/MediaBrain-SJTU/GroupNet)
   * [Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective](https://arxiv.org/abs/2111.14820)<br>:star:[code](https://github.com/vita-epfl/causalmotion)
+  * [ScePT: Scene-Consistent, Policy-Based Trajectory Predictions for Planning](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_ScePT_Scene-Consistent_Policy-Based_Trajectory_Predictions_for_Planning_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/nvr-avg/ScePT)
 * 车辆检测
   * [Modality-Agnostic Learning for Radar-Lidar Fusion in Vehicle Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Modality-Agnostic_Learning_for_Radar-Lidar_Fusion_in_Vehicle_Detection_CVPR_2022_paper.pdf)
 
@@ -1208,6 +1272,7 @@
 * [GreedyNASv2: Greedier Search With a Greedy Path Filter](https://arxiv.org/abs/2111.12609)
 * [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](https://arxiv.org/abs/2203.09137)<br>:star:[code](https://github.com/YiteWang/MetaNTK-NAS)
 * [Neural Architecture Search with Representation Mutual Information](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Neural_Architecture_Search_With_Representation_Mutual_Information_CVPR_2022_paper.pdf)<br>:star:[code](https://git.openi.org.cn/PCLAutoML/XNAS)
+* [Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?](https://arxiv.org/abs/2203.14577)br>:star:[code](https://github.com/nutellamok/DemystifyingNTK)
 
 <a name="18"/>
 
@@ -1216,7 +1281,7 @@
   * [Modeling 3D Layout for Group Re-Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Modeling_3D_Layout_for_Group_Re-Identification_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/LinlyAC/City1M-dataset)
 * Reid
   * [Part-based Pseudo Label Refinement for Unsupervised Person Re-identification](https://arxiv.org/abs/2203.14675)<br>:star:[code](https://github.com/yoonkicho/PPLR)
-  * [Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification](https://arxiv.org/abs/2203.15210)
+  * [Camera-Conditioned Stable Feature Generation for Isolated Camera Supervised Person Re-IDentification](https://arxiv.org/abs/2203.15210)<br>:star:[code](https://github.com/ftd-Wuchao/CCSFG)
   * [FMCNet: Feature-Level Modality Compensation for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_FMCNet_Feature-Level_Modality_Compensation_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf)
   * [Large-Scale Pre-training for Person Re-identification with Noisy Labels](https://arxiv.org/abs/2203.16533)<br>:star:[code](https://github.com/DengpanFu/LUPerson-NL)
   * [Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification](https://arxiv.org/abs/2204.02611)<br>:star:[code](https://github.com/Yanan-Wang-cs/ClonedPerson)
@@ -1261,6 +1326,7 @@
 * [Surpassing the Human Accuracy: Detecting Gallbladder Cancer from USG Images with Curriculum Learning](https://arxiv.org/abs/2204.11433)<br>:star:[code](https://github.com/sbasu276/GBCNet):house:[project](https://gbc-iitd.github.io/gbcnet)
 * [What Makes Transfer Learning Work for Medical Images: Feature Reuse & Other Factors](https://arxiv.org/abs/2203.01825)
 * [ImplicitAtlas: Learning Deformable Shape Templates in Medical Imaging](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_ImplicitAtlas_Learning_Deformable_Shape_Templates_in_Medical_Imaging_CVPR_2022_paper.pdf)
+* [Robust Equivariant Imaging: A Fully Unsupervised Framework for Learning To Image From Noisy and Partial Measurements](https://arxiv.org/abs/2111.12855)<br>:star:[code](https://github.com/edongdongchen/REI)
 * 3D生物打印
   * [Generating 3D Bio-Printable Patches Using Wound Segmentation and Reconstruction to Treat Diabetic Foot Ulcers](https://arxiv.org/abs/2203.03814)<br>利用伤口分割和重建生成3D生物打印贴片来治疗糖尿病足溃疡
 * SR（ＭRI）
@@ -1287,7 +1353,11 @@
   * [Recurrent Variational Network: A Deep Learning Inverse Problem Solver Applied to the Task of Accelerated MRI Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/papers/Yiasemis_Recurrent_Variational_Network_A_Deep_Learning_Inverse_Problem_Solver_Applied_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/NKI-AI/direct)
 * 组织病理学
   * [Cross-Patch Dense Contrastive Learning for Semi-Supervised Segmentation of Cellular Nuclei in Histopathologic Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Cross-Patch_Dense_Contrastive_Learning_for_Semi-Supervised_Segmentation_of_Cellular_Nuclei_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/zzw-szu/CDCL)
-  
+* 牙齿
+  * [Improving Segmentation of the Inferior Alveolar Nerve Through Deep Label Propagation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cipriano_Improving_Segmentation_of_the_Inferior_Alveolar_Nerve_Through_Deep_Label_CVPR_2022_paper.pdf)<br>:house:[project](https://ditto.ing.unimore.it/maxillo/)
+* 3D医学分析
+  * [Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis](https://arxiv.org/abs/2111.14791)<br>:star:[code](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)
+    
 <a name="16"/>
 
 ## 16.Semi/self-supervised learning(半/自监督)
@@ -1373,13 +1443,15 @@
 * [GradViT: Gradient Inversion of Vision Transformers](https://arxiv.org/abs/2203.11894)<br>:house:[project](https://gradvit.github.io/)
 * [CSWin Transformer: A General Vision Transformer Backbone With Cross-Shaped Windows](https://arxiv.org/abs/2107.00652)<br>:star:[code](https://github.com/microsoft/CSWin-Transformer)
 * [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://arxiv.org/abs/2112.01526)<br>:star:[code](https://github.com/facebookresearch/mvit)<br>:newspaper:[Meta&伯克利基于池化自注意力机制提出通用多尺度视觉Transformer，在ImageNet分类准确率达88.8%！开源](https://mp.weixin.qq.com/s/cfvDmALkPFvpXtHsUEX8zw)
-* [A-ViT: Adaptive Tokens for Efficient Vision Transformer](https://arxiv.org/pdf/2112.07658.pdf)<br>:open_mouth:oral<br>:newspaper:[不重要的token可以提前停止计算！英伟达提出自适应token的高效视觉Transformer网络A-ViT，提高模型的吞吐量！](https://mp.weixin.qq.com/s/uifaPmPc5CBQKgwffQPb3Q)
+* [A-ViT: Adaptive Tokens for Efficient Vision Transformer](https://arxiv.org/pdf/2112.07658.pdf)<br>:open_mouth:oral:house:[project](https://a-vit.github.io/)<br>:newspaper:[不重要的token可以提前停止计算！英伟达提出自适应token的高效视觉Transformer网络A-ViT，提高模型的吞吐量！](https://mp.weixin.qq.com/s/uifaPmPc5CBQKgwffQPb3Q)
 * [Certified Patch Robustness via Smoothed Vision Transformers](https://arxiv.org/abs/2110.07719)<br>:star:[code](https://github.com/MadryLab/smoothed-vit)
 * [The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy](https://arxiv.org/abs/2203.06345)<br>:star:[code](https://github.com/VITA-Group/Diverse-ViT)
 * [Bootstrapping ViTs: Towards Liberating Vision Transformers From Pre-Training](https://arxiv.org/abs/2112.03552)<br>:star:[code](https://github.com/zhfeing/Bootstrapping-ViTs-pytorch)
 * [Object-Region Video Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Herzig_Object-Region_Video_Transformers_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/roeiherz/ORViT):house:[project](https://roeiherz.github.io/ORViT/)
 * [Shunted Self-Attention via Multi-Scale Token Aggregation](https://arxiv.org/abs/2111.15193)<br>:open_mouth:oral:star:[code](https://github.com/OliverRensu/Shunted-Transformer)
 * [Towards Robust Vision Transformer](https://arxiv.org/abs/2105.07926)<br>:star:[code](https://github.com/alibaba/easyrobust)
+* [Fine-tuning Image Transformers using Learnable Memory](https://arxiv.org/abs/2203.15243)
+* [Lite Vision Transformer With Enhanced Self-Attention](https://arxiv.org/abs/2112.10809)<br>:star:[code](https://github.com/Chenglin-Yang/LVT)
 * 形状补全
   * [ShapeFormer: Transformer-based Shape Completion via Sparse Representation](https://arxiv.org/abs/2201.10326)<br>:star:[code](https://github.com/qheldiv/shapeformer):house:[project](https://shapeformer.github.io/)
 
@@ -1504,6 +1576,7 @@
   * [Video Frame Interpolation with Transformer](https://arxiv.org/abs/2205.07230)<br>:star:[code](https://github.com/dvlab-research/VFIformer)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/515672497)
   * [Video Frame Interpolation Transformer](https://arxiv.org/abs/2111.13817)<br>:star:[code](https://github.com/zhshi0816/Video-Frame-Interpolation-Transformer)
   * [Optimizing Video Prediction via Video Frame Interpolation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Optimizing_Video_Prediction_via_Video_Frame_Interpolation_CVPR_2022_paper.pdf)
+  * [ST-MFNet: A Spatio-Temporal Multi-Flow Network for Frame Interpolation](https://openaccess.thecvf.com/content/CVPR2022/papers/Danier_ST-MFNet_A_Spatio-Temporal_Multi-Flow_Network_for_Frame_Interpolation_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/danielism97/ST-MFNet)
 * 视频理解
   * [Revisiting the "Video" in Video-Language Understanding](https://arxiv.org/abs/2206.01714)<br>:open_mouth:oral:star:[code](https://stanfordvl.github.io/atp-revisit-video-lang/)
   * [Long-Short Temporal Contrastive Learning of Video Transformers](https://arxiv.org/abs/2106.09212)
@@ -1535,6 +1608,8 @@
   * [Weakly Supervised Temporal Sentence Grounding With Gaussian-Based Contrastive Proposal Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Weakly_Supervised_Temporal_Sentence_Grounding_With_Gaussian-Based_Contrastive_Proposal_Learning_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/minghangz/cpl)
 * 序列验证
   * [SVIP: Sequence VerIfication for Procedures in Videos](https://arxiv.org/abs/2112.06447)<br>:house:[project](https://svip-lab.github.io/dataset/CSV_dataset.html)
+* 视频编辑
+  * [M3L: Language-Based Video Editing via Multi-Modal Multi-Level Transformers](https://arxiv.org/abs/2104.01122)
 
 <a name="13"/>
 
@@ -1566,6 +1641,8 @@
 * [BigDatasetGAN: Synthesizing ImageNet With Pixel-Wise Annotations](https://arxiv.org/abs/2201.04684)<br>:star:[code](https://github.com/nv-tlabs/bigdatasetgan_code):house:[project](https://nv-tlabs.github.io/big-datasetgan/)
 * [High-Fidelity GAN Inversion for Image Attribute Editing](https://arxiv.org/abs/2109.06590)<br>:star:[code](https://github.com/Tengfei-Wang/HFGI):house:[project](https://tengfei-wang.github.io/HFGI/)
 * [Manifold Learning Benefits GANs](https://arxiv.org/abs/2112.12618)<br>:star:[code](https://github.com/MaxwellYaoNi/LCSAGAN)
+* [BodyGAN: General-Purpose Controllable Neural Human Body Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_BodyGAN_General-Purpose_Controllable_Neural_Human_Body_Generation_CVPR_2022_paper.pdf)
+* [Feature Statistics Mixing Regularization for Generative Adversarial Networks](https://arxiv.org/abs/2112.04120)<br>:star:[code](https://github.com/naver-ai/FSMR)
 * 图像篡改检测
   * [Proactive Image Manipulation Detection](https://arxiv.org/abs/2203.15880)<br>:star:[code](https://github.com/vishal3477/proactive_IMD)
 * 头发编辑
@@ -1581,6 +1658,7 @@
 * [Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/CR-Gjx/SCC):newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 * [Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation](https://arxiv.org/abs/2203.06321)
 * [QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_QS-Attn_Query-Selected_Attention_for_Contrastive_Learning_in_I2I_Translation_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/sapphire497/query-selected-attention)
+* [Self-Supervised Dense Consistency Regularization for Image-to-Image Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ko_Self-Supervised_Dense_Consistency_Regularization_for_Image-to-Image_Translation_CVPR_2022_paper.pdf)
 
 <a name="11"/>
 
@@ -1592,6 +1670,7 @@
 * [HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_HP-Capsule_Unsupervised_Face_Part_Discovery_by_Hierarchical_Parsing_Capsule_Network_CVPR_2022_paper.pdf)
 * [Learning To Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://arxiv.org/abs/2204.08451)<br>:star:[code](https://github.com/evonneng/learning2listen):house:[project](https://evonneng.github.io/learning2listen/)
 * [Estimating Structural Disparities for Face Models](https://arxiv.org/abs/2204.06562)
+* [General Facial Representation Learning in a Visual-Linguistic Manner](https://arxiv.org/abs/2112.03109)<br>:open_mouth:oral:star:[code](https://github.com/faceperceiver/farl)
 * Deepfake
   * [Voice-Face Homogeneity Tells Deepfake](https://arxiv.org/abs/2203.02195)<br>:star:[code](https://github.com/xaCheng1996/VFD):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
 * 妆容迁移
@@ -1602,6 +1681,7 @@
   * [AdaFace: Quality Adaptive Margin for Face Recognition](https://arxiv.org/abs/2204.00964)<br>:open_mouth:oral:star:[code](https://github.com/mk-minchul/AdaFace)
   * [Killing Two Birds With One Stone: Efficient and Robust Training of Face Recognition CNNs by Partial FC](https://arxiv.org/abs/2203.15565)<br>:star:[code](https://github.com/deepinsight/insightface/tree/master/recognition)
   * [Learning To Learn Across Diverse Data Biases in Deep Face Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Learning_To_Learn_Across_Diverse_Data_Biases_in_Deep_Face_CVPR_2022_paper.pdf)
+  * [Simulated Adversarial Testing of Face Recognition Models](https://arxiv.org/abs/2106.04569)
 * 人脸表情识别
   * [Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin](https://arxiv.org/abs/2203.12341)<br>:star:[code](https://github.com/hangyu94/Ada-CM)
   * [Multi-Dimensional, Nuanced and Subjective - Measuring the Perception of Facial Expressions](https://openaccess.thecvf.com/content/CVPR2022/papers/Bryant_Multi-Dimensional_Nuanced_and_Subjective_-_Measuring_the_Perception_of_Facial_CVPR_2022_paper.pdf)
@@ -1684,6 +1764,8 @@
   * [AnyFace: Free-Style Text-To-Face Synthesis and Manipulation](https://arxiv.org/abs/2203.15334)
 * 面部动作单元识别
   * [Knowledge-Driven Self-Supervised Representation Learning for Facial Action Unit Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_Knowledge-Driven_Self-Supervised_Representation_Learning_for_Facial_Action_Unit_Recognition_CVPR_2022_paper.pdf)
+* 人脸验证
+  * [DeepFace-EMD: Re-Ranking Using Patch-Wise Earth Mover's Distance Improves Out-of-Distribution Face Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_DeepFace-EMD_Re-Ranking_Using_Patch-Wise_Earth_Movers_Distance_Improves_Out-of-Distribution_Face_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/anguyen8/deepface-emd)
  
 <a name="10"/>
 
@@ -1730,6 +1812,7 @@
   * [Stereo Depth From Events Cameras: Concentrate and Focus on the Future](https://openaccess.thecvf.com/content/CVPR2022/papers/Nam_Stereo_Depth_From_Events_Cameras_Concentrate_and_Focus_on_the_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/yonseivnl/se-cff)
   * [Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light](https://arxiv.org/abs/2203.10493)<br>:star:[code](https://github.com/YuhuaXu/MonoStereoFusion)
   * [CroMo: Cross-Modal Learning for Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Verdie_CroMo_Cross-Modal_Learning_for_Monocular_Depth_Estimation_CVPR_2022_paper.pdf)
+  * [Deep Depth From Focus With Differential Focus Volume](https://arxiv.org/abs/2112.01712)
 * 房间布局
   * [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network](https://arxiv.org/abs/2203.01824)<br>:star:[code](https://github.com/zhigangjiang/LGT-Net):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * MVS
@@ -1739,6 +1822,7 @@
   * [IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo](https://arxiv.org/abs/2112.05126)<br>:star:[code] (https://github.com/FangjinhuaWang/IterMVS)
   * [Generalized Binary Search Network for Highly-Efficient Multi-View Stereo](https://arxiv.org/abs/2112.02338)<br>:star:[code](https://github.com/MiZhenxing/GBi-Net)
   * [Differentiable Stereopsis: Meshes From Multiple Views Using Differentiable Rendering](https://arxiv.org/abs/2110.05472)<br>:star:[code](https://github.com/shubham-goel/ds):house:[project](https://shubham-goel.github.io/ds/)
+  * [Efficient Multi-View Stereo by Iterative Dynamic Cost Volume](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Efficient_Multi-View_Stereo_by_Iterative_Dynamic_Cost_Volume_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/bdwsq1996/Effi-MVS)
   * MVPS
     * [Uncertainty-Aware Deep Multi-View Photometric Stereo](https://arxiv.org/abs/2202.13071)
 * 三维重建
@@ -1754,11 +1838,13 @@
   * [SPAMs: Structured Implicit Parametric Models](https://arxiv.org/abs/2201.08141)<br>:house:[project](https://pablopalafox.github.io/spams/):tv:[video](https://www.youtube.com/watch?v=ChdjHNGgrzI)
   * [Enhancing Face Recognition With Self-Supervised 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Enhancing_Face_Recognition_With_Self-Supervised_3D_Reconstruction_CVPR_2022_paper.pdf)
   * [Neural Fields As Learnable Kernels for 3D Reconstruction](https://arxiv.org/abs/2111.13674)<br>:house:[project](https://nv-tlabs.github.io/nkf/)
+  * [Input-Level Inductive Biases for 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/papers/Yifan_Input-Level_Inductive_Biases_for_3D_Reconstruction_CVPR_2022_paper.pdf)
   * 三维场景重建
     * [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/abs/2205.02836)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/manhattan_sdf):house:[project](https://zju3dv.github.io/manhattan_sdf/):tv:[video](https://youtu.be/oEE7mK0YQtc):newspaper:[解读](https://zhuanlan.zhihu.com/p/510007610)
     * [StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions](https://openaccess.thecvf.com/content/CVPR2022/papers/Hollein_StyleMesh_Style_Transfer_for_Indoor_3D_Scene_Reconstructions_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/lukasHoel/stylemesh):house:[project](https://lukashoel.github.io/stylemesh/):tv:[video](https://www.youtube.com/watch?v=ZqgiTLcNcks)
     * [PhotoScene: Photorealistic Material and Lighting Transfer for Indoor Scenes](https://openaccess.thecvf.com/content/CVPR2022/papers/Yeh_PhotoScene_Photorealistic_Material_and_Lighting_Transfer_for_Indoor_Scenes_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/ViLab-UCSD/photoscene)
     * [Look Outside the Room: Synthesizing a Consistent Long-Term 3D Scene Video From a Single Image](https://arxiv.org/abs/2203.09457)<br>:star:[code](https://github.com/xrenaa/Look-Outside-Room):house:[project](https://xrenaa.github.io/look-outside-room/)
+    * [NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2203.11283)<br>:star:[code](https://github.com/jetd1/NeRFusion):house:[project](https://jetd1.github.io/NeRFusion-Web/)
   * 手物重建
     * [Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution](https://arxiv.org/abs/2204.13062)
   * 三维服装网格重建
@@ -1767,7 +1853,7 @@
   * 三维网格重建
     * [Neural Template: Topology-aware Reconstruction and Disentangled Generation of 3D Meshes](https://arxiv.org/abs/2206.04942)<br>:star:[code](https://github.com/edward1997104/Neural-Template):newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
  * 三维形状重建
-    * [3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow](https://arxiv.org/abs/2203.15190)
+    * [3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow](https://arxiv.org/abs/2203.15190)<br>:star:[code](https://github.com/junshengzhou/3DAttriFlow)
     * [GIFS: Neural Implicit Function for General Shape Representation](https://arxiv.org/abs/2204.07126)<br>:house:[project](https://jianglongye.com/gifs/)
 * 三维服装变形
   * [SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/abs/2204.02219)<br>:open_mouth:oral:star:[code](https://github.com/isantesteban/snug)
@@ -1910,6 +1996,9 @@
   * [Revisiting Skeleton-Based Action Recognition](https://arxiv.org/abs/2104.13586)<br>:open_mouth:oral:star:[code](https://github.com/kennymckormick/pyskl)
   * [InfoGCN: Representation Learning for Human Skeleton-Based Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_InfoGCN_Representation_Learning_for_Human_Skeleton-Based_Action_Recognition_CVPR_2022_paper.pdf)
   * [E2(GO)MOTION: Motion Augmented Event Stream for Egocentric Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Plizzari_E2GOMOTION_Motion_Augmented_Event_Stream_for_Egocentric_Action_Recognition_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/EgocentricVision/N-EPIC-Kitchens)
+  * [End-to-End Semi-Supervised Learning for Video Action Detection](https://arxiv.org/abs/2203.04251)<br>:star:[code](https://github.com/AKASH2907/pi-consistency-activity-detection)
+  * 半监督动作识别
+    * [Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition](https://arxiv.org/abs/2112.09690)<br>:house:[project](https://justimyhxu.github.io/projects/cmpl/)
   * 零样本动作识别
     * [Cross-modal Representation Learning for Zero-shot Action Recognition](https://arxiv.org/abs/2205.01657)<br>:star:[code](https://github.com/microsoft/ResT)<br>零样本动作识别：跨模态表示学习
   * 小样本动作识别
@@ -1926,6 +2015,7 @@
   * [Structured Attention Composition for Temporal Action Localization](https://arxiv.org/abs/2205.09956)<br>:star:[code](https://github.com/VividLe/Online-Action-Detection)
   * [Learning To Refactor Action and Co-Occurrence Features for Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Learning_To_Refactor_Action_and_Co-Occurrence_Features_for_Temporal_Action_CVPR_2022_paper.pdf)
   * [Exploring Denoised Cross-Video Contrast for Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Exploring_Denoised_Cross-Video_Contrast_for_Weakly-Supervised_Temporal_Action_Localization_CVPR_2022_paper.pdf)
+  * [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/abs/2203.05114)<br>:star:[code](https://shibboleth.main.ad.rit.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1)
 * 重复动作计数
   * [TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting](https://arxiv.org/abs/2204.01018)<br>:open_mouth:oral:star:[code](https://github.com/SvipRepetitionCounting/TransRAC):house:[project](https://svip-lab.github.io/dataset/RepCount_dataset.html)
 * 组动作识别
@@ -1966,6 +2056,7 @@
 * [ZZ-Net: A Universal Rotation Equivariant Architecture for 2D Point Clouds](https://openaccess.thecvf.com/content/CVPR2022/papers/Bokman_ZZ-Net_A_Universal_Rotation_Equivariant_Architecture_for_2D_Point_Clouds_CVPR_2022_paper.pdf)
 * [3DAC: Learning Attribute Compression for Point Clouds](https://arxiv.org/abs/2203.09931)
 * [RCP: Recurrent Closest Point for Point Cloud](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_RCP_Recurrent_Closest_Point_for_Point_Cloud_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/gxd1994/RCP)
+* [Self-Supervised Global-Local Structure Modeling for Point Cloud Domain Adaptation With Reliable Voted Pseudo Labels](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Self-Supervised_Global-Local_Structure_Modeling_for_Point_Cloud_Domain_Adaptation_With_CVPR_2022_paper.pdf)
 * 3D 点云
   * [Point-BERT: Pre-Training 3D Point Cloud Transformers With Masked Point Modeling](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Point-BERT_Pre-Training_3D_Point_Cloud_Transformers_With_Masked_Point_Modeling_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/lulutang0608/Point-BERT)
   * [CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://arxiv.org/abs/2203.00680)<br>:star:[code](https://github.com/MohamedAfham/CrossPoint):newspaper:[粗解](https://zhuanlan.zhihu.com/p/474565863)<br>CrossPoint，一个用于 3D 点云表征学习的简单自监督学习框架。虽然该方法是在合成的三维物体数据集上训练的，但在下游任务中的实验结果，如三维物体分类和三维物体部分分割，在合成和真实世界的数据集中都证明了该方法在学习可迁移表征方面的有效性。
@@ -1975,6 +2066,7 @@
   * [3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_3DJCG_A_Unified_Framework_for_Joint_Dense_Captioning_and_Visual_CVPR_2022_paper.pdf)
   * [Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks With Implicit Gradients](https://arxiv.org/abs/2203.15245)<br>:house:[project](https://zhang-vislab.github.io/)
   * [Why Discard if You Can Recycle?: A Recycling Max Pooling Module for 3D Point Cloud Analysis](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Why_Discard_if_You_Can_Recycle_A_Recycling_Max_Pooling_CVPR_2022_paper.pdf)
+  * [Upright-Net: Learning Upright Orientation for 3D Point Cloud](https://openaccess.thecvf.com/content/CVPR2022/papers/Pang_Upright-Net_Learning_Upright_Orientation_for_3D_Point_Cloud_CVPR_2022_paper.pdf)
 * 3D点云分割
     * [Stratified Transformer for 3D Point Cloud Segmentation](https://arxiv.org/abs/2203.14508)<br>:star:[code](https://github.com/dvlab-research/Stratified-Transformer)
 * 点云分类
@@ -1984,6 +2076,7 @@
   * [Multi-Instance Point Cloud Registration by Efficient Correspondence Clustering](https://arxiv.org/abs/2111.14582)<br>:star:[code](https://github.com/SJTU-ViSYS/multi-instant-reg)
   * [Deterministic Point Cloud Registration via Novel Transformation Decomposition](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Deterministic_Point_Cloud_Registration_via_Novel_Transformation_Decomposition_CVPR_2022_paper.pdf)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
   * [SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_SC2-PCR_A_Second_Order_Spatial_Compatibility_for_Efficient_and_Robust_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/ZhiChen902/SC2-PCR)
+  * [Geometric Transformer for Fast and Robust Point Cloud Registration](https://arxiv.org/abs/2202.06688)<br>:star:[code](https://github.com/qinzheng93/GeoTransformer)
 * 点云补全
   * [Learning a Structured Latent Space for Unsupervised Point Cloud Completion](https://arxiv.org/abs/2203.15580) 
   * [Learning Local Displacements for Point Cloud Completion](https://arxiv.org/abs/2203.16600) 
@@ -1998,6 +2091,8 @@
   * [Lepard: Learning Partial Point Cloud Matching in Rigid and Deformable Scenes](https://arxiv.org/abs/2111.12591)<br>:star:[code](https://github.com/rabbityl/lepard)
 * 场景流估计
   * [RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds](https://arxiv.org/abs/2205.11028)
+* 点云理解
+  * [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)<br>:star:[code](https://github.com/ZrrSkywalker/PointCLIP)
 
 <a name="6"/>
 
@@ -2018,6 +2113,7 @@
 * [Correlation-Aware Deep Tracking](https://arxiv.org/abs/2203.01666)
 * [MixFormer: End-to-End Tracking With Iterative Mixed Attention](https://arxiv.org/abs/2203.11082)<br>:open_mouth:oral:star:[code](https://github.com/MCG-NJU/MixFormer)
 * [PTTR: Relational 3D Point Cloud Object Tracking With Transformer](http://arxiv.org/abs/2112.02857)<br>:star:[code](https://github.com/Jasonkks/PTTR)
+* [GridShift: A Faster Mode-Seeking Algorithm for Image Segmentation and Object Tracking](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_GridShift_A_Faster_Mode-Seeking_Algorithm_for_Image_Segmentation_and_Object_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/abhisheka456/GridShift)
 * 3D 目标跟踪
   * [Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2203.01730)<br>:star:[code](https://github.com/Ghostish/Open3DSOT):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
   * [Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects](https://arxiv.org/abs/2203.05334)<br>:star:[code](https://github.com/DLR-RM/3DObjectTracking)
@@ -2088,10 +2184,15 @@
 * [Simple Multi-dataset Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Simple_Multi-Dataset_Detection_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/xingyizhou/UniDet)
 * [ObjectFormer for Image Manipulation Detection and Localization](https://arxiv.org/abs/2203.14681)
 * [A Dual Weighting Label Assignment Scheme for Object Detection](https://arxiv.org/abs/2203.09730)<br>:star:[code](https://github.com/strongwolf/DW)
+* [Point-Level Region Contrast for Object Detection Pre-Training](https://arxiv.org/abs/2202.04639)<br>:open_mouth:oral
+* [Neural Volumetric Object Selection](https://arxiv.org/abs/2205.14929)<br>:house:[project](https://jason718.github.io/nvos/)
+* [Confidence Propagation Cluster: Unleash Full Potential of Object Detectors](https://arxiv.org/abs/2112.00342)
 * 小目标检测
   * [QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection](https://arxiv.org/abs/2103.09136)<br>:star:[code](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
   * [Interactive Multi-Class Tiny-Object Detection](https://arxiv.org/abs/2203.15266)<br>:star:[code](https://github.com/ChungYi347/Interactive-Multi-Class-Tiny-Object-Detection)
   * [ISNet: Shape Matters for Infrared Small Target Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/RuiZhang97/ISNe)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
+* 零样本目标检测
+  * [Robust Region Feature Synthesizer for Zero-Shot Object Detection](https://arxiv.org/abs/2201.00103)<br>:star:[code](https://github.com/HPL123/RRFS)
 * 小样本目标检测  
   * [Sylph: A Hypernetwork Framework for Incremental Few-shot Object Detection](https://arxiv.org/abs/2203.13903)
   * [Few-Shot Object Detection with Fully Cross-Transformer](https://arxiv.org/abs/2203.15021)
@@ -2102,6 +2203,7 @@
   * [Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization](https://arxiv.org/abs/2204.00220)
   * [Object Localization under Single Coarse Point Supervision](https://arxiv.org/abs/2203.09338)<br>:star:[code](https://github.com/ucas-vg/PointTinyBenchmark/)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
   * [CREAM: Weakly Supervised Object Localization via Class RE-Activation Mapping](https://arxiv.org/abs/2205.13922)<br>:star:[code](https://github.com/Jazzcharles/CREAM)
+  * [Spatial Commonsense Graph for Object Localisation in Partial Scenes](https://arxiv.org/abs/2203.05380)<br>:house:[project](https://fgiuliari.github.io/projects/SpatialCommonsenseGraph/)<br>:star:[code](https://github.com/IIT-PAVIS/SpatialCommonsenseGraph):house:[project](https://fgiuliari.github.io/projects/SpatialCommonsenseGraph/)
 * 3D目标检测
   * [A Versatile Multi-View Framework for LiDAR-based 3D Object Detection with Guidance from Panoptic Segmentation](https://arxiv.org/abs/2203.02133)
   * [Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection From Point Clouds](https://arxiv.org/abs/2203.10314)<br>:star:[code](https://github.com/skyhehe123/VoxSeT)
@@ -2134,10 +2236,12 @@
   * [RBGNet: Ray-Based Grouping for 3D Object Detection](https://arxiv.org/abs/2204.02251)<br>:star:[code](https://github.com/Haiyang-W/RBGNet)
   * [LIFT: Learning 4D LiDAR Image Fusion Transformer for 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_LIFT_Learning_4D_LiDAR_Image_Fusion_Transformer_for_3D_Object_CVPR_2022_paper.pdf)
   * [SS3D: Sparsely-Supervised 3D Object Detection From Point Cloud](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_SS3D_Sparsely-Supervised_3D_Object_Detection_From_Point_Cloud_CVPR_2022_paper.pdf)
+  * [DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2203.08195)<br>:star:[code](https://github.com/tensorflow/lingvo/tree/master/lingvo/)
 * 伪装目标检测
   * [Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection](https://arxiv.org/abs/2203.02688)<br>:star:[code](https://github.com/lartpang/ZoomNet)
   * [Detecting Camouflaged Object in Frequency Domain](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_Detecting_Camouflaged_Object_in_Frequency_Domain_CVPR_2022_paper.pdf)
   * [Implicit Motion Handling for Video Camouflaged Object Detection](https://arxiv.org/abs/2203.07363)<br>:house:[project](https://xueliancheng.github.io/SLT-Net-project/)
+  * [Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/dlut-dimt/SegMaR)
 * 全监督目标检测
   * [Omni-DETR: Omni-Supervised Object Detection with Transformers](https://arxiv.org/abs/2203.16089)<br>:star:[code](https://github.com/amazon-research/omni-detr)  
 * 自监督目标检测 
@@ -2203,6 +2307,8 @@
   * [SIGMA: Semantic-Complete Graph Matching for Domain Adaptive Object Detection](https://arxiv.org/abs/2203.06398)<br>:star:[code](https://github.com/CityU-AIM-Group/SIGMA)
 * 图像复制检测
   * [A Self-Supervised Descriptor for Image Copy Detection](https://arxiv.org/abs/2202.10261)<br>:star:[code](https://github.com/facebookresearch/sscd-copy-detection)
+* 变化检测
+  * [Dual Task Learning by Leveraging Both Dense Correspondence and Mis-Correspondence for Robust Change Detection With Imperfect Matches](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Dual_Task_Learning_by_Leveraging_Both_Dense_Correspondence_and_Mis-Correspondence_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/SAMMiCA/SimSaC)
   
 
 <a name="4"/>
@@ -2234,6 +2340,7 @@
   * [Deep Generalized Unfolding Networks for Image Restoration](https://arxiv.org/abs/2204.13348)<br>:star:[code](https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration)
   * [Self-Supervised Deep Image Restoration via Adaptive Stochastic Gradient Langevin Dynamics](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Self-Supervised_Deep_Image_Restoration_via_Adaptive_Stochastic_Gradient_Langevin_Dynamics_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Wang-weixi/restricted_sampling)
   * [All-in-One Image Restoration for Unknown Corruption](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_All-in-One_Image_Restoration_for_Unknown_Corruption_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)
+  * [Exploring and Evaluating Image Restoration Potential in Dynamic Scenes](https://arxiv.org/abs/2203.11754)<br>:star:[code](https://github.com/Justones/IRP)
 * 图像修复
   * [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867)<br>:star:[code](https://github.com/DQiaole/ZITS_inpainting):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475100003/)
   * [MAT: Mask-Aware Transformer for Large Hole Image Inpainting](https://arxiv.org/abs/2203.15270)<br>:star:[code](https://github.com/fenglinglwb/MAT)
@@ -2271,6 +2378,9 @@
   * [ELIC: Efficient Learned Image Compression With Unevenly Grouped Space-Channel Contextual Adaptive Coding](https://arxiv.org/abs/2203.10886)<br>:open_mouth:oral
   * [Deep Stereo Image Compression via Bi-Directional Coding](https://openaccess.thecvf.com/content/CVPR2022/papers/Lei_Deep_Stereo_Image_Compression_via_Bi-Directional_Coding_CVPR_2022_paper.pdf)
   * [Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression](https://arxiv.org/abs/2203.10897)<br>:star:[code](https://github.com/xiaosu-zhu/McQuic)
+  * [The Devil Is in the Details: Window-Based Attention for Image Compression](https://arxiv.org/abs/2203.08450)<br>:star:[code](https://github.com/Googolxx/STF)
+* 图像无损压缩
+  * [PILC: Practical Image Lossless Compression With an End-to-End GPU Oriented Neural Framework](https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_PILC_Practical_Image_Lossless_Compression_With_an_End-to-End_GPU_Oriented_CVPR_2022_paper.pdf)
 * 图像去噪
   * [CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image](https://arxiv.org/pdf/2203.13009.pdf)<br>:star:[code](https://github.com/Reyhanehne/CVF-SID_PyTorch)
   * [NAN: Noise-Aware NeRFs for Burst-Denoising](https://arxiv.org/abs/2204.04668) 
@@ -2292,6 +2402,7 @@
   * [Abandoning the Bayer-Filter To See in the Dark](https://arxiv.org/abs/2203.04042)<br>:star:[code](https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark)
   * [URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_URetinex-Net_Retinex-Based_Deep_Unfolding_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/AndersonYong/URetinex-Net)
   * [GIQE: Generic Image Quality Enhancement via Nth Order Iterative Degradation](https://openaccess.thecvf.com/content/CVPR2022/papers/Shyam_GIQE_Generic_Image_Quality_Enhancement_via_Nth_Order_Iterative_Degradation_CVPR_2022_paper.pdf)
+  * [Deep Color Consistent Network for Low-Light Image Enhancement](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Deep_Color_Consistent_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)
 * 图像和谐化
   * [SCS-Co: Self-Consistent Style Contrastive Learning for Image Harmonization](https://arxiv.org/abs/2204.13962)<br>:star:[code](https://github.com/YCHang686/SCS-Co-CVPR2022) 
   * [High-Resolution Image Harmonization via Collaborative Dual Transformations](https://arxiv.org/abs/2109.06671)<br>:star:[code](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization)
@@ -2335,6 +2446,8 @@
   * [Learning Multiple Adverse Weather Removal via Two-Stage Knowledge Learning and Multi-Contrastive Regularization: Toward a Unified Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal)
 * Image Outpainting
   * [InOut: Diverse Image Outpainting via GAN Inversion](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_InOut_Diverse_Image_Outpainting_via_GAN_Inversion_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/yccyenchicheng/InOut):house:[project](https://yccyenchicheng.github.io/InOut/)
+* 消除阴影
+  * [Bijective Mapping Network for Shadow Removal](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Bijective_Mapping_Network_for_Shadow_Removal_CVPR_2022_paper.pdf)
 
 <a name="2"/>
 
@@ -2370,7 +2483,7 @@
   * [Pointly-Supervised Instance Segmentation](https://arxiv.org/abs/2104.06404)<br>:open_mouth:oral:star:[code](https://github.com/facebookresearch/detectron2/tree/main/projects/PointSup):house:[project](https://bowenc0221.github.io/point-sup/)
   * [Instance Segmentation With Mask-Supervised Polygonal Boundary Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Lazarow_Instance_Segmentation_With_Mask-Supervised_Polygonal_Boundary_Transformers_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/mlpc-ucsd/BoundaryFormer)
   * 半监督实例分割
-    * [Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?](https://arxiv.org/abs/2203.13427)
+    * [Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?](https://arxiv.org/abs/2203.13427)<br>:star:[code](https://github.com/zhenyuw16/noisyboundaries)
   * 3D 实例分割
     * [SoftGroup for 3D Instance Segmentation on Point Clouds](https://arxiv.org/abs/2203.01509)<br>:star:[code](https://github.com/thangvubk/SoftGroup):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
   * 🐦️[FreeSOLO: Learning to Segment Objects without Annotations](https://arxiv.org/abs/2202.12181)<br>:star:[code](https://github.com/NVlabs/FreeSOLO)
@@ -2407,7 +2520,10 @@
   * [Incremental Learning in Semantic Segmentation From Image Labels](https://arxiv.org/abs/2112.01882)<br>:star:[code](https://github.com/fcdl94/WILSON)
   * [HybridCR: Weakly-Supervised 3D Point Cloud Semantic Segmentation via Hybrid Contrastive Regularization](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_HybridCR_Weakly-Supervised_3D_Point_Cloud_Semantic_Segmentation_via_Hybrid_Contrastive_CVPR_2022_paper.pdf)<br>:newspaper:[解读](https://mp.weixin.qq.com/s/FYn0S46OA6xraH9ofNIctw)
   * [ADeLA: Automatic Dense Labeling With Attention for Viewpoint Shift in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_ADeLA_Automatic_Dense_Labeling_With_Attention_for_Viewpoint_Shift_in_CVPR_2022_paper.pdf)
-  * 3D分割
+  * [Domain-Agnostic Prior for Transfer Semantic Segmentation](https://arxiv.org/abs/2204.02684)
+  * [Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf)
+  * [Sparse and Complete Latent Organization for Geospatial Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Sparse_and_Complete_Latent_Organization_for_Geospatial_Semantic_Segmentation_CVPR_2022_paper.pdf)
+  * 3D语义分割
     * [MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2204.12667)<br>:house:[project](https://www.nec-labs.com/~mas/MM-TTA/)
     * [Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation](https://arxiv.org/abs/2204.07548)<br>:open_mouth:oral:star:[code](https://github.com/drprojects/DeepViewAgg):newspaper:[解读](https://zhuanlan.zhihu.com/p/500351469)
   * 弱监督语义分割
@@ -2431,6 +2547,7 @@
     * [UCC: Uncertainty guided Cross-head Co-training for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2205.10334)
     * [Perturbed and Strict Mean Teachers for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2111.12903)<br>:star:[code](https://github.com/yyliu01/PS-MT)
     * [Unbiased Subclass Regularization for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2203.10026)<br>:star:[code](https://github.com/Dayan-Guan/USRN)
+    * [ST++: Make Self-Training Work Better for Semi-Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_ST_Make_Self-Training_Work_Better_for_Semi-Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/LiheYoung/ST-PlusPlus)
   * 域适应语义分割
     * [Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation](https://arxiv.org/pdf/2111.12940.pdf)<br>:star:[code](https://github.com/BIT-DA/RIPU)
     * [ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation](http://arxiv.org/abs/2203.06811)
@@ -2475,6 +2592,8 @@
   * [Learning Part Segmentation through Unsupervised Domain Adaptation from Synthetic Vehicles](https://arxiv.org/abs/2103.14098)<br>:house:[project](https://qliu24.github.io/udapart/)
 * 小样本分割
   * [GanOrCon: Are Generative Models Useful for Few-Shot Segmentation?](https://arxiv.org/abs/2112.00854)<br>:star:[code](https://github.com/oindrilasaha/GANorCON):house:[project](https://people.cs.umass.edu/~osaha/ganorcon/)
+* 3D分割
+  * [INS-Conv: Incremental Sparse Convolution for Online 3D Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_INS-Conv_Incremental_Sparse_Convolution_for_Online_3D_Segmentation_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/THU-luvision/INS-Conv)
 
 <a name="1"/>
 
@@ -2486,7 +2605,6 @@
 * [PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence](https://arxiv.org/abs/2203.01754)<br>:star:[code](https://github.com/zj-dong/pina):house:[project](https://zj-dong.github.io/pina/):tv:[video](https://www.youtube.com/watch?v=oGpKUuD54Qk):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
 * [LiT: Zero-Shot Transfer with Locked-image text Tuning](https://arxiv.org/abs/2111.07991)
 * [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531)<br>:star:[code](https://github.com/kaiwang960112/CAFE):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)
-* [Enhancing Adversarial Robustness for Deep Metric Learning](https://arxiv.org/abs/2203.01439)
 * [BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning](https://arxiv.org/abs/2203.01522)<br>:star:[code](https://github.com/zhihou7/BatchFormer):newspaper:[粗解](https://zhuanlan.zhihu.com/p/475067096)[:notebook:](https://mp.weixin.qq.com/s/lSY1is6Fmm6A0Db0Jxo4qg)
 * [ACVNet: Attention Concatenation Volume for Accurate and Efficient Stereo Matching](https://arxiv.org/abs/2203.02146)<br>:star:[code](https://github.com/gangweiX/ACVNet):newspaper:[粗解](https://zhuanlan.zhihu.com/p/476923554)
 * [Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values](https://arxiv.org/abs/2203.01993)<br>:star:[code](https://colab.research.google.com/drive/1Y4_pp5miLXCeGHkzg7wptTRviHiyViWB?usp=sharing)
@@ -2528,7 +2646,7 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [Pop-Out Motion: 3D-Aware Image Deformation via Learning the Shape Laplacian](https://arxiv.org/abs/2203.15235)
 * [Long-term Visual Map Sparsification with Heterogeneous GNN](https://arxiv.org/abs/2203.15182)
 * [Clean Implicit 3D Structure from Noisy 2D STEM Images](https://arxiv.org/abs/2203.15434)
-* [Equivariance Allows Handling Multiple Nuisance Variables When Analyzing Pooled Neuroimaging Datasets](https://arxiv.org/abs/2203.15234)
+* [Equivariance Allows Handling Multiple Nuisance Variables When Analyzing Pooled Neuroimaging Datasets](https://arxiv.org/abs/2203.15234)<br>:star:[code](https://github.com/vsingh-group/DatasetPooling)
 * [CaDeX: Learning Canonical Deformation Coordinate Space for Dynamic Surface Representation via Neural Homeomorphism](https://arxiv.org/abs/2203.16529)<br>:star:[code](https://github.com/JiahuiLei/CaDeX):house:[project](https://www.cis.upenn.edu/~leijh/projects/cadex/)
 * [Fast Light-Weight Near-Field Photometric Stereo](https://arxiv.org/abs/2203.16515)
 * [Fast, Accurate and Memory-Efficient Partial Permutation Synchronization](https://arxiv.org/abs/2203.16505)
@@ -2734,6 +2852,21 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 * [PNP: Robust Learning from Noisy Labels by Probabilistic Noise Prediction](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_PNP_Robust_Learning_From_Noisy_Labels_by_Probabilistic_Noise_Prediction_CVPR_2022_paper.pdf)
 * [Revisiting the Transferability of Supervised Pretraining: An MLP Perspective](https://arxiv.org/abs/2112.00496)
 * [PLAD: Learning To Infer Shape Programs With Pseudo-Labels and Approximate Distributions](https://arxiv.org/abs/2011.13045)<br>:star:[code](https://github.com/rkjones4/PLAD)
+* [Contrastive Conditional Neural Processes](https://arxiv.org/abs/2203.03978)
+* [Visual Vibration Tomography: Estimating Interior Material Properties From Monocular Video](https://arxiv.org/abs/2104.02735)<br>:open_mouth:oral:star:[code](https://github.com/berthyf96/visvib-tomography):house:[project](http://imaging.cms.caltech.edu/vvt/)
+* [Scenic: A JAX Library for Computer Vision Research and Beyond](https://arxiv.org/abs/2110.11403)<br>:star:[code](https://github.com/google-research/scenic)
+* [Calibrating Deep Neural Networks by Pairwise Constraints](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Calibrating_Deep_Neural_Networks_by_Pairwise_Constraints_CVPR_2022_paper.pdf)
+* [Deep Saliency Prior for Reducing Visual Distraction](https://arxiv.org/abs/2109.01980)<br>:house:[project](https://deep-saliency-prior.github.io/)
+* [Efficient Large-Scale Localization by Global Instance Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Efficient_Large-Scale_Localization_by_Global_Instance_Recognition_CVPR_2022_paper.pdf)
+* [VisualHow: Multimodal Problem Solving](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_VisualHow_Multimodal_Problem_Solving_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/formidify/VisualHow)
+* [Learning To Generate Line Drawings That Convey Geometry and Semantics](https://arxiv.org/abs/2203.12691)<br>:star:[code](https://github.com/carolineec/informative-drawings):house:[project](https://carolineec.github.io/informative_drawings/):tv:[video](https://carolineec.github.io/informative_drawings/#video)
+* [On Guiding Visual Attention With Language Specification](https://arxiv.org/abs/2202.08926)<br>:star:[code](https://github.com/spetryk/GALS)
+* [Learning To Align Sequential Actions in the Wild](https://arxiv.org/abs/2111.09301)<br>:star:[code](https://github.com/weizheliu/VAVA)
+* [A Sampling-Based Approach for Efficient Clustering in Large Datasets](https://arxiv.org/abs/2112.14793)<br>:star:[code](https://github.com/OOub/peregrine)
+* [AdaSTE: An Adaptive Straight-Through Estimator To Train Binary Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Le_AdaSTE_An_Adaptive_Straight-Through_Estimator_To_Train_Binary_Neural_Networks_CVPR_2022_paper.pdf)
+* [Pooling Revisited: Your Receptive Field Is Suboptimal](https://arxiv.org/abs/2205.15254)
+* [Learning to Find Good Models in RANSAC](https://openaccess.thecvf.com/content/CVPR2022/papers/Barath_Learning_To_Find_Good_Models_in_RANSAC_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/danini/learning-good-models-in-ransac)
+* [Image Disentanglement Autoencoder for Steganography Without Embedding](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Image_Disentanglement_Autoencoder_for_Steganography_Without_Embedding_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Lemok00/IDEAS)
 
 
 
