@@ -834,7 +834,8 @@
   * [MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2203.09138)<br>:star:[code](https://github.com/AndersonStra/MuKEA)
   * [Transform-Retrieve-Generate: Natural Language-Centric Outside-Knowledge Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_Transform-Retrieve-Generate_Natural_Language-Centric_Outside-Knowledge_Visual_Question_Answering_CVPR_2022_paper.pdf)
   * [LaTr: Layout-Aware Transformer for Scene-Text VQA](https://arxiv.org/abs/2112.12494)
-  * [WebQA: Multihop and Multimodal QA](https://arxiv.org/abs/2109.00590)* AVQA
+  * [WebQA: Multihop and Multimodal QA](https://arxiv.org/abs/2109.00590)
+* AVQA
   * [Learning to Answer Questions in Dynamic Audio-Visual Scenarios](https://arxiv.org/abs/2203.14072)<br>:open_mouth:oral:star:[code](https://github.com/GeWu-Lab/MUSIC-AVQA)<br>:newspaper:[CVPR 2022 Oral | 人大高瓴AI学院提出面向动态视音场景的问答学习任务](https://mp.weixin.qq.com/s/6rWjlkMK8G8aNA93RMFtRQ)
   * [Dual-Key Multimodal Backdoors for Visual Question Answering](https://arxiv.org/abs/2112.07668)<br>:star:[code](https://github.com/SRI-CSL/TrinityMultimodalTrojAI)
   * [Maintaining Reasoning Consistency in Compositional Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Jing_Maintaining_Reasoning_Consistency_in_Compositional_Visual_Question_Answering_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/jingchenchen/ReasoningConsistency-VQA)
@@ -1749,7 +1750,7 @@
   * [Multi-Frame Self-Supervised Depth with Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Guizilini_Multi-Frame_Self-Supervised_Depth_With_Transformers_CVPR_2022_paper.pdf)
   * [Exploiting Pseudo Labels in a Self-Supervised Learning Framework for Improved Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Petrovai_Exploiting_Pseudo_Labels_in_a_Self-Supervised_Learning_Framework_for_Improved_CVPR_2022_paper.pdf)
   * [Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation](https://arxiv.org/abs/2201.01501)<br>:star:[code](https://github.com/prstrive/UniMVSNet)
-  * [Multi-View Depth Estimation by Fusing Single-View Depth Probability With Multi-View Geometry](Multi-View Depth Estimation by Fusing Single-View Depth Probability With Multi-View Geometry)<br>:open_mouth:oral:star:[code](https://github.com/baegwangbin/MaGNet)
+  * [Multi-View Depth Estimation by Fusing Single-View Depth Probability With Multi-View Geometry](https://arxiv.org/abs/2112.08177)<br>:open_mouth:oral:star:[code](https://github.com/baegwangbin/MaGNet)
   * [Toward Practical Monocular Indoor Depth Estimation](https://arxiv.org/abs/2112.02306)
   * [Single-Stage 3D Geometry-Preserving Depth Estimation Model Training on Dataset Mixtures With Uncalibrated Stereo Data](https://openaccess.thecvf.com/content/CVPR2022/papers/Patakin_Single-Stage_3D_Geometry-Preserving_Depth_Estimation_Model_Training_on_Dataset_Mixtures_CVPR_2022_paper.pdf)
   * [Stereo Depth From Events Cameras: Concentrate and Focus on the Future](https://openaccess.thecvf.com/content/CVPR2022/papers/Nam_Stereo_Depth_From_Events_Cameras_Concentrate_and_Focus_on_the_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/yonseivnl/se-cff)
@@ -1763,7 +1764,7 @@
   * [RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo](https://arxiv.org/abs/2204.01320)
   * [TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers](https://arxiv.org/abs/2111.14600)<br>:star:[code](https://github.com/MegviiRobot/TransMVSNet):newspaper:[解读](https://mp.weixin.qq.com/s/kZue3ds348UXQI86xrwudQ)
   * [Non-parametric Depth Distribution Modelling based Depth Inference for Multi-view Stereo](https://arxiv.org/abs/2205.03783)<br>:star:[code](https://github.com/NVlabs/NP-CVP-MVSNet)
-  * [IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo](https://arxiv.org/abs/2112.05126)<br>:star:[code] (https://github.com/FangjinhuaWang/IterMVS)
+  * [IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo](https://arxiv.org/abs/2112.05126)<br>:star:[code](https://github.com/FangjinhuaWang/IterMVS)
   * [Generalized Binary Search Network for Highly-Efficient Multi-View Stereo](https://arxiv.org/abs/2112.02338)<br>:star:[code](https://github.com/MiZhenxing/GBi-Net)
   * [Differentiable Stereopsis: Meshes From Multiple Views Using Differentiable Rendering](https://arxiv.org/abs/2110.05472)<br>:star:[code](https://github.com/shubham-goel/ds):house:[project](https://shubham-goel.github.io/ds/)
   * [Efficient Multi-View Stereo by Iterative Dynamic Cost Volume](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Efficient_Multi-View_Stereo_by_Iterative_Dynamic_Cost_Volume_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/bdwsq1996/Effi-MVS)
@@ -1830,7 +1831,7 @@
 * 三维形状
   * [3D Shape Variational Autoencoder Latent Disentanglement via Mini-Batch Feature Swapping for Bodies and Faces](https://arxiv.org/abs/2111.12448)<br>:star:[code](https://github.com/simofoti/3DVAE-SwapDisentangled)
 * 神经三维内容生成
-  * [StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation](https://arxiv.org/abs/2112.11427):house:[project](https://github.com/royorel/StyleSDF)
+  * [StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation](https://arxiv.org/abs/2112.11427)<br>:house:[project](https://github.com/royorel/StyleSDF)
 * 深度补全
   * [RGB-Depth Fusion GAN for Indoor Depth Completion](https://arxiv.org/abs/2203.10856)
   * [GuideFormer: Transformers for Image Guided Depth Completion](https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf)
