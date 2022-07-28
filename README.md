@@ -160,7 +160,7 @@
 * [VALHALLA: Visual Hallucination for Machine Translation](https://arxiv.org/abs/2206.00100)<br>:house:[project](http://www.svcl.ucsd.edu/projects/valhalla/)
 
 ## Object Counting(目标计数)
-* [Rethinking Spatial Invariance of Convolutional Networks for Object Counting](https://arxiv.org/abs/2206.05253)<br>:star:[code](https://github.com/ZhengChang467/STIPHR](https://github.com/zhiqic/Rethinking-Counting)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
+* [Rethinking Spatial Invariance of Convolutional Networks for Object Counting](https://arxiv.org/abs/2206.05253)<br>:star:[code](https://github.com/zhiqic/Rethinking-Counting)<br>:newspaper:[解读](https://zhuanlan.zhihu.com/p/528028523)
 * [Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting](https://arxiv.org/abs/2203.08354)<br>:star:[code](https://github.com/flyinglynx/Bilinear-Matching-Network)
   
 ## computer-aided design (CAD)
@@ -1073,7 +1073,7 @@
   * [Text to Image Generation With Semantic-Spatial Aware GAN](https://arxiv.org/abs/2104.00567)<br>:star:[code](https://github.com/wtliao/text2image)
   * [Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://arxiv.org/abs/2111.14822)<br>:star:[code](https://github.com/cientgu/VQ-Diffusion)
 * 图像翻译
-  * [FlexIT: Towards Flexible Semantic Image Translation](https://arxiv.org/abs/2203.04705)<br>:star:[code](https://github.com/facebookresearch/SemanticImageTranslation/）
+  * [FlexIT: Towards Flexible Semantic Image Translation](https://arxiv.org/abs/2203.04705)<br>:star:[code](https://github.com/facebookresearch/SemanticImageTranslation/)
   * [A Style-aware Discriminator for Controllable Image Translation](https://arxiv.org/abs/2203.15375)
 * 图像生成
   * [Marginal Contrastive Correspondence for Guided Image Generation](https://arxiv.org/abs/2204.00442)<br>:open_mouth:oral
@@ -1172,7 +1172,7 @@
 * [GreedyNASv2: Greedier Search With a Greedy Path Filter](https://arxiv.org/abs/2111.12609)
 * [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](https://arxiv.org/abs/2203.09137)<br>:star:[code](https://github.com/YiteWang/MetaNTK-NAS)
 * [Neural Architecture Search with Representation Mutual Information](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Neural_Architecture_Search_With_Representation_Mutual_Information_CVPR_2022_paper.pdf)<br>:star:[code](https://git.openi.org.cn/PCLAutoML/XNAS)
-* [Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?](https://arxiv.org/abs/2203.14577)br>:star:[code](https://github.com/nutellamok/DemystifyingNTK)
+* [Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?](https://arxiv.org/abs/2203.14577)<br>:star:[code](https://github.com/nutellamok/DemystifyingNTK)
 * [b-DARTS: Beta-Decay Regularization for Differentiable Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_b-DARTS_Beta-Decay_Regularization_for_Differentiable_Architecture_Search_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Sunshine-Ye/Beta-DARTS)
 * [Shapley-NAS: Discovering Operation Contribution for Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2022/papers/Xiao_Shapley-NAS_Discovering_Operation_Contribution_for_Neural_Architecture_Search_CVPR_2022_paper.pdf)<br>:star:[code](https://github.com/Euphoria16/Shapley-NAS)
 
@@ -2495,7 +2495,7 @@
   * 小样本分割
     * [iFS-RCNN: An Incremental Few-Shot Instance Segmenter](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_iFS-RCNN_An_Incremental_Few-Shot_Instance_Segmenter_CVPR_2022_paper.pdf)
 * 语义分割
-  * [Generalized Few-Shot Semantic Segmentation](https://arxiv.org/abs/2010.05210)<br>:star:[code]([https://github.com/XinyuLyu/FGPL](https://github.com/dvlab-research/GFS-Seg)
+  * [Generalized Few-Shot Semantic Segmentation](https://arxiv.org/abs/2010.05210)<br>:star:[code](https://github.com/dvlab-research/GFS-Seg)
   * [Scribble-Supervised LiDAR Semantic Segmentation](https://arxiv.org/abs/2203.08537)<br>:open_mouth:oral:star:[code](https://github.com/ouenal/scribblekitti)
   * [Novel Class Discovery in Semantic Segmentation](https://arxiv.org/abs/2112.01900)<br>:star:[code](https://github.com/HeliosZhao/NCDSS):house:[project](https://ncdss.github.io/)
   * [Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://arxiv.org/abs/2111.01236)<br>:star:[code](https://github.com/facebookresearch/HRViT)
